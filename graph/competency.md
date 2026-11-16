@@ -70,7 +70,6 @@ _Which written articles does nothing else in the graph point to (after inference
 
 | node |
 |---|
-| `bg:biblical-canon` |
 | `bg:reading-in-context` |
 | `bg:the-exodus` |
 
@@ -78,7 +77,9 @@ _Which written articles does nothing else in the graph point to (after inference
 
 _Which doctrines, methods and practices does each Christian (or Jewish) tradition teach or emphasise?_ — `queries/09-views-by-tradition.rq`
 
-_No results._
+| tradition | teaching |
+|---|---|
+| `bg:eastern-orthodoxy` | `bg:septuagint` |
 
 ## Promise and fulfilment
 

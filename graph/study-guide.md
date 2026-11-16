@@ -125,6 +125,18 @@ Study questions:
 - What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?
 - Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?
 
+## manuscripts-translations-and-archaeology
+
+### [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) — Translation
+
+Read: Psalm 40:6; Hebrews 10:5-7; Amos 9:12; Acts 15:17
+
+Study questions:
+- Compare Psalm 40:6 in an English Bible with Hebrews 10:5. What does each say God prepared, and why might they differ?
+- In Acts 15:17, how does James's quotation of Amos 9:12 support welcoming Gentiles, and how does the Hebrew wording of Amos read?
+- Why do you think the apostles were content to quote Scripture in a translation their hearers could understand?
+- How might knowing about the Septuagint help you talk graciously with a Christian whose Old Testament has more books than yours?
+
 ## new-testament-books
 
 ### [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) — Book

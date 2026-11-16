@@ -787,6 +787,59 @@
 <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:1-8" .
 <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#occurredDuring> <https://github.com/john1hsu/bible-graph/id/second-temple-period> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Psalm 40:6 in an English Bible with Hebrews 10:5. What does each say God prepared, and why might they differ?" .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Acts 15:17, how does James's quotation of Amos 9:12 support welcoming Gentiles, and how does the Hebrew wording of Amos read?" .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why do you think the apostles were content to quote Scripture in a translation their hearers could understand?" .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "How might knowing about the Septuagint help you talk graciously with a Christian whose Old Testament has more books than yours?" .
+<https://github.com/john1hsu/bible-graph/id/septuagint/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Translation> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2000/01/rdf-schema#label> "Septuagint" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#altLabel> "Greek Old Testament" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#altLabel> "LXX" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#altLabel> "Old Greek version" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#altLabel> "the Seventy" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#definition> "The ancient Greek translation of Israel's Scriptures, begun with the Pentateuch in Egypt in the third century BC; it was the Bible of Greek-speaking Jews and of the first Christians, is quoted throughout the New Testament, and remains the Old Testament of the Orthodox Church." .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#prefLabel> "Septuagint" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/vulgate> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#domain> "manuscripts-translations-and-archaeology" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/manuscripts-translations-and-archaeology/septuagint.md" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:17" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Amos 9:12" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 10:5-7" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 40:6" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?" .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -1700,6 +1753,78 @@
 <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <https://schema.org/url> <https://rsc.byu.edu/new-testament-history-culture-society/between-testaments> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <http://purl.org/dc/terms/publisher> "American Carpatho-Russian Orthodox Diocese of North America" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <http://purl.org/dc/terms/title> "The Septuagint (Fr. Lawrence Barriger)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s10> <https://schema.org/url> <https://acrod.org/orthodox-christianity/articles/scripture/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <http://purl.org/dc/terms/publisher> "IntraText" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <http://purl.org/dc/terms/title> "Second Vatican Council, Dei Verbum (Dogmatic Constitution on Divine Revelation), §22" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s11> <https://schema.org/url> <https://www.intratext.com/IXT/ENG0037/_P7.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <http://purl.org/dc/terms/publisher> "Blue Letter Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s12> <https://schema.org/url> <https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <http://purl.org/dc/terms/title> "What Is the Septuagint?" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s1> <https://schema.org/url> <https://www.bibleodyssey.com/articles/what-is-the-septuagint/> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <http://purl.org/dc/terms/title> "Following the Footnotes: The Septuagint (Chris Fresch)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s2> <https://schema.org/url> <https://tyndale.cam.ac.uk/explore/articles/the-septuagint/> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <http://purl.org/dc/terms/title> "Septuagint (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s3> <https://schema.org/url> <https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Septuagint> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <http://purl.org/dc/terms/title> "Aristeas, Letter of (Jewish Encyclopedia, K. Kohler and P. Wendland)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s4> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of.html> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <http://purl.org/dc/terms/publisher> "International Organization for Septuagint and Cognate Studies / Göttingen Septuaginta-Unternehmen" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <http://purl.org/dc/terms/title> "Sirach, Prologue (New English Translation of the Septuagint, trans. Benjamin G. Wright)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s5> <https://schema.org/url> <https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <http://purl.org/dc/terms/title> "Psalm 40:6 (World English Bible, KJV, Brenton Septuagint and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s6> <https://schema.org/url> <https://biblehub.com/parallel/psalms/40-6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <http://purl.org/dc/terms/title> "Hebrews 10:5-7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/hebrews/10-5.html> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <http://purl.org/dc/terms/title> "Amos 9:12 (World English Bible, KJV, Brenton Septuagint and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s8> <https://schema.org/url> <https://biblehub.com/parallel/amos/9-12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <http://purl.org/dc/terms/title> "Acts 15:17 (World English Bible, with Ellicott's Commentary)" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/septuagint/s9> <https://schema.org/url> <https://biblehub.com/acts/15-17.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/title> "The Antiphons (The Orthodox Faith, Vol. II, Worship)" .

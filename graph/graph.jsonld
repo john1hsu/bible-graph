@@ -1337,6 +1337,109 @@
    ]
   },
   {
+   "@id": "bg:septuagint",
+   "@type": "bgo:Translation",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:contrastsWith": {
+    "@id": "bg:masoretic-text"
+   },
+   "bgo:domain": "manuscripts-translations-and-archaeology",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/manuscripts-translations-and-archaeology/septuagint.md",
+   "bgo:heldBy": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "bgo:keyReference": [
+    "Acts 15:17",
+    "Amos 9:12",
+    "Hebrews 10:5-7",
+    "Psalm 40:6"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:textual-criticism"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s9"
+    }
+   ],
+   "rdfs:label": "Septuagint",
+   "skos:altLabel": [
+    "Greek Old Testament",
+    "LXX",
+    "Old Greek version",
+    "the Seventy"
+   ],
+   "skos:broader": {
+    "@id": "bg:old-testament"
+   },
+   "skos:definition": "The ancient Greek translation of Israel's Scriptures, begun with the Pentateuch in Egypt in the third century BC; it was the Bible of Greek-speaking Jews and of the first Christians, is quoted throughout the New Testament, and remains the Old Testament of the Orthodox Church.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology"
+   },
+   "skos:prefLabel": "Septuagint",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:dead-sea-scrolls"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:letter-of-aristeas"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:vulgate"
+    }
+   ]
+  },
+  {
    "@id": "bg:sermon-on-the-mount",
    "@type": "bgo:Passage",
    "bgo:basis": "varies-by-tradition",
@@ -2148,6 +2251,38 @@
     "@id": "bg:second-temple-judaism"
    },
    "rdfs:label": "Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/septuagint/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:septuagint"
+   },
+   "rdfs:label": "Compare Psalm 40:6 in an English Bible with Hebrews 10:5. What does each say God prepared, and why might they differ?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/septuagint/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:septuagint"
+   },
+   "rdfs:label": "In Acts 15:17, how does James's quotation of Amos 9:12 support welcoming Gentiles, and how does the Hebrew wording of Amos read?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/septuagint/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:septuagint"
+   },
+   "rdfs:label": "Why do you think the apostles were content to quote Scripture in a translation their hearers could understand?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/septuagint/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:septuagint"
+   },
+   "rdfs:label": "How might knowing about the Septuagint help you talk graciously with a Christian whose Old Testament has more books than yours?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1",
@@ -4181,6 +4316,174 @@
    "dcterms:title": "Between the Testaments: The History of Judea Between the Testaments of the Bible (Joshua M. Matson, in New Testament History, Culture, and Society, 2019)",
    "schema:url": {
     "@id": "https://rsc.byu.edu/new-testament-history-culture-society/between-testaments"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "What Is the Septuagint?",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.com/articles/what-is-the-septuagint/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "American Carpatho-Russian Orthodox Diocese of North America",
+   "dcterms:title": "The Septuagint (Fr. Lawrence Barriger)",
+   "schema:url": {
+    "@id": "https://acrod.org/orthodox-christianity/articles/scripture/septuagint"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "IntraText",
+   "dcterms:title": "Second Vatican Council, Dei Verbum (Dogmatic Constitution on Divine Revelation), §22",
+   "schema:url": {
+    "@id": "https://www.intratext.com/IXT/ENG0037/_P7.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Blue Letter Bible",
+   "dcterms:title": "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)",
+   "schema:url": {
+    "@id": "https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Tyndale House, Cambridge",
+   "dcterms:title": "Following the Footnotes: The Septuagint (Chris Fresch)",
+   "schema:url": {
+    "@id": "https://tyndale.cam.ac.uk/explore/articles/the-septuagint/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Septuagint (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Septuagint"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Aristeas, Letter of (Jewish Encyclopedia, K. Kohler and P. Wendland)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "International Organization for Septuagint and Cognate Studies / Göttingen Septuaginta-Unternehmen",
+   "dcterms:title": "Sirach, Prologue (New English Translation of the Septuagint, trans. Benjamin G. Wright)",
+   "schema:url": {
+    "@id": "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 40:6 (World English Bible, KJV, Brenton Septuagint and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/psalms/40-6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Hebrews 10:5-7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/hebrews/10-5.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Amos 9:12 (World English Bible, KJV, Brenton Septuagint and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/amos/9-12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/septuagint/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 15:17 (World English Bible, with Ellicott's Commentary)",
+   "schema:url": {
+    "@id": "https://biblehub.com/acts/15-17.htm"
    }
   },
   {

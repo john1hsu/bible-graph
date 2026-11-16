@@ -39,6 +39,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Psalms
 
+- **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
@@ -57,6 +58,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Daniel
 
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+
+## Amos
+
+- **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 
 ## Matthew
 
@@ -141,6 +146,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:1-6** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:2** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:12** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 15:17** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Acts 15:25-26** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -204,6 +210,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Timothy
 
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+
+## Hebrews
+
+- **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 
 ## James
 

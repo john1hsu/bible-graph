@@ -1271,6 +1271,105 @@
   ]
  },
  {
+  "id": "bg:septuagint",
+  "title": "Septuagint",
+  "aliases": [
+   "LXX",
+   "Greek Old Testament",
+   "Old Greek version",
+   "the Seventy"
+  ],
+  "type": "Translation",
+  "domain": "manuscripts-translations-and-archaeology",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/manuscripts-translations-and-archaeology/septuagint.md",
+  "created": "2026-11-16",
+  "summary": "The ancient Greek translation of Israel's Scriptures, begun with the Pentateuch in Egypt in the third century BC; it was the Bible of Greek-speaking Jews and of the first Christians, is quoted throughout the New Testament, and remains the Old Testament of the Orthodox Church.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:dead-sea-scrolls"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:letter-of-aristeas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:vulgate"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:masoretic-text",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:textual-criticism",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:eastern-orthodoxy",
+    "source": "s10",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Psalm 40:6",
+   "Hebrews 10:5-7",
+   "Amos 9:12",
+   "Acts 15:17"
+  ],
+  "studyQuestions": [
+   "Compare Psalm 40:6 in an English Bible with Hebrews 10:5. What does each say God prepared, and why might they differ?",
+   "In Acts 15:17, how does James's quotation of Amos 9:12 support welcoming Gentiles, and how does the Hebrew wording of Amos read?",
+   "Why do you think the apostles were content to quote Scripture in a translation their hearers could understand?",
+   "How might knowing about the Septuagint help you talk graciously with a Christian whose Old Testament has more books than yours?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibleodyssey.com/articles/what-is-the-septuagint/",
+   "https://tyndale.cam.ac.uk/explore/articles/the-septuagint/",
+   "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Septuagint",
+   "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of.html",
+   "https://septuaginta.uni-goettingen.de/static/ioscs/pdf/nets/30-sirach-nets.pdf",
+   "https://biblehub.com/parallel/psalms/40-6.htm",
+   "https://www.biblestudytools.com/web/hebrews/10-5.html",
+   "https://biblehub.com/parallel/amos/9-12.htm",
+   "https://biblehub.com/acts/15-17.htm",
+   "https://acrod.org/orthodox-christianity/articles/scripture/septuagint",
+   "https://www.intratext.com/IXT/ENG0037/_P7.HTM",
+   "https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm"
+  ]
+ },
+ {
   "id": "bg:sermon-on-the-mount",
   "title": "Sermon on the Mount",
   "aliases": [
