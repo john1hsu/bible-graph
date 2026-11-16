@@ -193,6 +193,123 @@
    ]
   },
   {
+   "@id": "bg:paul",
+   "@type": "bgo:Person",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:first-clement"
+   },
+   "bgo:domain": "new-testament-people",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/new-testament-people/paul.md",
+   "bgo:illustrates": {
+    "@id": "bg:grace"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 15:8-10",
+    "2 Corinthians 11:25",
+    "Acts 13:1-4",
+    "Acts 13:47",
+    "Acts 13:9",
+    "Acts 18:3",
+    "Acts 22:25-28",
+    "Acts 22:3",
+    "Acts 28:30-31",
+    "Acts 8:1-3",
+    "Acts 9:1-30",
+    "Galatians 1:15-24",
+    "Philippians 3:4-14"
+   ],
+   "bgo:level": "introductory",
+   "bgo:memberOf": {
+    "@id": "bg:pharisees"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s9"
+    }
+   ],
+   "rdfs:label": "Paul",
+   "skos:altLabel": [
+    "Apostle Paul",
+    "Paul of Tarsus",
+    "Paul the Apostle",
+    "Paulos",
+    "Saint Paul",
+    "Saul of Tarsus"
+   ],
+   "skos:broader": {
+    "@id": "bg:apostles"
+   },
+   "skos:definition": "Saul of Tarsus, a Pharisee who persecuted the first Christians, met the risen Jesus on the road to Damascus and became the apostle to the Gentiles; he planted churches across the eastern Mediterranean, and the letters bearing his name make up nearly half the books of the New Testament.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people"
+   },
+   "skos:prefLabel": "Paul",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    }
+   ]
+  },
+  {
    "@id": "bg:pharisees",
    "@type": "bgo:Group",
    "bgo:basis": "debated",
@@ -446,6 +563,38 @@
     "@id": "bg:gospel-of-matthew"
    },
    "rdfs:label": "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/paul/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:paul"
+   },
+   "rdfs:label": "In Acts 9:1-6, what is Saul doing when Jesus meets him, and what question does Jesus ask him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/paul/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:paul"
+   },
+   "rdfs:label": "Compare Acts 9:20-30 with Galatians 1:15-24. What does each account emphasise about what Paul did after his conversion?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/paul/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:paul"
+   },
+   "rdfs:label": "In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/paul/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:paul"
+   },
+   "rdfs:label": "Paul calls himself \"the least of the apostles\" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/1",
@@ -822,6 +971,202 @@
    "dcterms:title": "Introduction to Matthew (ESV Global Study Bible)",
    "schema:url": {
     "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Acts 9 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/ACT.9.WEBBE?parallel=8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "2 Corinthians 11:25 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/2CO.11.25.webbe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Paul, the Apostle (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Paul-Apostle"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "St. Paul the Apostle",
+   "schema:url": {
+    "@id": "https://www.britannica.com:443/biography/Saint-Paul-the-Apostle"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Clement of Rome, First Epistle to the Corinthians, ch. 5 (trans. John Keith, Ante-Nicene Fathers)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/1010.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Electronic New Testament Educational Resources",
+   "dcterms:title": "Disputed Letters of Paul (Felix Just, S.J.)",
+   "schema:url": {
+    "@id": "https://1981.catholic-resources.org/Bible/Paul-Disputed.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/web/acts/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Galatians 1:15-24 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://www.bible.com/ka/bible/12/GAL.1.15-24.ASV"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Philippians 3 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/PHP.3.WEBBE?parallel=1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "1 Corinthians 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+bbe/1cor/15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 28 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/acts/28.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "Acts 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/acts-8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/paul/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Acts 18:3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/acts/18-3"
    }
   },
   {

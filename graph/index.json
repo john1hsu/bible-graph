@@ -179,6 +179,114 @@
   ]
  },
  {
+  "id": "bg:paul",
+  "title": "Paul",
+  "aliases": [
+   "Paul the Apostle",
+   "Saint Paul",
+   "Saul of Tarsus",
+   "Apostle Paul",
+   "Paul of Tarsus",
+   "Paulos"
+  ],
+  "type": "Person",
+  "domain": "new-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-people/paul.md",
+  "created": "2026-11-16",
+  "summary": "Saul of Tarsus, a Pharisee who persecuted the first Christians, met the risen Jesus on the road to Damascus and became the apostle to the Gentiles; he planted churches across the eastern Mediterranean, and the letters bearing his name make up nearly half the books of the New Testament.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:barnabas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:pharisees",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:grace",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:first-clement",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Acts 8:1-3",
+   "Acts 13:1-4",
+   "Acts 13:47",
+   "Acts 9:1-30",
+   "Acts 13:9",
+   "Acts 18:3",
+   "Acts 22:3",
+   "Acts 22:25-28",
+   "Acts 28:30-31",
+   "Galatians 1:15-24",
+   "Philippians 3:4-14",
+   "1 Corinthians 15:8-10",
+   "2 Corinthians 11:25"
+  ],
+  "studyQuestions": [
+   "In Acts 9:1-6, what is Saul doing when Jesus meets him, and what question does Jesus ask him?",
+   "Compare Acts 9:20-30 with Galatians 1:15-24. What does each account emphasise about what Paul did after his conversion?",
+   "In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?",
+   "Paul calls himself \"the least of the apostles\" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bible.com/bible/1204/ACT.9.WEBBE?parallel=8",
+   "https://www.biblehub.com/web/acts/22.htm",
+   "https://www.bible.com/ka/bible/12/GAL.1.15-24.ASV",
+   "https://www.bible.com/bible/1204/PHP.3.WEBBE?parallel=1",
+   "https://miamisdb.org/bible/web+bbe/1cor/15",
+   "https://www.bibliaparalela.com/web/acts/28.htm",
+   "https://coursebible.com/world-english-bible-web/acts-8",
+   "https://biblehub.com/web/acts/13.htm",
+   "https://www.christianity.com/bible/web/acts/18-3",
+   "https://www.bible.com/bible/1204/2CO.11.25.webbe",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Paul-Apostle",
+   "https://www.britannica.com:443/biography/Saint-Paul-the-Apostle",
+   "https://www.newadvent.org/fathers/1010.htm",
+   "https://1981.catholic-resources.org/Bible/Paul-Disputed.htm"
+  ]
+ },
+ {
   "id": "bg:pharisees",
   "title": "Pharisees",
   "aliases": [

@@ -43,10 +43,32 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Acts
 
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 13:1-4** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 13:9** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 13:47** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 18:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 22:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 22:25-28** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 23:6-9** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 28:30-31** — [Paul](../articles/new-testament-people/paul.md) (Person)
+
+## 1 Corinthians
+
+- **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
+
+## 2 Corinthians
+
+- **2 Corinthians 11:25** — [Paul](../articles/new-testament-people/paul.md) (Person)
+
+## Galatians
+
+- **Galatians 1:15-24** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
 ## Philippians
 
+- **Philippians 3:4-14** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Philippians 3:5-6** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 
 ## 2 Timothy

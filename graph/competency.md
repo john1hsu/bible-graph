@@ -26,6 +26,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
+| `bg:grace` | Paul |
 | `bg:kingdom-of-god` | Gospel of Matthew, Sermon on the Mount |
 
 ## Who and what appears where
@@ -46,7 +47,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:paul` | bgo:Person |
 
 ## Orphan articles (gap)
 

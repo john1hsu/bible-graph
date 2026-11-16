@@ -50,3 +50,15 @@ Study questions:
 - In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets, and what kind of righteousness does he ask of his followers?
 - The Gospel begins with "God with us" (1:23) and ends with "I am with you always" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?
 
+## new-testament-people
+
+### [Paul](../articles/new-testament-people/paul.md) — Person
+
+Read: Acts 8:1-3; Acts 13:1-4; Acts 13:47; Acts 9:1-30; Acts 13:9; Acts 18:3; Acts 22:3; Acts 22:25-28; Acts 28:30-31; Galatians 1:15-24; Philippians 3:4-14; 1 Corinthians 15:8-10; 2 Corinthians 11:25
+
+Study questions:
+- In Acts 9:1-6, what is Saul doing when Jesus meets him, and what question does Jesus ask him?
+- Compare Acts 9:20-30 with Galatians 1:15-24. What does each account emphasise about what Paul did after his conversion?
+- In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?
+- Paul calls himself "the least of the apostles" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?
+
