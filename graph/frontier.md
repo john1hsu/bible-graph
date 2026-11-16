@@ -4,98 +4,106 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `bg:gospel-of-luke` | 4.93 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew`, `bg:lords-prayer` |
-| `bg:peter` | 4.92 | - | `bg:acts-of-the-apostles`, `bg:barnabas`, `bg:paul` |
-| `bg:babylonian-exile` | 4.88 | - | `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple`, `bg:second-temple-judaism` |
-| `bg:sadducees` | 3.90 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:parables-of-jesus` | 3.83 | - | `bg:forgiveness-in-the-bible`, `bg:grace`, `bg:kingdom-of-god` |
-| `bg:the-story-of-the-bible` | 3.82 | - | `bg:grace`, `bg:kingdom-of-god`, `bg:the-exodus` |
-| `bg:ten-commandments` | 3.78 | - | `bg:moses`, `bg:sermon-on-the-mount`, `bg:the-exodus` |
-| `bg:old-testament` | 3.76 | - | `bg:biblical-canon`, `bg:book-of-ezra`, `bg:septuagint` |
-| `bg:mosaic-covenant` | 3.76 | - | `bg:grace`, `bg:moses`, `bg:the-exodus` |
-| `bg:apostles` | 3.32 | Group | `bg:barnabas`, `bg:paul` |
-| `bg:israelites` | 3.24 | Group | `bg:moses`, `bg:the-exodus` |
-| `bg:dead-sea-scrolls` | 2.75 | - | `bg:second-temple-judaism`, `bg:septuagint` |
-| `bg:second-temple-period` | 2.73 | Period | `bg:book-of-ezra`, `bg:second-temple-judaism` |
-| `bg:gospels` | 2.72 | - | `bg:gospel-of-matthew` |
-| `bg:council-of-jerusalem` | 2.70 | - | `bg:acts-of-the-apostles`, `bg:barnabas` |
-| `bg:atonement` | 2.69 | - | `bg:forgiveness-in-the-bible`, `bg:grace` |
-| `bg:new-testament` | 2.68 | - | `bg:acts-of-the-apostles`, `bg:biblical-canon` |
-| `bg:faith` | 2.68 | - | `bg:grace`, `bg:moses` |
-| `bg:deuterocanonical-books` | 2.68 | - | `bg:biblical-canon`, `bg:septuagint` |
-| `bg:exodus` | 2.66 | - | `bg:moses`, `bg:the-exodus` |
-| `bg:giving-of-the-law-at-sinai` | 2.66 | - | `bg:moses`, `bg:the-exodus` |
+| `bg:gospel-of-luke` | 4.90 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew`, `bg:lords-prayer` |
+| `bg:peter` | 4.89 | - | `bg:acts-of-the-apostles`, `bg:barnabas`, `bg:paul` |
+| `bg:the-story-of-the-bible` | 4.89 | - | `bg:babylonian-exile`, `bg:grace`, `bg:kingdom-of-god`, `bg:the-exodus` |
+| `bg:sadducees` | 3.88 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:second-temple-period` | 3.82 | Period | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:second-temple-judaism` |
+| `bg:parables-of-jesus` | 3.81 | - | `bg:forgiveness-in-the-bible`, `bg:grace`, `bg:kingdom-of-god` |
+| `bg:ten-commandments` | 3.76 | - | `bg:moses`, `bg:sermon-on-the-mount`, `bg:the-exodus` |
+| `bg:old-testament` | 3.75 | - | `bg:biblical-canon`, `bg:book-of-ezra`, `bg:septuagint` |
+| `bg:mosaic-covenant` | 3.74 | - | `bg:grace`, `bg:moses`, `bg:the-exodus` |
+| `bg:apostles` | 3.29 | Group | `bg:barnabas`, `bg:paul` |
+| `bg:cyrus-the-great` | 3.24 | - | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:israelites` | 3.22 | Group | `bg:moses`, `bg:the-exodus` |
+| `bg:dead-sea-scrolls` | 2.74 | - | `bg:second-temple-judaism`, `bg:septuagint` |
+| `bg:gospels` | 2.70 | - | `bg:gospel-of-matthew` |
+| `bg:council-of-jerusalem` | 2.68 | - | `bg:acts-of-the-apostles`, `bg:barnabas` |
+| `bg:atonement` | 2.68 | - | `bg:forgiveness-in-the-bible`, `bg:grace` |
+| `bg:new-testament` | 2.67 | - | `bg:acts-of-the-apostles`, `bg:biblical-canon` |
+| `bg:deuterocanonical-books` | 2.67 | - | `bg:biblical-canon`, `bg:septuagint` |
+| `bg:faith` | 2.67 | - | `bg:grace`, `bg:moses` |
 | `bg:eisegesis` | 2.65 | - | `bg:reading-in-context` |
 | `bg:genre-in-the-bible` | 2.65 | - | `bg:reading-in-context` |
 | `bg:proof-texting` | 2.65 | - | `bg:reading-in-context` |
 | `bg:scripture-interprets-scripture` | 2.65 | - | `bg:reading-in-context` |
-| `bg:antiquities-of-the-jews` | 2.28 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:rabbinic-judaism` | 2.28 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:biblical-theology` | 2.24 | Field | `bg:grace`, `bg:kingdom-of-god` |
-| `bg:parable-of-the-unforgiving-servant` | 2.20 | - | `bg:forgiveness-in-the-bible`, `bg:lords-prayer` |
-| `bg:levites` | 2.18 | Group | `bg:barnabas`, `bg:moses` |
+| `bg:exodus` | 2.65 | - | `bg:moses`, `bg:the-exodus` |
+| `bg:giving-of-the-law-at-sinai` | 2.65 | - | `bg:moses`, `bg:the-exodus` |
+| `bg:antiquities-of-the-jews` | 2.26 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:rabbinic-judaism` | 2.26 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:biblical-theology` | 2.22 | Field | `bg:grace`, `bg:kingdom-of-god` |
+| `bg:parable-of-the-unforgiving-servant` | 2.18 | - | `bg:forgiveness-in-the-bible`, `bg:lords-prayer` |
+| `bg:levites` | 2.16 | Group | `bg:barnabas`, `bg:moses` |
 | `bg:ezra` | 2.16 | Person | `bg:book-of-ezra` |
-| `bg:aaron` | 2.16 | Person | `bg:moses` |
-| `bg:passover` | 2.16 | - | `bg:moses`, `bg:the-exodus` |
-| `bg:cyrus-the-great` | 2.15 | - | `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:zerubbabel` | 2.15 | - | `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:aaron` | 2.15 | Person | `bg:moses` |
 | `bg:book-of-haggai` | 2.15 | - | `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:passover` | 2.15 | - | `bg:moses`, `bg:the-exodus` |
 | `bg:samaritans` | 1.65 | - | `bg:second-temple-judaism` |
 | `bg:synagogue` | 1.65 | - | `bg:second-temple-judaism` |
-| `bg:messiah` | 1.64 | - | `bg:kingdom-of-god` |
-| `bg:beatitudes` | 1.62 | - | `bg:sermon-on-the-mount` |
-| `bg:gospel-of-mark` | 1.61 | - | `bg:gospel-of-matthew` |
-| `bg:great-commission` | 1.61 | - | `bg:gospel-of-matthew` |
-| `bg:pentecost` | 1.60 | - | `bg:acts-of-the-apostles` |
-| `bg:justification` | 1.60 | - | `bg:grace` |
-| `bg:masoretic-text` | 1.60 | - | `bg:septuagint` |
-| `bg:textual-criticism` | 1.60 | Field | `bg:septuagint` |
-| `bg:vulgate` | 1.60 | - | `bg:septuagint` |
-| `bg:loving-your-neighbor` | 1.59 | - | `bg:forgiveness-in-the-bible` |
+| `bg:messiah` | 1.63 | - | `bg:kingdom-of-god` |
+| `bg:beatitudes` | 1.61 | - | `bg:sermon-on-the-mount` |
+| `bg:gospel-of-mark` | 1.60 | - | `bg:gospel-of-matthew` |
+| `bg:great-commission` | 1.60 | - | `bg:gospel-of-matthew` |
+| `bg:pentecost` | 1.59 | - | `bg:acts-of-the-apostles` |
+| `bg:justification` | 1.59 | - | `bg:grace` |
+| `bg:masoretic-text` | 1.59 | - | `bg:septuagint` |
+| `bg:textual-criticism` | 1.59 | Field | `bg:septuagint` |
+| `bg:vulgate` | 1.59 | - | `bg:septuagint` |
+| `bg:babylon` | 1.59 | Place | `bg:babylonian-exile` |
+| `bg:daniel` | 1.59 | - | `bg:babylonian-exile` |
+| `bg:return-from-exile` | 1.59 | - | `bg:babylonian-exile` |
+| `bg:loving-your-neighbor` | 1.58 | - | `bg:forgiveness-in-the-bible` |
+| `bg:cyrus-cylinder` | 1.58 | - | `bg:book-of-ezra` |
 | `bg:inspiration-of-scripture` | 1.58 | - | `bg:biblical-canon` |
 | `bg:the-bible` | 1.58 | - | `bg:biblical-canon` |
-| `bg:cyrus-cylinder` | 1.58 | - | `bg:book-of-ezra` |
-| `bg:elijah` | 1.58 | - | `bg:moses` |
-| `bg:joshua-son-of-nun` | 1.58 | - | `bg:moses` |
-| `bg:pentateuch` | 1.58 | - | `bg:moses` |
-| `bg:transfiguration` | 1.58 | - | `bg:moses` |
-| `bg:crucifixion-of-jesus` | 1.58 | - | `bg:the-exodus` |
-| `bg:egypt-in-the-bible` | 1.58 | Place | `bg:the-exodus` |
-| `bg:redemption` | 1.58 | - | `bg:the-exodus` |
-| `bg:greco-roman-world` | 1.57 | - | `bg:paul-at-the-areopagus` |
+| `bg:elijah` | 1.57 | - | `bg:moses` |
+| `bg:joshua-son-of-nun` | 1.57 | - | `bg:moses` |
+| `bg:pentateuch` | 1.57 | - | `bg:moses` |
+| `bg:transfiguration` | 1.57 | - | `bg:moses` |
 | `bg:grief` | 1.57 | LifeSituation | `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:the-temple` | 1.57 | - | `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:crucifixion-of-jesus` | 1.57 | - | `bg:the-exodus` |
+| `bg:egypt-in-the-bible` | 1.57 | Place | `bg:the-exodus` |
+| `bg:redemption` | 1.57 | - | `bg:the-exodus` |
+| `bg:greco-roman-world` | 1.57 | - | `bg:paul-at-the-areopagus` |
 | `bg:judaism` | 1.15 | - | `bg:second-temple-judaism` |
-| `bg:book-of-daniel` | 1.14 | - | `bg:kingdom-of-god` |
+| `bg:book-of-daniel` | 1.13 | - | `bg:kingdom-of-god` |
 | `bg:first-clement` | 1.12 | - | `bg:paul` |
 | `bg:nicodemus` | 1.12 | - | `bg:pharisees` |
-| `bg:sermon-on-the-plain` | 1.12 | - | `bg:sermon-on-the-mount` |
-| `bg:matthew-the-apostle` | 1.11 | Person | `bg:gospel-of-matthew` |
-| `bg:didache` | 1.11 | - | `bg:lords-prayer` |
-| `bg:kaddish` | 1.11 | - | `bg:lords-prayer` |
-| `bg:luke-the-evangelist` | 1.10 | Person | `bg:acts-of-the-apostles` |
-| `bg:eastern-orthodoxy` | 1.10 | Tradition | `bg:septuagint` |
-| `bg:letter-of-aristeas` | 1.10 | - | `bg:septuagint` |
-| `bg:epistle-of-barnabas` | 1.10 | - | `bg:barnabas` |
-| `bg:john-mark` | 1.10 | - | `bg:barnabas` |
-| `bg:day-of-atonement` | 1.09 | - | `bg:forgiveness-in-the-bible` |
-| `bg:reconciliation` | 1.09 | - | `bg:forgiveness-in-the-bible` |
-| `bg:festal-letter-39-of-athanasius` | 1.08 | - | `bg:biblical-canon` |
-| `bg:marcion` | 1.08 | - | `bg:biblical-canon` |
+| `bg:sermon-on-the-plain` | 1.11 | - | `bg:sermon-on-the-mount` |
+| `bg:matthew-the-apostle` | 1.10 | Person | `bg:gospel-of-matthew` |
+| `bg:didache` | 1.10 | - | `bg:lords-prayer` |
+| `bg:kaddish` | 1.10 | - | `bg:lords-prayer` |
+| `bg:luke-the-evangelist` | 1.09 | Person | `bg:acts-of-the-apostles` |
+| `bg:eastern-orthodoxy` | 1.09 | Tradition | `bg:septuagint` |
+| `bg:letter-of-aristeas` | 1.09 | - | `bg:septuagint` |
+| `bg:al-yahudu-tablets` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:babylonian-chronicle` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:exile-and-return` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:ezekiel` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:jehoiachin` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:nebuchadnezzar-ii` | 1.09 | - | `bg:babylonian-exile` |
+| `bg:epistle-of-barnabas` | 1.09 | - | `bg:barnabas` |
+| `bg:john-mark` | 1.09 | - | `bg:barnabas` |
+| `bg:day-of-atonement` | 1.08 | - | `bg:forgiveness-in-the-bible` |
+| `bg:reconciliation` | 1.08 | - | `bg:forgiveness-in-the-bible` |
 | `bg:2-chronicles` | 1.08 | - | `bg:book-of-ezra` |
 | `bg:book-of-nehemiah` | 1.08 | - | `bg:book-of-ezra` |
 | `bg:historical-books` | 1.08 | - | `bg:book-of-ezra` |
-| `bg:jesus` | 1.08 | - | `bg:moses` |
-| `bg:miriam` | 1.08 | - | `bg:moses` |
-| `bg:prophets` | 1.08 | - | `bg:moses` |
-| `bg:zipporah` | 1.08 | Person | `bg:moses` |
-| `bg:baptism` | 1.08 | - | `bg:the-exodus` |
-| `bg:athens` | 1.07 | - | `bg:paul-at-the-areopagus` |
+| `bg:festal-letter-39-of-athanasius` | 1.08 | - | `bg:biblical-canon` |
+| `bg:marcion` | 1.08 | - | `bg:biblical-canon` |
+| `bg:jesus` | 1.07 | - | `bg:moses` |
+| `bg:miriam` | 1.07 | - | `bg:moses` |
+| `bg:prophets` | 1.07 | - | `bg:moses` |
+| `bg:zipporah` | 1.07 | Person | `bg:moses` |
 | `bg:biblical-interpretation` | 1.07 | - | `bg:reading-in-context` |
+| `bg:jeshua-son-of-jozadak` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:psalm-136` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:worship` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |
+| `bg:baptism` | 1.07 | - | `bg:the-exodus` |
+| `bg:athens` | 1.07 | - | `bg:paul-at-the-areopagus` |
 | `bg:dionysius-the-areopagite` | 1.07 | - | `bg:paul-at-the-areopagus` |
 | `bg:general-revelation` | 1.07 | - | `bg:paul-at-the-areopagus` |
-| `bg:jeshua-son-of-jozadak` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:phaenomena-of-aratus` | 1.07 | - | `bg:paul-at-the-areopagus` |
-| `bg:psalm-136` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:resurrection-of-the-dead` | 1.07 | - | `bg:paul-at-the-areopagus` |
-| `bg:worship` | 1.07 | - | `bg:laying-the-foundation-of-the-second-temple` |

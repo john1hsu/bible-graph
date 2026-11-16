@@ -26,6 +26,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
+| `bg:exile-and-return` | Babylonian Exile |
 | `bg:faith` | Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
@@ -45,6 +46,10 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:acts-of-the-apostles` | `bg:paul` |
 | `bg:acts-of-the-apostles` | `bg:pentecost` |
 | `bg:acts-of-the-apostles` | `bg:peter` |
+| `bg:babylonian-exile` | `bg:daniel` |
+| `bg:babylonian-exile` | `bg:ezekiel` |
+| `bg:babylonian-exile` | `bg:jehoiachin` |
+| `bg:babylonian-exile` | `bg:nebuchadnezzar-ii` |
 | `bg:book-of-ezra` | `bg:cyrus-the-great` |
 | `bg:book-of-ezra` | `bg:ezra` |
 | `bg:book-of-ezra` | `bg:second-temple-judaism` |
@@ -71,15 +76,14 @@ _Which written people, groups, places and events are not yet linked to any book,
 
 | node | type |
 |---|---|
+| `bg:babylonian-exile` | bgo:Event |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `bg:reading-in-context` |
+_No results._
 
 ## Teachings and practices by tradition
 

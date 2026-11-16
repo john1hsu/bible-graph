@@ -41,19 +41,29 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Deuteronomy
 
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## 1 Kings
 
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 
+## 2 Kings
+
+- **2 Kings 24:10-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **2 Kings 25:1-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **2 Kings 25:21** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **2 Kings 25:27-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+
 ## 2 Chronicles
 
+- **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 
 ## Ezra
 
 - **Ezra 1:1-4** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 1:1-11** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Ezra 3:1-6** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 3:1-13** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 3:10-13** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -79,22 +89,29 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+- **Psalm 137:1-4** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Isaiah
 
+- **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Jeremiah
 
+- **Jeremiah 25:11-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
+- **Jeremiah 29:4-14** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Jeremiah 52:28-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
 ## Ezekiel
 
+- **Ezekiel 1:1-3** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Ezekiel 36:23** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 
 ## Daniel
 
+- **Daniel 1:1-7** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Amos
@@ -113,6 +130,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Matthew
 
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -281,6 +299,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## James
 
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+
+## 1 Peter
+
+- **1 Peter 1:1** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **1 Peter 1:17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
 ## 2 Peter
 

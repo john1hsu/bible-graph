@@ -38,6 +38,17 @@ Study questions:
 
 ## events-and-timeline
 
+### [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) — Event
+
+Read: 2 Kings 24:10-17; 2 Kings 25:1-12; 2 Kings 25:21; 2 Kings 25:27-30; Jeremiah 25:11-12; Jeremiah 29:4-14; Jeremiah 52:28-30; Psalm 137:1-4; Ezekiel 1:1-3; Daniel 1:1-7; Deuteronomy 28:64; 2 Chronicles 36:20-23; Ezra 1:1-11; Isaiah 40:1-2; Matthew 1:11-17; 1 Peter 1:1; 1 Peter 1:17
+
+Study questions:
+- According to 2 Kings 24:10-16 and 25:8-12, who was taken to Babylon in each deportation, and who was left behind in the land?
+- What does Jeremiah tell the exiles to do in Jeremiah 29:4-7, and why might that have surprised people who expected to go home soon?
+- Psalm 137 asks how anyone can sing the Lord's song in a foreign land. How do Ezekiel 1:1-3 and Isaiah 40:1-2 answer that question in different ways?
+- Matthew 1:17 divides Jesus's family tree at the exile. What does that tell you about how the first Christians understood where Jesus fits in Israel's story?
+- 1 Peter 1:1 and 1:17 call Christians foreigners and exiles. Where do you feel "away from home" in your own life or church, and what would it look like to seek the peace of the place where God has put you?
+
 ### [The Exodus](../articles/events-and-timeline/the-exodus.md) — Event
 
 Read: Exodus 1:8-14; Exodus 3:7-15; Exodus 12:1-14; Exodus 12:26-27; Exodus 12:37-42; Exodus 12:51; Exodus 14:21-31; Exodus 15:1-21; Exodus 20:2; 1 Kings 6:1; Luke 9:30-31; 1 Corinthians 5:7; 1 Corinthians 10:1-11

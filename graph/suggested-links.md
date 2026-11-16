@@ -6,8 +6,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 2.35 | `bg:grace` | `bg:moses` | `bg:faith`, `bg:mosaic-covenant` |
 | 2.21 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 1.82 | `bg:grace` | `bg:the-exodus` | `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
 | 1.75 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 1.63 | `bg:grace` | `bg:the-exodus` | `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
 | 1.44 | `bg:acts-of-the-apostles` | `bg:biblical-canon` | `bg:new-testament` |
 | 1.44 | `bg:barnabas` | `bg:moses` | `bg:levites` |
 | 1.33 | `bg:biblical-canon` | `bg:book-of-ezra` | `bg:old-testament`, `bg:septuagint` |
@@ -19,8 +19,8 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.24 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
 | 1.20 | `bg:barnabas` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
 | 1.20 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
+| 1.07 | `bg:babylonian-exile` | `bg:kingdom-of-god` | `bg:second-temple-judaism`, `bg:the-story-of-the-bible` |
 | 0.94 | `bg:forgiveness-in-the-bible` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
-| 0.91 | `bg:kingdom-of-god` | `bg:the-exodus` | `bg:the-story-of-the-bible` |
 | 0.91 | `bg:moses` | `bg:sermon-on-the-mount` | `bg:ten-commandments` |
 | 0.91 | `bg:sermon-on-the-mount` | `bg:the-exodus` | `bg:ten-commandments` |
 | 0.88 | `bg:gospel-of-matthew` | `bg:second-temple-judaism` | `bg:kingdom-of-god`, `bg:pharisees` |

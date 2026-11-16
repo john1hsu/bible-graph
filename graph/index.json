@@ -116,6 +116,160 @@
   ]
  },
  {
+  "id": "bg:babylonian-exile",
+  "title": "Babylonian Exile",
+  "aliases": [
+   "the exile",
+   "Babylonian captivity",
+   "the captivity",
+   "exile to Babylon",
+   "deportation to Babylon",
+   "Judean exile"
+  ],
+  "type": "Event",
+  "domain": "events-and-timeline",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/events-and-timeline/babylonian-exile.md",
+  "created": "2026-11-16",
+  "summary": "The deportation of the people of Judah to Babylon by Nebuchadnezzar II in the early sixth century BC — in waves around 597 and 587/586 BC, with the burning of Jerusalem and Solomon's Temple — until Cyrus of Persia allowed exiles to return in 538 BC; the crisis that reshaped Israel's faith and much of the Old Testament.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-ezra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:cyrus-the-great"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jehoiachin",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:nebuchadnezzar-ii",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:ezekiel",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:daniel",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:babylon",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:return-from-exile",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:exile-and-return",
+    "source": "s15",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:babylonian-chronicle",
+    "source": "s19",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:al-yahudu-tablets",
+    "source": "s20",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "2 Kings 24:10-17",
+   "2 Kings 25:1-12",
+   "2 Kings 25:21",
+   "2 Kings 25:27-30",
+   "Jeremiah 25:11-12",
+   "Jeremiah 29:4-14",
+   "Jeremiah 52:28-30",
+   "Psalm 137:1-4",
+   "Ezekiel 1:1-3",
+   "Daniel 1:1-7",
+   "Deuteronomy 28:64",
+   "2 Chronicles 36:20-23",
+   "Ezra 1:1-11",
+   "Isaiah 40:1-2",
+   "Matthew 1:11-17",
+   "1 Peter 1:1",
+   "1 Peter 1:17"
+  ],
+  "studyQuestions": [
+   "According to 2 Kings 24:10-16 and 25:8-12, who was taken to Babylon in each deportation, and who was left behind in the land?",
+   "What does Jeremiah tell the exiles to do in Jeremiah 29:4-7, and why might that have surprised people who expected to go home soon?",
+   "Psalm 137 asks how anyone can sing the Lord's song in a foreign land. How do Ezekiel 1:1-3 and Isaiah 40:1-2 answer that question in different ways?",
+   "Matthew 1:17 divides Jesus's family tree at the exile. What does that tell you about how the first Christians understood where Jesus fits in Israel's story?",
+   "1 Peter 1:1 and 1:17 call Christians foreigners and exiles. Where do you feel \"away from home\" in your own life or church, and what would it look like to seek the peace of the place where God has put you?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/2_kings/24.htm",
+   "https://biblehub.com/web/2_kings/25.htm",
+   "https://biblehub.com/web/jeremiah/29.htm",
+   "https://biblehub.com/web/jeremiah/52.htm",
+   "https://biblehub.com/web/psalms/137.htm",
+   "https://biblehub.com/web/2_chronicles/36.htm",
+   "https://biblehub.com/web/ezekiel/1.htm",
+   "https://biblehub.com/web/isaiah/40.htm",
+   "https://biblehub.com/web/matthew/1.htm",
+   "https://biblehub.com/web/ezra/1.htm",
+   "https://biblehub.com/web/daniel/1.htm",
+   "https://biblehub.com/web/jeremiah/25.htm",
+   "https://biblehub.com/web/1_peter/1.htm",
+   "https://biblehub.com/web/deuteronomy/28.htm",
+   "https://oyc.yale.edu/node/1743",
+   "https://www.bibleodyssey.org/articles/babylonian-exile/",
+   "https://www.britannica.com/event/Babylonian-Exile",
+   "https://www.jewishencyclopedia.com/articles/4012-captivity.html",
+   "https://cojs.org/the_babylonian_chronicle_-chronicle_5-_nebuchadnezzar_besieges_jerusalem-_597_bce/",
+   "https://www.csmc.uni-hamburg.de/publications/mesopotamia/2015-12-30.html",
+   "https://www.tyndalebulletin.org/article/29204"
+  ]
+ },
+ {
   "id": "bg:barnabas",
   "title": "Barnabas",
   "aliases": [
