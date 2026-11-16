@@ -78,6 +78,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 7:48-50** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 7:58** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -92,6 +93,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:1-6** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 17:16-34** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Acts 17:22-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Acts 17:23** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Acts 17:28** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Acts 17:30-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 18:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:25-28** — [Paul](../articles/new-testament-people/paul.md) (Person)
@@ -100,6 +106,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 28:14-16** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Paul](../articles/new-testament-people/paul.md) (Person)
+
+## Romans
+
+- **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 
 ## 1 Corinthians
 

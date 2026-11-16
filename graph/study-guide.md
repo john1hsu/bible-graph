@@ -76,6 +76,19 @@ Study questions:
 - Revelation 3:20 is often used in evangelism. To whom is it first addressed (Revelation 3:14-22), and what does that add to its meaning?
 - Which verse do you hold dear but have never read in its surrounding chapter, and what do you notice when you read the whole chapter this week?
 
+## key-passages
+
+### [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) — Passage
+
+Read: Acts 17:16-34; Acts 17:22-31; Acts 17:23; Acts 17:28; Acts 17:30-31; Acts 7:48-50; Romans 1:19-20
+
+Study questions:
+- What did Paul see in Athens that "stirred" his spirit (Acts 17:16), and where did he go to talk with people (17:17)?
+- Why did some listeners think Paul was proclaiming "strange gods" (17:18)? What two things had he been preaching?
+- Paul quotes a Greek poet in Acts 17:28. What point does he draw from the line in the next verse (17:29)?
+- The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?
+- Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?
+
 ## life-and-teachings-of-jesus
 
 ### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage

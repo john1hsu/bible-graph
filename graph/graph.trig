@@ -74,6 +74,18 @@
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s8> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/paul-at-the-areopagus.md" .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> .
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/life-and-teachings-of-jesus/sermon-on-the-mount.md" .
@@ -804,6 +816,123 @@
   <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <https://schema.org/url> <https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> {
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What did Paul see in Athens that \"stirred\" his spirit (Acts 17:16), and where did he go to talk with people (17:17)?" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why did some listeners think Paul was proclaiming \"strange gods\" (17:18)? What two things had he been preaching?" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Paul quotes a Greek poet in Acts 17:28. What point does he draw from the line in the next verse (17:29)?" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2000/01/rdf-schema#label> "Paul at the Areopagus" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Acts 17:16-34" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Acts 17:22-31" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Areopagus sermon" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Areopagus speech" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Mars Hill sermon" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Paul on Mars' Hill" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#altLabel> "Paul's speech at Athens" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#definition> "Paul's visit to Athens and his speech before the Areopagus in Acts 17:16-34, where he takes an altar \"to the unknown god\" as his starting point and proclaims the Creator who does not live in temples, who made all nations, and who now calls everyone to repent before the day he will judge the world through the man he raised from the dead." .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paul at the Areopagus" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/greco-roman-world> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/phaenomena-of-aratus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/athens> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/dionysius-the-areopagite> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/paul-at-the-areopagus.md" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:16-34" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:22-31" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:23" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:28" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:30-31" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 7:48-50" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 1:19-20" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/general-revelation> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <http://purl.org/dc/terms/publisher> "Bibleserver (ERF Medien)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <http://purl.org/dc/terms/title> "Acts 17 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s1> <https://schema.org/url> <https://www.bibleserver.com/KJV/Acts17> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <http://purl.org/dc/terms/title> "Patrick Gray, \"Implied Audiences in the Areopagus Narrative\", Tyndale Bulletin 55.2 (2004)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s2> <https://schema.org/url> <https://www.tyndalebulletin.org/article/29173-implied-audiences-in-the-areopagus-narrative.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <http://purl.org/dc/terms/title> "Areopagus (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s3> <https://schema.org/url> <https://bg.prod.biblegateway.com/resources/encyclopedia-of-the-bible/Areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <http://purl.org/dc/terms/publisher> "InterVarsity Press, via Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <http://purl.org/dc/terms/title> "The Areopagus Speech, Acts 17:22-31 (IVP New Testament Commentary Series)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s4> <https://schema.org/url> <https://www.biblegateway.com/resources/ivp-nt/Introduction-Areopagus-Speech> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <http://purl.org/dc/terms/publisher> "Theoi Classical Texts Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <http://purl.org/dc/terms/title> "Aratus, Phaenomena, trans. G. R. Mair (Loeb Classical Library 129, 1921)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s5> <https://schema.org/url> <https://www.theoi.com/Text/AratusPhaenomena.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <http://purl.org/dc/terms/title> "John Chapman, \"St. Dionysius\" (Catholic Encyclopedia, 1909)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s6> <https://schema.org/url> <https://www.newadvent.org/cathen/05010a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 27-30 (\"The Desire for God\")" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_one/i_the_desire_for_god.index.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <http://purl.org/dc/terms/publisher> "Biblia (Faithlife)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <http://purl.org/dc/terms/title> "Acts 7:48-50 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> <https://schema.org/url> <https://biblia.com/bible/kjv/Ac7.48-50> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://purl.org/dc/terms/publisher> "Biblia (Faithlife)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://purl.org/dc/terms/title> "Romans 1:19-20 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://schema.org/url> <https://biblia.com/bible/kjv1900/romans/1/19-20> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount#graph> {
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?" .
@@ -1291,10 +1420,15 @@
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/new-testament> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/athens> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
@@ -1313,6 +1447,7 @@
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/dionysius-the-areopagite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
@@ -1321,6 +1456,7 @@
   <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/general-revelation> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
@@ -1346,6 +1482,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/greco-roman-world> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -1368,21 +1505,34 @@
   <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/nicodemus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/paul/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/phaenomena-of-aratus> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -1407,6 +1557,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/pharisees> .
@@ -1421,6 +1572,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .

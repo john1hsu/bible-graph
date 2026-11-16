@@ -403,6 +403,121 @@
   ]
  },
  {
+  "id": "bg:paul-at-the-areopagus",
+  "title": "Paul at the Areopagus",
+  "aliases": [
+   "Areopagus speech",
+   "Areopagus sermon",
+   "Paul's speech at Athens",
+   "Mars Hill sermon",
+   "Paul on Mars' Hill",
+   "Acts 17:16-34",
+   "Acts 17:22-31"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/key-passages/paul-at-the-areopagus.md",
+  "created": "2026-11-16",
+  "summary": "Paul's visit to Athens and his speech before the Areopagus in Acts 17:16-34, where he takes an altar \"to the unknown god\" as his starting point and proclaims the Creator who does not live in temples, who made all nations, and who now calls everyone to repent before the day he will judge the world through the man he raised from the dead.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:acts-of-the-apostles",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:paul",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:athens",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:dionysius-the-areopagite",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:resurrection-of-the-dead",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:general-revelation",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:greco-roman-world",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:phaenomena-of-aratus",
+    "source": "s5",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Acts 17:16-34",
+   "Acts 17:22-31",
+   "Acts 17:23",
+   "Acts 17:28",
+   "Acts 17:30-31",
+   "Acts 7:48-50",
+   "Romans 1:19-20"
+  ],
+  "studyQuestions": [
+   "What did Paul see in Athens that \"stirred\" his spirit (Acts 17:16), and where did he go to talk with people (17:17)?",
+   "Why did some listeners think Paul was proclaiming \"strange gods\" (17:18)? What two things had he been preaching?",
+   "Paul quotes a Greek poet in Acts 17:28. What point does he draw from the line in the next verse (17:29)?",
+   "The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?",
+   "Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibleserver.com/KJV/Acts17",
+   "https://www.tyndalebulletin.org/article/29173-implied-audiences-in-the-areopagus-narrative.pdf",
+   "https://bg.prod.biblegateway.com/resources/encyclopedia-of-the-bible/Areopagus",
+   "https://www.biblegateway.com/resources/ivp-nt/Introduction-Areopagus-Speech",
+   "https://www.theoi.com/Text/AratusPhaenomena.html",
+   "https://www.newadvent.org/cathen/05010a.htm",
+   "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_one/i_the_desire_for_god.index.html",
+   "https://biblia.com/bible/kjv/Ac7.48-50",
+   "https://biblia.com/bible/kjv1900/romans/1/19-20"
+  ]
+ },
+ {
   "id": "bg:pharisees",
   "title": "Pharisees",
   "aliases": [

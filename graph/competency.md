@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:acts-of-the-apostles` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -28,9 +26,11 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
+| `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Paul |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount |
 | `bg:redemption` | The Exodus |
+| `bg:resurrection-of-the-dead` | Paul at the Areopagus |
 
 ## Who and what appears where
 
@@ -43,6 +43,9 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:acts-of-the-apostles` | `bg:pentecost` |
 | `bg:acts-of-the-apostles` | `bg:peter` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
+| `bg:paul-at-the-areopagus` | `bg:athens` |
+| `bg:paul-at-the-areopagus` | `bg:dionysius-the-areopagite` |
+| `bg:paul-at-the-areopagus` | `bg:paul` |
 | `bg:the-exodus` | `bg:israelites` |
 | `bg:the-exodus` | `bg:moses` |
 
