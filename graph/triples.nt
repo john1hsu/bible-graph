@@ -110,6 +110,76 @@
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:44" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 18:21-35, how large is the first servant's debt compared with what his fellow servant owes him, and what point is Jesus making by the contrast?" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Luke 17:3-4 speaks of rebuking a brother who sins and forgiving him when he repents. How does that fit with Jesus praying for those crucifying him in Luke 23:34?" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2000/01/rdf-schema#label> "Forgiveness in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "aphiemi" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "forgiving one another" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "forgiving others" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "how often should I forgive" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "salach" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "seventy times seven" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#definition> "What Scripture says to Christians who need to forgive, or to be forgiven: God's forgiveness of sin, freely given and proclaimed from Exodus 34 to the cross, and Jesus's call for his followers to forgive others from the heart as they have been forgiven, without pretending that harm did not happen." .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/living-the-word> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forgiveness in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/atonement> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#confusedWith> <https://github.com/john1hsu/bible-graph/id/reconciliation> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#domain> "living-the-word" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/day-of-atonement> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/living-the-word/forgiveness-in-the-bible.md" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Colossians 3:12-13" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ephesians 4:31-32" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 34:6-9" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 50:15-21" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:17-18" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 17:3-4" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 23:34" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 18:15-35" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 6:12-15" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 103:8-13" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 12:17-21" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+<https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Matthew 1:1 calls Jesus \"the son of David, the son of Abraham.\" Why might Matthew open with those two names in particular?" .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
@@ -746,6 +816,102 @@
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/title> "Romans 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <https://schema.org/url> <https://biblehub.com/web/romans/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <http://purl.org/dc/terms/title> "Leviticus 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11> <https://schema.org/url> <https://www.biblestudytools.com/web/leviticus/19.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <http://purl.org/dc/terms/publisher> "Baker Books, via Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <http://purl.org/dc/terms/title> "Forgiveness (Barry D. Smith), Baker's Evangelical Dictionary of Biblical Theology" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12> <https://schema.org/url> <https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/forgiveness.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <http://purl.org/dc/terms/title> "Forgiveness, The Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13> <https://schema.org/url> <https://jewishencyclopedia.com/articles/6233-forgiveness> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, 2838-2845: And Forgive Us Our Trespasses" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__PAB.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <http://purl.org/dc/terms/publisher> "The Book of Concord" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <http://purl.org/dc/terms/title> "Luther's Small Catechism, The Lord's Prayer: Fifth Petition" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15> <https://schema.org/url> <https://thebookofconcord.org/small-catechism/part-iii/petition-5/> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <http://purl.org/dc/terms/publisher> "Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <http://purl.org/dc/terms/title> "Power and Forgiveness in Matthew 18 (Elaine J. Ramshaw), Word & World 18, no. 4 (1998): 397-404" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16> <https://schema.org/url> <https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/18-4_Matthew/Power%20and%20Forgiveness%20in%20Matthew%2018.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <http://purl.org/dc/terms/title> "Matthew 18 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1> <https://schema.org/url> <https://www.biblestudytools.com/web/matthew/18.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <http://purl.org/dc/terms/title> "Matthew 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2> <https://schema.org/url> <https://www.biblestudytools.com/web/matthew/6.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <http://purl.org/dc/terms/title> "Luke 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/17.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <http://purl.org/dc/terms/title> "Luke 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/23.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <http://purl.org/dc/terms/title> "Genesis 50 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/genesis/50.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <http://purl.org/dc/terms/title> "Exodus 34 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6> <https://schema.org/url> <https://www.biblestudytools.com/web/exodus/34.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <http://purl.org/dc/terms/title> "Psalm 103:8-13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/ps/103/8-13> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <http://purl.org/dc/terms/title> "Ephesians 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8> <https://schema.org/url> <https://www.biblestudytools.com/web/ephesians/4.html> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://purl.org/dc/terms/title> "Colossians 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/col/3> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1> <http://purl.org/dc/terms/title> "The Gospel According to St. Matthew (American Standard Version)" .

@@ -18,7 +18,9 @@ _No results._
 
 _Which written life situations have no passage, theme, doctrine or practice that speaks to them?_ — `queries/03-situations-without-scripture.rq`
 
-_No results._
+| node |
+|---|
+| `bg:forgiveness-in-the-bible` |
 
 ## Themes traced across Scripture
 

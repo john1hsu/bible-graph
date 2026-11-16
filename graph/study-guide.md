@@ -101,6 +101,19 @@ Study questions:
 - Read the three examples of "secret" devotion in Matthew 6:1-18 (giving, prayer, fasting). What do they have in common, and which one most challenges your own habits?
 - The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would "doing" one of these teachings look like for you or your group this week?
 
+## living-the-word
+
+### [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) — LifeSituation
+
+Read: Exodus 34:6-9; Leviticus 19:17-18; Genesis 50:15-21; Psalm 103:8-13; Matthew 6:12-15; Matthew 18:15-35; Luke 17:3-4; Luke 23:34; Romans 12:17-21; Ephesians 4:31-32; Colossians 3:12-13
+
+Study questions:
+- How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?
+- In Matthew 18:21-35, how large is the first servant's debt compared with what his fellow servant owes him, and what point is Jesus making by the contrast?
+- Luke 17:3-4 speaks of rebuking a brother who sins and forgiving him when he repents. How does that fit with Jesus praying for those crucifying him in Luke 23:34?
+- What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?
+- Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?
+
 ## new-testament-books
 
 ### [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) — Book

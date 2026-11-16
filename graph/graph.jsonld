@@ -216,6 +216,135 @@
    ]
   },
   {
+   "@id": "bg:forgiveness-in-the-bible",
+   "@type": "bgo:LifeSituation",
+   "bgo:basis": "devotional",
+   "bgo:complements": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "bgo:confusedWith": {
+    "@id": "bg:reconciliation"
+   },
+   "bgo:domain": "living-the-word",
+   "bgo:explainedBy": {
+    "@id": "bg:day-of-atonement"
+   },
+   "bgo:file": "articles/living-the-word/forgiveness-in-the-bible.md",
+   "bgo:keyReference": [
+    "Colossians 3:12-13",
+    "Ephesians 4:31-32",
+    "Exodus 34:6-9",
+    "Genesis 50:15-21",
+    "Leviticus 19:17-18",
+    "Luke 17:3-4",
+    "Luke 23:34",
+    "Matthew 18:15-35",
+    "Matthew 6:12-15",
+    "Psalm 103:8-13",
+    "Romans 12:17-21"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": [
+    {
+     "@id": "bg:lords-prayer"
+    },
+    {
+     "@id": "bg:parable-of-the-unforgiving-servant"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9"
+    }
+   ],
+   "rdfs:label": "Forgiveness in the Bible",
+   "skos:altLabel": [
+    "aphiemi",
+    "forgiving one another",
+    "forgiving others",
+    "how often should I forgive",
+    "salach",
+    "seventy times seven"
+   ],
+   "skos:broader": {
+    "@id": "bg:grace"
+   },
+   "skos:definition": "What Scripture says to Christians who need to forgive, or to be forgiven: God's forgiveness of sin, freely given and proclaimed from Exodus 34 to the cross, and Jesus's call for his followers to forgive others from the heart as they have been forgiven, without pretending that harm did not happen.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/living-the-word"
+   },
+   "skos:prefLabel": "Forgiveness in the Bible",
+   "skos:related": [
+    {
+     "@id": "bg:atonement"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:lords-prayer"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:gospel-of-matthew",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -1254,6 +1383,46 @@
    "rdfs:label": "If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "rdfs:label": "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "rdfs:label": "In Matthew 18:21-35, how large is the first servant's debt compared with what his fellow servant owes him, and what point is Jesus making by the contrast?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "rdfs:label": "Luke 17:3-4 speaks of rebuking a brother who sins and forgiving him when he repents. How does that fit with Jesus praying for those crucifying him in Luke 23:34?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "rdfs:label": "What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "rdfs:label": "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -1942,6 +2111,230 @@
    "dcterms:title": "Catechism of the Catholic Church, §§120-123 (The Canon of Scripture)",
    "schema:url": {
     "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Matthew 18 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/matthew/18.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/romans/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Leviticus 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/leviticus/19.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Baker Books, via Bible Study Tools",
+   "dcterms:title": "Forgiveness (Barry D. Smith), Baker's Evangelical Dictionary of Biblical Theology",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/forgiveness.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Forgiveness, The Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/6233-forgiveness"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 2838-2845: And Forgive Us Our Trespasses",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PAB.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Book of Concord",
+   "dcterms:title": "Luther's Small Catechism, The Lord's Prayer: Fifth Petition",
+   "schema:url": {
+    "@id": "https://thebookofconcord.org/small-catechism/part-iii/petition-5/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Luther Seminary",
+   "dcterms:title": "Power and Forgiveness in Matthew 18 (Elaine J. Ramshaw), Word & World 18, no. 4 (1998): 397-404",
+   "schema:url": {
+    "@id": "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/18-4_Matthew/Power%20and%20Forgiveness%20in%20Matthew%2018.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Matthew 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/matthew/6.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/17.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/23.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Genesis 50 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/genesis/50.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Exodus 34 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/exodus/34.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Psalm 103:8-13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+bbe/ps/103/8-13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Ephesians 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/ephesians/4.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Colossians 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+bbe/col/3"
    }
   },
   {

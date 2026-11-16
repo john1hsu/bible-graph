@@ -200,6 +200,125 @@
   ]
  },
  {
+  "id": "bg:forgiveness-in-the-bible",
+  "title": "Forgiveness in the Bible",
+  "aliases": [
+   "forgiving others",
+   "forgiving one another",
+   "how often should I forgive",
+   "seventy times seven",
+   "aphiemi",
+   "salach"
+  ],
+  "type": "LifeSituation",
+  "domain": "living-the-word",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/living-the-word/forgiveness-in-the-bible.md",
+  "created": "2026-11-16",
+  "summary": "What Scripture says to Christians who need to forgive, or to be forgiven: God's forgiveness of sin, freely given and proclaimed from Exodus 34 to the cross, and Jesus's call for his followers to forgive others from the heart as they have been forgiven, without pretending that harm did not happen.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lords-prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:atonement"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:lords-prayer",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:parable-of-the-unforgiving-servant",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:loving-your-neighbor",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:confusedWith",
+    "object": "bg:reconciliation",
+    "source": "s16",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:day-of-atonement",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 34:6-9",
+   "Leviticus 19:17-18",
+   "Genesis 50:15-21",
+   "Psalm 103:8-13",
+   "Matthew 6:12-15",
+   "Matthew 18:15-35",
+   "Luke 17:3-4",
+   "Luke 23:34",
+   "Romans 12:17-21",
+   "Ephesians 4:31-32",
+   "Colossians 3:12-13"
+  ],
+  "studyQuestions": [
+   "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?",
+   "In Matthew 18:21-35, how large is the first servant's debt compared with what his fellow servant owes him, and what point is Jesus making by the contrast?",
+   "Luke 17:3-4 speaks of rebuking a brother who sins and forgiving him when he repents. How does that fit with Jesus praying for those crucifying him in Luke 23:34?",
+   "What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?",
+   "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.biblestudytools.com/web/matthew/18.html",
+   "https://www.biblestudytools.com/web/matthew/6.html",
+   "https://www.biblestudytools.com/web/luke/17.html",
+   "https://www.biblestudytools.com/web/luke/23.html",
+   "https://www.biblestudytools.com/web/genesis/50.html",
+   "https://www.biblestudytools.com/web/exodus/34.html",
+   "https://miamisdb.org/bible/web+bbe/ps/103/8-13",
+   "https://www.biblestudytools.com/web/ephesians/4.html",
+   "https://miamisdb.org/bible/web+bbe/col/3",
+   "https://biblehub.com/web/romans/12.htm",
+   "https://www.biblestudytools.com/web/leviticus/19.html",
+   "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/forgiveness.html",
+   "https://jewishencyclopedia.com/articles/6233-forgiveness",
+   "https://www.vatican.va/archive/ENG0015/__PAB.HTM",
+   "https://thebookofconcord.org/small-catechism/part-iii/petition-5/",
+   "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/18-4_Matthew/Power%20and%20Forgiveness%20in%20Matthew%2018.pdf"
+  ]
+ },
+ {
   "id": "bg:gospel-of-matthew",
   "title": "Gospel of Matthew",
   "aliases": [
