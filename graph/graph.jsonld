@@ -689,6 +689,135 @@
    ]
   },
   {
+   "@id": "bg:grace",
+   "@type": "bgo:Theme",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:complements": [
+    {
+     "@id": "bg:faith"
+    },
+    {
+     "@id": "bg:justification"
+    }
+   ],
+   "bgo:domain": "themes-and-theology",
+   "bgo:file": "articles/themes-and-theology/grace.md",
+   "bgo:keyReference": [
+    "2 Corinthians 12:9",
+    "2 Peter 1:4",
+    "Ephesians 2:8-10",
+    "Exodus 34:6",
+    "Genesis 6:8",
+    "John 1:17",
+    "Romans 3:24",
+    "Romans 5:20-21",
+    "Romans 6:1-2",
+    "Romans 6:14-15",
+    "Titus 2:11-14"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-theology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s9"
+    }
+   ],
+   "rdfs:label": "Grace",
+   "skos:altLabel": [
+    "God's grace",
+    "charis",
+    "chen",
+    "divine grace",
+    "grace of God",
+    "unmerited favor"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "skos:definition": "God's free, undeserved favour and the gift of his saving and transforming life, traced in Scripture from God's favour to Noah and his self-description as \"merciful and gracious\" in Exodus 34 to the grace that comes through Jesus Christ and saves \"through faith\"; Christian traditions agree that salvation begins in grace but describe how grace works in different ways.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology"
+   },
+   "skos:prefLabel": "Grace",
+   "skos:related": [
+    {
+     "@id": "bg:atonement"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:kingdom-of-god",
    "@type": "bgo:Theme",
    "bgo:basis": "scriptural",
@@ -2022,6 +2151,46 @@
     "@id": "bg:gospel-of-matthew"
    },
    "rdfs:label": "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:grace"
+   },
+   "rdfs:label": "Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:grace"
+   },
+   "rdfs:label": "According to Ephesians 2:8-10, what saves us, what does not, and what are we then created for?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:grace"
+   },
+   "rdfs:label": "In Romans 6:1-2, what wrong conclusion does Paul expect someone to draw from \"grace abounded\", and how does he answer it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:grace"
+   },
+   "rdfs:label": "Paul hears \"My grace is sufficient for you\" in a time of weakness (2 Corinthians 12:9). Where in your own life, or your church's, do you most need grace as strength rather than only as pardon?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:grace"
+   },
+   "rdfs:label": "Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1",
@@ -3452,6 +3621,286 @@
    "dcterms:title": "Introduction to Matthew (ESV Global Study Bible)",
    "schema:url": {
     "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Exodus 34:6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/exodus/34-6"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Peter 1:4 (King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/kjv/2_peter/1-4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Grace (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Grace"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Grace (Andrew H. Trotter Jr., Baker's Evangelical Dictionary of Biblical Theology)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/grace.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Grace (Christianity)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/print/article/240435"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 1996-2005 (Grace)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "BookofConcord.org",
+   "dcterms:title": "Augsburg Confession, Article IV (Of Justification)",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/augsburg-confession/article-iv"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The United Methodist Church",
+   "dcterms:title": "Distinctive Wesleyan Emphases (from The Book of Discipline of The United Methodist Church)",
+   "schema:url": {
+    "@id": "https://www.umc.org/content/distinctive-wesleyan-emphases"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Lutheran World Federation",
+   "dcterms:title": "Joint Declaration on the Doctrine of Justification",
+   "schema:url": {
+    "@id": "https://www.lutheranworld.org/jddj"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Gospel Coalition",
+   "dcterms:title": "Salvation as Theosis - The Teaching of Eastern Orthodoxy (Donald Fairbairn, Themelios 23.3)",
+   "schema:url": {
+    "@id": "https://www.thegospelcoalition.org/themelios/article/salvation-as-theosis-the-teaching-of-eastern-orthodoxy/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Most Precious Promise (V. Rev. Vladimir Berzonsky)",
+   "schema:url": {
+    "@id": "https://www.oca.org/reflections/berzonsky/the-most-precious-promise"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Genesis 6:8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://worthy.bible/bible/web/genesis/6/8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Yeshivat Har Etzion (Torat Har Etzion)",
+   "dcterms:title": "The Secret of Selichot - The Thirteen Attributes of Mercy (Rav Ezra Bick)",
+   "schema:url": {
+    "@id": "https://www.etzion.org.il/en/secret-selichot-thirteen-attributes-mercy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 1:17 (parallel translations)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/john/1-17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 3:24 (multiple translations)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/romans/3-24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Romans 5:20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/romans/5-20.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Romans 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/romans/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "miamisdb.org",
+   "dcterms:title": "Ephesians 2:8-10 (American Standard Version and World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/asv+web/eph/2/8-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Titus 2:11-14 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/titus/2-11-14"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/grace/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "2 Corinthians 12:9-10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/2-corinthians/12-9-10"
    }
   },
   {

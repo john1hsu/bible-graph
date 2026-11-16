@@ -197,6 +197,17 @@ Study questions:
 
 ## themes-and-theology
 
+### [Grace](../articles/themes-and-theology/grace.md) — Theme
+
+Read: Genesis 6:8; Exodus 34:6; John 1:17; Romans 3:24; Romans 5:20-21; Romans 6:1-2; Romans 6:14-15; Ephesians 2:8-10; Titus 2:11-14; 2 Corinthians 12:9; 2 Peter 1:4
+
+Study questions:
+- Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?
+- According to Ephesians 2:8-10, what saves us, what does not, and what are we then created for?
+- In Romans 6:1-2, what wrong conclusion does Paul expect someone to draw from "grace abounded", and how does he answer it?
+- Paul hears "My grace is sufficient for you" in a time of weakness (2 Corinthians 12:9). Where in your own life, or your church's, do you most need grace as strength rather than only as pardon?
+- Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?
+
 ### [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) — Theme
 
 Read: Psalm 145:11-13; Isaiah 52:7; Daniel 2:44; Mark 1:14-15; Mark 4:26-32; Matthew 6:10; Luke 11:20; Luke 17:20-21; John 18:36; Romans 14:17; Revelation 11:15

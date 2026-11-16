@@ -4,6 +4,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Genesis
 
+- **Genesis 6:8** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Exodus
@@ -18,6 +19,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Exodus 34:6** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Exodus 34:6-9** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Leviticus
@@ -125,6 +127,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## John
 
+- **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -181,6 +184,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Romans
 
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Romans 3:24** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Romans 5:20-21** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -195,6 +202,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Corinthians
 
 - **2 Corinthians 11:25** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **2 Corinthians 12:9** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 
 ## Galatians
 
@@ -206,6 +214,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Ephesians
 
+- **Ephesians 2:8-10** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Ephesians 4:31-32** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Philippians
@@ -224,6 +233,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
+## Titus
+
+- **Titus 2:11-14** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+
 ## Hebrews
 
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
@@ -234,6 +247,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Peter
 
+- **2 Peter 1:4** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
 ## Revelation

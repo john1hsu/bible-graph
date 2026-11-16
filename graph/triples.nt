@@ -370,6 +370,76 @@
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?" .
+<https://github.com/john1hsu/bible-graph/id/grace/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Ephesians 2:8-10, what saves us, what does not, and what are we then created for?" .
+<https://github.com/john1hsu/bible-graph/id/grace/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Romans 6:1-2, what wrong conclusion does Paul expect someone to draw from \"grace abounded\", and how does he answer it?" .
+<https://github.com/john1hsu/bible-graph/id/grace/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Paul hears \"My grace is sufficient for you\" in a time of weakness (2 Corinthians 12:9). Where in your own life, or your church's, do you most need grace as strength rather than only as pardon?" .
+<https://github.com/john1hsu/bible-graph/id/grace/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grace/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?" .
+<https://github.com/john1hsu/bible-graph/id/grace/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Theme> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2000/01/rdf-schema#label> "Grace" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "God's grace" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "charis" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "chen" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "divine grace" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "grace of God" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#altLabel> "unmerited favor" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#definition> "God's free, undeserved favour and the gift of his saving and transforming life, traced in Scripture from God's favour to Noah and his self-description as \"merciful and gracious\" in Exodus 34 to the grace that comes through Jesus Christ and saves \"through faith\"; Christian traditions agree that salvation begins in grace but describe how grace works in different ways." .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grace" .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/atonement> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s10> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s11> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s12> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s13> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s14> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s15> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s16> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s17> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s18> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s19> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s1> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s20> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s2> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s3> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s4> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s5> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s6> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s7> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s8> .
+<https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grace/s9> .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/faith> .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/justification> .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#domain> "themes-and-theology" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/themes-and-theology/grace.md" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Corinthians 12:9" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Peter 1:4" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ephesians 2:8-10" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 34:6" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 6:8" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:17" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 3:24" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 5:20-21" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 6:1-2" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 6:14-15" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Titus 2:11-14" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?" .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -1376,6 +1446,126 @@
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s5> <https://schema.org/url> <https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <http://purl.org/dc/terms/title> "2 Peter 1:4 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s10> <https://schema.org/url> <https://biblehub.com/kjv/2_peter/1-4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <http://purl.org/dc/terms/title> "Grace (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s11> <https://schema.org/url> <https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Grace> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <http://purl.org/dc/terms/title> "Grace (Andrew H. Trotter Jr., Baker's Evangelical Dictionary of Biblical Theology)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s12> <https://schema.org/url> <https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/grace.html> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <http://purl.org/dc/terms/title> "Grace (Christianity)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s13> <https://schema.org/url> <https://www.britannica.com/print/article/240435> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, 1996-2005 (Grace)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s14> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <http://purl.org/dc/terms/publisher> "BookofConcord.org" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <http://purl.org/dc/terms/title> "Augsburg Confession, Article IV (Of Justification)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s15> <https://schema.org/url> <https://bookofconcord.org/augsburg-confession/article-iv> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <http://purl.org/dc/terms/publisher> "The United Methodist Church" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <http://purl.org/dc/terms/title> "Distinctive Wesleyan Emphases (from The Book of Discipline of The United Methodist Church)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s16> <https://schema.org/url> <https://www.umc.org/content/distinctive-wesleyan-emphases> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <http://purl.org/dc/terms/publisher> "The Lutheran World Federation" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <http://purl.org/dc/terms/title> "Joint Declaration on the Doctrine of Justification" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s17> <https://schema.org/url> <https://www.lutheranworld.org/jddj> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <http://purl.org/dc/terms/publisher> "The Gospel Coalition" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <http://purl.org/dc/terms/title> "Salvation as Theosis - The Teaching of Eastern Orthodoxy (Donald Fairbairn, Themelios 23.3)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s18> <https://schema.org/url> <https://www.thegospelcoalition.org/themelios/article/salvation-as-theosis-the-teaching-of-eastern-orthodoxy/> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <http://purl.org/dc/terms/title> "The Most Precious Promise (V. Rev. Vladimir Berzonsky)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s19> <https://schema.org/url> <https://www.oca.org/reflections/berzonsky/the-most-precious-promise> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <http://purl.org/dc/terms/title> "Exodus 34:6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s1> <https://schema.org/url> <https://www.christianity.com/bible/web/exodus/34-6> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <http://purl.org/dc/terms/publisher> "Yeshivat Har Etzion (Torat Har Etzion)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <http://purl.org/dc/terms/title> "The Secret of Selichot - The Thirteen Attributes of Mercy (Rav Ezra Bick)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s20> <https://schema.org/url> <https://www.etzion.org.il/en/secret-selichot-thirteen-attributes-mercy> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <http://purl.org/dc/terms/title> "Genesis 6:8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s2> <https://schema.org/url> <https://worthy.bible/bible/web/genesis/6/8> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <http://purl.org/dc/terms/title> "John 1:17 (parallel translations)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s3> <https://schema.org/url> <https://biblehub.com/parallel/john/1-17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <http://purl.org/dc/terms/title> "Romans 3:24 (multiple translations)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s4> <https://schema.org/url> <https://biblehub.com/multi/romans/3-24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <http://purl.org/dc/terms/title> "Romans 5:20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/romans/5-20.html> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <http://purl.org/dc/terms/title> "Romans 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s6> <https://schema.org/url> <https://bibliaparalela.com/web/romans/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <http://purl.org/dc/terms/publisher> "miamisdb.org" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <http://purl.org/dc/terms/title> "Ephesians 2:8-10 (American Standard Version and World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s7> <https://schema.org/url> <https://miamisdb.org/bible/asv+web/eph/2/8-10> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <http://purl.org/dc/terms/title> "Titus 2:11-14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s8> <https://schema.org/url> <https://www.christianity.com/bible/web/titus/2-11-14> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://purl.org/dc/terms/title> "2 Corinthians 12:9-10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/2-corinthians/12-9-10> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/publisher> "Christianity.com" .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/title> "John 18:36 (World English Bible)" .

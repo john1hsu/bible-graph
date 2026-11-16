@@ -663,6 +663,109 @@
   ]
  },
  {
+  "id": "bg:grace",
+  "title": "Grace",
+  "aliases": [
+   "grace of God",
+   "divine grace",
+   "God's grace",
+   "unmerited favor",
+   "charis",
+   "chen"
+  ],
+  "type": "Theme",
+  "domain": "themes-and-theology",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/themes-and-theology/grace.md",
+  "created": "2026-11-16",
+  "summary": "God's free, undeserved favour and the gift of his saving and transforming life, traced in Scripture from God's favour to Noah and his self-description as \"merciful and gracious\" in Exodus 34 to the grace that comes through Jesus Christ and saves \"through faith\"; Christian traditions agree that salvation begins in grace but describe how grace works in different ways.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:atonement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:faith",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:justification",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-theology",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Genesis 6:8",
+   "Exodus 34:6",
+   "John 1:17",
+   "Romans 3:24",
+   "Romans 5:20-21",
+   "Romans 6:1-2",
+   "Romans 6:14-15",
+   "Ephesians 2:8-10",
+   "Titus 2:11-14",
+   "2 Corinthians 12:9",
+   "2 Peter 1:4"
+  ],
+  "studyQuestions": [
+   "Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?",
+   "According to Ephesians 2:8-10, what saves us, what does not, and what are we then created for?",
+   "In Romans 6:1-2, what wrong conclusion does Paul expect someone to draw from \"grace abounded\", and how does he answer it?",
+   "Paul hears \"My grace is sufficient for you\" in a time of weakness (2 Corinthians 12:9). Where in your own life, or your church's, do you most need grace as strength rather than only as pardon?",
+   "Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.christianity.com/bible/web/exodus/34-6",
+   "https://worthy.bible/bible/web/genesis/6/8",
+   "https://biblehub.com/parallel/john/1-17.htm",
+   "https://biblehub.com/multi/romans/3-24.htm",
+   "https://www.biblestudytools.com/web/romans/5-20.html",
+   "https://bibliaparalela.com/web/romans/6.htm",
+   "https://miamisdb.org/bible/asv+web/eph/2/8-10",
+   "https://www.christianity.com/bible/web/titus/2-11-14",
+   "https://www.christianity.com/bible/web/2-corinthians/12-9-10",
+   "https://biblehub.com/kjv/2_peter/1-4.htm",
+   "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Grace",
+   "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/grace.html",
+   "https://www.britannica.com/print/article/240435",
+   "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html",
+   "https://bookofconcord.org/augsburg-confession/article-iv",
+   "https://www.umc.org/content/distinctive-wesleyan-emphases",
+   "https://www.lutheranworld.org/jddj",
+   "https://www.thegospelcoalition.org/themelios/article/salvation-as-theosis-the-teaching-of-eastern-orthodoxy/",
+   "https://www.oca.org/reflections/berzonsky/the-most-precious-promise",
+   "https://www.etzion.org.il/en/secret-selichot-thirteen-attributes-mercy"
+  ]
+ },
+ {
   "id": "bg:kingdom-of-god",
   "title": "Kingdom of God",
   "aliases": [
