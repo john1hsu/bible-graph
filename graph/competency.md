@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no passage, theme, doctrine or practice that speaks to them?_ — `queries/03-situations-without-scripture.rq`
 
-| node |
-|---|
-| `bg:forgiveness-in-the-bible` |
+_No results._
 
 ## Themes traced across Scripture
 
@@ -30,7 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Paul |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
 | `bg:redemption` | The Exodus |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
 

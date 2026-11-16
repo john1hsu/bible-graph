@@ -50,6 +50,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
+## Ezekiel
+
+- **Ezekiel 36:23** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+
 ## Daniel
 
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -64,6 +68,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 5:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 6:1-34** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Matthew 6:5-15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Matthew 6:9-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 6:10** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Matthew 6:12-15** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 7:1-29** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -73,7 +79,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 16:16-18** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 18:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 18:21-35** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 
 ## Mark
@@ -89,6 +97,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -142,6 +151,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Romans
 
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
@@ -178,6 +188,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Timothy
 
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+
+## James
+
+- **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 
 ## 2 Peter
 

@@ -101,6 +101,17 @@ Study questions:
 - Read the three examples of "secret" devotion in Matthew 6:1-18 (giving, prayer, fasting). What do they have in common, and which one most challenges your own habits?
 - The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would "doing" one of these teachings look like for you or your group this week?
 
+### [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) — Passage
+
+Read: Matthew 6:9-13; Matthew 6:5-15; Luke 11:1-13; Ezekiel 36:23; Matthew 26:42; Romans 8:15; James 1:13; Matthew 18:21-35
+
+Study questions:
+- Compare Matthew 6:9-13 with Luke 11:2-4. Which petitions do both share, and what setting does each Gospel give the prayer (Matthew 6:5-8; Luke 11:1)?
+- The first petitions are about God's name, kingdom and will; the later ones about our bread, our sins and our testing. What does that order teach about how to pray?
+- Every pronoun in the prayer is plural ("our", "us"). How does praying it change if I picture my church, or the believers I find hardest to love, praying it with me?
+- In Matthew 6:14-15 Jesus adds a comment on just one petition. Which one, and why might he single it out?
+- Jesus prays "your desire be done" in Gethsemane (Matthew 26:42). How does that scene deepen what it means to pray "your will be done"?
+
 ## living-the-word
 
 ### [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) — LifeSituation
