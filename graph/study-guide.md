@@ -14,6 +14,18 @@ Study questions:
 - Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?
 - Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?
 
+## bible-basics
+
+### [Biblical Canon](../articles/bible-basics/biblical-canon.md) — Concept
+
+Read: Luke 24:44; 2 Peter 3:15-16; 2 Timothy 3:16
+
+Study questions:
+- In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?
+- How does 2 Peter 3:15-16 describe Paul's letters, and what does that suggest about how early Christians regarded them?
+- Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
+- If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
+
 ## new-testament-books
 
 ### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book

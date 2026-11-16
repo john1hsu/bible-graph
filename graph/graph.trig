@@ -11,6 +11,21 @@
 <https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> .
 <https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> .
 <https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/bible-basics/biblical-canon.md" .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> .
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/new-testament-books/gospel-of-matthew.md" .
@@ -121,6 +136,130 @@
   <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <https://schema.org/url> <https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/biblical-canon#graph> {
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "How does 2 Peter 3:15-16 describe Paul's letters, and what does that suggest about how early Christians regarded them?" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2000/01/rdf-schema#label> "Biblical Canon" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#altLabel> "canon of Scripture" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#altLabel> "canon of the Bible" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#altLabel> "kanon" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#altLabel> "scriptural canon" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#definition> "The list of books a church receives as Holy Scripture: the \"measuring rod\" collection that makes up the Old and New Testaments, recognised gradually over centuries and still slightly different in size among Catholic, Orthodox and Protestant Christians." .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/bible-basics> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biblical Canon" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-testament> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#domain> "bible-basics" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/marcion> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/bible-basics/biblical-canon.md" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Peter 3:15-16" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Timothy 3:16" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:44" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/publisher> "creeds.net" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <https://schema.org/url> <https://www.creeds.net/reformed/Westminster/c01.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <http://purl.org/dc/terms/publisher> "Anglican Church of Canada" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <http://purl.org/dc/terms/title> "Articles of Religion (Thirty-Nine Articles), Article VI" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11> <https://schema.org/url> <https://www.anglican.ca/resources/articles-of-religion/> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <http://purl.org/dc/terms/title> "Canon of Scripture (Questions and Answers)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12> <https://schema.org/url> <https://www.oca.org/questions/scripture/canon-of-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <http://purl.org/dc/terms/title> "Luke 24:44 (World English Bible and other versions)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1> <https://schema.org/url> <https://biblehub.com/multi/luke/24-44.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <http://purl.org/dc/terms/title> "2 Peter 3:16 (World English Bible, KJV and parallel versions)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2> <https://schema.org/url> <https://biblehub.com/parallel/2_peter/3-16.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <http://purl.org/dc/terms/title> "2 Peter 3:15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3> <https://schema.org/url> <https://www.christianity.com/bible/web/2-peter/3-15> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <http://purl.org/dc/terms/title> "2 Timothy 3:16 (World English Bible, KJV and parallel versions)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4> <https://schema.org/url> <https://biblehub.com/parallel/2_timothy/3-16.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <http://purl.org/dc/terms/title> "Why Does the Bible Look the Way It Does?" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5> <https://schema.org/url> <https://www.bibleodyssey.org/articles/why-does-the-bible-look-the-way-it-does/> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <http://purl.org/dc/terms/title> "Canon of the New Testament (International Standard Bible Encyclopedia, J. S. Riggs)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6> <https://schema.org/url> <https://biblehub.com/topical/c/canon_of_the_new_testament.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <http://purl.org/dc/terms/publisher> "Early Church Texts" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <http://purl.org/dc/terms/title> "Athanasius of Alexandria, Festal Letter 39 (Greek text, Patrologia Graeca 26)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7> <https://schema.org/url> <https://earlychurchtexts.com/main/athanasius/festal_letter_39.shtml> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <http://purl.org/dc/terms/publisher> "EWTN" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <http://purl.org/dc/terms/title> "Council of Trent, Session IV, Decree Concerning the Canonical Scriptures (1546)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8> <https://schema.org/url> <https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, §§120-123 (The Canon of Scripture)" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> {
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Matthew 1:1 calls Jesus \"the son of David, the son of Abraham.\" Why might Matthew open with those two names in particular?" .
@@ -206,6 +345,14 @@
 
 <https://github.com/john1hsu/bible-graph/id/inferred> {
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
@@ -221,11 +368,15 @@
   <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/marcion> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/nicodemus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -240,5 +391,8 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
 }

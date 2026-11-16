@@ -4,16 +4,24 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `bg:gospels` | 3.84 | - | `bg:gospel-of-matthew` |
-| `bg:sadducees` | 3.82 | - | `bg:pharisees` |
-| `bg:second-temple-judaism` | 3.82 | - | `bg:pharisees` |
-| `bg:gospel-of-luke` | 2.17 | - | `bg:gospel-of-matthew` |
-| `bg:gospel-of-mark` | 2.17 | - | `bg:gospel-of-matthew` |
-| `bg:great-commission` | 2.17 | - | `bg:gospel-of-matthew` |
-| `bg:kingdom-of-god` | 2.17 | - | `bg:gospel-of-matthew` |
-| `bg:sermon-on-the-mount` | 2.17 | - | `bg:gospel-of-matthew` |
-| `bg:paul` | 2.16 | - | `bg:pharisees` |
-| `bg:matthew-the-apostle` | 1.67 | Person | `bg:gospel-of-matthew` |
-| `bg:antiquities-of-the-jews` | 1.66 | - | `bg:pharisees` |
-| `bg:nicodemus` | 1.66 | - | `bg:pharisees` |
-| `bg:rabbinic-judaism` | 1.66 | - | `bg:pharisees` |
+| `bg:gospels` | 3.35 | - | `bg:gospel-of-matthew` |
+| `bg:sadducees` | 3.34 | - | `bg:pharisees` |
+| `bg:second-temple-judaism` | 3.34 | - | `bg:pharisees` |
+| `bg:gospel-of-luke` | 1.92 | - | `bg:gospel-of-matthew` |
+| `bg:gospel-of-mark` | 1.92 | - | `bg:gospel-of-matthew` |
+| `bg:great-commission` | 1.92 | - | `bg:gospel-of-matthew` |
+| `bg:kingdom-of-god` | 1.92 | - | `bg:gospel-of-matthew` |
+| `bg:sermon-on-the-mount` | 1.92 | - | `bg:gospel-of-matthew` |
+| `bg:paul` | 1.92 | - | `bg:pharisees` |
+| `bg:deuterocanonical-books` | 1.87 | - | `bg:biblical-canon` |
+| `bg:inspiration-of-scripture` | 1.87 | - | `bg:biblical-canon` |
+| `bg:new-testament` | 1.87 | - | `bg:biblical-canon` |
+| `bg:old-testament` | 1.87 | - | `bg:biblical-canon` |
+| `bg:septuagint` | 1.87 | - | `bg:biblical-canon` |
+| `bg:the-bible` | 1.87 | - | `bg:biblical-canon` |
+| `bg:matthew-the-apostle` | 1.42 | Person | `bg:gospel-of-matthew` |
+| `bg:antiquities-of-the-jews` | 1.42 | - | `bg:pharisees` |
+| `bg:nicodemus` | 1.42 | - | `bg:pharisees` |
+| `bg:rabbinic-judaism` | 1.42 | - | `bg:pharisees` |
+| `bg:festal-letter-39-of-athanasius` | 1.37 | - | `bg:biblical-canon` |
+| `bg:marcion` | 1.37 | - | `bg:biblical-canon` |

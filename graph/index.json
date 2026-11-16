@@ -1,5 +1,89 @@
 [
  {
+  "id": "bg:biblical-canon",
+  "title": "Biblical Canon",
+  "aliases": [
+   "canon of Scripture",
+   "canon of the Bible",
+   "scriptural canon",
+   "kanon"
+  ],
+  "type": "Concept",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/bible-basics/biblical-canon.md",
+  "created": "2026-11-16",
+  "summary": "The list of books a church receives as Holy Scripture: the \"measuring rod\" collection that makes up the Old and New Testaments, recognised gradually over centuries and still slightly different in size among Catholic, Orthodox and Protestant Christians.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:new-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inspiration-of-scripture"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:septuagint",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:festal-letter-39-of-athanasius",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:marcion",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 24:44",
+   "2 Peter 3:15-16",
+   "2 Timothy 3:16"
+  ],
+  "studyQuestions": [
+   "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?",
+   "How does 2 Peter 3:15-16 describe Paul's letters, and what does that suggest about how early Christians regarded them?",
+   "Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?",
+   "If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/multi/luke/24-44.htm",
+   "https://biblehub.com/parallel/2_peter/3-16.htm",
+   "https://www.christianity.com/bible/web/2-peter/3-15",
+   "https://biblehub.com/parallel/2_timothy/3-16.htm",
+   "https://www.bibleodyssey.org/articles/why-does-the-bible-look-the-way-it-does/",
+   "https://biblehub.com/topical/c/canon_of_the_new_testament.htm",
+   "https://earlychurchtexts.com/main/athanasius/festal_letter_39.shtml",
+   "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494",
+   "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html",
+   "https://www.creeds.net/reformed/Westminster/c01.htm",
+   "https://www.anglican.ca/resources/articles-of-religion/",
+   "https://www.oca.org/questions/scripture/canon-of-scripture"
+  ]
+ },
+ {
   "id": "bg:gospel-of-matthew",
   "title": "Gospel of Matthew",
   "aliases": [

@@ -14,6 +14,101 @@
  },
  "@graph": [
   {
+   "@id": "bg:biblical-canon",
+   "@type": "bgo:Concept",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:domain": "bible-basics",
+   "bgo:explainedBy": [
+    {
+     "@id": "bg:marcion"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ],
+   "bgo:file": "articles/bible-basics/biblical-canon.md",
+   "bgo:keyReference": [
+    "2 Peter 3:15-16",
+    "2 Timothy 3:16",
+    "Luke 24:44"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": {
+    "@id": "bg:festal-letter-39-of-athanasius"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9"
+    }
+   ],
+   "rdfs:label": "Biblical Canon",
+   "skos:altLabel": [
+    "canon of Scripture",
+    "canon of the Bible",
+    "kanon",
+    "scriptural canon"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The list of books a church receives as Holy Scripture: the \"measuring rod\" collection that makes up the Old and New Testaments, recognised gradually over centuries and still slightly different in size among Catholic, Orthodox and Protestant Christians.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "Biblical Canon",
+   "skos:related": [
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:inspiration-of-scripture"
+    },
+    {
+     "@id": "bg:new-testament"
+    },
+    {
+     "@id": "bg:old-testament"
+    }
+   ]
+  },
+  {
    "@id": "bg:gospel-of-matthew",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -186,6 +281,38 @@
    ]
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-canon"
+   },
+   "rdfs:label": "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-canon"
+   },
+   "rdfs:label": "How does 2 Peter 3:15-16 describe Paul's letters, and what does that suggest about how early Christians regarded them?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-canon"
+   },
+   "rdfs:label": "Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-canon"
+   },
+   "rdfs:label": "If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -323,6 +450,174 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 24:44 (World English Bible and other versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/luke/24-44.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "creeds.net",
+   "dcterms:title": "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)",
+   "schema:url": {
+    "@id": "https://www.creeds.net/reformed/Westminster/c01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Anglican Church of Canada",
+   "dcterms:title": "Articles of Religion (Thirty-Nine Articles), Article VI",
+   "schema:url": {
+    "@id": "https://www.anglican.ca/resources/articles-of-religion/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Canon of Scripture (Questions and Answers)",
+   "schema:url": {
+    "@id": "https://www.oca.org/questions/scripture/canon-of-scripture"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Peter 3:16 (World English Bible, KJV and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/2_peter/3-16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "2 Peter 3:15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/2-peter/3-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Timothy 3:16 (World English Bible, KJV and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/2_timothy/3-16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "Why Does the Bible Look the Way It Does?",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.org/articles/why-does-the-bible-look-the-way-it-does/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Canon of the New Testament (International Standard Bible Encyclopedia, J. S. Riggs)",
+   "schema:url": {
+    "@id": "https://biblehub.com/topical/c/canon_of_the_new_testament.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Early Church Texts",
+   "dcterms:title": "Athanasius of Alexandria, Festal Letter 39 (Greek text, Patrologia Graeca 26)",
+   "schema:url": {
+    "@id": "https://earlychurchtexts.com/main/athanasius/festal_letter_39.shtml"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "EWTN",
+   "dcterms:title": "Council of Trent, Session IV, Decree Concerning the Canonical Scriptures (1546)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, §§120-123 (The Canon of Scripture)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1",

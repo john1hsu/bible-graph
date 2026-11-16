@@ -23,6 +23,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
 ## John
 
@@ -36,4 +37,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Philippians
 
 - **Philippians 3:5-6** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+
+## 2 Timothy
+
+- **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+
+## 2 Peter
+
+- **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
