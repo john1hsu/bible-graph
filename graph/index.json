@@ -1,5 +1,100 @@
 [
  {
+  "id": "bg:gospel-of-matthew",
+  "title": "Gospel of Matthew",
+  "aliases": [
+   "Matthew",
+   "Book of Matthew",
+   "Gospel According to Matthew",
+   "Gospel According to Saint Matthew"
+  ],
+  "type": "Book",
+  "domain": "new-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-books/gospel-of-matthew.md",
+  "created": "2026-11-16",
+  "summary": "The first book of the New Testament: an account of the life, teaching, death and resurrection of Jesus that presents him as Israel's Messiah, Son of David and Son of God, organised around five great teaching discourses and closing with the commission to make disciples of all nations.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:great-commission"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospels",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:matthew-the-apostle",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:pharisees",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:gospel-of-mark",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Matthew 1:1",
+   "Matthew 1:22-23",
+   "Matthew 4:17",
+   "Matthew 5:17-20",
+   "Matthew 7:28-29",
+   "Matthew 9:9",
+   "Matthew 16:16-18",
+   "Matthew 18:17-20",
+   "Matthew 28:18-20"
+  ],
+  "studyQuestions": [
+   "Matthew 1:1 calls Jesus \"the son of David, the son of Abraham.\" Why might Matthew open with those two names in particular?",
+   "Find the sentence that closes each of the five teaching blocks (Matthew 7:28, 11:1, 13:53, 19:1 and 26:1). What does each discourse teach disciples about life in the kingdom?",
+   "In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets, and what kind of righteousness does he ask of his followers?",
+   "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-asv/Matthew.htm",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Matthew",
+   "https://ccel.org/ccel/schaff/anf01.vii.ii.vi.html",
+   "https://bible.usccb.org/bible/matthew/0",
+   "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+  ]
+ },
+ {
   "id": "bg:pharisees",
   "title": "Pharisees",
   "aliases": [

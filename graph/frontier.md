@@ -4,10 +4,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `bg:sadducees` | 4.76 | - | `bg:pharisees` |
-| `bg:second-temple-judaism` | 4.76 | - | `bg:pharisees` |
-| `bg:gospel-of-matthew` | 2.63 | - | `bg:pharisees` |
-| `bg:paul` | 2.63 | - | `bg:pharisees` |
-| `bg:antiquities-of-the-jews` | 2.13 | - | `bg:pharisees` |
-| `bg:nicodemus` | 2.13 | - | `bg:pharisees` |
-| `bg:rabbinic-judaism` | 2.13 | - | `bg:pharisees` |
+| `bg:gospels` | 3.84 | - | `bg:gospel-of-matthew` |
+| `bg:sadducees` | 3.82 | - | `bg:pharisees` |
+| `bg:second-temple-judaism` | 3.82 | - | `bg:pharisees` |
+| `bg:gospel-of-luke` | 2.17 | - | `bg:gospel-of-matthew` |
+| `bg:gospel-of-mark` | 2.17 | - | `bg:gospel-of-matthew` |
+| `bg:great-commission` | 2.17 | - | `bg:gospel-of-matthew` |
+| `bg:kingdom-of-god` | 2.17 | - | `bg:gospel-of-matthew` |
+| `bg:sermon-on-the-mount` | 2.17 | - | `bg:gospel-of-matthew` |
+| `bg:paul` | 2.16 | - | `bg:pharisees` |
+| `bg:matthew-the-apostle` | 1.67 | Person | `bg:gospel-of-matthew` |
+| `bg:antiquities-of-the-jews` | 1.66 | - | `bg:pharisees` |
+| `bg:nicodemus` | 1.66 | - | `bg:pharisees` |
+| `bg:rabbinic-judaism` | 1.66 | - | `bg:pharisees` |

@@ -14,3 +14,15 @@ Study questions:
 - Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?
 - Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?
 
+## new-testament-books
+
+### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book
+
+Read: Matthew 1:1; Matthew 1:22-23; Matthew 4:17; Matthew 5:17-20; Matthew 7:28-29; Matthew 9:9; Matthew 16:16-18; Matthew 18:17-20; Matthew 28:18-20
+
+Study questions:
+- Matthew 1:1 calls Jesus "the son of David, the son of Abraham." Why might Matthew open with those two names in particular?
+- Find the sentence that closes each of the five teaching blocks (Matthew 7:28, 11:1, 13:53, 19:1 and 26:1). What does each discourse teach disciples about life in the kingdom?
+- In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets, and what kind of righteousness does he ask of his followers?
+- The Gospel begins with "God with us" (1:23) and ends with "I am with you always" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?
+

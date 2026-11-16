@@ -14,6 +14,90 @@
  },
  "@graph": [
   {
+   "@id": "bg:gospel-of-matthew",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:matthew-the-apostle"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "new-testament-books",
+   "bgo:features": {
+    "@id": "bg:pharisees"
+   },
+   "bgo:file": "articles/new-testament-books/gospel-of-matthew.md",
+   "bgo:keyReference": [
+    "Matthew 16:16-18",
+    "Matthew 18:17-20",
+    "Matthew 1:1",
+    "Matthew 1:22-23",
+    "Matthew 28:18-20",
+    "Matthew 4:17",
+    "Matthew 5:17-20",
+    "Matthew 7:28-29",
+    "Matthew 9:9"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "bgo:partOf": {
+    "@id": "bg:gospels"
+   },
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s5"
+    }
+   ],
+   "rdfs:label": "Gospel of Matthew",
+   "skos:altLabel": [
+    "Book of Matthew",
+    "Gospel According to Matthew",
+    "Gospel According to Saint Matthew",
+    "Matthew"
+   ],
+   "skos:broader": {
+    "@id": "bg:gospels"
+   },
+   "skos:definition": "The first book of the New Testament: an account of the life, teaching, death and resurrection of Jesus that presents him as Israel's Messiah, Son of David and Son of God, organised around five great teaching discourses and closing with the commission to make disciples of all nations.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books"
+   },
+   "skos:prefLabel": "Gospel of Matthew",
+   "skos:related": [
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:great-commission"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:pharisees",
    "@type": "bgo:Group",
    "bgo:basis": "debated",
@@ -100,6 +184,38 @@
      "@id": "bg:sadducees"
     }
    ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "rdfs:label": "Matthew 1:1 calls Jesus \"the son of David, the son of Abraham.\" Why might Matthew open with those two names in particular?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "rdfs:label": "Find the sentence that closes each of the five teaching blocks (Matthew 7:28, 11:1, 13:53, 19:1 and 26:1). What does each discourse teach disciples about life in the kingdom?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "rdfs:label": "In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets, and what kind of righteousness does he ask of his followers?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "rdfs:label": "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/1",
@@ -207,6 +323,76 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "The Gospel According to St. Matthew (American Standard Version)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-asv/Matthew.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Matthew, Gospel of (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Matthew"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Fragments of Papias, VI (from Eusebius, Church History 3.39), Ante-Nicene Fathers vol. 1, ed. Philip Schaff",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/schaff/anf01.vii.ii.vi.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "The Gospel According to Matthew — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/matthew/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-matthew/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Crossway / ESV.org",
+   "dcterms:title": "Introduction to Matthew (ESV Global Study Bible)",
+   "schema:url": {
+    "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s1",

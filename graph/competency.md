@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:gospel-of-matthew` |
 
 ## Life situations with no Scripture (gap)
 
@@ -24,13 +26,17 @@ _No results._
 
 _For each theme, covenant and doctrine, which books and passages teach it and which people and events illustrate it?_ — `queries/04-themes-across-scripture.rq`
 
-_No results._
+| theme | texts |
+|---|---|
+| `bg:kingdom-of-god` | Gospel of Matthew |
 
 ## Who and what appears where
 
 _Which people, groups, places and events appear in each book, passage or event?_ — `queries/05-who-appears-where.rq`
 
-_No results._
+| text | appears |
+|---|---|
+| `bg:gospel-of-matthew` | `bg:pharisees` |
 
 ## Popular misconceptions and what corrects them
 
@@ -42,17 +48,13 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:pharisees` | bgo:Group |
+_No results._
 
 ## Orphan articles (gap)
 
 _Which written articles does nothing else in the graph point to (after inference)?_ — `queries/08-orphans.rq`
 
-| node |
-|---|
-| `bg:pharisees` |
+_No results._
 
 ## Teachings and practices by tradition
 
