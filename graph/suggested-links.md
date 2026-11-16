@@ -4,15 +4,19 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 2.35 | `bg:acts-of-the-apostles` | `bg:gospel-of-matthew` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
+| 1.88 | `bg:acts-of-the-apostles` | `bg:gospel-of-matthew` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
 | 1.44 | `bg:acts-of-the-apostles` | `bg:biblical-canon` | `bg:new-testament` |
 | 1.44 | `bg:biblical-canon` | `bg:second-temple-judaism` | `bg:septuagint` |
+| 1.44 | `bg:kingdom-of-god` | `bg:the-exodus` | `bg:the-story-of-the-bible` |
 | 1.44 | `bg:sermon-on-the-mount` | `bg:the-exodus` | `bg:ten-commandments` |
-| 0.91 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:paul`, `bg:paul-at-the-areopagus` |
-| 0.91 | `bg:acts-of-the-apostles` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god` |
-| 0.84 | `bg:paul-at-the-areopagus` | `bg:pharisees` | `bg:paul`, `bg:second-temple-judaism` |
+| 1.37 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
+| 1.34 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 0.92 | `bg:gospel-of-matthew` | `bg:second-temple-judaism` | `bg:kingdom-of-god`, `bg:pharisees` |
+| 0.92 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god`, `bg:pharisees` |
+| 0.83 | `bg:paul-at-the-areopagus` | `bg:pharisees` | `bg:paul`, `bg:second-temple-judaism` |
+| 0.81 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:second-temple-judaism` |
+| 0.81 | `bg:kingdom-of-god` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:second-temple-judaism` |
 | 0.48 | `bg:gospel-of-matthew` | `bg:paul` | `bg:pharisees` |
-| 0.48 | `bg:gospel-of-matthew` | `bg:second-temple-judaism` | `bg:pharisees` |
 | 0.48 | `bg:paul` | `bg:sermon-on-the-mount` | `bg:pharisees` |
-| 0.48 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:pharisees` |
 | 0.46 | `bg:acts-of-the-apostles` | `bg:pharisees` | `bg:paul` |
+| 0.43 | `bg:acts-of-the-apostles` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god` |

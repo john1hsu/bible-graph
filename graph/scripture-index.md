@@ -28,9 +28,21 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
+## Psalms
+
+- **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+
+## Isaiah
+
+- **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+
 ## Jeremiah
 
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
+
+## Daniel
+
+- **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Matthew
 
@@ -42,6 +54,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 5:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 6:1-34** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Matthew 6:10** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Matthew 7:1-29** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 7:28-29** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -53,6 +66,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Mark
 
+- **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 
 ## Luke
@@ -62,13 +77,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
 ## John
 
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Acts
 
@@ -110,6 +128,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Romans
 
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## 1 Corinthians
 
@@ -147,4 +166,5 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Revelation
 
 - **Revelation 3:14-22** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
+- **Revelation 11:15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 

@@ -295,6 +295,111 @@
   ]
  },
  {
+  "id": "bg:kingdom-of-god",
+  "title": "Kingdom of God",
+  "aliases": [
+   "Kingdom of Heaven",
+   "reign of God",
+   "rule of God",
+   "God's Kingdom",
+   "basileia tou theou",
+   "malkut shamayim"
+  ],
+  "type": "Theme",
+  "domain": "themes-and-theology",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/themes-and-theology/kingdom-of-god.md",
+  "created": "2026-11-16",
+  "summary": "God's active reign as King, celebrated in the Old Testament, announced by Jesus as \"at hand\" in his own words and deeds, and awaited in its fullness when God's will is done on earth as in heaven; the central theme of Jesus's preaching in the first three Gospels.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lords-prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:messiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:book-of-daniel",
+    "source": "s12",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-theology",
+    "source": "s14",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 145:11-13",
+   "Isaiah 52:7",
+   "Daniel 2:44",
+   "Mark 1:14-15",
+   "Mark 4:26-32",
+   "Matthew 6:10",
+   "Luke 11:20",
+   "Luke 17:20-21",
+   "John 18:36",
+   "Romans 14:17",
+   "Revelation 11:15"
+  ],
+  "studyQuestions": [
+   "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?",
+   "In Luke 11:20, what does Jesus point to as a sign that God's Kingdom \"has come to you\"?",
+   "What do the parables of the seed growing by itself and the mustard seed (Mark 4:26-32) suggest about how God's Kingdom grows, and who makes it grow?",
+   "Psalm 145:13 calls God's Kingdom everlasting, yet Jesus teaches us to pray \"Let your Kingdom come\" (Matthew 6:10). How can both be true?",
+   "When you pray the Lord's Prayer, where in your own life, family or church do you most long to see God's will done \"as in heaven, so on earth\"?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.biblestudytools.com/web/mark/1-15.html",
+   "https://www.biblestudytools.com/web/mark/4.html",
+   "https://www.biblestudytools.com/web/luke/17.html",
+   "https://www.biblestudytools.com/web/luke/11-20.html",
+   "https://worthy.bible/bible/web/matthew/6/10",
+   "https://www.biblestudytools.com/web/daniel/2-44.html",
+   "https://www.biblestudytools.com/web/psalms/145-13.html",
+   "https://www.christianity.com/bible/web/isaiah/52-7",
+   "https://www.biblestudytools.com/web/romans/14-17.html",
+   "https://www.christianity.com/bible/web/john/18-36",
+   "https://biblehub.com/asv/revelation/11-15.htm",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Kingdom-God-Kingdom-Heaven",
+   "https://www.jewishencyclopedia.com/articles/9328-kingdom-of-god.html",
+   "https://www.biblestudytools.com/dictionary/kingdom-of-god",
+   "https://www.britannica.com/topic/Kingdom-of-God",
+   "https://usccb.org/sites/default/files/flipbooks/catechism/141",
+   "https://www.vatican.va/archive/ENG0015/__P1V.HTM",
+   "https://biblehub.com/parallel/luke/17-21.htm"
+  ]
+ },
+ {
   "id": "bg:paul",
   "title": "Paul",
   "aliases": [

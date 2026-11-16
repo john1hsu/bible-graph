@@ -300,6 +300,132 @@
    ]
   },
   {
+   "@id": "bg:kingdom-of-god",
+   "@type": "bgo:Theme",
+   "bgo:basis": "scriptural",
+   "bgo:domain": "themes-and-theology",
+   "bgo:explainedBy": [
+    {
+     "@id": "bg:book-of-daniel"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    }
+   ],
+   "bgo:file": "articles/themes-and-theology/kingdom-of-god.md",
+   "bgo:keyReference": [
+    "Daniel 2:44",
+    "Isaiah 52:7",
+    "John 18:36",
+    "Luke 11:20",
+    "Luke 17:20-21",
+    "Mark 1:14-15",
+    "Mark 4:26-32",
+    "Matthew 6:10",
+    "Psalm 145:11-13",
+    "Revelation 11:15",
+    "Romans 14:17"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-theology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s9"
+    }
+   ],
+   "rdfs:label": "Kingdom of God",
+   "skos:altLabel": [
+    "God's Kingdom",
+    "Kingdom of Heaven",
+    "basileia tou theou",
+    "malkut shamayim",
+    "reign of God",
+    "rule of God"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "skos:definition": "God's active reign as King, celebrated in the Old Testament, announced by Jesus as \"at hand\" in his own words and deeds, and awaited in its fullness when God's will is done on earth as in heaven; the central theme of Jesus's preaching in the first three Gospels.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology"
+   },
+   "skos:prefLabel": "Kingdom of God",
+   "skos:related": [
+    {
+     "@id": "bg:lords-prayer"
+    },
+    {
+     "@id": "bg:messiah"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:paul",
    "@type": "bgo:Person",
    "bgo:basis": "debated",
@@ -1160,6 +1286,46 @@
    "rdfs:label": "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "rdfs:label": "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "rdfs:label": "In Luke 11:20, what does Jesus point to as a sign that God's Kingdom \"has come to you\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "rdfs:label": "What do the parables of the seed growing by itself and the mustard seed (Mark 4:26-32) suggest about how God's Kingdom grows, and who makes it grow?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "rdfs:label": "Psalm 145:13 calls God's Kingdom everlasting, yet Jesus teaches us to pray \"Let your Kingdom come\" (Matthew 6:10). How can both be true?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "rdfs:label": "When you pray the Lord's Prayer, where in your own life, family or church do you most long to see God's will done \"as in heaven, so on earth\"?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -1846,6 +2012,258 @@
    "dcterms:title": "Introduction to Matthew (ESV Global Study Bible)",
    "schema:url": {
     "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Mark 1:14-15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/mark/1-15.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 18:36 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/john/18-36"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Revelation 11:15 (American Standard Version, with parallel translations)",
+   "schema:url": {
+    "@id": "https://biblehub.com/asv/revelation/11-15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Kingdom of God, Kingdom of Heaven (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Kingdom-God-Kingdom-Heaven"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Kingdom of God (Kaufmann Kohler, Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/9328-kingdom-of-god.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Kingdom of God (Robert H. Stein, Baker's Evangelical Dictionary of Biblical Theology)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/kingdom-of-god"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Kingdom of God",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Kingdom-of-God"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Catechism of the Catholic Church, 543-546 (The proclamation of the Kingdom of God)",
+   "schema:url": {
+    "@id": "https://usccb.org/sites/default/files/flipbooks/catechism/141"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 668-677 (He will come again in glory)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P1V.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 17:21 (parallel translations)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/luke/17-21.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Mark 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/mark/4.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/17.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 11:20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/11-20.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Matthew 6:10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://worthy.bible/bible/web/matthew/6/10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Daniel 2:44 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/daniel/2-44.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Psalm 145:13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/psalms/145-13.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Isaiah 52:7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/isaiah/52-7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Romans 14:17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/romans/14-17.html"
    }
   },
   {

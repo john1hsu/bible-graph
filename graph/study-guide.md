@@ -135,3 +135,16 @@ Study questions:
 - In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?
 - Paul calls himself "the least of the apostles" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?
 
+## themes-and-theology
+
+### [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) — Theme
+
+Read: Psalm 145:11-13; Isaiah 52:7; Daniel 2:44; Mark 1:14-15; Mark 4:26-32; Matthew 6:10; Luke 11:20; Luke 17:20-21; John 18:36; Romans 14:17; Revelation 11:15
+
+Study questions:
+- According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?
+- In Luke 11:20, what does Jesus point to as a sign that God's Kingdom "has come to you"?
+- What do the parables of the seed growing by itself and the mustard seed (Mark 4:26-32) suggest about how God's Kingdom grows, and who makes it grow?
+- Psalm 145:13 calls God's Kingdom everlasting, yet Jesus teaches us to pray "Let your Kingdom come" (Matthew 6:10). How can both be true?
+- When you pray the Lord's Prayer, where in your own life, family or church do you most long to see God's will done "as in heaven, so on earth"?
+
