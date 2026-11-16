@@ -44,6 +44,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Luke
 
+- **Luke 1:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
@@ -56,16 +57,32 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Acts
 
+- **Acts 1:1-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 1:8** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 7:58** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 11:26** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 13:1-4** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 13:2-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 13:9** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 13:47** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 15:1-6** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 18:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:25-28** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 23:6-9** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 28:14-16** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 28:30-31** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
 ## 1 Corinthians
@@ -86,6 +103,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Philippians 3:4-14** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Philippians 3:5-6** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+
+## Colossians
+
+- **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 
 ## 2 Timothy
 

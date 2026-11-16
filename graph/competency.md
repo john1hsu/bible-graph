@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:acts-of-the-apostles` |
 
 ## Life situations with no Scripture (gap)
 
@@ -27,7 +29,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | theme | texts |
 |---|---|
 | `bg:grace` | Paul |
-| `bg:kingdom-of-god` | Gospel of Matthew, Sermon on the Mount |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount |
 | `bg:redemption` | The Exodus |
 
 ## Who and what appears where
@@ -36,6 +38,10 @@ _Which people, groups, places and events appear in each book, passage or event?_
 
 | text | appears |
 |---|---|
+| `bg:acts-of-the-apostles` | `bg:barnabas` |
+| `bg:acts-of-the-apostles` | `bg:paul` |
+| `bg:acts-of-the-apostles` | `bg:pentecost` |
+| `bg:acts-of-the-apostles` | `bg:peter` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
 | `bg:the-exodus` | `bg:israelites` |
 | `bg:the-exodus` | `bg:moses` |
@@ -52,7 +58,6 @@ _Which written people, groups, places and events are not yet linked to any book,
 
 | node | type |
 |---|---|
-| `bg:paul` | bgo:Person |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)

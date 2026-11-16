@@ -1,3 +1,66 @@
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Luke 1:1-4 with Acts 1:1-3. Who is addressed in both, and what does Acts say the \"former treatise\" was about?" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Acts 1:8 names Jerusalem, Judea and Samaria, and \"the uttermost part of the earth.\" Trace where the story is in chapters 2, 8, 10 and 28. How does the book follow that map?" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What question brought the apostles and elders together in Acts 15:1-6, and how does the phrase \"it seemed good to the Holy Spirit, and to us\" (15:28) describe the way they reached a decision?" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Acts ends with Paul under guard in Rome yet preaching \"with all boldness, none forbidding him\" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2000/01/rdf-schema#label> "Acts of the Apostles" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "Acts" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "Book of Acts" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "Praxeis Apostolon" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "The Acts" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/new-testament> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#definition> "The fifth book of the New Testament and the second volume of Luke's two-part work: the story of how the risen Jesus' witnesses, empowered by the Holy Spirit at Pentecost, carried the message about him from Jerusalem through Judea and Samaria to the Gentiles and finally to Rome, centred first on Peter and then on Paul." .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acts of the Apostles" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-books" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-books/acts-of-the-apostles.md" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 10:44-45" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 11:26" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 13:2-3" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:1-6" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:28" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 16:9-10" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:1-3" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:8" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:9-11" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 28:14-16" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 28:30-31" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:1-4" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:41-42" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 7:58" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:5" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 9:3-4" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Colossians 4:14" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:1-4" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
@@ -297,6 +360,48 @@
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/title> "The Acts of the Apostles (American Standard Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <https://schema.org/url> <https://ebible.org/eng-asv/Acts.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <http://purl.org/dc/terms/title> "Acts of the Apostles (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2> <https://schema.org/url> <https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Acts-Apostles> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <http://purl.org/dc/terms/title> "Acts of the Apostles — Introduction (New American Bible, Revised Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3> <https://schema.org/url> <https://bible.usccb.org/bible/acts/0> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <http://purl.org/dc/terms/title> "Irenaeus, Against Heresies III.14, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4> <https://schema.org/url> <https://www.newadvent.org/fathers/0103314.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation, University of Arizona" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <http://purl.org/dc/terms/title> "When and Why Was the Acts of the Apostles Written? (Joseph B. Tyson, Southern Methodist University)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> <https://schema.org/url> <https://bibleinterp.arizona.edu/opeds/actapo358006> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <http://purl.org/dc/terms/publisher> "StudyBible.info" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <http://purl.org/dc/terms/title> "Luke 1:1-4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> <https://schema.org/url> <https://studybible.info/WEB/Luke%201:1-4> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <http://purl.org/dc/terms/title> "Colossians 4:14 (World English Bible and King James Version, parallel)" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <https://schema.org/url> <https://biblehub.com/parallel/colossians/4-14.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/publisher> "creeds.net" .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)" .

@@ -14,6 +14,113 @@
  },
  "@graph": [
   {
+   "@id": "bg:acts-of-the-apostles",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:luke-the-evangelist"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "new-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:pentecost"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ],
+   "bgo:file": "articles/new-testament-books/acts-of-the-apostles.md",
+   "bgo:keyReference": [
+    "Acts 10:44-45",
+    "Acts 11:26",
+    "Acts 13:2-3",
+    "Acts 15:1-6",
+    "Acts 15:28",
+    "Acts 16:9-10",
+    "Acts 1:1-3",
+    "Acts 1:8",
+    "Acts 1:9-11",
+    "Acts 28:14-16",
+    "Acts 28:30-31",
+    "Acts 2:1-4",
+    "Acts 2:41-42",
+    "Acts 7:58",
+    "Acts 8:5",
+    "Acts 9:3-4",
+    "Colossians 4:14",
+    "Luke 1:1-4"
+   ],
+   "bgo:level": "introductory",
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7"
+    }
+   ],
+   "rdfs:label": "Acts of the Apostles",
+   "skos:altLabel": [
+    "Acts",
+    "Book of Acts",
+    "Praxeis Apostolon",
+    "The Acts"
+   ],
+   "skos:broader": {
+    "@id": "bg:new-testament"
+   },
+   "skos:definition": "The fifth book of the New Testament and the second volume of Luke's two-part work: the story of how the risen Jesus' witnesses, empowered by the Holy Spirit at Pentecost, carried the message about him from Jerusalem through Judea and Samaria to the Gentiles and finally to Rome, centred first on Peter and then on Paul.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books"
+   },
+   "skos:prefLabel": "Acts of the Apostles",
+   "skos:related": [
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:council-of-jerusalem"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ]
+  },
+  {
    "@id": "bg:biblical-canon",
    "@type": "bgo:Concept",
    "bgo:basis": "varies-by-tradition",
@@ -634,6 +741,38 @@
    ]
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "rdfs:label": "Compare Luke 1:1-4 with Acts 1:1-3. Who is addressed in both, and what does Acts say the \"former treatise\" was about?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "rdfs:label": "Acts 1:8 names Jerusalem, Judea and Samaria, and \"the uttermost part of the earth.\" Trace where the story is in chapters 2, 8, 10 and 28. How does the book follow that map?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "rdfs:label": "What question brought the apostles and elders together in Acts 15:1-6, and how does the phrase \"it seemed good to the Holy Spirit, and to us\" (15:28) describe the way they reached a decision?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "rdfs:label": "Acts ends with Paul under guard in Rome yet preaching \"with all boldness, none forbidding him\" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -867,6 +1006,104 @@
     "@id": "bg:sermon-on-the-mount"
    },
    "rdfs:label": "The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would \"doing\" one of these teachings look like for you or your group this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "The Acts of the Apostles (American Standard Version)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-asv/Acts.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Acts of the Apostles (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Acts-Apostles"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Acts of the Apostles — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/acts/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Irenaeus, Against Heresies III.14, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0103314.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Bible and Interpretation, University of Arizona",
+   "dcterms:title": "When and Why Was the Acts of the Apostles Written? (Joseph B. Tyson, Southern Methodist University)",
+   "schema:url": {
+    "@id": "https://bibleinterp.arizona.edu/opeds/actapo358006"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "StudyBible.info",
+   "dcterms:title": "Luke 1:1-4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://studybible.info/WEB/Luke%201:1-4"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Colossians 4:14 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/colossians/4-14.htm"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1",

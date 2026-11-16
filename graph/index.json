@@ -1,5 +1,121 @@
 [
  {
+  "id": "bg:acts-of-the-apostles",
+  "title": "Acts of the Apostles",
+  "aliases": [
+   "Acts",
+   "Book of Acts",
+   "The Acts",
+   "Praxeis Apostolon"
+  ],
+  "type": "Book",
+  "domain": "new-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-books/acts-of-the-apostles.md",
+  "created": "2026-11-16",
+  "summary": "The fifth book of the New Testament and the second volume of Luke's two-part work: the story of how the risen Jesus' witnesses, empowered by the Holy Spirit at Pentecost, carried the message about him from Jerusalem through Judea and Samaria to the Gentiles and finally to Rome, centred first on Peter and then on Paul.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:new-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:barnabas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:council-of-jerusalem"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:paul",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:peter",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:barnabas",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:pentecost",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:luke-the-evangelist",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Acts 1:1-3",
+   "Acts 1:8",
+   "Acts 1:9-11",
+   "Acts 2:1-4",
+   "Acts 2:41-42",
+   "Acts 7:58",
+   "Acts 8:5",
+   "Acts 9:3-4",
+   "Acts 10:44-45",
+   "Acts 11:26",
+   "Acts 13:2-3",
+   "Acts 15:1-6",
+   "Acts 15:28",
+   "Acts 16:9-10",
+   "Acts 28:14-16",
+   "Acts 28:30-31",
+   "Luke 1:1-4",
+   "Colossians 4:14"
+  ],
+  "studyQuestions": [
+   "Compare Luke 1:1-4 with Acts 1:1-3. Who is addressed in both, and what does Acts say the \"former treatise\" was about?",
+   "Acts 1:8 names Jerusalem, Judea and Samaria, and \"the uttermost part of the earth.\" Trace where the story is in chapters 2, 8, 10 and 28. How does the book follow that map?",
+   "What question brought the apostles and elders together in Acts 15:1-6, and how does the phrase \"it seemed good to the Holy Spirit, and to us\" (15:28) describe the way they reached a decision?",
+   "Acts ends with Paul under guard in Rome yet preaching \"with all boldness, none forbidding him\" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-asv/Acts.htm",
+   "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Acts-Apostles",
+   "https://bible.usccb.org/bible/acts/0",
+   "https://www.newadvent.org/fathers/0103314.htm",
+   "https://bibleinterp.arizona.edu/opeds/actapo358006",
+   "https://studybible.info/WEB/Luke%201:1-4",
+   "https://biblehub.com/parallel/colossians/4-14.htm"
+  ]
+ },
+ {
   "id": "bg:biblical-canon",
   "title": "Biblical Canon",
   "aliases": [

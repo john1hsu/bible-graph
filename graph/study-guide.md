@@ -52,6 +52,16 @@ Study questions:
 
 ## new-testament-books
 
+### [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) — Book
+
+Read: Acts 1:1-3; Acts 1:8; Acts 1:9-11; Acts 2:1-4; Acts 2:41-42; Acts 7:58; Acts 8:5; Acts 9:3-4; Acts 10:44-45; Acts 11:26; Acts 13:2-3; Acts 15:1-6; Acts 15:28; Acts 16:9-10; Acts 28:14-16; Acts 28:30-31; Luke 1:1-4; Colossians 4:14
+
+Study questions:
+- Compare Luke 1:1-4 with Acts 1:1-3. Who is addressed in both, and what does Acts say the "former treatise" was about?
+- Acts 1:8 names Jerusalem, Judea and Samaria, and "the uttermost part of the earth." Trace where the story is in chapters 2, 8, 10 and 28. How does the book follow that map?
+- What question brought the apostles and elders together in Acts 15:1-6, and how does the phrase "it seemed good to the Holy Spirit, and to us" (15:28) describe the way they reached a decision?
+- Acts ends with Paul under guard in Rome yet preaching "with all boldness, none forbidding him" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?
+
 ### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book
 
 Read: Matthew 1:1; Matthew 1:22-23; Matthew 4:17; Matthew 5:17-20; Matthew 7:28-29; Matthew 9:9; Matthew 16:16-18; Matthew 18:17-20; Matthew 28:18-20
