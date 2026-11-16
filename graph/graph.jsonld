@@ -505,6 +505,119 @@
    ]
   },
   {
+   "@id": "bg:second-temple-judaism",
+   "@type": "bgo:Group",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": [
+    {
+     "@id": "bg:antiquities-of-the-jews"
+    },
+    {
+     "@id": "bg:dead-sea-scrolls"
+    }
+   ],
+   "bgo:domain": "background-and-culture",
+   "bgo:explainedBy": {
+    "@id": "bg:babylonian-exile"
+   },
+   "bgo:file": "articles/background-and-culture/second-temple-judaism.md",
+   "bgo:keyReference": [
+    "Acts 23:6-8",
+    "Ezra 6:14-18",
+    "Galatians 1:13-14",
+    "John 10:22-23",
+    "Luke 4:16-21",
+    "Nehemiah 8:1-8"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredDuring": {
+    "@id": "bg:second-temple-period"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9"
+    }
+   ],
+   "rdfs:label": "Second Temple Judaism",
+   "skos:altLabel": [
+    "Judaism of the Second Temple period",
+    "early Judaism",
+    "late Second Temple Judaism",
+    "the Jews' religion in Jesus's day"
+   ],
+   "skos:broader": {
+    "@id": "bg:judaism"
+   },
+   "skos:definition": "The faith and life of the Jewish people from the rebuilding of the Jerusalem Temple (515 BC) to its destruction by Rome (AD 70), centred on the one God, the Torah and the Temple yet varied in its parties and hopes; the world of Ezra, the Maccabees, Jesus, the apostles and Paul.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture"
+   },
+   "skos:prefLabel": "Second Temple Judaism",
+   "skos:related": [
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:sadducees"
+    },
+    {
+     "@id": "bg:samaritans"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:synagogue"
+    }
+   ]
+  },
+  {
    "@id": "bg:sermon-on-the-mount",
    "@type": "bgo:Passage",
    "bgo:basis": "varies-by-tradition",
@@ -974,6 +1087,38 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "rdfs:label": "According to Nehemiah 8:1-8, what did Ezra and the Levites do with the Law of Moses, and how did the people respond?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "rdfs:label": "In Luke 4:16-21, what does Jesus do \"as was his custom\" on the Sabbath, and what does that tell us about his own Jewish practice?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "rdfs:label": "Acts 23:6-8 shows Pharisees and Sadducees disagreeing about the resurrection. What does that suggest about how varied Jewish belief was in Paul's day?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "rdfs:label": "Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1",
@@ -1649,6 +1794,188 @@
    "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
    "schema:url": {
     "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ezra 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ezra/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.1-25 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.1-18.25/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Bible and Interpretation (University of Arizona)",
+   "dcterms:title": "Diversity and Unity in Judaism before Jesus (Anthony J. Tomasino)",
+   "schema:url": {
+    "@id": "https://bibleinterp.arizona.edu/node/3514"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "The Jewish Context of Jesus",
+   "schema:url": {
+    "@id": "https://bibleodyssey.com/articles/the-jewish-context-of-jesus/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "government",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Israel Antiquities Authority",
+   "dcterms:title": "Featured Scrolls (The Leon Levy Dead Sea Scrolls Digital Library)",
+   "schema:url": {
+    "@id": "https://deadseascrolls.org.il/featured-scrolls"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Nehemiah 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/nehemiah/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sainte Bible",
+   "dcterms:title": "Galatians 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://saintebible.com/web/galatians/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "John 10 (World English Bible Updated)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebu/JHN10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/web/acts/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Judaism (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Judaism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Synagogue (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Synagogue"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Religious Studies Center, Brigham Young University",
+   "dcterms:title": "Between the Testaments: The History of Judea Between the Testaments of the Bible (Joshua M. Matson, in New Testament History, Culture, and Society, 2019)",
+   "schema:url": {
+    "@id": "https://rsc.byu.edu/new-testament-history-culture-society/between-testaments"
    }
   },
   {

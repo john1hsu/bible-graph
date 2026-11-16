@@ -14,6 +14,16 @@ Study questions:
 - Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?
 - Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?
 
+### [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) — Group
+
+Read: Ezra 6:14-18; Nehemiah 8:1-8; Luke 4:16-21; John 10:22-23; Acts 23:6-8; Galatians 1:13-14
+
+Study questions:
+- According to Nehemiah 8:1-8, what did Ezra and the Levites do with the Law of Moses, and how did the people respond?
+- In Luke 4:16-21, what does Jesus do "as was his custom" on the Sabbath, and what does that tell us about his own Jewish practice?
+- Acts 23:6-8 shows Pharisees and Sadducees disagreeing about the resurrection. What does that suggest about how varied Jewish belief was in Paul's day?
+- Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?
+
 ## bible-basics
 
 ### [Biblical Canon](../articles/bible-basics/biblical-canon.md) — Concept

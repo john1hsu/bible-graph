@@ -19,6 +19,14 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 
+## Ezra
+
+- **Ezra 6:14-18** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+
+## Nehemiah
+
+- **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+
 ## Matthew
 
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
@@ -45,6 +53,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Luke
 
 - **Luke 1:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
@@ -54,6 +63,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## John
 
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 
 ## Acts
 
@@ -80,6 +90,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 18:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:25-28** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 23:6-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Acts 23:6-9** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Acts 28:14-16** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -97,6 +108,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Galatians
 
+- **Galatians 1:13-14** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Galatians 1:15-24** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
 ## Philippians

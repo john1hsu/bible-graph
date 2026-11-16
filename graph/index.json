@@ -491,6 +491,112 @@
   ]
  },
  {
+  "id": "bg:second-temple-judaism",
+  "title": "Second Temple Judaism",
+  "aliases": [
+   "early Judaism",
+   "Judaism of the Second Temple period",
+   "late Second Temple Judaism",
+   "the Jews' religion in Jesus's day"
+  ],
+  "type": "Group",
+  "domain": "background-and-culture",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/background-and-culture/second-temple-judaism.md",
+  "created": "2026-11-16",
+  "summary": "The faith and life of the Jewish people from the rebuilding of the Jerusalem Temple (515 BC) to its destruction by Rome (AD 70), centred on the one God, the Torah and the Temple yet varied in its parties and hopes; the world of Ezra, the Maccabees, Jesus, the apostles and Paul.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:synagogue"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:samaritans"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "bgo:occurredDuring",
+    "object": "bg:second-temple-period",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:babylonian-exile",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:dead-sea-scrolls",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Ezra 6:14-18",
+   "Nehemiah 8:1-8",
+   "Luke 4:16-21",
+   "John 10:22-23",
+   "Acts 23:6-8",
+   "Galatians 1:13-14"
+  ],
+  "studyQuestions": [
+   "According to Nehemiah 8:1-8, what did Ezra and the Levites do with the Law of Moses, and how did the people respond?",
+   "In Luke 4:16-21, what does Jesus do \"as was his custom\" on the Sabbath, and what does that tell us about his own Jewish practice?",
+   "Acts 23:6-8 shows Pharisees and Sadducees disagreeing about the resurrection. What does that suggest about how varied Jewish belief was in Paul's day?",
+   "Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/ezra/6.htm",
+   "https://biblehub.com/web/nehemiah/8.htm",
+   "https://saintebible.com/web/galatians/1.htm",
+   "https://biblehub.com/web/luke/4.htm",
+   "https://ebible.org/engwebu/JHN10.htm",
+   "https://www.biblehub.com/web/acts/23.htm",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Judaism",
+   "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Synagogue",
+   "https://rsc.byu.edu/new-testament-history-culture-society/between-testaments",
+   "https://lexundria.com/j_aj/18.1-18.25/wst",
+   "https://bibleinterp.arizona.edu/node/3514",
+   "https://bibleodyssey.com/articles/the-jewish-context-of-jesus/",
+   "https://deadseascrolls.org.il/featured-scrolls"
+  ]
+ },
+ {
   "id": "bg:sermon-on-the-mount",
   "title": "Sermon on the Mount",
   "aliases": [

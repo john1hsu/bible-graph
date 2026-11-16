@@ -58,6 +58,7 @@ _Which written people, groups, places and events are not yet linked to any book,
 
 | node | type |
 |---|---|
+| `bg:second-temple-judaism` | bgo:Group |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)

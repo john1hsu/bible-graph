@@ -305,6 +305,63 @@
 <https://github.com/john1hsu/bible-graph/id/scheme/study-practices> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bible study practices" .
 <https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology> <http://www.w3.org/2004/02/skos/core#prefLabel> "Themes, covenants and doctrines" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Nehemiah 8:1-8, what did Ezra and the Levites do with the Law of Moses, and how did the people respond?" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 4:16-21, what does Jesus do \"as was his custom\" on the Sabbath, and what does that tell us about his own Jewish practice?" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Acts 23:6-8 shows Pharisees and Sadducees disagreeing about the resurrection. What does that suggest about how varied Jewish belief was in Paul's day?" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2000/01/rdf-schema#label> "Second Temple Judaism" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "Judaism of the Second Temple period" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "early Judaism" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "late Second Temple Judaism" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "the Jews' religion in Jesus's day" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#definition> "The faith and life of the Jewish people from the rebuilding of the Jerusalem Temple (515 BC) to its destruction by Rome (AD 70), centred on the one God, the Torah and the Temple yet varied in its parties and hopes; the world of Ezra, the Maccabees, Jesus, the apostles and Paul." .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Second Temple Judaism" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/samaritans> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/synagogue> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#domain> "background-and-culture" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/background-and-culture/second-temple-judaism.md" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 23:6-8" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 6:14-18" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 1:13-14" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 10:22-23" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:16-21" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:1-8" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#occurredDuring> <https://github.com/john1hsu/bible-graph/id/second-temple-period> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?" .
 <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -636,6 +693,84 @@
 <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <https://schema.org/url> <https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <http://purl.org/dc/terms/publisher> "Lexundria" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 18.1-25 (trans. William Whiston)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s10> <https://schema.org/url> <https://lexundria.com/j_aj/18.1-18.25/wst> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation (University of Arizona)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <http://purl.org/dc/terms/title> "Diversity and Unity in Judaism before Jesus (Anthony J. Tomasino)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s11> <https://schema.org/url> <https://bibleinterp.arizona.edu/node/3514> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <http://purl.org/dc/terms/title> "The Jewish Context of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s12> <https://schema.org/url> <https://bibleodyssey.com/articles/the-jewish-context-of-jesus/> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <http://purl.org/dc/terms/publisher> "Israel Antiquities Authority" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <http://purl.org/dc/terms/title> "Featured Scrolls (The Leon Levy Dead Sea Scrolls Digital Library)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s13> <https://schema.org/url> <https://deadseascrolls.org.il/featured-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <http://purl.org/dc/terms/title> "Ezra 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s1> <https://schema.org/url> <https://biblehub.com/web/ezra/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <http://purl.org/dc/terms/title> "Nehemiah 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s2> <https://schema.org/url> <https://biblehub.com/web/nehemiah/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <http://purl.org/dc/terms/publisher> "Sainte Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <http://purl.org/dc/terms/title> "Galatians 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s3> <https://schema.org/url> <https://saintebible.com/web/galatians/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <http://purl.org/dc/terms/title> "Luke 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s4> <https://schema.org/url> <https://biblehub.com/web/luke/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <http://purl.org/dc/terms/title> "John 10 (World English Bible Updated)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s5> <https://schema.org/url> <https://ebible.org/engwebu/JHN10.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <http://purl.org/dc/terms/title> "Acts 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s6> <https://schema.org/url> <https://www.biblehub.com/web/acts/23.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <http://purl.org/dc/terms/title> "Judaism (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s7> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Judaism> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <http://purl.org/dc/terms/title> "Synagogue (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s8> <https://schema.org/url> <https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Synagogue> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <http://purl.org/dc/terms/publisher> "Religious Studies Center, Brigham Young University" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <http://purl.org/dc/terms/title> "Between the Testaments: The History of Judea Between the Testaments of the Bible (Joshua M. Matson, in New Testament History, Culture, and Society, 2019)" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/second-temple-judaism/s9> <https://schema.org/url> <https://rsc.byu.edu/new-testament-history-culture-society/between-testaments> .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/title> "The Antiphons (The Orthodox Faith, Vol. II, Worship)" .
