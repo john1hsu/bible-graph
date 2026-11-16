@@ -13,12 +13,12 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.33 | `bg:biblical-canon` | `bg:book-of-ezra` | `bg:old-testament`, `bg:septuagint` |
 | 1.31 | `bg:acts-of-the-apostles` | `bg:gospel-of-matthew` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
 | 1.31 | `bg:acts-of-the-apostles` | `bg:lords-prayer` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
-| 1.30 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 1.29 | `bg:acts-of-the-apostles` | `bg:grace` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
 | 1.29 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
-| 1.25 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
-| 1.21 | `bg:barnabas` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
-| 1.21 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
+| 1.29 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
+| 1.24 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
+| 1.20 | `bg:barnabas` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
+| 1.20 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
 | 0.94 | `bg:forgiveness-in-the-bible` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
 | 0.91 | `bg:kingdom-of-god` | `bg:the-exodus` | `bg:the-story-of-the-bible` |
 | 0.91 | `bg:moses` | `bg:sermon-on-the-mount` | `bg:ten-commandments` |
@@ -28,4 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 0.82 | `bg:gospel-of-matthew` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god` |
 | 0.82 | `bg:grace` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god` |
 | 0.82 | `bg:grace` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god` |
-| 0.82 | `bg:barnabas` | `bg:pharisees` | `bg:paul`, `bg:second-temple-judaism` |
+| 0.81 | `bg:barnabas` | `bg:pharisees` | `bg:paul`, `bg:second-temple-judaism` |

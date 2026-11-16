@@ -78,6 +78,17 @@ Study questions:
 
 ## key-passages
 
+### [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) — Passage
+
+Read: Ezra 3:1-13; Ezra 3:1-6; Ezra 3:10-13; Ezra 5:1-2; Ezra 5:16; Haggai 2:3-9; Haggai 2:18; Zechariah 4:9-10; Psalm 136:1
+
+Study questions:
+- According to Ezra 3:2-6, what did the returned exiles build first, and what did they begin doing even though the Temple's foundation "was not yet laid"?
+- Ezra 3:3 says the people built the altar while "fear was on them". What does it suggest that they worshipped anyway?
+- What did the priests and Levites sing when the foundation was laid (Ezra 3:11), and where else in Scripture does that refrain appear?
+- Why did the older priests and Levites weep in Ezra 3:12? How does Haggai 2:3-9 speak to the same feeling?
+- Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you "could not discern" one from the other? What does this passage give you to bring to such a moment?
+
 ### [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) — Passage
 
 Read: Acts 17:16-34; Acts 17:22-31; Acts 17:23; Acts 17:28; Acts 17:30-31; Acts 7:48-50; Romans 1:19-20

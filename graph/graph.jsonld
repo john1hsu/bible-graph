@@ -944,6 +944,120 @@
    ]
   },
   {
+   "@id": "bg:laying-the-foundation-of-the-second-temple",
+   "@type": "bgo:Passage",
+   "bgo:alludesTo": {
+    "@id": "bg:psalm-136"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "key-passages",
+   "bgo:explainedBy": {
+    "@id": "bg:book-of-haggai"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:jeshua-son-of-jozadak"
+    },
+    {
+     "@id": "bg:the-temple"
+    },
+    {
+     "@id": "bg:zerubbabel"
+    }
+   ],
+   "bgo:file": "articles/key-passages/laying-the-foundation-of-the-second-temple.md",
+   "bgo:keyReference": [
+    "Ezra 3:1-13",
+    "Ezra 3:1-6",
+    "Ezra 3:10-13",
+    "Ezra 5:1-2",
+    "Ezra 5:16",
+    "Haggai 2:18",
+    "Haggai 2:3-9",
+    "Psalm 136:1",
+    "Zechariah 4:9-10"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:book-of-ezra"
+   },
+   "bgo:requires": {
+    "@id": "bg:book-of-ezra"
+   },
+   "bgo:speaksTo": {
+    "@id": "bg:grief"
+   },
+   "bgo:teaches": {
+    "@id": "bg:worship"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9"
+    }
+   ],
+   "rdfs:label": "Laying the Foundation of the Second Temple",
+   "skos:altLabel": [
+    "Ezra 3",
+    "Ezra 3:1-13",
+    "foundation of the Second Temple",
+    "joy and weeping at the Temple foundation",
+    "rebuilding of the altar after the exile"
+   ],
+   "skos:broader": {
+    "@id": "bg:book-of-ezra"
+   },
+   "skos:definition": "Ezra 3:1-13, where the exiles who returned from Babylon rebuild the altar, keep the Feast of Tabernacles, and lay the foundation of a new Temple in Jerusalem, while the old who remembered Solomon's Temple weep and the young shout for joy so that the two sounds cannot be told apart.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages"
+   },
+   "skos:prefLabel": "Laying the Foundation of the Second Temple",
+   "skos:related": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-haggai"
+    },
+    {
+     "@id": "bg:cyrus-the-great"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    }
+   ]
+  },
+  {
    "@id": "bg:lords-prayer",
    "@type": "bgo:Passage",
    "bgo:basis": "varies-by-tradition",
@@ -2405,6 +2519,46 @@
     "@id": "bg:kingdom-of-god"
    },
    "rdfs:label": "When you pray the Lord's Prayer, where in your own life, family or church do you most long to see God's will done \"as in heaven, so on earth\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   "rdfs:label": "According to Ezra 3:2-6, what did the returned exiles build first, and what did they begin doing even though the Temple's foundation \"was not yet laid\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   "rdfs:label": "Ezra 3:3 says the people built the altar while \"fear was on them\". What does it suggest that they worshipped anyway?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   "rdfs:label": "What did the priests and Levites sing when the foundation was laid (Ezra 3:11), and where else in Scripture does that refrain appear?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   "rdfs:label": "Why did the older priests and Levites weep in Ezra 3:12? How does Haggai 2:3-9 speak to the same feeling?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   "rdfs:label": "Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you \"could not discern\" one from the other? What does this passage give you to bring to such a moment?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/lords-prayer/check/1",
@@ -4375,6 +4529,146 @@
    "dcterms:title": "Romans 14:17 (World English Bible)",
    "schema:url": {
     "@id": "https://www.biblestudytools.com/web/romans/14-17.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Ezra 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.worthy.bible/bible/web/ezra/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Torat Har Etzion (Yeshivat Har Etzion)",
+   "dcterms:title": "Tzvi Sinensky, 'Ezra Chapter 3: An Imperfect Inauguration' (Shivat Tzion series, lesson 5)",
+   "schema:url": {
+    "@id": "https://etzion.org.il/en/shiur-05-imperfect-inauguration-ezra-ch-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Ezra 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/ezra/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Haggai 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/haggai/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Psalm 136 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/psalms/136.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Zechariah 4:10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/zechariah/4-10.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Evangelical Theological Society",
+   "dcterms:title": "Andrew E. Steinmann, 'A Chronological Note: The Return of the Exiles under Sheshbazzar and Zerubbabel (Ezra 1–2)', Journal of the Evangelical Theological Society 51.3 (2008): 513–22",
+   "schema:url": {
+    "@id": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_51_51-3_JETS-51-3-513-522-Steinmann.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Zerubbabel (Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/15251-zerubbabel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Temple of Jerusalem (Barnabas Meistermann, Catholic Encyclopedia, 1912)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/14499a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Book of Ezra (Encyclopedia of The Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ezra"
    }
   },
   {

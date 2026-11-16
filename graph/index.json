@@ -871,6 +871,130 @@
   ]
  },
  {
+  "id": "bg:laying-the-foundation-of-the-second-temple",
+  "title": "Laying the Foundation of the Second Temple",
+  "aliases": [
+   "Ezra 3",
+   "Ezra 3:1-13",
+   "rebuilding of the altar after the exile",
+   "foundation of the Second Temple",
+   "joy and weeping at the Temple foundation"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/key-passages/laying-the-foundation-of-the-second-temple.md",
+  "created": "2026-11-16",
+  "summary": "Ezra 3:1-13, where the exiles who returned from Babylon rebuild the altar, keep the Feast of Tabernacles, and lay the foundation of a new Temple in Jerusalem, while the old who remembered Solomon's Temple weep and the young shout for joy so that the two sounds cannot be told apart.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:book-of-ezra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-haggai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:cyrus-the-great"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:book-of-ezra"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:book-of-ezra",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:zerubbabel",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jeshua-son-of-jozadak",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:the-temple",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:alludesTo",
+    "object": "bg:psalm-136",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:worship",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:grief",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:book-of-haggai",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Ezra 3:1-13",
+   "Ezra 3:1-6",
+   "Ezra 3:10-13",
+   "Ezra 5:1-2",
+   "Ezra 5:16",
+   "Haggai 2:3-9",
+   "Haggai 2:18",
+   "Zechariah 4:9-10",
+   "Psalm 136:1"
+  ],
+  "studyQuestions": [
+   "According to Ezra 3:2-6, what did the returned exiles build first, and what did they begin doing even though the Temple's foundation \"was not yet laid\"?",
+   "Ezra 3:3 says the people built the altar while \"fear was on them\". What does it suggest that they worshipped anyway?",
+   "What did the priests and Levites sing when the foundation was laid (Ezra 3:11), and where else in Scripture does that refrain appear?",
+   "Why did the older priests and Levites weep in Ezra 3:12? How does Haggai 2:3-9 speak to the same feeling?",
+   "Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you \"could not discern\" one from the other? What does this passage give you to bring to such a moment?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.worthy.bible/bible/web/ezra/3",
+   "https://bibliaparalela.com/web/ezra/5.htm",
+   "https://bibliaparalela.com/web/haggai/2.htm",
+   "https://bibliaparalela.com/web/psalms/136.htm",
+   "https://www.biblestudytools.com/web/zechariah/4-10.html",
+   "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_51_51-3_JETS-51-3-513-522-Steinmann.pdf",
+   "https://jewishencyclopedia.com/articles/15251-zerubbabel",
+   "https://www.newadvent.org/cathen/14499a.htm",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ezra",
+   "https://etzion.org.il/en/shiur-05-imperfect-inauguration-ezra-ch-3"
+  ]
+ },
+ {
   "id": "bg:lords-prayer",
   "title": "The Lord's Prayer",
   "aliases": [

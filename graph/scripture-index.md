@@ -54,9 +54,14 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Ezra
 
 - **Ezra 1:1-4** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 3:1-6** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+- **Ezra 3:1-13** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 3:10-13** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 3:10-13** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 4:1-5** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 4:24** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 5:1-2** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+- **Ezra 5:16** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 6:14-18** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Ezra 6:14-22** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 7:6-10** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -73,6 +78,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Isaiah
@@ -94,6 +100,15 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Amos
 
 - **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+
+## Haggai
+
+- **Haggai 2:3-9** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+- **Haggai 2:18** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+
+## Zechariah
+
+- **Zechariah 4:9-10** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 
 ## Matthew
 

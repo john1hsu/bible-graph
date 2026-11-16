@@ -74,6 +74,19 @@
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s8> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/laying-the-foundation-of-the-second-temple.md" .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> .
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/paul-at-the-areopagus.md" .
@@ -970,6 +983,132 @@
   <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
   <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <https://schema.org/url> <https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> {
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Ezra 3:2-6, what did the returned exiles build first, and what did they begin doing even though the Temple's foundation \"was not yet laid\"?" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Ezra 3:3 says the people built the altar while \"fear was on them\". What does it suggest that they worshipped anyway?" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did the priests and Levites sing when the foundation was laid (Ezra 3:11), and where else in Scripture does that refrain appear?" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why did the older priests and Levites weep in Ezra 3:12? How does Haggai 2:3-9 speak to the same feeling?" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you \"could not discern\" one from the other? What does this passage give you to bring to such a moment?" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2000/01/rdf-schema#label> "Laying the Foundation of the Second Temple" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Ezra 3" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Ezra 3:1-13" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "foundation of the Second Temple" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "joy and weeping at the Temple foundation" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "rebuilding of the altar after the exile" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#definition> "Ezra 3:1-13, where the exiles who returned from Babylon rebuild the altar, keep the Feast of Tabernacles, and lay the foundation of a new Temple in Jerusalem, while the old who remembered Solomon's Temple weep and the young shout for joy so that the two sounds cannot be told apart." .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laying the Foundation of the Second Temple" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-haggai> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#alludesTo> <https://github.com/john1hsu/bible-graph/id/psalm-136> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/book-of-haggai> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/zerubbabel> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/laying-the-foundation-of-the-second-temple.md" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 3:1-13" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 3:1-6" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 3:10-13" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 5:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 5:16" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Haggai 2:18" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Haggai 2:3-9" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 136:1" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Zechariah 4:9-10" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/grief> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/worship> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <http://purl.org/dc/terms/publisher> "Torat Har Etzion (Yeshivat Har Etzion)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <http://purl.org/dc/terms/title> "Tzvi Sinensky, 'Ezra Chapter 3: An Imperfect Inauguration' (Shivat Tzion series, lesson 5)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> <https://schema.org/url> <https://etzion.org.il/en/shiur-05-imperfect-inauguration-ezra-ch-3> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <http://purl.org/dc/terms/title> "Ezra 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s1> <https://schema.org/url> <https://www.worthy.bible/bible/web/ezra/3> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <http://purl.org/dc/terms/title> "Ezra 5 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s2> <https://schema.org/url> <https://bibliaparalela.com/web/ezra/5.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <http://purl.org/dc/terms/title> "Haggai 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s3> <https://schema.org/url> <https://bibliaparalela.com/web/haggai/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <http://purl.org/dc/terms/title> "Psalm 136 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s4> <https://schema.org/url> <https://bibliaparalela.com/web/psalms/136.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <http://purl.org/dc/terms/title> "Zechariah 4:10 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/zechariah/4-10.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <http://purl.org/dc/terms/publisher> "Evangelical Theological Society" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <http://purl.org/dc/terms/title> "Andrew E. Steinmann, 'A Chronological Note: The Return of the Exiles under Sheshbazzar and Zerubbabel (Ezra 1–2)', Journal of the Evangelical Theological Society 51.3 (2008): 513–22" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s6> <https://schema.org/url> <https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_51_51-3_JETS-51-3-513-522-Steinmann.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <http://purl.org/dc/terms/title> "Zerubbabel (Jewish Encyclopedia, 1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s7> <https://schema.org/url> <https://jewishencyclopedia.com/articles/15251-zerubbabel> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <http://purl.org/dc/terms/title> "Temple of Jerusalem (Barnabas Meistermann, Catholic Encyclopedia, 1912)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> <https://schema.org/url> <https://www.newadvent.org/cathen/14499a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <http://purl.org/dc/terms/title> "Book of Ezra (Encyclopedia of The Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ezra> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> {
@@ -2976,8 +3115,10 @@
   <https://github.com/john1hsu/bible-graph/id/atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/barnabas/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/barnabas/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -3010,11 +3151,18 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/historical-books> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-nehemiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-cylinder> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
@@ -3100,8 +3248,13 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/greco-roman-world> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+  <https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
@@ -3109,6 +3262,7 @@
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -3131,6 +3285,17 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/historical-books> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
@@ -3182,6 +3347,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
@@ -3231,6 +3397,7 @@
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-136> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -3260,6 +3427,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -3320,9 +3488,12 @@
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/transfiguration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/worship> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/zerubbabel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/zerubbabel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/zipporah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/zipporah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/zipporah> <https://github.com/john1hsu/bible-graph/ontology#spouseOf> <https://github.com/john1hsu/bible-graph/id/moses> .
