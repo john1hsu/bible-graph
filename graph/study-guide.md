@@ -195,6 +195,20 @@ Study questions:
 - Ezra 7:10 says Ezra set his heart to seek the law, to do it and to teach it. Why do you think the order of those three verbs matters for anyone who studies Scripture?
 - Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?
 
+## old-testament-people
+
+### [Moses](../articles/old-testament-people/moses.md) — Person
+
+Read: Exodus 2:1-10; Exodus 2:11-22; Exodus 3:1-15; Exodus 4:10-20; Exodus 6:20; Exodus 32:1-32; Exodus 33:11-23; Numbers 12:1-8; Numbers 20:7-13; Deuteronomy 18:15-18; Deuteronomy 34:1-12; Matthew 17:1-8; John 1:17; Acts 7:20-24; Hebrews 3:1-6; Hebrews 11:23-29
+
+Study questions:
+- According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question "Who am I"?
+- What excuse does Moses give in Exodus 4:10, and how does God respond in verses 11-17?
+- In Exodus 32:11-14 and 32:30-32, what reasons does Moses give God for sparing the people? What does his prayer show about the kind of leader he was?
+- Why was Moses not allowed to lead Israel into the land (Numbers 20:7-12)? What exactly had God told him to do, and what did he do instead?
+- Hebrews 3:5-6 calls Moses a faithful servant in God's house and Christ a faithful Son over it. How does that comparison honour Moses rather than dismiss him?
+- Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?
+
 ## themes-and-theology
 
 ### [Grace](../articles/themes-and-theology/grace.md) — Theme

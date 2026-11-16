@@ -10,7 +10,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Exodus
 
 - **Exodus 1:8-14** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 2:1-10** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Exodus 2:11-22** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Exodus 3:1-15** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 3:7-15** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 4:10-20** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Exodus 6:20** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 12:1-14** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 12:26-27** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 12:37-42** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
@@ -19,12 +24,24 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Exodus 32:1-32** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Exodus 33:11-23** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 34:6** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Exodus 34:6-9** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Leviticus
 
 - **Leviticus 19:17-18** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+
+## Numbers
+
+- **Numbers 12:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Numbers 20:7-13** — [Moses](../articles/old-testament-people/moses.md) (Person)
+
+## Deuteronomy
+
+- **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## 1 Kings
 
@@ -97,6 +114,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 9:9** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 16:16-18** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 17:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 18:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 18:21-35** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
@@ -128,6 +146,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## John
 
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -141,6 +160,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Acts 7:20-24** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Acts 7:48-50** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 7:58** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
@@ -239,7 +259,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Hebrews
 
+- **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+- **Hebrews 11:23-29** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## James
 

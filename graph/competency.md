@@ -28,9 +28,11 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
+| `bg:faith` | Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
+| `bg:mosaic-covenant` | Moses |
 | `bg:redemption` | The Exodus |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
 
@@ -76,7 +78,6 @@ _Which written articles does nothing else in the graph point to (after inference
 | node |
 |---|
 | `bg:reading-in-context` |
-| `bg:the-exodus` |
 
 ## Teachings and practices by tradition
 
@@ -92,6 +93,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 | earlier | relation | later |
 |---|---|---|
+| `bg:moses` | prefigures | `bg:jesus` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |
@@ -106,5 +108,8 @@ _No results._
 
 _Who are the parents, children, spouses and siblings of each written biblical figure?_ — `queries/12-family-trees.rq`
 
-_No results._
+| person | relation | relative |
+|---|---|---|
+| `bg:moses` | bgo:siblingOf | `bg:aaron` |
+| `bg:moses` | bgo:spouseOf | `bg:zipporah` |
 

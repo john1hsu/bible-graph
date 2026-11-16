@@ -1070,6 +1070,180 @@
    ]
   },
   {
+   "@id": "bg:moses",
+   "@type": "bgo:Person",
+   "bgo:basis": "debated",
+   "bgo:domain": "old-testament-people",
+   "bgo:file": "articles/old-testament-people/moses.md",
+   "bgo:illustrates": [
+    {
+     "@id": "bg:faith"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    }
+   ],
+   "bgo:keyReference": [
+    "Acts 7:20-24",
+    "Deuteronomy 18:15-18",
+    "Deuteronomy 34:1-12",
+    "Exodus 2:1-10",
+    "Exodus 2:11-22",
+    "Exodus 32:1-32",
+    "Exodus 33:11-23",
+    "Exodus 3:1-15",
+    "Exodus 4:10-20",
+    "Exodus 6:20",
+    "Hebrews 11:23-29",
+    "Hebrews 3:1-6",
+    "John 1:17",
+    "Matthew 17:1-8",
+    "Numbers 12:1-8",
+    "Numbers 20:7-13"
+   ],
+   "bgo:level": "introductory",
+   "bgo:memberOf": [
+    {
+     "@id": "bg:israelites"
+    },
+    {
+     "@id": "bg:levites"
+    }
+   ],
+   "bgo:prefigures": {
+    "@id": "bg:jesus"
+   },
+   "bgo:siblingOf": {
+    "@id": "bg:aaron"
+   },
+   "bgo:spouseOf": {
+    "@id": "bg:zipporah"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s9"
+    }
+   ],
+   "rdfs:label": "Moses",
+   "skos:altLabel": [
+    "Moses our Teacher",
+    "Moses the God-seer",
+    "Moses the Lawgiver",
+    "Moshe Rabbenu",
+    "Moshe",
+    "Prophet Moses"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:israelites"
+    },
+    {
+     "@id": "bg:prophets"
+    }
+   ],
+   "skos:definition": "The Levite raised in Pharaoh's household whom God called at the burning bush to lead Israel out of Egypt; he mediated the covenant and the law at Sinai, interceded for the people through forty years in the wilderness and died within sight of the promised land, remembered as the prophet with whom the LORD spoke face to face.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people"
+   },
+   "skos:prefLabel": "Moses",
+   "skos:related": [
+    {
+     "@id": "bg:aaron"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:exodus"
+    },
+    {
+     "@id": "bg:giving-of-the-law-at-sinai"
+    },
+    {
+     "@id": "bg:joshua-son-of-nun"
+    },
+    {
+     "@id": "bg:miriam"
+    },
+    {
+     "@id": "bg:passover"
+    },
+    {
+     "@id": "bg:pentateuch"
+    },
+    {
+     "@id": "bg:ten-commandments"
+    },
+    {
+     "@id": "bg:the-exodus"
+    },
+    {
+     "@id": "bg:transfiguration"
+    }
+   ]
+  },
+  {
    "@id": "bg:paul",
    "@type": "bgo:Person",
    "bgo:basis": "debated",
@@ -2271,6 +2445,54 @@
     "@id": "bg:lords-prayer"
    },
    "rdfs:label": "Jesus prays \"your desire be done\" in Gethsemane (Matthew 26:42). How does that scene deepen what it means to pray \"your will be done\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question \"Who am I\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "What excuse does Moses give in Exodus 4:10, and how does God respond in verses 11-17?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "In Exodus 32:11-14 and 32:30-32, what reasons does Moses give God for sparing the people? What does his prayer show about the kind of leader he was?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "Why was Moses not allowed to lead Israel into the land (Numbers 20:7-12)? What exactly had God told him to do, and what did he do instead?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "Hebrews 3:5-6 calls Moses a faithful servant in God's house and Christ a faithful Son over it. How does that comparison honour Moses rather than dismiss him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:moses"
+   },
+   "rdfs:label": "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1",
@@ -4391,6 +4613,286 @@
    "dcterms:title": "Our Father (The Orthodox Faith, Vol. II, Worship — The Divine Liturgy)",
    "schema:url": {
     "@id": "https://oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/our-father"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Deuteronomy 34 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/deuteronomy/34.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Matthew 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/matthew/17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "John 1:17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://worthy.bible/bible/web/john/1/17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Acts 7:22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/acts/7-22.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Hebrews 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/hebrews/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Hebrews 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/hebrews/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Moses (R. K. Harrison, Baker's Evangelical Dictionary of Biblical Theology)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/moses.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Moses (T. Reilly, Catholic Encyclopedia, 1911)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/10596a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Moses, Hebrew prophet",
+   "schema:url": {
+    "@id": "https://www.britannica.com/biography/Moses-Hebrew-prophet"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "My Jewish Learning",
+   "dcterms:title": "Who Was Moses in the Bible?",
+   "schema:url": {
+    "@id": "https://www.myjewishlearning.com/article/moses-in-the-bible-beyond/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Exodus 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/EXO03.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Holy Prophet and God-seer Moses (Lives of the Saints, September 4)",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/all-lives/2026/09/04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Exodus 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/exodus/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Exodus 6:20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/exodus/6-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Exodus 32 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/study/content/texts/eng-web/EX32.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Exodus 33 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/exodus/33.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Numbers 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/numbers/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Numbers 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/NUM20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/moses/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Deuteronomy 18 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+bbe/deut/18"
    }
   },
   {

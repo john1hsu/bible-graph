@@ -984,6 +984,171 @@
   ]
  },
  {
+  "id": "bg:moses",
+  "title": "Moses",
+  "aliases": [
+   "Moshe",
+   "Moshe Rabbenu",
+   "Moses our Teacher",
+   "Moses the Lawgiver",
+   "Moses the God-seer",
+   "Prophet Moses"
+  ],
+  "type": "Person",
+  "domain": "old-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-people/moses.md",
+  "created": "2026-11-16",
+  "summary": "The Levite raised in Pharaoh's household whom God called at the burning bush to lead Israel out of Egypt; he mediated the covenant and the law at Sinai, interceded for the people through forty years in the wilderness and died within sight of the promised land, remembered as the prophet with whom the LORD spoke face to face.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prophets"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:israelites"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:aaron"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:miriam"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:joshua-son-of-nun"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pentateuch"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:passover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:transfiguration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:levites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:israelites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:siblingOf",
+    "object": "bg:aaron",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:spouseOf",
+    "object": "bg:zipporah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:mosaic-covenant",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:faith",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:jesus",
+    "source": "s17",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 2:1-10",
+   "Exodus 2:11-22",
+   "Exodus 3:1-15",
+   "Exodus 4:10-20",
+   "Exodus 6:20",
+   "Exodus 32:1-32",
+   "Exodus 33:11-23",
+   "Numbers 12:1-8",
+   "Numbers 20:7-13",
+   "Deuteronomy 18:15-18",
+   "Deuteronomy 34:1-12",
+   "Matthew 17:1-8",
+   "John 1:17",
+   "Acts 7:20-24",
+   "Hebrews 3:1-6",
+   "Hebrews 11:23-29"
+  ],
+  "studyQuestions": [
+   "According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question \"Who am I\"?",
+   "What excuse does Moses give in Exodus 4:10, and how does God respond in verses 11-17?",
+   "In Exodus 32:11-14 and 32:30-32, what reasons does Moses give God for sparing the people? What does his prayer show about the kind of leader he was?",
+   "Why was Moses not allowed to lead Israel into the land (Numbers 20:7-12)? What exactly had God told him to do, and what did he do instead?",
+   "Hebrews 3:5-6 calls Moses a faithful servant in God's house and Christ a faithful Son over it. How does that comparison honour Moses rather than dismiss him?",
+   "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/exodus/2.htm",
+   "https://ebible.org/eng-web/EXO03.htm",
+   "https://bibliaparalela.com/web/exodus/4.htm",
+   "https://www.christianity.com/bible/web/exodus/6-20",
+   "https://ebible.org/study/content/texts/eng-web/EX32.html",
+   "https://www.bibliaparalela.com/web/exodus/33.htm",
+   "https://bibliaparalela.com/web/numbers/12.htm",
+   "https://ebible.org/eng-web/NUM20.htm",
+   "https://miamisdb.org/bible/web+bbe/deut/18",
+   "https://www.bibliaparalela.com/web/deuteronomy/34.htm",
+   "https://www.bibliaparalela.com/web/matthew/17.htm",
+   "https://worthy.bible/bible/web/john/1/17",
+   "https://www.biblestudytools.com/web/acts/7-22.html",
+   "https://bibliaparalela.com/web/hebrews/3.htm",
+   "https://bibliaparalela.com/web/hebrews/11.htm",
+   "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/moses.html",
+   "https://www.newadvent.org/cathen/10596a.htm",
+   "https://www.britannica.com/biography/Moses-Hebrew-prophet",
+   "https://www.myjewishlearning.com/article/moses-in-the-bible-beyond/",
+   "https://www.oca.org/saints/all-lives/2026/09/04"
+  ]
+ },
+ {
   "id": "bg:paul",
   "title": "Paul",
   "aliases": [

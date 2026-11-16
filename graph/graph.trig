@@ -226,6 +226,29 @@
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s13> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s14> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s15> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-people/moses.md" .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s1> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s2> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s3> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s4> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s5> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s6> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s7> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s8> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s9> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s10> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s11> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s12> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s13> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s14> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s15> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s16> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s17> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s18> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s19> .
+<https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s20> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/grace> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/themes-and-theology/grace.md" .
@@ -2334,6 +2357,219 @@
   <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s9> <https://schema.org/url> <https://bibliaparalela.com/web/nehemiah/8.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/moses#graph> {
+  <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question \"Who am I\"?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What excuse does Moses give in Exodus 4:10, and how does God respond in verses 11-17?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Exodus 32:11-14 and 32:30-32, what reasons does Moses give God for sparing the people? What does his prayer show about the kind of leader he was?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Moses not allowed to lead Israel into the land (Numbers 20:7-12)? What exactly had God told him to do, and what did he do instead?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Hebrews 3:5-6 calls Moses a faithful servant in God's house and Christ a faithful Son over it. How does that comparison honour Moses rather than dismiss him?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?" .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2000/01/rdf-schema#label> "Moses" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Moses our Teacher" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Moses the God-seer" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Moses the Lawgiver" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Moshe Rabbenu" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Moshe" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophet Moses" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/prophets> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#definition> "The Levite raised in Pharaoh's household whom God called at the burning bush to lead Israel out of Egypt; he mediated the covenant and the law at Sinai, interceded for the people through forty years in the wilderness and died within sight of the promised land, remembered as the prophet with whom the LORD spoke face to face." .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moses" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/aaron> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/exodus> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/miriam> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/passover> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/transfiguration> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s10> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s11> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s12> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s13> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s14> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s15> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s16> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s17> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s18> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s19> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s1> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s20> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s2> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s3> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s4> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s5> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s6> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s7> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s8> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s9> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-people" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-people/moses.md" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/faith> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 7:20-24" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 18:15-18" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 34:1-12" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 2:1-10" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 2:11-22" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 32:1-32" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 33:11-23" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 3:1-15" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 4:10-20" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 6:20" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 11:23-29" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 3:1-6" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:17" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 17:1-8" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Numbers 12:1-8" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Numbers 20:7-13" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/levites> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/aaron> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#spouseOf> <https://github.com/john1hsu/bible-graph/id/zipporah> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/title> "Deuteronomy 34 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <https://schema.org/url> <https://www.bibliaparalela.com/web/deuteronomy/34.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <http://purl.org/dc/terms/title> "Matthew 17 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s11> <https://schema.org/url> <https://www.bibliaparalela.com/web/matthew/17.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <http://purl.org/dc/terms/title> "John 1:17 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s12> <https://schema.org/url> <https://worthy.bible/bible/web/john/1/17> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <http://purl.org/dc/terms/title> "Acts 7:22 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s13> <https://schema.org/url> <https://www.biblestudytools.com/web/acts/7-22.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <http://purl.org/dc/terms/title> "Hebrews 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s14> <https://schema.org/url> <https://bibliaparalela.com/web/hebrews/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <http://purl.org/dc/terms/title> "Hebrews 11 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s15> <https://schema.org/url> <https://bibliaparalela.com/web/hebrews/11.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <http://purl.org/dc/terms/title> "Moses (R. K. Harrison, Baker's Evangelical Dictionary of Biblical Theology)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s16> <https://schema.org/url> <https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/moses.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <http://purl.org/dc/terms/title> "Moses (T. Reilly, Catholic Encyclopedia, 1911)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s17> <https://schema.org/url> <https://www.newadvent.org/cathen/10596a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <http://purl.org/dc/terms/title> "Moses, Hebrew prophet" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s18> <https://schema.org/url> <https://www.britannica.com/biography/Moses-Hebrew-prophet> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <http://purl.org/dc/terms/publisher> "My Jewish Learning" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <http://purl.org/dc/terms/title> "Who Was Moses in the Bible?" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s19> <https://schema.org/url> <https://www.myjewishlearning.com/article/moses-in-the-bible-beyond/> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <http://purl.org/dc/terms/title> "Exodus 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s1> <https://schema.org/url> <https://biblehub.com/web/exodus/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <http://purl.org/dc/terms/title> "Holy Prophet and God-seer Moses (Lives of the Saints, September 4)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s20> <https://schema.org/url> <https://www.oca.org/saints/all-lives/2026/09/04> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <http://purl.org/dc/terms/title> "Exodus 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s2> <https://schema.org/url> <https://ebible.org/eng-web/EXO03.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <http://purl.org/dc/terms/title> "Exodus 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s3> <https://schema.org/url> <https://bibliaparalela.com/web/exodus/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <http://purl.org/dc/terms/title> "Exodus 6:20 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/exodus/6-20> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <http://purl.org/dc/terms/title> "Exodus 32 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s5> <https://schema.org/url> <https://ebible.org/study/content/texts/eng-web/EX32.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <http://purl.org/dc/terms/title> "Exodus 33 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s6> <https://schema.org/url> <https://www.bibliaparalela.com/web/exodus/33.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <http://purl.org/dc/terms/title> "Numbers 12 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s7> <https://schema.org/url> <https://bibliaparalela.com/web/numbers/12.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <http://purl.org/dc/terms/title> "Numbers 20 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s8> <https://schema.org/url> <https://ebible.org/eng-web/NUM20.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://purl.org/dc/terms/title> "Deuteronomy 18 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/deut/18> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/grace#graph> {
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?" .
@@ -2711,6 +2947,10 @@
   <https://github.com/john1hsu/bible-graph/id/2-chronicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/2-chronicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/2-chronicles> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/aaron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/aaron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/aaron> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/aaron> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -2792,13 +3032,16 @@
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/grace> .
+  <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -2814,6 +3057,7 @@
   <https://github.com/john1hsu/bible-graph/id/general-revelation> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
@@ -2859,8 +3103,15 @@
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -2884,6 +3135,7 @@
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
   <https://github.com/john1hsu/bible-graph/id/levites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/levites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/lords-prayer/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lords-prayer/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lords-prayer/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -2908,9 +3160,19 @@
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/miriam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
-  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prophets> .
   <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/new-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
@@ -2927,6 +3189,7 @@
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -2946,6 +3209,7 @@
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/pentateuch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
@@ -2965,6 +3229,8 @@
   <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -3033,6 +3299,7 @@
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
@@ -3053,6 +3320,10 @@
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/transfiguration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/zerubbabel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/zipporah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/zipporah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/zipporah> <https://github.com/john1hsu/bible-graph/ontology#spouseOf> <https://github.com/john1hsu/bible-graph/id/moses> .
 }
