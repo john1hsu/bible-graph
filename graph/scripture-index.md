@@ -5,6 +5,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Genesis
 
 - **Genesis 6:8** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Genesis 14:18-20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Genesis 22:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Exodus
@@ -44,12 +46,21 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
+## Joshua
+
+- **Joshua 15:63** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+
+## 2 Samuel
+
+- **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+
 ## 1 Kings
 
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 
 ## 2 Kings
 
+- **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Kings 24:10-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:1-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:21** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -57,6 +68,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Chronicles
 
+- **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 
@@ -87,13 +99,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Psalms
 
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+- **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Psalm 122** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Psalm 137:1-4** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Isaiah
 
+- **Isaiah 2:2-4** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
@@ -168,11 +183,13 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
@@ -188,6 +205,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Acts 1:1-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 1:8** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 1:8** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -264,6 +282,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Galatians 2:1** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 4:25-26** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 
 ## Ephesians
 
@@ -314,4 +333,6 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Revelation 3:14-22** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 - **Revelation 11:15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Revelation 21:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Revelation 21:22** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 

@@ -26,7 +26,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
-| `bg:exile-and-return` | Babylonian Exile |
+| `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
@@ -77,6 +77,7 @@ _Which written people, groups, places and events are not yet linked to any book,
 | node | type |
 |---|---|
 | `bg:babylonian-exile` | bgo:Event |
+| `bg:jerusalem` | bgo:Place |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)

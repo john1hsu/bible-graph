@@ -525,6 +525,85 @@
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Titus 2:11-14" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Samuel 5:6-9, who lived in Jerusalem before David, and what did David call the stronghold once he took it?" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Read Psalm 122. Why were pilgrims glad to go up to Jerusalem, and what does the psalmist ask readers to pray for?" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Isaiah 2:2-4, who comes to Jerusalem in the \"latter days\", and what do they go away with?" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Luke 9:51 says Jesus \"intently set his face\" to go to Jerusalem, and Luke 19:41-44 shows him weeping over it. What do these two moments tell you about how Jesus regarded the city?" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2000/01/rdf-schema#label> "Jerusalem" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "City of David" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Hierosolyma" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Jebus" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Mount Zion" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Salem" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Yerushalayim" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "Zion" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#altLabel> "the holy city" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#definition> "The hill city in the Judean highlands that David captured from the Jebusites and made his capital, where Solomon built the Temple; the centre of Israel's worship, the place of Jesus' death and resurrection and the starting point of the church's mission, and in the prophets and Revelation an image of God's people and his future dwelling with them." .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jerusalem" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/amarna-letters> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#domain> "places-and-geography" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/places-and-geography/jerusalem.md" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/exile-and-return> .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Chronicles 3:1" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 20:20" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Samuel 5:4-9" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:8" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 4:25-26" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 14:18-20" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 22:2" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 2:2-4" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 15:63" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 19:41-44" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:51" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 122" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 76:2" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:2" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:22" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?" .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -1930,6 +2009,114 @@
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/2-corinthians/12-9-10> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/title> "Luke 9:51 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <https://schema.org/url> <https://worthy.bible/bible/web/luke/9/51> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <http://purl.org/dc/terms/title> "Acts 1:8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s11> <https://schema.org/url> <https://worthy.bible/bible/web/acts/1/8> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <http://purl.org/dc/terms/title> "2 Kings 20:20 (parallel translations, including the World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s12> <https://schema.org/url> <https://biblehub.com/2_kings/20-20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <http://purl.org/dc/terms/title> "Psalm 76:2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s13> <https://schema.org/url> <https://www.biblestudytools.com/web/psalms/76-2.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <http://purl.org/dc/terms/title> "Genesis 22 (King James Version and World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s14> <https://schema.org/url> <https://miamisdb.org/bible/kjv+web/gen/22> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <http://purl.org/dc/terms/title> "Jerusalem (Richard Gottheil et al.)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s15> <https://schema.org/url> <https://jewishencyclopedia.com/articles/8604-jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <http://purl.org/dc/terms/publisher> "Bible Odyssey, Society of Biblical Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <http://purl.org/dc/terms/title> "Jerusalem" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> <https://schema.org/url> <https://www.bibleodyssey.org/articles/jerusalem/> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <http://purl.org/dc/terms/publisher> "Bible Odyssey, Society of Biblical Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <http://purl.org/dc/terms/title> "The Archaeology of Jerusalem" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> <https://schema.org/url> <https://www.bibleodyssey.org/articles/the-archaeology-of-jerusalem/> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation, University of Arizona" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <http://purl.org/dc/terms/title> "Did David and Solomon Exist? (Eric H. Cline, 2009)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> <https://schema.org/url> <https://bibleinterp.arizona.edu/articles/cline35709> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <http://purl.org/dc/terms/title> "2 Samuel 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s1> <https://schema.org/url> <https://biblehub.com/web/2_samuel/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <http://purl.org/dc/terms/title> "Genesis 14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s2> <https://schema.org/url> <https://biblehub.com/web/genesis/14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <http://purl.org/dc/terms/title> "Psalm 122 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s3> <https://schema.org/url> <https://biblehub.com/web/psalms/122.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <http://purl.org/dc/terms/title> "Luke 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s4> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/19.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <http://purl.org/dc/terms/title> "2 Chronicles 3 (World English Bible Classic)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s5> <https://schema.org/url> <https://ebible.org/eng-web/2CH03.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <http://purl.org/dc/terms/title> "Joshua 15:63 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s6> <https://schema.org/url> <https://worthy.bible/bible/web/joshua/15/63> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <http://purl.org/dc/terms/title> "Revelation 21 (King James Version and World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s7> <https://schema.org/url> <https://miamisdb.org/bible/kjv+web/rev/21> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <http://purl.org/dc/terms/title> "Galatians 4:26 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s8> <https://schema.org/url> <https://www.biblestudytools.com/web/galatians/4-26.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <http://purl.org/dc/terms/title> "Isaiah 2 (World English Bible Classic)" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <https://schema.org/url> <https://ebible.org/eng-web/ISA02.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/publisher> "Christianity.com" .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/title> "John 18:36 (World English Bible)" .

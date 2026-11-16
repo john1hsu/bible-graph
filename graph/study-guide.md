@@ -231,6 +231,19 @@ Study questions:
 - Hebrews 3:5-6 calls Moses a faithful servant in God's house and Christ a faithful Son over it. How does that comparison honour Moses rather than dismiss him?
 - Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?
 
+## places-and-geography
+
+### [Jerusalem](../articles/places-and-geography/jerusalem.md) — Place
+
+Read: Genesis 14:18-20; Genesis 22:2; Joshua 15:63; 2 Samuel 5:4-9; 2 Kings 20:20; 2 Chronicles 3:1; Psalm 76:2; Psalm 122; Isaiah 2:2-4; Luke 9:51; Luke 19:41-44; Acts 1:8; Galatians 4:25-26; Revelation 21:2; Revelation 21:22
+
+Study questions:
+- According to 2 Samuel 5:6-9, who lived in Jerusalem before David, and what did David call the stronghold once he took it?
+- Read Psalm 122. Why were pilgrims glad to go up to Jerusalem, and what does the psalmist ask readers to pray for?
+- In Isaiah 2:2-4, who comes to Jerusalem in the "latter days", and what do they go away with?
+- Luke 9:51 says Jesus "intently set his face" to go to Jerusalem, and Luke 19:41-44 shows him weeping over it. What do these two moments tell you about how Jesus regarded the city?
+- Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?
+
 ## themes-and-theology
 
 ### [Grace](../articles/themes-and-theology/grace.md) — Theme
