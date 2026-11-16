@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:book-of-ezra` |
 
 ## Life situations with no Scripture (gap)
 
@@ -42,6 +44,10 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:acts-of-the-apostles` | `bg:paul` |
 | `bg:acts-of-the-apostles` | `bg:pentecost` |
 | `bg:acts-of-the-apostles` | `bg:peter` |
+| `bg:book-of-ezra` | `bg:cyrus-the-great` |
+| `bg:book-of-ezra` | `bg:ezra` |
+| `bg:book-of-ezra` | `bg:second-temple-judaism` |
+| `bg:book-of-ezra` | `bg:zerubbabel` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
 | `bg:paul-at-the-areopagus` | `bg:athens` |
 | `bg:paul-at-the-areopagus` | `bg:dionysius-the-areopagite` |
@@ -61,7 +67,6 @@ _Which written people, groups, places and events are not yet linked to any book,
 
 | node | type |
 |---|---|
-| `bg:second-temple-judaism` | bgo:Group |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)

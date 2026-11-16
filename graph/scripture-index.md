@@ -28,13 +28,26 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 
+## 2 Chronicles
+
+- **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+
 ## Ezra
 
+- **Ezra 1:1-4** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 3:10-13** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 4:1-5** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 4:24** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 6:14-18** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Ezra 6:14-22** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 7:6-10** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 9:5-15** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 10:1-5** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 
 ## Nehemiah
 
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Nehemiah 8:1-12** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
 ## Psalms

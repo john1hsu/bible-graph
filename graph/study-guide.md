@@ -182,6 +182,19 @@ Study questions:
 - In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?
 - Paul calls himself "the least of the apostles" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?
 
+## old-testament-books
+
+### [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) — Book
+
+Read: Ezra 1:1-4; Ezra 3:10-13; Ezra 4:1-5; Ezra 4:24; Ezra 6:14-22; Ezra 7:6-10; Ezra 9:5-15; Ezra 10:1-5; 2 Chronicles 36:22-23; Nehemiah 8:1-12
+
+Study questions:
+- Compare Ezra 1:1-4 with 2 Chronicles 36:22-23. What do the two passages share, and what does that suggest about how the story of Israel continues after the exile?
+- In Ezra 3:10-13, why do some people shout for joy while older priests and Levites weep at the laying of the Temple's foundation?
+- What stopped the rebuilding in Ezra 4:24, and according to Ezra 6:14, through whose prophesying did the elders build and prosper?
+- Ezra 7:10 says Ezra set his heart to seek the law, to do it and to teach it. Why do you think the order of those three verbs matters for anyone who studies Scripture?
+- Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?
+
 ## themes-and-theology
 
 ### [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) — Theme

@@ -320,6 +320,135 @@
   ]
  },
  {
+  "id": "bg:book-of-ezra",
+  "title": "Book of Ezra",
+  "aliases": [
+   "Book of Esdras",
+   "I Esdras (Vulgate)"
+  ],
+  "type": "Book",
+  "domain": "old-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-books/book-of-ezra.md",
+  "created": "2026-11-16",
+  "summary": "The Old Testament book that tells how Jewish exiles returned from Babylon under the Persian king Cyrus, rebuilt the Temple in Jerusalem, and were later led by Ezra, a priest and scribe, to reorder their life around the Law of Moses; in the Hebrew Bible it forms one book with Nehemiah.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:historical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-nehemiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-period"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:second-temple-judaism",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:ezra",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:zerubbabel",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:cyrus-the-great",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:ezra",
+    "source": "s12",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:2-chronicles",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:cyrus-cylinder",
+    "source": "s14",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Ezra 1:1-4",
+   "Ezra 3:10-13",
+   "Ezra 4:1-5",
+   "Ezra 4:24",
+   "Ezra 6:14-22",
+   "Ezra 7:6-10",
+   "Ezra 9:5-15",
+   "Ezra 10:1-5",
+   "2 Chronicles 36:22-23",
+   "Nehemiah 8:1-12"
+  ],
+  "studyQuestions": [
+   "Compare Ezra 1:1-4 with 2 Chronicles 36:22-23. What do the two passages share, and what does that suggest about how the story of Israel continues after the exile?",
+   "In Ezra 3:10-13, why do some people shout for joy while older priests and Levites weep at the laying of the Temple's foundation?",
+   "What stopped the rebuilding in Ezra 4:24, and according to Ezra 6:14, through whose prophesying did the elders build and prosper?",
+   "Ezra 7:10 says Ezra set his heart to seek the law, to do it and to teach it. Why do you think the order of those three verbs matters for anyone who studies Scripture?",
+   "Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/ezra/1.htm",
+   "https://biblehub.com/web/ezra/3.htm",
+   "https://biblehub.com/web/ezra/4.htm",
+   "https://biblehub.com/web/ezra/6.htm",
+   "https://bibliaparalela.com/web/ezra/7.htm",
+   "https://biblehub.com/web/ezra/9.htm",
+   "https://biblehub.com/web/ezra/10.htm",
+   "https://www.worthy.bible/bible/web/2-chronicles/36/22/23",
+   "https://bibliaparalela.com/web/nehemiah/8.htm",
+   "https://www.jewishvirtuallibrary.org/ezra-and-nehemiah-books-of",
+   "https://jewishencyclopedia.com/articles/5968-ezra-book-of",
+   "https://www.newadvent.org/cathen/05535a.htm",
+   "https://www.britannica.com/topic/Book-of-Ezra",
+   "https://www.britishmuseum.org/explore/highlights/highlight_objects/me/c/cyrus_cylinder.aspx",
+   "https://tyndalebulletin.org/article/29353-these-are-the-days-of-the-prophets-a-literary-analysis-of-ezra-1-6.pdf"
+  ]
+ },
+ {
   "id": "bg:forgiveness-in-the-bible",
   "title": "Forgiveness in the Bible",
   "aliases": [
