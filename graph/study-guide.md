@@ -26,6 +26,18 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+## life-and-teachings-of-jesus
+
+### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage
+
+Read: Matthew 4:23-25; Matthew 5:1-20; Matthew 5:21-48; Matthew 6:1-34; Matthew 7:1-29; Matthew 8:1; Luke 6:17-49; Exodus 20:13-14
+
+Study questions:
+- Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?
+- In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets?
+- Read the three examples of "secret" devotion in Matthew 6:1-18 (giving, prayer, fasting). What do they have in common, and which one most challenges your own habits?
+- The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would "doing" one of these teachings look like for you or your group this week?
+
 ## new-testament-books
 
 ### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book

@@ -281,6 +281,109 @@
    ]
   },
   {
+   "@id": "bg:sermon-on-the-mount",
+   "@type": "bgo:Passage",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:file": "articles/life-and-teachings-of-jesus/sermon-on-the-mount.md",
+   "bgo:keyReference": [
+    "Exodus 20:13-14",
+    "Luke 6:17-49",
+    "Matthew 4:23-25",
+    "Matthew 5:1-20",
+    "Matthew 5:21-48",
+    "Matthew 6:1-34",
+    "Matthew 7:1-29",
+    "Matthew 8:1"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:sermon-on-the-plain"
+   },
+   "bgo:partOf": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "bgo:quotes": {
+    "@id": "bg:ten-commandments"
+   },
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s9"
+    }
+   ],
+   "rdfs:label": "Sermon on the Mount",
+   "skos:altLabel": [
+    "De sermone Domini in monte",
+    "Matthew 5-7",
+    "Matthew 5–7"
+   ],
+   "skos:broader": {
+    "@id": "bg:gospel-of-matthew"
+   },
+   "skos:definition": "Jesus's longest continuous teaching in the Gospels (Matthew 5–7), given on a mountain in Galilee: the Beatitudes, salt and light, the fulfilment of the Law, almsgiving, prayer and fasting, the Lord's Prayer, the Golden Rule and the closing call to hear and do his words.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "Sermon on the Mount",
+   "skos:related": [
+    {
+     "@id": "bg:beatitudes"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:lords-prayer"
+    },
+    {
+     "@id": "bg:pharisees"
+    }
+   ]
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -450,6 +553,38 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sermon-on-the-mount"
+   },
+   "rdfs:label": "Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sermon-on-the-mount"
+   },
+   "rdfs:label": "In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sermon-on-the-mount"
+   },
+   "rdfs:label": "Read the three examples of \"secret\" devotion in Matthew 6:1-18 (giving, prayer, fasting). What do they have in common, and which one most challenges your own habits?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sermon-on-the-mount"
+   },
+   "rdfs:label": "The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would \"doing\" one of these teachings look like for you or your group this week?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s1",
@@ -799,6 +934,188 @@
    "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
    "schema:url": {
     "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Antiphons (The Orthodox Faith, Vol. II, Worship)",
+   "schema:url": {
+    "@id": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/antiphons"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Exodus 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/EXO20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Matthew 8:1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/matthew/8-1.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://BibleHub.com/web/matthew/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Sermon on the Mount (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com:443/resources/encyclopedia-of-the-bible/Sermon-on-Mount"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Augustine, Our Lord's Sermon on the Mount, Book I (Nicene and Post-Nicene Fathers)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/16011.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 1965-1974 (The New Law or the Law of the Gospel)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/iii_the_new_law_or_the_law_of_the_gospel.index.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "BookofConcord.org",
+   "dcterms:title": "Apology of the Augsburg Confession, Article XVI (Of Political Order)",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/defense/of-political-order/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Anabaptists.org",
+   "dcterms:title": "The Schleitheim Confession (1527)",
+   "schema:url": {
+    "@id": "https://anabaptists.org/history/schleith.html"
    }
   }
  ]

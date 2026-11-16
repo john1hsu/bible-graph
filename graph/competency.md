@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:gospel-of-matthew` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -28,7 +26,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
-| `bg:kingdom-of-god` | Gospel of Matthew |
+| `bg:kingdom-of-god` | Gospel of Matthew, Sermon on the Mount |
 
 ## Who and what appears where
 
@@ -68,7 +66,9 @@ _No results._
 
 _Which people, events and passages does the New Testament present as fulfilling or prefigured by earlier Scripture?_ — `queries/10-promise-and-fulfilment.rq`
 
-_No results._
+| earlier | relation | later |
+|---|---|---|
+| `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 
 ## Events with no place in the timeline (gap)
 

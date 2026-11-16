@@ -265,5 +265,100 @@
    "https://bibleodyssey.org/people/main-articles/pharisees",
    "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
   ]
+ },
+ {
+  "id": "bg:sermon-on-the-mount",
+  "title": "Sermon on the Mount",
+  "aliases": [
+   "Matthew 5-7",
+   "Matthew 5–7",
+   "De sermone Domini in monte"
+  ],
+  "type": "Passage",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/life-and-teachings-of-jesus/sermon-on-the-mount.md",
+  "created": "2026-11-16",
+  "summary": "Jesus's longest continuous teaching in the Gospels (Matthew 5–7), given on a mountain in Galilee: the Beatitudes, salt and light, the fulfilment of the Law, almsgiving, prayer and fasting, the Lord's Prayer, the Golden Rule and the closing call to hear and do his words.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:beatitudes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lords-prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospel-of-matthew",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:sermon-on-the-plain",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:ten-commandments",
+    "source": "s12",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Matthew 4:23-25",
+   "Matthew 5:1-20",
+   "Matthew 5:21-48",
+   "Matthew 6:1-34",
+   "Matthew 7:1-29",
+   "Matthew 8:1",
+   "Luke 6:17-49",
+   "Exodus 20:13-14"
+  ],
+  "studyQuestions": [
+   "Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?",
+   "In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets?",
+   "Read the three examples of \"secret\" devotion in Matthew 6:1-18 (giving, prayer, fasting). What do they have in common, and which one most challenges your own habits?",
+   "The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would \"doing\" one of these teachings look like for you or your group this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/matthew/5.htm",
+   "https://biblehub.com/web/matthew/6.htm",
+   "https://BibleHub.com/web/matthew/7.htm",
+   "https://biblehub.com/web/luke/6.htm",
+   "https://www.biblegateway.com:443/resources/encyclopedia-of-the-bible/Sermon-on-Mount",
+   "https://www.newadvent.org/fathers/16011.htm",
+   "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/iii_the_new_law_or_the_law_of_the_gospel.index.html",
+   "https://bookofconcord.org/defense/of-political-order/",
+   "https://anabaptists.org/history/schleith.html",
+   "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/antiphons",
+   "https://biblehub.com/web/matthew/4.htm",
+   "https://ebible.org/eng-web/EXO20.htm",
+   "https://www.biblestudytools.com/web/matthew/8-1.html"
+  ]
  }
 ]
