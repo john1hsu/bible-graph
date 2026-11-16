@@ -61,6 +61,79 @@
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:1-4" .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 4:36-37, what was Barnabas's real name, where was he from, and what did he do with his field?" .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Acts 9:26-27, why were the disciples in Jerusalem afraid of Saul, and what did Barnabas tell the apostles about him?" .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did Barnabas see when he arrived in Antioch (Acts 11:22-24), and how did he respond?" .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Compare the order of the names in Acts 13:2 and 13:7 with Acts 13:46. What change in the mission does it hint at?" .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?" .
+<https://github.com/john1hsu/bible-graph/id/barnabas/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2000/01/rdf-schema#label> "Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Barnabas of Cyprus" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Barnabas the Apostle" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Joseph Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Joses Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Saint Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#altLabel> "Son of Encouragement" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#definition> "Joseph, a Levite from Cyprus whom the apostles nicknamed Barnabas, \"Son of Encouragement\"; a generous early member of the Jerusalem church who vouched for the newly converted Saul, led the young church at Antioch and was sent out with Paul on the first missionary journey." .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-mark> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-people" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-people/barnabas.md" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 9:6" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 11:19-30" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 13:1-4" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 13:46" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 13:7" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 14:12-14" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:12" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:2" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:25-26" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:36-40" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 4:36-37" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 9:26-27" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Colossians 4:10" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 2:1" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 2:11-13" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 2:9" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/levites> .
+<https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
@@ -811,6 +884,90 @@
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <https://schema.org/url> <https://biblehub.com/parallel/colossians/4-14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <http://purl.org/dc/terms/title> "Barnabas (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s10> <https://schema.org/url> <https://bg.prod.biblegateway.com/resources/encyclopedia-of-the-bible/Barnabas> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <http://purl.org/dc/terms/title> "St. Barnabas (Catholic Encyclopedia, 1907)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s11> <https://schema.org/url> <https://www.newadvent.org/cathen/02300a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <http://purl.org/dc/terms/title> "St. Barnabas" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s12> <https://schema.org/url> <https://britannica.com/biography/Saint-Barnabas> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <http://purl.org/dc/terms/title> "Tertullian, On Modesty, ch. 20 (trans. S. Thelwall, Ante-Nicene Fathers)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s13> <https://schema.org/url> <https://www.newadvent.org/fathers/0407.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <http://purl.org/dc/terms/title> "Holy Apostle Barnabas of the Seventy (Lives of the Saints, June 11)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s14> <https://schema.org/url> <https://www.oca.org/saints/all-lives/2022/06/11> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <http://purl.org/dc/terms/title> "Acts 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s1> <https://schema.org/url> <https://biblehub.com/web/acts/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <http://purl.org/dc/terms/title> "Acts 9:27 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s2> <https://schema.org/url> <https://www.biblestudytools.com/web/acts/9-27.html> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <http://purl.org/dc/terms/title> "Acts 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s3> <https://schema.org/url> <https://biblehub.com/web/acts/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <http://purl.org/dc/terms/title> "Acts 13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s4> <https://schema.org/url> <https://biblehub.com/web/acts/13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <http://purl.org/dc/terms/title> "Acts 14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s5> <https://schema.org/url> <https://bibliaparalela.com/web/acts/14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <http://purl.org/dc/terms/title> "Acts 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s6> <https://schema.org/url> <https://biblehub.com/web/acts/15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <http://purl.org/dc/terms/title> "Galatians 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s7> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <http://purl.org/dc/terms/title> "Colossians 4:10 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s8> <https://schema.org/url> <https://www.bible.com/bible/1204/COL.4.10.WEBBE> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <http://purl.org/dc/terms/title> "1 Corinthians 9:6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/1-corinthians/9-6.html> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/publisher> "creeds.net" .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)" .

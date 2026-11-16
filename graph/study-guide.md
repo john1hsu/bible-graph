@@ -149,6 +149,17 @@ Study questions:
 
 ## new-testament-people
 
+### [Barnabas](../articles/new-testament-people/barnabas.md) — Person
+
+Read: Acts 4:36-37; Acts 9:26-27; Acts 11:19-30; Acts 13:1-4; Acts 13:7; Acts 13:46; Acts 14:12-14; Acts 15:2; Acts 15:12; Acts 15:25-26; Acts 15:36-40; Galatians 2:1; Galatians 2:9; Galatians 2:11-13; 1 Corinthians 9:6; Colossians 4:10
+
+Study questions:
+- According to Acts 4:36-37, what was Barnabas's real name, where was he from, and what did he do with his field?
+- In Acts 9:26-27, why were the disciples in Jerusalem afraid of Saul, and what did Barnabas tell the apostles about him?
+- What did Barnabas see when he arrived in Antioch (Acts 11:22-24), and how did he respond?
+- Compare the order of the names in Acts 13:2 and 13:7 with Acts 13:46. What change in the mission does it hint at?
+- Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?
+
 ### [Paul](../articles/new-testament-people/paul.md) — Person
 
 Read: Acts 8:1-3; Acts 13:1-4; Acts 13:47; Acts 9:1-30; Acts 13:9; Acts 18:3; Acts 22:3; Acts 22:25-28; Acts 28:30-31; Galatians 1:15-24; Philippians 3:4-14; 1 Corinthians 15:8-10; 2 Corinthians 11:25

@@ -118,6 +118,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Acts 7:48-50** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 7:58** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -125,14 +126,24 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 9:26-27** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 11:19-30** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 11:26** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 13:1-4** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:1-4** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 13:2-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 13:7** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:9** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 13:46** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:47** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 14:12-14** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:1-6** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 15:2** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 15:12** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 15:25-26** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 17:16-34** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:22-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
@@ -158,6 +169,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 1 Corinthians
 
 - **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
@@ -169,6 +181,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Galatians 1:13-14** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Galatians 1:15-24** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Galatians 2:1** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 
 ## Ephesians
 
@@ -183,6 +198,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Colossians
 
 - **Colossians 3:12-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 
 ## 2 Timothy

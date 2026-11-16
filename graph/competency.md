@@ -27,7 +27,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | theme | texts |
 |---|---|
 | `bg:general-revelation` | Paul at the Areopagus |
-| `bg:grace` | Paul |
+| `bg:grace` | Barnabas, Paul |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
 | `bg:redemption` | The Exodus |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |

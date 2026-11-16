@@ -121,6 +121,134 @@
    ]
   },
   {
+   "@id": "bg:barnabas",
+   "@type": "bgo:Person",
+   "bgo:basis": "debated",
+   "bgo:domain": "new-testament-people",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/new-testament-people/barnabas.md",
+   "bgo:illustrates": {
+    "@id": "bg:grace"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 9:6",
+    "Acts 11:19-30",
+    "Acts 13:1-4",
+    "Acts 13:46",
+    "Acts 13:7",
+    "Acts 14:12-14",
+    "Acts 15:12",
+    "Acts 15:2",
+    "Acts 15:25-26",
+    "Acts 15:36-40",
+    "Acts 4:36-37",
+    "Acts 9:26-27",
+    "Colossians 4:10",
+    "Galatians 2:1",
+    "Galatians 2:11-13",
+    "Galatians 2:9"
+   ],
+   "bgo:level": "introductory",
+   "bgo:memberOf": [
+    {
+     "@id": "bg:apostles"
+    },
+    {
+     "@id": "bg:levites"
+    }
+   ],
+   "bgo:requires": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s9"
+    }
+   ],
+   "rdfs:label": "Barnabas",
+   "skos:altLabel": [
+    "Barnabas of Cyprus",
+    "Barnabas the Apostle",
+    "Joseph Barnabas",
+    "Joses Barnabas",
+    "Saint Barnabas",
+    "Son of Encouragement"
+   ],
+   "skos:broader": {
+    "@id": "bg:apostles"
+   },
+   "skos:definition": "Joseph, a Levite from Cyprus whom the apostles nicknamed Barnabas, \"Son of Encouragement\"; a generous early member of the Jerusalem church who vouched for the newly converted Saul, led the young church at Antioch and was sent out with Paul on the first missionary journey.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people"
+   },
+   "skos:prefLabel": "Barnabas",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:council-of-jerusalem"
+    },
+    {
+     "@id": "bg:epistle-of-barnabas"
+    },
+    {
+     "@id": "bg:john-mark"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ]
+  },
+  {
    "@id": "bg:biblical-canon",
    "@type": "bgo:Concept",
    "bgo:basis": "varies-by-tradition",
@@ -1477,6 +1605,46 @@
    "rdfs:label": "Acts ends with Paul under guard in Rome yet preaching \"with all boldness, none forbidding him\" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/barnabas/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:barnabas"
+   },
+   "rdfs:label": "According to Acts 4:36-37, what was Barnabas's real name, where was he from, and what did he do with his field?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/barnabas/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:barnabas"
+   },
+   "rdfs:label": "In Acts 9:26-27, why were the disciples in Jerusalem afraid of Saul, and what did Barnabas tell the apostles about him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/barnabas/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:barnabas"
+   },
+   "rdfs:label": "What did Barnabas see when he arrived in Antioch (Acts 11:22-24), and how did he respond?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/barnabas/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:barnabas"
+   },
+   "rdfs:label": "Compare the order of the names in Acts 13:2 and 13:7 with Acts 13:46. What change in the mission does it hint at?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/barnabas/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:barnabas"
+   },
+   "rdfs:label": "Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -2109,6 +2277,202 @@
    "dcterms:title": "Colossians 4:14 (World English Bible and King James Version, parallel)",
    "schema:url": {
     "@id": "https://biblehub.com/parallel/colossians/4-14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Barnabas (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://bg.prod.biblegateway.com/resources/encyclopedia-of-the-bible/Barnabas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "St. Barnabas (Catholic Encyclopedia, 1907)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/02300a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "St. Barnabas",
+   "schema:url": {
+    "@id": "https://britannica.com/biography/Saint-Barnabas"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Tertullian, On Modesty, ch. 20 (trans. S. Thelwall, Ante-Nicene Fathers)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0407.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Holy Apostle Barnabas of the Seventy (Lives of the Saints, June 11)",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/all-lives/2022/06/11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Acts 9:27 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/acts/9-27.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 14 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/galatians/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Colossians 4:10 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/COL.4.10.WEBBE"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/barnabas/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Corinthians 9:6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-corinthians/9-6.html"
    }
   },
   {

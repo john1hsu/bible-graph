@@ -116,6 +116,126 @@
   ]
  },
  {
+  "id": "bg:barnabas",
+  "title": "Barnabas",
+  "aliases": [
+   "Saint Barnabas",
+   "Barnabas the Apostle",
+   "Joseph Barnabas",
+   "Joses Barnabas",
+   "Son of Encouragement",
+   "Barnabas of Cyprus"
+  ],
+  "type": "Person",
+  "domain": "new-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-people/barnabas.md",
+  "created": "2026-11-16",
+  "summary": "Joseph, a Levite from Cyprus whom the apostles nicknamed Barnabas, \"Son of Encouragement\"; a generous early member of the Jerusalem church who vouched for the newly converted Saul, led the young church at Antioch and was sent out with Paul on the first missionary journey.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:council-of-jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:epistle-of-barnabas"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:apostles",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:levites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:grace",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Acts 4:36-37",
+   "Acts 9:26-27",
+   "Acts 11:19-30",
+   "Acts 13:1-4",
+   "Acts 13:7",
+   "Acts 13:46",
+   "Acts 14:12-14",
+   "Acts 15:2",
+   "Acts 15:12",
+   "Acts 15:25-26",
+   "Acts 15:36-40",
+   "Galatians 2:1",
+   "Galatians 2:9",
+   "Galatians 2:11-13",
+   "1 Corinthians 9:6",
+   "Colossians 4:10"
+  ],
+  "studyQuestions": [
+   "According to Acts 4:36-37, what was Barnabas's real name, where was he from, and what did he do with his field?",
+   "In Acts 9:26-27, why were the disciples in Jerusalem afraid of Saul, and what did Barnabas tell the apostles about him?",
+   "What did Barnabas see when he arrived in Antioch (Acts 11:22-24), and how did he respond?",
+   "Compare the order of the names in Acts 13:2 and 13:7 with Acts 13:46. What change in the mission does it hint at?",
+   "Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/acts/4.htm",
+   "https://www.biblestudytools.com/web/acts/9-27.html",
+   "https://biblehub.com/web/acts/11.htm",
+   "https://biblehub.com/web/acts/13.htm",
+   "https://bibliaparalela.com/web/acts/14.htm",
+   "https://biblehub.com/web/acts/15.htm",
+   "https://www.bibliaparalela.com/web/galatians/2.htm",
+   "https://www.bible.com/bible/1204/COL.4.10.WEBBE",
+   "https://www.biblestudytools.com/web/1-corinthians/9-6.html",
+   "https://bg.prod.biblegateway.com/resources/encyclopedia-of-the-bible/Barnabas",
+   "https://www.newadvent.org/cathen/02300a.htm",
+   "https://britannica.com/biography/Saint-Barnabas",
+   "https://www.newadvent.org/fathers/0407.htm",
+   "https://www.oca.org/saints/all-lives/2022/06/11"
+  ]
+ },
+ {
   "id": "bg:biblical-canon",
   "title": "Biblical Canon",
   "aliases": [
