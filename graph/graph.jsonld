@@ -14,6 +14,126 @@
  },
  "@graph": [
   {
+   "@id": "bg:pharisees",
+   "@type": "bgo:Group",
+   "bgo:basis": "debated",
+   "bgo:contrastsWith": {
+    "@id": "bg:sadducees"
+   },
+   "bgo:corroboratedBy": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "bgo:domain": "background-and-culture",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/background-and-culture/pharisees.md",
+   "bgo:keyReference": [
+    "Acts 23:6-9",
+    "Acts 5:34-39",
+    "John 3:1-2",
+    "Luke 13:31",
+    "Luke 7:36",
+    "Mark 7:1-13",
+    "Matthew 23:1-28",
+    "Philippians 3:5-6"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s8"
+    }
+   ],
+   "rdfs:label": "Pharisees",
+   "skos:altLabel": [
+    "Pharisee",
+    "perushim",
+    "the Pharisaic movement"
+   ],
+   "skos:broader": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "skos:definition": "A Jewish movement of the Second Temple period known for careful interpretation and practice of the Torah, the \"tradition of the elders\" and belief in the resurrection; Jesus's frequent conversation partners and critics in the Gospels, Paul's own party, and forerunners of the later rabbis.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture"
+   },
+   "skos:prefLabel": "Pharisees",
+   "skos:related": [
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:nicodemus"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:sadducees"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pharisees"
+   },
+   "rdfs:label": "According to Acts 23:6-8, which beliefs did the Pharisees hold that the Sadducees rejected?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pharisees"
+   },
+   "rdfs:label": "In Matthew 23:2-3, what does Jesus tell the crowds to do with the Pharisees' teaching, and what does he warn them not to copy?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pharisees"
+   },
+   "rdfs:label": "Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pharisees"
+   },
+   "rdfs:label": "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "History, culture and background"
@@ -87,6 +207,118 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/web/acts/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Philippians 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://mail.biblehub.com/web/philippians/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 13.296-298 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/13.296-13.298/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Pharisees (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Pharisees"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "Pharisees",
+   "schema:url": {
+    "@id": "https://bibleodyssey.org/people/main-articles/pharisees"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pharisees/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Jewish-Christian Relations",
+   "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
+   "schema:url": {
+    "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
   }
  ]
 }

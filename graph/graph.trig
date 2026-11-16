@@ -1,5 +1,133 @@
 # Per-article named graphs. Default graph holds provenance about each named graph.
 
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/background-and-culture/pharisees.md" .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> .
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> .
+
+<https://github.com/john1hsu/bible-graph/id/pharisees#graph> {
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 23:6-8, which beliefs did the Pharisees hold that the Sadducees rejected?" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 23:2-3, what does Jesus tell the crowds to do with the Pharisees' teaching, and what does he warn them not to copy?" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2000/01/rdf-schema#label> "Pharisees" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#altLabel> "Pharisee" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#altLabel> "perushim" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#altLabel> "the Pharisaic movement" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#definition> "A Jewish movement of the Second Temple period known for careful interpretation and practice of the Torah, the \"tradition of the elders\" and belief in the resurrection; Jesus's frequent conversation partners and critics in the Gospels, Paul's own party, and forerunners of the later rabbis." .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharisees" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/nicodemus> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#domain> "background-and-culture" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/background-and-culture/pharisees.md" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 23:6-9" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 5:34-39" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 3:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 13:31" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 7:36" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 7:1-13" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 23:1-28" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Philippians 3:5-6" .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <http://purl.org/dc/terms/title> "Matthew 23 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s1> <https://schema.org/url> <https://biblehub.com/web/matthew/23.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <http://purl.org/dc/terms/title> "Acts 23 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s2> <https://schema.org/url> <https://www.biblehub.com/web/acts/23.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <http://purl.org/dc/terms/title> "Mark 7 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s3> <https://schema.org/url> <https://biblehub.com/web/mark/7.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <http://purl.org/dc/terms/title> "Philippians 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s4> <https://schema.org/url> <https://mail.biblehub.com/web/philippians/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 13.296-298 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s5> <https://schema.org/url> <https://lexundria.com/j_aj/13.296-13.298/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <http://purl.org/dc/terms/title> "Pharisees (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s6> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <http://purl.org/dc/terms/title> "Pharisees" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s7> <https://schema.org/url> <https://bibleodyssey.org/people/main-articles/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <http://purl.org/dc/terms/publisher> "Jewish-Christian Relations" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <http://purl.org/dc/terms/title> "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/pharisees/s8> <https://schema.org/url> <https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html> .
+}
 
 <https://github.com/john1hsu/bible-graph/id/inferred> {
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/nicodemus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/sadducees> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pharisees> .
 }

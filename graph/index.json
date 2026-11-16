@@ -1,1 +1,90 @@
-[]
+[
+ {
+  "id": "bg:pharisees",
+  "title": "Pharisees",
+  "aliases": [
+   "Pharisee",
+   "perushim",
+   "the Pharisaic movement"
+  ],
+  "type": "Group",
+  "domain": "background-and-culture",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/background-and-culture/pharisees.md",
+  "created": "2026-11-16",
+  "summary": "A Jewish movement of the Second Temple period known for careful interpretation and practice of the Torah, the \"tradition of the elders\" and belief in the resurrection; Jesus's frequent conversation partners and critics in the Gospels, Paul's own party, and forerunners of the later rabbis.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:nicodemus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:sadducees",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s6",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Matthew 23:1-28",
+   "Mark 7:1-13",
+   "Acts 23:6-9",
+   "Philippians 3:5-6",
+   "Acts 5:34-39",
+   "John 3:1-2",
+   "Luke 13:31",
+   "Luke 7:36"
+  ],
+  "studyQuestions": [
+   "According to Acts 23:6-8, which beliefs did the Pharisees hold that the Sadducees rejected?",
+   "In Matthew 23:2-3, what does Jesus tell the crowds to do with the Pharisees' teaching, and what does he warn them not to copy?",
+   "Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?",
+   "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/matthew/23.htm",
+   "https://www.biblehub.com/web/acts/23.htm",
+   "https://biblehub.com/web/mark/7.htm",
+   "https://mail.biblehub.com/web/philippians/3.htm",
+   "https://lexundria.com/j_aj/13.296-13.298/wst",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Pharisees",
+   "https://bibleodyssey.org/people/main-articles/pharisees",
+   "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+  ]
+ }
+]
