@@ -4,7 +4,20 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Exodus
 
+- **Exodus 1:8-14** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 3:7-15** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 12:1-14** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 12:26-27** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 12:37-42** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 12:51** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 14:21-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+
+## 1 Kings
+
+- **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 
 ## Matthew
 
@@ -33,6 +46,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
@@ -56,6 +70,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 1 Corinthians
 
+- **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
 ## 2 Corinthians

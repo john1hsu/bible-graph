@@ -26,6 +26,18 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+## events-and-timeline
+
+### [The Exodus](../articles/events-and-timeline/the-exodus.md) — Event
+
+Read: Exodus 1:8-14; Exodus 3:7-15; Exodus 12:1-14; Exodus 12:26-27; Exodus 12:37-42; Exodus 12:51; Exodus 14:21-31; Exodus 15:1-21; Exodus 20:2; 1 Kings 6:1; Luke 9:30-31; 1 Corinthians 5:7; 1 Corinthians 10:1-11
+
+Study questions:
+- In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?
+- According to Exodus 12:26-27, what are parents to tell their children when they ask about the Passover, and why might Israel have built a question into the ritual?
+- How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?
+- Paul calls Christ "our Passover" (1 Corinthians 5:7) and says the wilderness events "happened to them by way of example" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?
+
 ## life-and-teachings-of-jesus
 
 ### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage

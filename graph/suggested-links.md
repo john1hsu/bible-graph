@@ -4,5 +4,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 1.44 | `bg:sermon-on-the-mount` | `bg:the-exodus` | `bg:ten-commandments` |
 | 0.48 | `bg:gospel-of-matthew` | `bg:paul` | `bg:pharisees` |
 | 0.48 | `bg:paul` | `bg:sermon-on-the-mount` | `bg:pharisees` |

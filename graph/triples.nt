@@ -609,3 +609,166 @@
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s9> <https://schema.org/url> <https://anabaptists.org/history/schleith.html> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/title> "Luke 9:31 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/9-31.html> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <http://purl.org/dc/terms/title> "Luke 9:31 (parallel translations and Greek text)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> <https://schema.org/url> <https://biblehub.com/luke/9-31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <http://purl.org/dc/terms/publisher> "Open Yale Courses, Yale University" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <http://purl.org/dc/terms/title> "Lecture 8 — Exodus: From Egypt to Sinai (Exodus 5-24, 32; Numbers), RLST 145 Introduction to the Old Testament (Christine Hayes)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> <https://schema.org/url> <https://oyc.yale.edu/node/1731> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <http://purl.org/dc/terms/title> "The Exodus from Egypt: Myth or Reality? (Baruch Halpern), in The Rise of Ancient Israel" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> <https://schema.org/url> <https://library.biblicalarchaeology.org/book/rise-ancient-israel/the-exodus-from-egypt-myth-or-reality/> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <http://purl.org/dc/terms/publisher> "Tyndale Press (1960), via BiblicalStudies.org.uk" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <http://purl.org/dc/terms/title> "The Tyndale Biblical Archaeology Lecture, 1959: the date and route of the Exodus (C. De Wit)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> <https://schema.org/url> <https://mail.biblicalstudies.org.uk/article_exodus_de-wit.html> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <http://purl.org/dc/terms/title> "The Hebrew Exodus from and Jeremiah's Eisodus into Egypt in the Light of Recent Archaeological and Geological Developments (James K. Hoffmeier), Tyndale Bulletin 72 (2021): 73-95" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> <https://schema.org/url> <https://www.tyndalebulletin.org/article/32999> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <http://purl.org/dc/terms/title> "Exodus (Old Testament)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> <https://schema.org/url> <https://www.britannica.com/event/Exodus-Old-Testament> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <http://purl.org/dc/terms/title> "Exodus 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> <https://schema.org/url> <https://biblehub.com/web/exodus/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <http://purl.org/dc/terms/title> "Exodus 14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> <https://schema.org/url> <https://biblehub.com/web/exodus/14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <http://purl.org/dc/terms/publisher> "CourseBible" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <http://purl.org/dc/terms/title> "Exodus 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> <https://schema.org/url> <https://coursebible.com/world-english-bible-web/exodus-15> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <http://purl.org/dc/terms/title> "Exodus 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> <https://schema.org/url> <https://biblehub.com/web/exodus/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <http://purl.org/dc/terms/publisher> "CourseBible" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <http://purl.org/dc/terms/title> "Exodus 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> <https://schema.org/url> <https://coursebible.com/world-english-bible-web/exodus-3> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <http://purl.org/dc/terms/title> "Exodus 20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> <https://schema.org/url> <https://biblehub.com/web/exodus/20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <http://purl.org/dc/terms/title> "1 Kings 6:1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/1-kings/6-1.html> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <http://purl.org/dc/terms/publisher> "CourseBible" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <http://purl.org/dc/terms/title> "1 Corinthians 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> <https://schema.org/url> <https://coursebible.com/world-english-bible-web/1-corinthians-10> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <http://purl.org/dc/terms/title> "1 Corinthians 5:7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/1-corinthians/5-7.html> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Exodus 12:26-27, what are parents to tell their children when they ask about the Passover, and why might Israel have built a question into the ritual?" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Paul calls Christ \"our Passover\" (1 Corinthians 5:7) and says the wilderness events \"happened to them by way of example\" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://purl.org/dc/terms/created> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Event> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2000/01/rdf-schema#label> "The Exodus" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#altLabel> "Exodus from Egypt" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#altLabel> "the deliverance from Egypt" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#altLabel> "the departure from Egypt" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#definition> "God's deliverance of the Israelites from slavery in Egypt under Moses — through the plagues, the first Passover and the crossing of the sea — which became Israel's defining story of salvation and which the New Testament uses to explain the death and resurrection of Jesus." .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Exodus" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/exodus> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/passover> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#domain> "events-and-timeline" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/events-and-timeline/the-exodus.md" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/redemption> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 10:1-11" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 5:7" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 6:1" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 12:1-14" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 12:26-27" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 12:37-42" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 12:51" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 14:21-31" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 15:1-21" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 1:8-14" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 20:2" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 3:7-15" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:30-31" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#occurredAt> <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#precedes> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/baptism> .
+<https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .

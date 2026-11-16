@@ -468,5 +468,130 @@
    "https://ebible.org/eng-web/EXO20.htm",
    "https://www.biblestudytools.com/web/matthew/8-1.html"
   ]
+ },
+ {
+  "id": "bg:the-exodus",
+  "title": "The Exodus",
+  "aliases": [
+   "Exodus from Egypt",
+   "the departure from Egypt",
+   "the deliverance from Egypt"
+  ],
+  "type": "Event",
+  "domain": "events-and-timeline",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/events-and-timeline/the-exodus.md",
+  "created": "2026-11-16",
+  "summary": "God's deliverance of the Israelites from slavery in Egypt under Moses — through the plagues, the first Passover and the crossing of the sea — which became Israel's defining story of salvation and which the New Testament uses to explain the death and resurrection of Jesus.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:passover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:moses",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:israelites",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:egypt-in-the-bible",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:giving-of-the-law-at-sinai",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:redemption",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:crucifixion-of-jesus",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:baptism",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 1:8-14",
+   "Exodus 3:7-15",
+   "Exodus 12:1-14",
+   "Exodus 12:26-27",
+   "Exodus 12:37-42",
+   "Exodus 12:51",
+   "Exodus 14:21-31",
+   "Exodus 15:1-21",
+   "Exodus 20:2",
+   "1 Kings 6:1",
+   "Luke 9:30-31",
+   "1 Corinthians 5:7",
+   "1 Corinthians 10:1-11"
+  ],
+  "studyQuestions": [
+   "In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?",
+   "According to Exodus 12:26-27, what are parents to tell their children when they ask about the Passover, and why might Israel have built a question into the ritual?",
+   "How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?",
+   "Paul calls Christ \"our Passover\" (1 Corinthians 5:7) and says the wilderness events \"happened to them by way of example\" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/exodus/12.htm",
+   "https://biblehub.com/web/exodus/14.htm",
+   "https://coursebible.com/world-english-bible-web/exodus-15",
+   "https://biblehub.com/web/exodus/1.htm",
+   "https://coursebible.com/world-english-bible-web/exodus-3",
+   "https://biblehub.com/web/exodus/20.htm",
+   "https://www.biblestudytools.com/web/1-kings/6-1.html",
+   "https://coursebible.com/world-english-bible-web/1-corinthians-10",
+   "https://www.biblestudytools.com/web/1-corinthians/5-7.html",
+   "https://www.biblestudytools.com/web/luke/9-31.html",
+   "https://biblehub.com/luke/9-31.htm",
+   "https://oyc.yale.edu/node/1731",
+   "https://library.biblicalarchaeology.org/book/rise-ancient-israel/the-exodus-from-egypt-myth-or-reality/",
+   "https://mail.biblicalstudies.org.uk/article_exodus_de-wit.html",
+   "https://www.tyndalebulletin.org/article/32999",
+   "https://www.britannica.com/event/Exodus-Old-Testament"
+  ]
  }
 ]

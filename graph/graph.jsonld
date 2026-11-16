@@ -501,6 +501,139 @@
    ]
   },
   {
+   "@id": "bg:the-exodus",
+   "@type": "bgo:Event",
+   "bgo:basis": "debated",
+   "bgo:domain": "events-and-timeline",
+   "bgo:features": [
+    {
+     "@id": "bg:israelites"
+    },
+    {
+     "@id": "bg:moses"
+    }
+   ],
+   "bgo:file": "articles/events-and-timeline/the-exodus.md",
+   "bgo:illustrates": {
+    "@id": "bg:redemption"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 10:1-11",
+    "1 Corinthians 5:7",
+    "1 Kings 6:1",
+    "Exodus 12:1-14",
+    "Exodus 12:26-27",
+    "Exodus 12:37-42",
+    "Exodus 12:51",
+    "Exodus 14:21-31",
+    "Exodus 15:1-21",
+    "Exodus 1:8-14",
+    "Exodus 20:2",
+    "Exodus 3:7-15",
+    "Luke 9:30-31"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredAt": {
+    "@id": "bg:egypt-in-the-bible"
+   },
+   "bgo:precedes": {
+    "@id": "bg:giving-of-the-law-at-sinai"
+   },
+   "bgo:prefigures": [
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9"
+    }
+   ],
+   "rdfs:label": "The Exodus",
+   "skos:altLabel": [
+    "Exodus from Egypt",
+    "the deliverance from Egypt",
+    "the departure from Egypt"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "skos:definition": "God's deliverance of the Israelites from slavery in Egypt under Moses — through the plagues, the first Passover and the crossing of the sea — which became Israel's defining story of salvation and which the New Testament uses to explain the death and resurrection of Jesus.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline"
+   },
+   "skos:prefLabel": "The Exodus",
+   "skos:related": [
+    {
+     "@id": "bg:exodus"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:passover"
+    },
+    {
+     "@id": "bg:ten-commandments"
+    }
+   ]
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -1462,6 +1595,262 @@
    "schema:url": {
     "@id": "https://anabaptists.org/history/schleith.html"
    }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 9:31 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/9-31.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 9:31 (parallel translations and Greek text)",
+   "schema:url": {
+    "@id": "https://biblehub.com/luke/9-31.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Open Yale Courses, Yale University",
+   "dcterms:title": "Lecture 8 — Exodus: From Egypt to Sinai (Exodus 5-24, 32; Numbers), RLST 145 Introduction to the Old Testament (Christine Hayes)",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/node/1731"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "The Exodus from Egypt: Myth or Reality? (Baruch Halpern), in The Rise of Ancient Israel",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/book/rise-ancient-israel/the-exodus-from-egypt-myth-or-reality/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Tyndale Press (1960), via BiblicalStudies.org.uk",
+   "dcterms:title": "The Tyndale Biblical Archaeology Lecture, 1959: the date and route of the Exodus (C. De Wit)",
+   "schema:url": {
+    "@id": "https://mail.biblicalstudies.org.uk/article_exodus_de-wit.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Tyndale House, Cambridge",
+   "dcterms:title": "The Hebrew Exodus from and Jeremiah's Eisodus into Egypt in the Light of Recent Archaeological and Geological Developments (James K. Hoffmeier), Tyndale Bulletin 72 (2021): 73-95",
+   "schema:url": {
+    "@id": "https://www.tyndalebulletin.org/article/32999"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Exodus (Old Testament)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/event/Exodus-Old-Testament"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 14 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "Exodus 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/exodus-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "Exodus 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/exodus-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Kings 6:1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-kings/6-1.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "1 Corinthians 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/1-corinthians-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Corinthians 5:7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-corinthians/5-7.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-exodus"
+   },
+   "rdfs:label": "In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-exodus"
+   },
+   "rdfs:label": "According to Exodus 12:26-27, what are parents to tell their children when they ask about the Passover, and why might Israel have built a question into the ritual?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-exodus"
+   },
+   "rdfs:label": "How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-exodus"
+   },
+   "rdfs:label": "Paul calls Christ \"our Passover\" (1 Corinthians 5:7) and says the wilderness events \"happened to them by way of example\" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?"
   }
  ]
 }

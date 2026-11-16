@@ -28,6 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:grace` | Paul |
 | `bg:kingdom-of-god` | Gospel of Matthew, Sermon on the Mount |
+| `bg:redemption` | The Exodus |
 
 ## Who and what appears where
 
@@ -36,6 +37,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | text | appears |
 |---|---|
 | `bg:gospel-of-matthew` | `bg:pharisees` |
+| `bg:the-exodus` | `bg:israelites` |
+| `bg:the-exodus` | `bg:moses` |
 
 ## Popular misconceptions and what corrects them
 
@@ -50,6 +53,7 @@ _Which written people, groups, places and events are not yet linked to any book,
 | node | type |
 |---|---|
 | `bg:paul` | bgo:Person |
+| `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)
 
@@ -58,6 +62,7 @@ _Which written articles does nothing else in the graph point to (after inference
 | node |
 |---|
 | `bg:biblical-canon` |
+| `bg:the-exodus` |
 
 ## Teachings and practices by tradition
 
@@ -72,6 +77,8 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | earlier | relation | later |
 |---|---|---|
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
+| `bg:the-exodus` | prefigures | `bg:baptism` |
+| `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |
 
 ## Events with no place in the timeline (gap)
 

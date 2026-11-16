@@ -4,32 +4,43 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `bg:second-temple-judaism` | 5.81 | - | `bg:paul`, `bg:pharisees` |
-| `bg:kingdom-of-god` | 4.42 | - | `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
-| `bg:sadducees` | 3.22 | - | `bg:pharisees` |
-| `bg:gospels` | 3.17 | - | `bg:gospel-of-matthew` |
-| `bg:gospel-of-luke` | 1.83 | - | `bg:gospel-of-matthew` |
-| `bg:gospel-of-mark` | 1.83 | - | `bg:gospel-of-matthew` |
-| `bg:great-commission` | 1.83 | - | `bg:gospel-of-matthew` |
-| `bg:acts-of-the-apostles` | 1.80 | - | `bg:paul` |
-| `bg:barnabas` | 1.80 | - | `bg:paul` |
-| `bg:grace` | 1.80 | - | `bg:paul` |
-| `bg:peter` | 1.80 | - | `bg:paul` |
-| `bg:beatitudes` | 1.79 | - | `bg:sermon-on-the-mount` |
-| `bg:lords-prayer` | 1.79 | - | `bg:sermon-on-the-mount` |
-| `bg:ten-commandments` | 1.79 | - | `bg:sermon-on-the-mount` |
-| `bg:deuterocanonical-books` | 1.76 | - | `bg:biblical-canon` |
-| `bg:inspiration-of-scripture` | 1.76 | - | `bg:biblical-canon` |
-| `bg:new-testament` | 1.76 | - | `bg:biblical-canon` |
-| `bg:old-testament` | 1.76 | - | `bg:biblical-canon` |
-| `bg:septuagint` | 1.76 | - | `bg:biblical-canon` |
-| `bg:the-bible` | 1.76 | - | `bg:biblical-canon` |
-| `bg:antiquities-of-the-jews` | 1.36 | - | `bg:pharisees` |
-| `bg:nicodemus` | 1.36 | - | `bg:pharisees` |
-| `bg:rabbinic-judaism` | 1.36 | - | `bg:pharisees` |
-| `bg:matthew-the-apostle` | 1.33 | Person | `bg:gospel-of-matthew` |
-| `bg:apostles` | 1.30 | - | `bg:paul` |
-| `bg:first-clement` | 1.30 | - | `bg:paul` |
-| `bg:sermon-on-the-plain` | 1.29 | - | `bg:sermon-on-the-mount` |
-| `bg:festal-letter-39-of-athanasius` | 1.26 | - | `bg:biblical-canon` |
-| `bg:marcion` | 1.26 | - | `bg:biblical-canon` |
+| `bg:second-temple-judaism` | 5.49 | - | `bg:paul`, `bg:pharisees` |
+| `bg:kingdom-of-god` | 4.19 | - | `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
+| `bg:sadducees` | 3.04 | - | `bg:pharisees` |
+| `bg:gospels` | 3.00 | - | `bg:gospel-of-matthew` |
+| `bg:ten-commandments` | 2.91 | - | `bg:sermon-on-the-mount`, `bg:the-exodus` |
+| `bg:moses` | 2.88 | - | `bg:the-exodus` |
+| `bg:gospel-of-luke` | 1.75 | - | `bg:gospel-of-matthew` |
+| `bg:gospel-of-mark` | 1.75 | - | `bg:gospel-of-matthew` |
+| `bg:great-commission` | 1.75 | - | `bg:gospel-of-matthew` |
+| `bg:acts-of-the-apostles` | 1.73 | - | `bg:paul` |
+| `bg:barnabas` | 1.73 | - | `bg:paul` |
+| `bg:grace` | 1.73 | - | `bg:paul` |
+| `bg:peter` | 1.73 | - | `bg:paul` |
+| `bg:beatitudes` | 1.72 | - | `bg:sermon-on-the-mount` |
+| `bg:lords-prayer` | 1.72 | - | `bg:sermon-on-the-mount` |
+| `bg:crucifixion-of-jesus` | 1.69 | - | `bg:the-exodus` |
+| `bg:deuterocanonical-books` | 1.69 | - | `bg:biblical-canon` |
+| `bg:egypt-in-the-bible` | 1.69 | Place | `bg:the-exodus` |
+| `bg:exodus` | 1.69 | - | `bg:the-exodus` |
+| `bg:giving-of-the-law-at-sinai` | 1.69 | - | `bg:the-exodus` |
+| `bg:inspiration-of-scripture` | 1.69 | - | `bg:biblical-canon` |
+| `bg:mosaic-covenant` | 1.69 | - | `bg:the-exodus` |
+| `bg:new-testament` | 1.69 | - | `bg:biblical-canon` |
+| `bg:old-testament` | 1.69 | - | `bg:biblical-canon` |
+| `bg:redemption` | 1.69 | - | `bg:the-exodus` |
+| `bg:septuagint` | 1.69 | - | `bg:biblical-canon` |
+| `bg:the-bible` | 1.69 | - | `bg:biblical-canon` |
+| `bg:the-story-of-the-bible` | 1.69 | - | `bg:the-exodus` |
+| `bg:antiquities-of-the-jews` | 1.27 | - | `bg:pharisees` |
+| `bg:nicodemus` | 1.27 | - | `bg:pharisees` |
+| `bg:rabbinic-judaism` | 1.27 | - | `bg:pharisees` |
+| `bg:matthew-the-apostle` | 1.25 | Person | `bg:gospel-of-matthew` |
+| `bg:apostles` | 1.23 | - | `bg:paul` |
+| `bg:first-clement` | 1.23 | - | `bg:paul` |
+| `bg:sermon-on-the-plain` | 1.22 | - | `bg:sermon-on-the-mount` |
+| `bg:baptism` | 1.19 | - | `bg:the-exodus` |
+| `bg:festal-letter-39-of-athanasius` | 1.19 | - | `bg:biblical-canon` |
+| `bg:israelites` | 1.19 | - | `bg:the-exodus` |
+| `bg:marcion` | 1.19 | - | `bg:biblical-canon` |
+| `bg:passover` | 1.19 | - | `bg:the-exodus` |
