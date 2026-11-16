@@ -1,0 +1,98 @@
+@prefix sh:      <http://www.w3.org/ns/shacl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bgo:     <https://github.com/john1hsu/bible-graph/ontology#> .
+@prefix bgs:     <https://github.com/john1hsu/bible-graph/shapes#> .
+
+# =============================================================================
+# SHACL shapes: the semantic contract for the exported RDF graph.
+# `scripts/kg.py build` runs these with pySHACL against the asserted graph plus
+# the ontology (RDFS inference on), so subclass membership counts.
+# =============================================================================
+
+bgs:NodeShape a sh:NodeShape ;
+    sh:targetSubjectsOf bgo:file ;
+    sh:property [ sh:path skos:prefLabel ; sh:minCount 1 ; sh:maxCount 1 ; sh:datatype xsd:string ] ;
+    sh:property [ sh:path skos:definition ; sh:minCount 1 ; sh:maxCount 1 ; sh:minLength 40 ] ;
+    sh:property [ sh:path dcterms:created ; sh:minCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path dcterms:modified ; sh:maxCount 1 ; sh:datatype xsd:date ] ;
+    sh:property [ sh:path bgo:domain ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path bgo:level ; sh:minCount 1 ; sh:in ( "introductory" "intermediate" "advanced" ) ] ;
+    sh:property [ sh:path bgo:basis ; sh:minCount 1 ; sh:maxCount 1 ;
+                  sh:in ( "scriptural" "ecumenical" "varies-by-tradition" "consensus" "debated" "misconception" "historical" "devotional" ) ] ;
+    sh:property [ sh:path prov:wasDerivedFrom ; sh:minCount 3 ; sh:class bgo:Source ] ;
+    sh:property [ sh:path skos:inScheme ; sh:minCount 1 ] .
+
+bgs:SourceShape a sh:NodeShape ;
+    sh:targetClass bgo:Source ;
+    sh:property [ sh:path dcterms:title ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:publisher ; sh:minCount 1 ] ;
+    sh:property [ sh:path schema:url ; sh:minCount 1 ; sh:nodeKind sh:IRI ; sh:pattern "^https://" ] ;
+    sh:property [ sh:path bgo:sourceType ; sh:minCount 1 ] ;
+    sh:property [ sh:path dcterms:date ; sh:minCount 1 ; sh:datatype xsd:date ] .
+
+# Anchored in the text: every article about the Bible's content names the
+# passages it rests on. (Interpreters, works, manuscripts, translations,
+# artifacts, organizations and fields may omit them.)
+bgs:ReferenceTargets a sh:NodeShape ;
+    sh:targetSubjectsOf bgo:file ;
+    sh:or (
+        [ sh:or ( [ sh:class bgo:Scholar ] [ sh:class bgo:Work ] [ sh:class bgo:Manuscript ] [ sh:class bgo:Translation ]
+                  [ sh:class bgo:Artifact ] [ sh:class bgo:Organization ] [ sh:class bgo:Field ] ) ]
+        [ sh:property [ sh:path bgo:keyReference ; sh:minCount 1 ] ]
+    ) ;
+    sh:message "Articles about the Bible's content need at least 1 key Scripture reference." .
+
+# Study-ready completeness: what makes the graph useful for learning, not just well-formed.
+bgs:PracticeShape a sh:NodeShape ;
+    sh:targetClass bgo:Practice , bgo:Method ;
+    sh:property [ sh:path ( bgo:howTo schema:step ) ; sh:minCount 3 ;
+                  sh:message "Practices and methods need at least 3 steps." ] ;
+    sh:property [ sh:path bgo:example ; sh:minCount 1 ; sh:class bgo:Rewrite ;
+                  sh:message "Practices and methods need a before/after example." ] .
+
+bgs:CorrectionShape a sh:NodeShape ;
+    sh:targetClass bgo:Pitfall , bgo:Misconception ;
+    sh:property [ sh:path bgo:example ; sh:minCount 1 ; sh:class bgo:Rewrite ;
+                  sh:message "Pitfalls and misconceptions need a before/after example showing the better reading." ] .
+
+bgs:MisconceptionShape a sh:NodeShape ;
+    sh:targetClass bgo:Misconception ;
+    sh:property [ sh:path bgo:challengedBy ; sh:minCount 1 ;
+                  sh:message "A misconception needs a challengedBy edge to the passage or source that corrects it." ] .
+
+# Targets only written articles (subjects of bgo:file): an unwritten frontier
+# node typed by a property range has no article yet.
+bgs:StudyQuestionTargets a sh:NodeShape ;
+    sh:targetSubjectsOf bgo:file ;
+    sh:or (
+        [ sh:not [ sh:or ( [ sh:class bgo:Book ] [ sh:class bgo:Passage ] [ sh:class bgo:Person ] [ sh:class bgo:Event ]
+                           [ sh:class bgo:Theme ] [ sh:class bgo:Covenant ] [ sh:class bgo:Doctrine ]
+                           [ sh:class bgo:Practice ] [ sh:class bgo:Method ] [ sh:class bgo:Pitfall ]
+                           [ sh:class bgo:LifeSituation ] ) ] ]
+        [ sh:property [ sh:path [ sh:inversePath bgo:questionFor ] ; sh:minCount 2 ] ]
+    ) ;
+    sh:message "Books, passages, people, events, themes, covenants, doctrines, practices, methods, pitfalls and life situations need at least 2 study questions." .
+
+bgs:RewriteShape a sh:NodeShape ;
+    sh:targetClass bgo:Rewrite ;
+    sh:property [ sh:path bgo:situation ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path bgo:before ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path bgo:after ; sh:minCount 1 ; sh:maxCount 1 ] ;
+    sh:property [ sh:path bgo:why ; sh:minCount 1 ; sh:minLength 20 ] .
+
+bgs:StudyQuestionShape a sh:NodeShape ;
+    sh:targetClass bgo:StudyQuestion ;
+    sh:property [ sh:path rdfs:label ; sh:minCount 1 ; sh:pattern "\\?$" ;
+                  sh:message "Study questions must be phrased as questions." ] ;
+    sh:property [ sh:path bgo:questionFor ; sh:minCount 1 ; sh:maxCount 1 ] .
+
+bgs:HowToStepShape a sh:NodeShape ;
+    sh:targetClass schema:HowToStep ;
+    sh:property [ sh:path schema:position ; sh:minCount 1 ; sh:datatype xsd:integer ] ;
+    sh:property [ sh:path schema:text ; sh:minCount 1 ; sh:minLength 10 ] .

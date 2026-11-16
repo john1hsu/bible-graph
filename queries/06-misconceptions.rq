@@ -1,0 +1,7 @@
+# title: Popular misconceptions and what corrects them
+# question: Which popular beliefs about the Bible does the text not support, and which passages or sources correct them?
+# gap: false
+SELECT ?node ?correctedBy WHERE {
+  ?node a bgo:Misconception ; bgo:file ?f .
+  OPTIONAL { ?node bgo:challengedBy ?correctedBy }
+} ORDER BY ?node ?correctedBy

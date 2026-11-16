@@ -1,0 +1,8 @@
+# title: Themes traced across Scripture
+# question: For each theme, covenant and doctrine, which books and passages teach it and which people and events illustrate it?
+# gap: false
+SELECT ?theme (GROUP_CONCAT(DISTINCT STR(?label); separator=", ") AS ?texts) WHERE {
+  { ?x bgo:teaches ?theme } UNION { ?x bgo:illustrates ?theme }
+  OPTIONAL { ?x skos:prefLabel ?l }
+  BIND(COALESCE(?l, REPLACE(STR(?x), "^.*/", "")) AS ?label)
+} GROUP BY ?theme ORDER BY ?theme

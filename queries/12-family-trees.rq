@@ -1,0 +1,8 @@
+# title: Family trees
+# question: Who are the parents, children, spouses and siblings of each written biblical figure?
+# gap: false
+SELECT ?person ?relation ?relative WHERE {
+  ?person bgo:file ?f ; a bgo:Person .
+  VALUES ?relation { bgo:parentOf bgo:childOf bgo:spouseOf bgo:siblingOf }
+  ?person ?relation ?relative .
+} ORDER BY ?person ?relation ?relative

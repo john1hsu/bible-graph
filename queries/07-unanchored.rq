@@ -1,0 +1,9 @@
+# title: People, places and events not tied to the text
+# question: Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?
+# gap: true
+SELECT ?node ?type WHERE {
+  ?node bgo:file ?f ; a ?type .
+  VALUES ?type { bgo:Person bgo:Group bgo:Place bgo:Event }
+  FILTER NOT EXISTS { ?node bgo:featuredIn ?t }
+  FILTER NOT EXISTS { ?node bgo:siteOf ?e }
+} ORDER BY ?node

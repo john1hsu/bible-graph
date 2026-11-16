@@ -1,0 +1,263 @@
+@prefix bg:      <https://github.com/john1hsu/bible-graph/id/> .
+@prefix bgo:     <https://github.com/john1hsu/bible-graph/ontology#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:    <http://www.w3.org/ns/prov#> .
+@prefix schema:  <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# =============================================================================
+# Bible Graph ontology (OWL 2 RL profile)
+#
+#  * Every article is a node; its class comes from frontmatter `type`.
+#  * `broader` / `related`         -> skos:broader / skos:related
+#  * `relations[].predicate`       -> the typed object properties below
+#  * `requires`                    -> bgo:requires (transitive; learning paths)
+#  * `references`                  -> bgo:keyReference literals (Scripture references)
+#  * `steps`                       -> schema:HowTo / schema:HowToStep
+#  * `example`                     -> bgo:Rewrite (situation / before / after / why)
+#  * `studyQuestions`              -> bgo:StudyQuestion nodes
+#  * provenance                    -> PROV-O; edge evidence -> RDF-star
+#
+# Property characteristics (inverse, symmetric, transitive) and class
+# disjointness drive OWL-RL reasoning and contradiction detection in
+# `scripts/kg.py build`. Domain/range is enforced for written targets.
+# Add a class or property here BEFORE using it. Reuse first.
+# =============================================================================
+
+bgo: a owl:Ontology ;
+    rdfs:label "Bible Graph ontology" ;
+    dcterms:description "Classes and typed relations for a citation-backed knowledge graph that helps Christians know the Bible better: its books, key passages and parables, people, places, events and periods, themes, covenants and doctrines, how to read and study it well, its historical and cultural background, and how the text was preserved and translated." ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Upper classes ------------------------------------------------------------
+bgo:Entity  a owl:Class ; rdfs:label "Entity" .
+bgo:Concept a owl:Class ; rdfs:subClassOf bgo:Entity , skos:Concept ; rdfs:label "Concept" ;
+    rdfs:comment "A general idea about the Bible: the canon, inspiration, the Old and New Testaments, the deuterocanonical books, chapter and verse divisions." .
+
+# ---- The text itself ----------------------------------------------------------
+bgo:Text a owl:Class ; rdfs:subClassOf bgo:Entity , schema:CreativeWork ; rdfs:label "Biblical text" .
+bgo:Book a owl:Class ; rdfs:subClassOf bgo:Text , schema:Book ; rdfs:label "Book of the Bible" ;
+    rdfs:comment "One book of the Bible: Genesis, Ruth, Psalms, Isaiah, Mark, Romans, Revelation; deuterocanonical books (Tobit, Sirach, 1 Maccabees) are labelled as such." .
+bgo:Collection a owl:Class ; rdfs:subClassOf bgo:Text ; rdfs:label "Collection of books" ;
+    rdfs:comment "A recognised grouping of books: the Pentateuch (Torah), the Historical Books, the Wisdom Books, the Major Prophets, the Twelve (Minor Prophets), the Gospels, the Pauline epistles, the General epistles, the deuterocanon." .
+bgo:Passage a owl:Class ; rdfs:subClassOf bgo:Text ; rdfs:label "Key passage" ;
+    rdfs:comment "A well-known section of a book: the creation account, the Ten Commandments, the Shema, Psalm 23, the Suffering Servant (Isaiah 52:13-53:12), the Sermon on the Mount, the Lord's Prayer, Romans 8, 1 Corinthians 13, the Great Commission." .
+bgo:Parable a owl:Class ; rdfs:subClassOf bgo:Passage ; rdfs:label "Parable" ;
+    rdfs:comment "A parable of Jesus: the Good Samaritan, the Prodigal Son, the Sower, the Talents, the Mustard Seed." .
+
+# ---- What the Bible teaches ---------------------------------------------------
+bgo:Theme a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Biblical theme" ;
+    rdfs:comment "A theme traced across Scripture: the kingdom of God, holiness, exile and return, the temple, redemption, grace, the shepherd, sabbath rest, the image of God." .
+bgo:Covenant a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Covenant" ;
+    rdfs:comment "A covenant between God and people in Scripture: the Noahic, Abrahamic, Mosaic (Sinai), Davidic and New covenants." .
+bgo:Doctrine a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Doctrine" ;
+    rdfs:comment "A teaching the church draws from Scripture: the Trinity, the incarnation, the atonement, justification, the resurrection of the body, the inspiration of Scripture, baptism, the Lord's Supper." .
+bgo:Genre a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Literary genre" ;
+    rdfs:comment "A kind of biblical writing with its own reading conventions: narrative, law, poetry, wisdom literature, prophecy, gospel, epistle, apocalyptic, genealogy." .
+
+# ---- Reading and studying it well ---------------------------------------------
+bgo:Method a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Interpretive method / principle" ;
+    rdfs:comment "An approach or principle for interpreting Scripture: reading in context, historical-grammatical exegesis, letting Scripture interpret Scripture, reading by genre, typology, the four senses of Scripture, canonical reading." .
+bgo:Practice a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Study / devotional practice" ;
+    rdfs:comment "A concrete, repeatable way to read, study or take in the Bible, with steps: inductive Bible study (observe, interpret, apply), lectio divina, Scripture memorisation, a whole-Bible reading plan, cross-referencing, a word study with a concordance." .
+bgo:Pitfall a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Interpretive pitfall" ;
+    rdfs:comment "A recognisable mistake in reading the Bible: proof-texting, eisegesis, word-study fallacies, anachronism, reading narrative as command, ignoring genre, over-allegorising." .
+bgo:Misconception a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Popular misconception" ;
+    rdfs:comment "A widely held belief about what the Bible says that the text does not support: 'God helps those who help themselves', the three wise men, the apple in Eden, 'money is the root of all evil', Mary Magdalene as a prostitute." .
+bgo:LifeSituation a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Life situation" ;
+    rdfs:comment "A situation Christians bring to Scripture: suffering, grief, anxiety, doubt, forgiveness, work, money, marriage, leadership, waiting." .
+bgo:Tradition a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Interpretive tradition" ;
+    rdfs:comment "A Christian or Jewish tradition of reading Scripture: Catholic, Eastern Orthodox, Lutheran, Reformed, Anglican, Wesleyan, Anabaptist, Pentecostal, rabbinic Judaism." .
+bgo:Field a owl:Class ; rdfs:subClassOf bgo:Concept ; rdfs:label "Field of study" ;
+    rdfs:comment "A discipline: biblical archaeology, textual criticism, biblical theology, Second Temple studies, Hebrew and Greek philology." .
+
+# ---- The world of the Bible ---------------------------------------------------
+bgo:Person a owl:Class ; rdfs:subClassOf bgo:Entity , schema:Person ; rdfs:label "Biblical figure" ;
+    rdfs:comment "A person in the Bible: Abraham, Sarah, Moses, Ruth, David, Elijah, Mary, Peter, Paul, Lydia." .
+bgo:Group a owl:Class ; rdfs:subClassOf bgo:Entity ; rdfs:label "People / group" ;
+    rdfs:comment "A people or group in the Bible: the Israelites, the Philistines, the Pharisees, the Sadducees, the Samaritans, the Twelve, the Levites." .
+bgo:Place a owl:Class ; rdfs:subClassOf bgo:Entity , schema:Place ; rdfs:label "Place" ;
+    rdfs:comment "A place in the biblical world: Jerusalem, Bethlehem, Galilee, Mount Sinai, Babylon, Corinth, Rome." .
+bgo:Event a owl:Class ; rdfs:subClassOf bgo:Entity , schema:Event ; rdfs:label "Event" ;
+    rdfs:comment "Something that happens in the biblical story: the Flood, the call of Abram, the Exodus, the Babylonian exile, the baptism of Jesus, the crucifixion, the resurrection, Pentecost, the Council of Jerusalem." .
+bgo:Period a owl:Class ; rdfs:subClassOf bgo:Entity ; rdfs:label "Period / era" ;
+    rdfs:comment "An era of biblical history: the patriarchs, the judges, the united monarchy, the divided kingdom, the exile, the Persian period, the Second Temple period, the apostolic age." .
+
+# ---- After the Bible: transmission, interpretation, archaeology ---------------
+bgo:Scholar a owl:Class ; rdfs:subClassOf bgo:Entity , schema:Person ; rdfs:label "Interpreter / scholar" ;
+    rdfs:comment "A post-biblical writer, church father, theologian, translator or scholar: Josephus, Origen, Jerome, Augustine, Thomas Aquinas, Martin Luther, John Calvin, William Tyndale, John Wesley." .
+bgo:Work a owl:Class ; rdfs:subClassOf bgo:Entity , schema:CreativeWork ; rdfs:label "Work outside the Bible" ;
+    rdfs:comment "A non-biblical writing that matters for reading the Bible: the Nicene Creed, Augustine's Confessions, Josephus's Antiquities, the Mishnah, a catechism or confession, a landmark commentary." .
+bgo:Manuscript a owl:Class ; rdfs:subClassOf bgo:Entity , schema:CreativeWork ; rdfs:label "Manuscript" ;
+    rdfs:comment "An ancient copy of biblical text: the Dead Sea Scrolls, the Great Isaiah Scroll, Codex Sinaiticus, Codex Vaticanus, the Aleppo Codex, the Leningrad Codex, Papyrus 52." .
+bgo:Translation a owl:Class ; rdfs:subClassOf bgo:Entity , schema:CreativeWork ; rdfs:label "Translation / version" ;
+    rdfs:comment "A translation of the Bible: the Septuagint, the Vulgate, the Peshitta, Luther's Bible, Tyndale's New Testament, the King James Version, the Douay-Rheims, modern versions." .
+bgo:Artifact a owl:Class ; rdfs:subClassOf bgo:Entity ; rdfs:label "Archaeological artifact" ;
+    rdfs:comment "An archaeological find that bears on the Bible: the Merneptah Stele, the Tel Dan Stele, the Mesha Stele, the Siloam inscription, the Cyrus Cylinder, the Pilate Stone." .
+bgo:Organization a owl:Class ; rdfs:subClassOf bgo:Entity , schema:Organization ; rdfs:label "Organization" ;
+    rdfs:comment "An institution: a Bible society, a translation committee, a research institute." .
+
+# ---- Generated (not article types) --------------------------------------------
+bgo:Source a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork ; rdfs:label "Cited source" .
+bgo:StudyQuestion a owl:Class ; rdfs:subClassOf bgo:Entity ; rdfs:label "Study question" ;
+    rdfs:comment "A review or reflection question for personal or small-group study. Generated from frontmatter `studyQuestions`." .
+bgo:Rewrite a owl:Class ; rdfs:subClassOf bgo:Entity ; rdfs:label "Before/after reading" ;
+    rdfs:comment "A worked example: a careless or mistaken reading or habit, a better one, and why. Generated from frontmatter `example`." .
+
+# ---- Disjointness (contradiction detection) -----------------------------------
+[] a owl:AllDisjointClasses ; owl:members ( bgo:Pitfall bgo:Misconception bgo:Method bgo:Practice ) .
+[] a owl:AllDisjointClasses ; owl:members ( bgo:LifeSituation bgo:Tradition bgo:Genre bgo:Field ) .
+[] a owl:AllDisjointClasses ; owl:members ( bgo:Book bgo:Collection bgo:Passage ) .
+[] a owl:AllDisjointClasses ; owl:members ( bgo:Concept bgo:Text bgo:Person bgo:Group bgo:Place bgo:Event bgo:Period
+                                            bgo:Scholar bgo:Work bgo:Manuscript bgo:Translation bgo:Artifact bgo:Organization ) .
+
+# ---- SKOS axioms (so the reasoner materialises narrower / symmetric related) --
+skos:broader owl:inverseOf skos:narrower ; rdfs:subPropertyOf skos:broaderTransitive .
+skos:narrower rdfs:subPropertyOf skos:narrowerTransitive .
+skos:broaderTransitive a owl:TransitiveProperty ; owl:inverseOf skos:narrowerTransitive .
+skos:related a owl:SymmetricProperty .
+
+# ---- Typed relations ----------------------------------------------------------
+# Structure and learning
+bgo:partOf a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf bgo:hasPart ; rdfs:label "part of" .
+bgo:hasPart a owl:ObjectProperty ; rdfs:label "has part" .
+bgo:requires a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf bgo:prerequisiteOf ;
+    rdfs:label "requires (learning prerequisite)" .
+bgo:prerequisiteOf a owl:ObjectProperty ; rdfs:label "prerequisite of" .
+bgo:instanceOf a owl:ObjectProperty ; owl:inverseOf bgo:hasInstance ; rdfs:label "instance / kind of" .
+bgo:hasInstance a owl:ObjectProperty ; rdfs:label "has instance" .
+bgo:contrastsWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with" .
+bgo:confusedWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "commonly confused with" .
+bgo:alternativeTo a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "alternative to" .
+bgo:complements a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "works well together with" .
+
+# The text: authorship, genre, content, and Scripture's use of Scripture
+bgo:attributedTo a owl:ObjectProperty ; owl:inverseOf bgo:attributedAuthorOf ; rdfs:label "written by / traditionally attributed to" ;
+    rdfs:domain bgo:Text ; rdfs:range bgo:Person .
+bgo:attributedAuthorOf a owl:ObjectProperty ; rdfs:label "author (or traditional author) of" .
+bgo:hasGenre a owl:ObjectProperty ; owl:inverseOf bgo:genreOf ; rdfs:label "genre" ;
+    rdfs:domain bgo:Text ; rdfs:range bgo:Genre .
+bgo:genreOf a owl:ObjectProperty ; rdfs:label "genre of" .
+bgo:features a owl:ObjectProperty ; owl:inverseOf bgo:featuredIn ; rdfs:label "features (person, group, place, event)" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Text bgo:Event ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Person bgo:Group bgo:Place bgo:Event ) ] .
+bgo:featuredIn a owl:ObjectProperty ; rdfs:label "appears in" .
+bgo:teaches a owl:ObjectProperty ; owl:inverseOf bgo:taughtIn ; rdfs:label "teaches / develops (theme, covenant, doctrine)" ;
+    rdfs:domain bgo:Text ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Theme bgo:Covenant bgo:Doctrine ) ] .
+bgo:taughtIn a owl:ObjectProperty ; rdfs:label "taught in" .
+bgo:illustrates a owl:ObjectProperty ; owl:inverseOf bgo:illustratedBy ; rdfs:label "illustrates (theme, covenant, doctrine)" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Person bgo:Group bgo:Place bgo:Event ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Theme bgo:Covenant bgo:Doctrine ) ] .
+bgo:illustratedBy a owl:ObjectProperty ; rdfs:label "illustrated by" .
+bgo:quotes a owl:ObjectProperty ; owl:inverseOf bgo:quotedIn ; rdfs:label "quotes" ;
+    rdfs:domain bgo:Text ; rdfs:range bgo:Text .
+bgo:quotedIn a owl:ObjectProperty ; rdfs:label "quoted in" .
+bgo:alludesTo a owl:ObjectProperty ; owl:inverseOf bgo:alludedToIn ; rdfs:label "alludes to / echoes" ;
+    rdfs:domain bgo:Text .
+bgo:alludedToIn a owl:ObjectProperty ; rdfs:label "echoed in" .
+bgo:parallels a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "parallel account" ;
+    rdfs:domain bgo:Text ; rdfs:range bgo:Text .
+bgo:fulfills a owl:ObjectProperty ; owl:inverseOf bgo:fulfilledIn ; rdfs:label "presented as fulfilling (promise, prophecy)" ;
+    rdfs:range bgo:Text .
+bgo:fulfilledIn a owl:ObjectProperty ; rdfs:label "fulfilled in" .
+bgo:prefigures a owl:ObjectProperty ; owl:inverseOf bgo:prefiguredBy ; rdfs:label "prefigures (type)" ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( bgo:Person bgo:Event bgo:Doctrine bgo:Theme ) ] .
+bgo:prefiguredBy a owl:ObjectProperty ; rdfs:label "prefigured by" .
+
+# History and geography
+bgo:occurredAt a owl:ObjectProperty ; owl:inverseOf bgo:siteOf ; rdfs:label "took place at" ;
+    rdfs:domain bgo:Event ; rdfs:range bgo:Place .
+bgo:siteOf a owl:ObjectProperty ; rdfs:label "site of" .
+bgo:occurredDuring a owl:ObjectProperty ; owl:inverseOf bgo:periodOf ; rdfs:label "during (period)" ;
+    rdfs:range bgo:Period .
+bgo:periodOf a owl:ObjectProperty ; rdfs:label "period of" .
+bgo:precedes a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf bgo:follows ; rdfs:label "comes before" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Event bgo:Period ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Event bgo:Period ) ] .
+bgo:follows a owl:ObjectProperty ; rdfs:label "comes after" .
+bgo:causes a owl:ObjectProperty ; owl:inverseOf bgo:causedBy ; rdfs:label "leads to" .
+bgo:causedBy a owl:ObjectProperty ; rdfs:label "brought about by" .
+
+# People and families
+bgo:parentOf a owl:ObjectProperty ; owl:inverseOf bgo:childOf ; rdfs:label "parent of" ;
+    rdfs:domain bgo:Person ; rdfs:range bgo:Person .
+bgo:childOf a owl:ObjectProperty ; rdfs:label "child of" .
+bgo:spouseOf a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "married to" ;
+    rdfs:domain bgo:Person ; rdfs:range bgo:Person .
+bgo:siblingOf a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "sibling of" ;
+    rdfs:domain bgo:Person ; rdfs:range bgo:Person .
+bgo:successorOf a owl:ObjectProperty ; owl:inverseOf bgo:succeededBy ; rdfs:label "successor of" ;
+    rdfs:domain bgo:Person ; rdfs:range bgo:Person .
+bgo:succeededBy a owl:ObjectProperty ; rdfs:label "succeeded by" .
+bgo:memberOf a owl:ObjectProperty ; owl:inverseOf bgo:hasMember ; rdfs:label "member of" ;
+    rdfs:domain bgo:Person ; rdfs:range bgo:Group .
+bgo:hasMember a owl:ObjectProperty ; rdfs:label "includes (member)" .
+
+# Reading, studying and living it
+bgo:addresses a owl:ObjectProperty ; owl:inverseOf bgo:addressedBy ; rdfs:label "guards against / corrects" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Method bgo:Practice ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Pitfall bgo:Misconception ) ] .
+bgo:addressedBy a owl:ObjectProperty ; rdfs:label "corrected by" .
+bgo:usedFor a owl:ObjectProperty ; owl:inverseOf bgo:readWith ; rdfs:label "especially useful for (genre, text)" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Method bgo:Practice ) ] ;
+    rdfs:range  [ a owl:Class ; owl:unionOf ( bgo:Genre bgo:Text ) ] .
+bgo:readWith a owl:ObjectProperty ; rdfs:label "read well with" .
+bgo:speaksTo a owl:ObjectProperty ; owl:inverseOf bgo:drawsOn ; rdfs:label "speaks to (life situation)" ;
+    rdfs:range bgo:LifeSituation .
+bgo:drawsOn a owl:ObjectProperty ; rdfs:label "Scripture and teaching for this situation" .
+bgo:heldBy a owl:ObjectProperty ; owl:inverseOf bgo:holds ; rdfs:label "taught or emphasised by (tradition)" ;
+    rdfs:range bgo:Tradition .
+bgo:holds a owl:ObjectProperty ; rdfs:label "teaches / emphasises" .
+bgo:explainedBy a owl:ObjectProperty ; owl:inverseOf bgo:explains ; rdfs:label "background / explanation" .
+bgo:explains a owl:ObjectProperty ; rdfs:label "sheds light on" .
+
+# Evidence, manuscripts and archaeology
+bgo:supportedBy a owl:ObjectProperty ; owl:inverseOf bgo:supports ; rdfs:label "supported by" .
+bgo:supports a owl:ObjectProperty ; rdfs:label "supports" .
+bgo:challengedBy a owl:ObjectProperty ; owl:inverseOf bgo:challenges ; rdfs:label "challenged / corrected by" .
+bgo:challenges a owl:ObjectProperty ; rdfs:label "challenges / corrects" .
+bgo:corroboratedBy a owl:ObjectProperty ; owl:inverseOf bgo:corroborates ; rdfs:label "attested outside the Bible by" ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( bgo:Artifact bgo:Manuscript bgo:Work ) ] .
+bgo:corroborates a owl:ObjectProperty ; rdfs:label "attests" .
+bgo:preservedIn a owl:ObjectProperty ; owl:inverseOf bgo:preserves ; rdfs:label "preserved / rendered in" ;
+    rdfs:domain bgo:Text ;
+    rdfs:range [ a owl:Class ; owl:unionOf ( bgo:Manuscript bgo:Translation ) ] .
+bgo:preserves a owl:ObjectProperty ; rdfs:label "contains text of" .
+bgo:discoveredAt a owl:ObjectProperty ; owl:inverseOf bgo:findSpotOf ; rdfs:label "discovered at" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Artifact bgo:Manuscript ) ] ; rdfs:range bgo:Place .
+bgo:findSpotOf a owl:ObjectProperty ; rdfs:label "find spot of" .
+
+# Interpreters and their works
+bgo:introducedBy a owl:ObjectProperty ; rdfs:range bgo:Scholar ; owl:inverseOf bgo:introduced ; rdfs:label "introduced / championed by" .
+bgo:introduced a owl:ObjectProperty ; rdfs:label "introduced" .
+bgo:introducedIn a owl:ObjectProperty ; rdfs:range bgo:Work ; owl:inverseOf bgo:introduces ; rdfs:label "set out in (work)" .
+bgo:introduces a owl:ObjectProperty ; rdfs:label "sets out" .
+bgo:authoredBy a owl:ObjectProperty ; owl:inverseOf bgo:authored ; rdfs:label "written / translated by" ;
+    rdfs:domain [ a owl:Class ; owl:unionOf ( bgo:Work bgo:Translation ) ] ; rdfs:range bgo:Scholar .
+bgo:authored a owl:ObjectProperty ; rdfs:label "wrote / translated" .
+bgo:influencedBy a owl:ObjectProperty ; owl:inverseOf bgo:influenced ; rdfs:label "influenced by" .
+bgo:influenced a owl:ObjectProperty ; rdfs:label "influenced" .
+bgo:studiedIn a owl:ObjectProperty ; rdfs:range bgo:Field ; rdfs:label "studied in (field)" .
+
+# ---- Datatype / internal properties written by scripts/kg.py ------------------
+bgo:domain a owl:DatatypeProperty ; rdfs:label "domain" .
+bgo:level a owl:DatatypeProperty ; rdfs:label "learning level: introductory, intermediate, advanced" .
+bgo:basis a owl:DatatypeProperty ;
+    rdfs:label "basis: scriptural, ecumenical, varies-by-tradition, consensus, debated, misconception, historical, devotional" .
+bgo:keyReference a owl:DatatypeProperty ; rdfs:label "key Scripture reference (e.g. John 3:16)" .
+bgo:sourceType a owl:DatatypeProperty ; rdfs:label "source type" .
+bgo:confidence a owl:DatatypeProperty ; rdfs:label "edge confidence: high, medium, low" .
+bgo:evidence a owl:ObjectProperty ; rdfs:label "edge evidence (source), used on RDF-star quoted triples" .
+bgo:file a owl:DatatypeProperty ; rdfs:label "source file in the repo" .
+bgo:questionFor a owl:ObjectProperty ; rdfs:domain bgo:StudyQuestion ; rdfs:label "study question for" .
+bgo:example a owl:ObjectProperty ; rdfs:range bgo:Rewrite ; rdfs:label "worked before/after example" .
+bgo:howTo a owl:ObjectProperty ; rdfs:label "step-by-step procedure (schema:HowTo)" .
+bgo:situation a owl:DatatypeProperty ; rdfs:label "situation or passage of the example" .
+bgo:before a owl:DatatypeProperty ; rdfs:label "careless reading, popular claim or old habit" .
+bgo:after a owl:DatatypeProperty ; rdfs:label "careful reading, what the text says, or better habit" .
+bgo:why a owl:DatatypeProperty ; rdfs:label "why the second reading is better" .

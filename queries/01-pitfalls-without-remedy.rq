@@ -1,0 +1,7 @@
+# title: Pitfalls with no remedy
+# question: Which written interpretive pitfalls have no method or practice in the graph that guards against them?
+# gap: true
+SELECT ?node WHERE {
+  ?node bgo:file ?f ; a bgo:Pitfall .
+  FILTER NOT EXISTS { ?node bgo:addressedBy ?x }
+} ORDER BY ?node

@@ -1,0 +1,56 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed slugs to steer what gets written next. Seeds are
+# suggestions, not a queue: skip any that already exist.
+# Each domain becomes a SKOS ConceptScheme (bg:scheme/<domain>) in the graph.
+#
+# Goal: help Christians know the Bible better — what each book says and how it
+# fits the whole story, the people, places and events, the great themes and
+# covenants, how to read and study Scripture well, and the history behind the
+# text — with every verse checked against the text and every claim cited.
+
+domains:
+  bible-basics:
+    label: How the Bible is put together
+    seeds: [the-bible, old-testament, new-testament, biblical-canon, deuterocanonical-books, inspiration-of-scripture, chapters-and-verses, biblical-languages, the-story-of-the-bible, how-the-books-are-ordered]
+  old-testament-books:
+    label: Old Testament books
+    seeds: [pentateuch, genesis, exodus, deuteronomy, joshua, ruth, 1-samuel, psalms, proverbs, ecclesiastes, isaiah, jeremiah, daniel, jonah, the-twelve-minor-prophets]
+  new-testament-books:
+    label: New Testament books
+    seeds: [gospels, gospel-of-matthew, gospel-of-mark, gospel-of-luke, gospel-of-john, acts-of-the-apostles, romans, 1-corinthians, galatians, ephesians, philippians, hebrews, james, 1-peter, revelation]
+  old-testament-people:
+    label: People of the Old Testament
+    seeds: [adam-and-eve, noah, abraham, sarah, isaac, jacob, joseph, moses, joshua-son-of-nun, deborah, ruth-the-moabite, samuel, david, solomon, elijah, esther]
+  new-testament-people:
+    label: People of the New Testament
+    seeds: [mary-mother-of-jesus, john-the-baptist, peter, the-twelve-apostles, mary-magdalene, paul, barnabas, timothy, lydia, priscilla-and-aquila, stephen, herod-the-great, pontius-pilate]
+  life-and-teachings-of-jesus:
+    label: The life and teachings of Jesus
+    seeds: [birth-of-jesus, baptism-of-jesus, kingdom-of-god, sermon-on-the-mount, beatitudes, lords-prayer, parables-of-jesus, miracles-of-jesus, i-am-sayings, transfiguration, last-supper, crucifixion-of-jesus, resurrection-of-jesus, great-commission]
+  events-and-timeline:
+    label: Events and the biblical timeline
+    seeds: [creation, the-fall, the-flood, call-of-abraham, the-exodus, giving-of-the-law-at-sinai, conquest-of-canaan, united-monarchy, divided-kingdom, babylonian-exile, return-from-exile, second-temple-period, pentecost, council-of-jerusalem]
+  places-and-geography:
+    label: Places and geography
+    seeds: [jerusalem, the-temple, bethlehem, nazareth, galilee, mount-sinai, jordan-river, egypt-in-the-bible, babylon, samaria, capernaum, antioch, corinth, rome-in-the-bible]
+  key-passages:
+    label: Key passages and parables
+    seeds: [ten-commandments, shema, psalm-23, isaiah-53, john-3-16, romans-8, 1-corinthians-13, philippians-2-hymn, parable-of-the-good-samaritan, parable-of-the-prodigal-son, parable-of-the-sower, armor-of-god, fruit-of-the-spirit]
+  themes-and-theology:
+    label: Themes, covenants and doctrines
+    seeds: [covenant, abrahamic-covenant, mosaic-covenant, davidic-covenant, new-covenant, image-of-god, holiness, grace, faith, redemption, atonement, justification, trinity, incarnation, sabbath, messiah]
+  interpretation:
+    label: Reading and interpreting the Bible
+    seeds: [reading-in-context, genre-in-the-bible, biblical-narrative, hebrew-poetry, prophecy-as-genre, apocalyptic-literature, typology, scripture-interprets-scripture, proof-texting, eisegesis, word-study-fallacies, god-helps-those-who-help-themselves, the-three-wise-men, the-forbidden-apple]
+  study-practices:
+    label: Bible study practices
+    seeds: [inductive-bible-study, lectio-divina, scripture-memorization, bible-reading-plans, cross-references, using-a-concordance, choosing-a-bible-translation, study-bibles, praying-the-psalms, group-bible-study]
+  background-and-culture:
+    label: History, culture and background
+    seeds: [ancient-near-east, second-temple-judaism, pharisees, sadducees, samaritans, greco-roman-world, roman-empire-in-the-new-testament, synagogue, jewish-festivals, honor-and-shame, hebrew-language, koine-greek]
+  manuscripts-translations-and-archaeology:
+    label: Manuscripts, translations and archaeology
+    seeds: [dead-sea-scrolls, septuagint, masoretic-text, codex-sinaiticus, textual-criticism, vulgate, william-tyndale, king-james-version, tel-dan-stele, merneptah-stele, cyrus-cylinder, pilate-stone, josephus]
+  living-the-word:
+    label: Scripture for life
+    seeds: [suffering-and-lament, grief, anxiety-and-worry, forgiveness-in-the-bible, money-and-generosity, work-and-vocation, marriage-in-the-bible, doubt, waiting-on-god, loving-your-neighbor]

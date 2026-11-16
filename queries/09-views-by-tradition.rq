@@ -1,0 +1,6 @@
+# title: Teachings and practices by tradition
+# question: Which doctrines, methods and practices does each Christian (or Jewish) tradition teach or emphasise?
+# gap: false
+SELECT ?tradition ?teaching WHERE {
+  ?teaching bgo:heldBy ?tradition
+} ORDER BY ?tradition ?teaching

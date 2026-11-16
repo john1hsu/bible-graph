@@ -1,0 +1,9 @@
+# title: Events with no place in the timeline
+# question: Which written events have no period and nothing they come before or after?
+# gap: true
+SELECT ?node WHERE {
+  ?node bgo:file ?f ; a bgo:Event .
+  FILTER NOT EXISTS { ?node bgo:occurredDuring ?p }
+  FILTER NOT EXISTS { ?node bgo:precedes ?x }
+  FILTER NOT EXISTS { ?node bgo:follows ?y }
+} ORDER BY ?node

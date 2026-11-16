@@ -1,0 +1,92 @@
+{
+ "@context": {
+  "bg": "https://github.com/john1hsu/bible-graph/id/",
+  "bgo": "https://github.com/john1hsu/bible-graph/ontology#",
+  "dcterms": "http://purl.org/dc/terms/",
+  "owl": "http://www.w3.org/2002/07/owl#",
+  "prov": "http://www.w3.org/ns/prov#",
+  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "schema": "https://schema.org/",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "wd": "http://www.wikidata.org/entity/",
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
+ },
+ "@graph": [
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "History, culture and background"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "How the Bible is put together"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Events and the biblical timeline"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Reading and interpreting the Bible"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Key passages and parables"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "The life and teachings of Jesus"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/living-the-word",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Scripture for life"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Manuscripts, translations and archaeology"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "New Testament books"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "People of the New Testament"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Old Testament books"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "People of the Old Testament"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Places and geography"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/study-practices",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Bible study practices"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": "Themes, covenants and doctrines"
+  }
+ ]
+}

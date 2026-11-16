@@ -1,0 +1,8 @@
+# title: Promise and fulfilment
+# question: Which people, events and passages does the New Testament present as fulfilling or prefigured by earlier Scripture?
+# gap: false
+SELECT ?earlier ?relation ?later WHERE {
+  { ?later bgo:fulfills ?earlier . BIND("fulfils" AS ?relation) }
+  UNION { ?earlier bgo:prefigures ?later . BIND("prefigures" AS ?relation) }
+  UNION { ?later bgo:quotes ?earlier . BIND("quotes" AS ?relation) }
+} ORDER BY ?earlier ?relation ?later

@@ -1,0 +1,7 @@
+# title: Books with no key passage yet
+# question: Which written books of the Bible have no written key passage or parable that is part of them?
+# gap: true
+SELECT ?book WHERE {
+  ?book bgo:file ?f ; a bgo:Book .
+  FILTER NOT EXISTS { ?p bgo:partOf ?book ; bgo:file ?g ; a bgo:Passage }
+} ORDER BY ?book

@@ -1,0 +1,6 @@
+# title: Who and what appears where
+# question: Which people, groups, places and events appear in each book, passage or event?
+# gap: false
+SELECT ?text ?appears WHERE {
+  ?text bgo:features ?appears
+} ORDER BY ?text ?appears
