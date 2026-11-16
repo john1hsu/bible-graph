@@ -48,6 +48,34 @@ Study questions:
 - How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?
 - Paul calls Christ "our Passover" (1 Corinthians 5:7) and says the wilderness events "happened to them by way of example" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?
 
+## interpretation
+
+### [Reading in Context](../articles/interpretation/reading-in-context.md) — Method
+
+Read: Jeremiah 29:1-14; Philippians 4:10-14; Revelation 3:14-22; Nehemiah 8:8
+
+1. Read the whole paragraph, and then the whole chapter, around the verse before deciding what it means.
+2. Ask who is speaking, to whom, and in what situation; note what the book itself tells you about its author and first readers.
+3. Trace the flow of thought by asking what comes just before, what comes just after, and how the verse fits the argument or story.
+4. Identify the kind of writing (letter, poem, prophecy, narrative) and read it the way that kind of writing is meant to be read.
+5. Use a study Bible or Bible dictionary to fill in historical and cultural background, without letting the background drown out the text.
+6. Compare the passage with other Scripture on the same subject, especially clearer passages, and see how it fits the whole story that centres on Christ.
+7. Only then ask what the passage means for you or your church, applying it in a way its first readers would recognise as faithful to it.
+
+*A friend facing a job interview posts Jeremiah 29:11 as a guarantee that everything will go well.*
+
+| Before | After |
+|---|---|
+| God has promised me success and no setbacks, so this interview is bound to work out. | God told exiles in Babylon to settle in and seek the city's peace, promising a future after seventy years; I can trust his good purposes and be faithful where I am, even if this interview fails. |
+
+**Why:** Reading the whole letter (Jeremiah 29:1-14) shows a promise of long-range hope to a community in exile, which still comforts believers today but not as a pledge of quick personal success.
+
+Study questions:
+- According to Jeremiah 29:1-10, who first received the letter containing verse 11, where were they, and how long did God say they would wait?
+- Read Philippians 4:10-14. What "all things" is Paul talking about in verse 13, and how does that change the way the verse is often used?
+- Revelation 3:20 is often used in evangelism. To whom is it first addressed (Revelation 3:14-22), and what does that add to its meaning?
+- Which verse do you hold dear but have never read in its surrounding chapter, and what do you notice when you read the whole chapter this week?
+
 ## life-and-teachings-of-jesus
 
 ### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage

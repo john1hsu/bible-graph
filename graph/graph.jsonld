@@ -505,6 +505,107 @@
    ]
   },
   {
+   "@id": "bg:reading-in-context",
+   "@type": "bgo:Method",
+   "bgo:addresses": [
+    {
+     "@id": "bg:eisegesis"
+    },
+    {
+     "@id": "bg:proof-texting"
+    }
+   ],
+   "bgo:basis": "devotional",
+   "bgo:complements": [
+    {
+     "@id": "bg:genre-in-the-bible"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ],
+   "bgo:domain": "interpretation",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/example"
+   },
+   "bgo:file": "articles/interpretation/reading-in-context.md",
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto"
+   },
+   "bgo:keyReference": [
+    "Jeremiah 29:1-14",
+    "Nehemiah 8:8",
+    "Philippians 4:10-14",
+    "Revelation 3:14-22"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9"
+    }
+   ],
+   "rdfs:label": "Reading in Context",
+   "skos:altLabel": [
+    "a text without a context is a pretext",
+    "contextual reading",
+    "interpreting in context",
+    "literary and historical context"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "skos:definition": "The basic interpretive habit of reading any verse within its surrounding passage, its book, the whole of Scripture and its original historical and cultural setting, so that it means what its author meant before we ask what it means for us.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Reading in Context",
+   "skos:related": [
+    {
+     "@id": "bg:eisegesis"
+    },
+    {
+     "@id": "bg:genre-in-the-bible"
+    },
+    {
+     "@id": "bg:proof-texting"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ]
+  },
+  {
    "@id": "bg:second-temple-judaism",
    "@type": "bgo:Group",
    "bgo:basis": "debated",
@@ -1012,6 +1113,116 @@
     "@id": "bg:pharisees"
    },
    "rdfs:label": "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reading-in-context"
+   },
+   "rdfs:label": "According to Jeremiah 29:1-10, who first received the letter containing verse 11, where were they, and how long did God say they would wait?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reading-in-context"
+   },
+   "rdfs:label": "Read Philippians 4:10-14. What \"all things\" is Paul talking about in verse 13, and how does that change the way the verse is often used?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reading-in-context"
+   },
+   "rdfs:label": "Revelation 3:20 is often used in evangelism. To whom is it first addressed (Revelation 3:14-22), and what does that add to its meaning?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reading-in-context"
+   },
+   "rdfs:label": "Which verse do you hold dear but have never read in its surrounding chapter, and what do you notice when you read the whole chapter this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "God told exiles in Babylon to settle in and seek the city's peace, promising a future after seventy years; I can trust his good purposes and be faithful where I am, even if this interview fails.",
+   "bgo:before": "God has promised me success and no setbacks, so this interview is bound to work out.",
+   "bgo:situation": "A friend facing a job interview posts Jeremiah 29:11 as a guarantee that everything will go well.",
+   "bgo:why": "Reading the whole letter (Jeremiah 29:1-14) shows a promise of long-range hope to a community in exile, which still comforts believers today but not as a pledge of quick personal success."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Reading in Context",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Read the whole paragraph, and then the whole chapter, around the verse before deciding what it means."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Ask who is speaking, to whom, and in what situation; note what the book itself tells you about its author and first readers."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Trace the flow of thought by asking what comes just before, what comes just after, and how the verse fits the argument or story."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Identify the kind of writing (letter, poem, prophecy, narrative) and read it the way that kind of writing is meant to be read."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Use a study Bible or Bible dictionary to fill in historical and cultural background, without letting the background drown out the text."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Compare the passage with other Scripture on the same subject, especially clearer passages, and see how it fits the whole story that centres on Christ."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Only then ask what the passage means for you or your church, applying it in a way its first readers would recognise as faithful to it."
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture",
@@ -1794,6 +2005,146 @@
    "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
    "schema:url": {
     "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Sainte Bible",
+   "dcterms:title": "Jeremiah 29 (World English Bible)",
+   "schema:url": {
+    "@id": "https://saintebible.com/web/jeremiah/29.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Fortress Press",
+   "dcterms:title": "Mary F. Foskett, Interpreting the Bible (Elements of Preaching), introduction",
+   "schema:url": {
+    "@id": "https://ms.fortresspress.com/downloads/Interpreting_the_Bible_Introduction.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Philippians 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/philippians/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Revelation 3 (World English Bible Updated)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebu/REV03.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Nehemiah 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/nehemiah/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 109-119: The Holy Spirit, Interpreter of Scripture",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iii_the_holy_spirit%2C_interpreter_of_scripture.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "creeds.net",
+   "dcterms:title": "Westminster Confession of Faith, chapter 1: Of the Holy Scripture",
+   "schema:url": {
+    "@id": "https://www.creeds.net/reformed/Westminster/c01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "Enter the Bible, Luther Seminary",
+   "dcterms:title": "Jeremiah 29:1-23: Jeremiah's Letter to the Exiles",
+   "schema:url": {
+    "@id": "https://enterthebible.org/?p=3880"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "BiblicalTraining",
+   "dcterms:title": "Hermeneutics, Lesson 11: Historical-Cultural Context (Todd Miles)",
+   "schema:url": {
+    "@id": "https://www.biblicaltraining.org/learn/academy/nt310-hermeneutics/nt310-11-historical-cultural-context"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-16"
+   },
+   "dcterms:publisher": "BibleProject",
+   "dcterms:title": "What Does Jeremiah 29:11 Mean? (\"For I Know the Plans I Have for You\")",
+   "schema:url": {
+    "@id": "https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you"
    }
   },
   {

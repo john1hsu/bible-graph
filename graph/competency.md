@@ -68,6 +68,7 @@ _Which written articles does nothing else in the graph point to (after inference
 | node |
 |---|
 | `bg:biblical-canon` |
+| `bg:reading-in-context` |
 | `bg:the-exodus` |
 
 ## Teachings and practices by tradition

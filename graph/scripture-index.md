@@ -26,6 +26,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Nehemiah
 
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
+
+## Jeremiah
+
+- **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
 ## Matthew
 
@@ -115,6 +120,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Philippians 3:4-14** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Philippians 3:5-6** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Philippians 4:10-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
 ## Colossians
 
@@ -127,4 +133,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Peter
 
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+
+## Revelation
+
+- **Revelation 3:14-22** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 

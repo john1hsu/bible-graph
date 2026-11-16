@@ -4,50 +4,55 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 
 | Node | Score | Expected type | Referenced by |
 |---|---|---|---|
-| `bg:kingdom-of-god` | 5.25 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
-| `bg:sadducees` | 4.19 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:barnabas` | 4.08 | - | `bg:acts-of-the-apostles`, `bg:paul` |
-| `bg:peter` | 4.08 | - | `bg:acts-of-the-apostles`, `bg:paul` |
-| `bg:gospels` | 2.92 | - | `bg:gospel-of-matthew` |
-| `bg:gospel-of-luke` | 2.89 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew` |
-| `bg:septuagint` | 2.87 | - | `bg:biblical-canon`, `bg:second-temple-judaism` |
-| `bg:new-testament` | 2.84 | - | `bg:acts-of-the-apostles`, `bg:biblical-canon` |
-| `bg:ten-commandments` | 2.84 | - | `bg:sermon-on-the-mount`, `bg:the-exodus` |
-| `bg:moses` | 2.82 | - | `bg:the-exodus` |
-| `bg:antiquities-of-the-jews` | 2.45 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:rabbinic-judaism` | 2.45 | - | `bg:pharisees`, `bg:second-temple-judaism` |
-| `bg:grace` | 1.72 | - | `bg:paul` |
-| `bg:babylonian-exile` | 1.71 | - | `bg:second-temple-judaism` |
-| `bg:dead-sea-scrolls` | 1.71 | - | `bg:second-temple-judaism` |
-| `bg:samaritans` | 1.71 | - | `bg:second-temple-judaism` |
-| `bg:second-temple-period` | 1.71 | Period | `bg:second-temple-judaism` |
-| `bg:synagogue` | 1.71 | - | `bg:second-temple-judaism` |
-| `bg:gospel-of-mark` | 1.71 | - | `bg:gospel-of-matthew` |
-| `bg:great-commission` | 1.71 | - | `bg:gospel-of-matthew` |
-| `bg:council-of-jerusalem` | 1.68 | - | `bg:acts-of-the-apostles` |
-| `bg:pentecost` | 1.68 | - | `bg:acts-of-the-apostles` |
-| `bg:beatitudes` | 1.68 | - | `bg:sermon-on-the-mount` |
-| `bg:lords-prayer` | 1.68 | - | `bg:sermon-on-the-mount` |
-| `bg:crucifixion-of-jesus` | 1.66 | - | `bg:the-exodus` |
-| `bg:deuterocanonical-books` | 1.66 | - | `bg:biblical-canon` |
-| `bg:egypt-in-the-bible` | 1.66 | Place | `bg:the-exodus` |
-| `bg:exodus` | 1.66 | - | `bg:the-exodus` |
-| `bg:giving-of-the-law-at-sinai` | 1.66 | - | `bg:the-exodus` |
-| `bg:inspiration-of-scripture` | 1.66 | - | `bg:biblical-canon` |
-| `bg:mosaic-covenant` | 1.66 | - | `bg:the-exodus` |
-| `bg:old-testament` | 1.66 | - | `bg:biblical-canon` |
-| `bg:redemption` | 1.66 | - | `bg:the-exodus` |
-| `bg:the-bible` | 1.66 | - | `bg:biblical-canon` |
-| `bg:the-story-of-the-bible` | 1.66 | - | `bg:the-exodus` |
-| `bg:nicodemus` | 1.24 | - | `bg:pharisees` |
-| `bg:apostles` | 1.22 | - | `bg:paul` |
-| `bg:first-clement` | 1.22 | - | `bg:paul` |
-| `bg:judaism` | 1.21 | - | `bg:second-temple-judaism` |
-| `bg:matthew-the-apostle` | 1.21 | Person | `bg:gospel-of-matthew` |
-| `bg:luke-the-evangelist` | 1.18 | Person | `bg:acts-of-the-apostles` |
-| `bg:sermon-on-the-plain` | 1.18 | - | `bg:sermon-on-the-mount` |
-| `bg:baptism` | 1.16 | - | `bg:the-exodus` |
-| `bg:festal-letter-39-of-athanasius` | 1.16 | - | `bg:biblical-canon` |
-| `bg:israelites` | 1.16 | - | `bg:the-exodus` |
-| `bg:marcion` | 1.16 | - | `bg:biblical-canon` |
-| `bg:passover` | 1.16 | - | `bg:the-exodus` |
+| `bg:kingdom-of-god` | 5.18 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
+| `bg:sadducees` | 4.12 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:barnabas` | 4.02 | - | `bg:acts-of-the-apostles`, `bg:paul` |
+| `bg:peter` | 4.02 | - | `bg:acts-of-the-apostles`, `bg:paul` |
+| `bg:gospels` | 2.88 | - | `bg:gospel-of-matthew` |
+| `bg:gospel-of-luke` | 2.85 | - | `bg:acts-of-the-apostles`, `bg:gospel-of-matthew` |
+| `bg:septuagint` | 2.83 | - | `bg:biblical-canon`, `bg:second-temple-judaism` |
+| `bg:new-testament` | 2.81 | - | `bg:acts-of-the-apostles`, `bg:biblical-canon` |
+| `bg:ten-commandments` | 2.80 | - | `bg:sermon-on-the-mount`, `bg:the-exodus` |
+| `bg:eisegesis` | 2.78 | - | `bg:reading-in-context` |
+| `bg:genre-in-the-bible` | 2.78 | - | `bg:reading-in-context` |
+| `bg:moses` | 2.78 | - | `bg:the-exodus` |
+| `bg:proof-texting` | 2.78 | - | `bg:reading-in-context` |
+| `bg:scripture-interprets-scripture` | 2.78 | - | `bg:reading-in-context` |
+| `bg:antiquities-of-the-jews` | 2.41 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:rabbinic-judaism` | 2.41 | - | `bg:pharisees`, `bg:second-temple-judaism` |
+| `bg:grace` | 1.70 | - | `bg:paul` |
+| `bg:babylonian-exile` | 1.69 | - | `bg:second-temple-judaism` |
+| `bg:dead-sea-scrolls` | 1.69 | - | `bg:second-temple-judaism` |
+| `bg:samaritans` | 1.69 | - | `bg:second-temple-judaism` |
+| `bg:second-temple-period` | 1.69 | Period | `bg:second-temple-judaism` |
+| `bg:synagogue` | 1.69 | - | `bg:second-temple-judaism` |
+| `bg:gospel-of-mark` | 1.69 | - | `bg:gospel-of-matthew` |
+| `bg:great-commission` | 1.69 | - | `bg:gospel-of-matthew` |
+| `bg:council-of-jerusalem` | 1.66 | - | `bg:acts-of-the-apostles` |
+| `bg:pentecost` | 1.66 | - | `bg:acts-of-the-apostles` |
+| `bg:beatitudes` | 1.66 | - | `bg:sermon-on-the-mount` |
+| `bg:lords-prayer` | 1.66 | - | `bg:sermon-on-the-mount` |
+| `bg:crucifixion-of-jesus` | 1.64 | - | `bg:the-exodus` |
+| `bg:deuterocanonical-books` | 1.64 | - | `bg:biblical-canon` |
+| `bg:egypt-in-the-bible` | 1.64 | Place | `bg:the-exodus` |
+| `bg:exodus` | 1.64 | - | `bg:the-exodus` |
+| `bg:giving-of-the-law-at-sinai` | 1.64 | - | `bg:the-exodus` |
+| `bg:inspiration-of-scripture` | 1.64 | - | `bg:biblical-canon` |
+| `bg:mosaic-covenant` | 1.64 | - | `bg:the-exodus` |
+| `bg:old-testament` | 1.64 | - | `bg:biblical-canon` |
+| `bg:redemption` | 1.64 | - | `bg:the-exodus` |
+| `bg:the-bible` | 1.64 | - | `bg:biblical-canon` |
+| `bg:the-story-of-the-bible` | 1.64 | - | `bg:the-exodus` |
+| `bg:nicodemus` | 1.22 | - | `bg:pharisees` |
+| `bg:apostles` | 1.20 | - | `bg:paul` |
+| `bg:first-clement` | 1.20 | - | `bg:paul` |
+| `bg:judaism` | 1.19 | - | `bg:second-temple-judaism` |
+| `bg:matthew-the-apostle` | 1.19 | Person | `bg:gospel-of-matthew` |
+| `bg:luke-the-evangelist` | 1.16 | Person | `bg:acts-of-the-apostles` |
+| `bg:sermon-on-the-plain` | 1.16 | - | `bg:sermon-on-the-mount` |
+| `bg:baptism` | 1.14 | - | `bg:the-exodus` |
+| `bg:biblical-interpretation` | 1.14 | - | `bg:reading-in-context` |
+| `bg:festal-letter-39-of-athanasius` | 1.14 | - | `bg:biblical-canon` |
+| `bg:israelites` | 1.14 | - | `bg:the-exodus` |
+| `bg:marcion` | 1.14 | - | `bg:biblical-canon` |
+| `bg:passover` | 1.14 | - | `bg:the-exodus` |
