@@ -214,6 +214,18 @@ Study questions:
 
 ## life-and-teachings-of-jesus
 
+### [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) — Genre
+
+Read: Mark 4:1-34; Matthew 13:1-52; Luke 15:1-3; Luke 15:11-32; 2 Samuel 12:1-7; Isaiah 5:1-7; Mark 12:1-12
+
+Study questions:
+- According to Mark 4:33-34, how did Jesus use parables with the crowds, and what did he do differently with his disciples?
+- In Matthew 13:10-17, why does Jesus say he speaks in parables, and which prophet's words does he apply to his hearers?
+- Read 2 Samuel 12:1-7. How does Nathan's story get past David's defences, and what happens when David judges the rich man?
+- Compare the vineyard in Isaiah 5:1-7 with the vineyard in Mark 12:1-12. What would Jesus's hearers have recognised, and why did they realise the parable was "against them" (Mark 12:12)?
+- Luke 15:1-3 tells us who was listening when Jesus told the parables of the lost. How does that audience change the way you read the elder brother?
+- Which parable has most unsettled you, and what was it asking you to decide?
+
 ### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage
 
 Read: Matthew 4:23-25; Matthew 5:1-20; Matthew 5:21-48; Matthew 6:1-34; Matthew 7:1-29; Matthew 8:1; Luke 6:17-49; Exodus 20:13-14

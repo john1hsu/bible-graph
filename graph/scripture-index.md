@@ -72,6 +72,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Samuel
 
 - **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Samuel 12:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 
 ## 1 Kings
 
@@ -141,6 +142,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Isaiah
 
 - **Isaiah 2:2-4** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Isaiah 5:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Isaiah 12:2** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -221,6 +223,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 7:28-29** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 9:9** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 13:1-52** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Matthew 16:16-18** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 17:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -234,11 +237,13 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Mark
 
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Mark 12:1-12** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## Luke
@@ -268,6 +273,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 15** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 15:1-3** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
+- **Luke 15:11-32** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 19:1-10** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
