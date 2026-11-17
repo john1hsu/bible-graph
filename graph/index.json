@@ -603,6 +603,185 @@
   ]
  },
  {
+  "id": "bg:book-of-jeremiah",
+  "title": "Book of Jeremiah",
+  "aliases": [
+   "Jeremiah (book)",
+   "Yirmeyahu (book)",
+   "Ieremias",
+   "Jeremias (book)",
+   "Prophecy of Jeremiah"
+  ],
+  "type": "Book",
+  "domain": "old-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-books/book-of-jeremiah.md",
+  "created": "2026-11-17",
+  "summary": "The Old Testament prophetic book that gathers the oracles, prayers and life story of Jeremiah, a priest's son from Anathoth who warned Judah from about 627 BC until after Babylon destroyed Jerusalem in 587/586 BC, wrote to the exiles to seek the peace of Babylon, and promised a new covenant written on the heart.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:major-prophets"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-ezra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:major-prophets",
+    "source": "s17",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:hasGenre",
+    "object": "bg:prophecy",
+    "source": "s14",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:jeremiah",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jeremiah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:baruch",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:babylonian-exile",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jerusalem",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:nebuchadnezzar-ii",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:new-covenant",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:2-kings",
+    "source": "s17",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:septuagint",
+    "source": "s19",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:dead-sea-scrolls",
+    "source": "s18",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Jeremiah 1:1-10",
+   "Jeremiah 7:1-15",
+   "Jeremiah 20:7-18",
+   "Jeremiah 25:1-13",
+   "Jeremiah 29:1-14",
+   "Jeremiah 31:15",
+   "Jeremiah 31:31-34",
+   "Jeremiah 32:6-15",
+   "Jeremiah 36",
+   "Jeremiah 43:1-7",
+   "Mark 11:17",
+   "Matthew 2:17-18",
+   "Luke 22:20",
+   "Hebrews 8:8-13"
+  ],
+  "studyQuestions": [
+   "In Jeremiah 1:4-10, what objection does Jeremiah raise to God's call, and what two kinds of work (tearing down and building up) is he given?",
+   "According to Jeremiah 7:1-15, why could the Temple not protect the people of Judah, and what did God want from them instead?",
+   "What does Jeremiah 29:4-7 tell the exiles to do in Babylon, and how does verse 11 read differently once you know it was written to people facing seventy years away from home?",
+   "Read Jeremiah 31:31-34 alongside Luke 22:20 and Hebrews 8:8-13. What is \"new\" about the new covenant, and how do the New Testament writers see it fulfilled?",
+   "In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?",
+   "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-web/JER01.htm",
+   "https://bibliaparalela.com/web/jeremiah/7.htm",
+   "https://ebible.org/eng-web/JER20.htm",
+   "https://ebible.org/eng-web/JER25.htm",
+   "https://ebible.org/eng-web/JER29.htm",
+   "https://ebible.org/eng-web/JER31.htm",
+   "https://ebible.org/eng-web/JER32.htm",
+   "https://ebible.org/eng-web/JER36.htm",
+   "https://ebible.org/eng-web/JER43.htm",
+   "https://biblehub.com/web/hebrews/8.htm",
+   "https://www.biblehub.com/luke/22-20.htm",
+   "https://biblehub.com/mark/11-17.htm",
+   "https://www.esv.org/verses/Matthew+2:17–18",
+   "https://bible.usccb.org/bible/jeremiah/0",
+   "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jeremiah-book",
+   "https://www.biblegateway.com/resources/asbury-bible-commentary/iii-structure-authorship-and-date",
+   "https://www.britannica.com/topic/The-Book-of-Jeremiah",
+   "https://library.biblicalarchaeology.org/article/the-book-of-jeremiah-a-work-in-progress/",
+   "https://JewishEncyclopedia.com/articles/8587-jeremiah-book-of"
+  ]
+ },
+ {
   "id": "bg:forgiveness-in-the-bible",
   "title": "Forgiveness in the Bible",
   "aliases": [

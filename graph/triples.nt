@@ -335,6 +335,94 @@
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/2-chronicles> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Jeremiah 1:4-10, what objection does Jeremiah raise to God's call, and what two kinds of work (tearing down and building up) is he given?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Jeremiah 7:1-15, why could the Temple not protect the people of Judah, and what did God want from them instead?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does Jeremiah 29:4-7 tell the exiles to do in Babylon, and how does verse 11 read differently once you know it was written to people facing seventy years away from home?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Read Jeremiah 31:31-34 alongside Luke 22:20 and Hebrews 8:8-13. What is \"new\" about the new covenant, and how do the New Testament writers see it fulfilled?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2000/01/rdf-schema#label> "Book of Jeremiah" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Ieremias" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Jeremiah (book)" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Jeremias (book)" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophecy of Jeremiah" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Yirmeyahu (book)" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#definition> "The Old Testament prophetic book that gathers the oracles, prayers and life story of Jeremiah, a priest's son from Anathoth who warned Judah from about 627 BC until after Babylon destroyed Jerusalem in 587/586 BC, wrote to the exiles to seek the peace of Babylon, and promised a new covenant written on the heart." .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#prefLabel> "Book of Jeremiah" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-books" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/baruch> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-books/book-of-jeremiah.md" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#hasGenre> <https://github.com/john1hsu/bible-graph/id/prophecy> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 8:8-13" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 1:1-10" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 20:7-18" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 25:1-13" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 29:1-14" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 31:15" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 31:31-34" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 32:6-15" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 36" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 43:1-7" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 7:1-15" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 22:20" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 11:17" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 2:17-18" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/2-kings> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?" .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -1763,6 +1851,120 @@
 <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s9> <https://schema.org/url> <https://bibliaparalela.com/web/nehemiah/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <http://purl.org/dc/terms/title> "Hebrews 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10> <https://schema.org/url> <https://biblehub.com/web/hebrews/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <http://purl.org/dc/terms/title> "Luke 22:20 (World English Bible and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11> <https://schema.org/url> <https://www.biblehub.com/luke/22-20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <http://purl.org/dc/terms/title> "Mark 11:17 (World English Bible and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12> <https://schema.org/url> <https://biblehub.com/mark/11-17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <http://purl.org/dc/terms/publisher> "Crossway (ESV.org)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <http://purl.org/dc/terms/title> "Matthew 2:17-18 (English Standard Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13> <https://schema.org/url> <https://www.esv.org/verses/Matthew+2:17–18> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <http://purl.org/dc/terms/title> "Jeremiah — Introduction (New American Bible, Revised Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14> <https://schema.org/url> <https://bible.usccb.org/bible/jeremiah/0> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <http://purl.org/dc/terms/publisher> "Gale / Encyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <http://purl.org/dc/terms/title> "Jeremiah, Book of (New Catholic Encyclopedia, G. Couturier)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15> <https://schema.org/url> <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jeremiah-book> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <http://purl.org/dc/terms/publisher> "Zondervan (via Bible Gateway)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <http://purl.org/dc/terms/title> "Asbury Bible Commentary: Jeremiah — Structure, Authorship, and Date" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16> <https://schema.org/url> <https://www.biblegateway.com/resources/asbury-bible-commentary/iii-structure-authorship-and-date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <http://purl.org/dc/terms/title> "The Book of Jeremiah" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> <https://schema.org/url> <https://www.britannica.com/topic/The-Book-of-Jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <http://purl.org/dc/terms/title> "The Book of Jeremiah: A Work in Progress (Emanuel Tov, Bible Review, June 2000)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> <https://schema.org/url> <https://library.biblicalarchaeology.org/article/the-book-of-jeremiah-a-work-in-progress/> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <http://purl.org/dc/terms/title> "Jeremiah, Book of (Jewish Encyclopedia, E. G. Hirsch and V. Ryssel)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> <https://schema.org/url> <https://JewishEncyclopedia.com/articles/8587-jeremiah-book-of> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <http://purl.org/dc/terms/title> "Jeremiah 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1> <https://schema.org/url> <https://ebible.org/eng-web/JER01.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela (Bible Hub)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <http://purl.org/dc/terms/title> "Jeremiah 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2> <https://schema.org/url> <https://bibliaparalela.com/web/jeremiah/7.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <http://purl.org/dc/terms/title> "Jeremiah 20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3> <https://schema.org/url> <https://ebible.org/eng-web/JER20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <http://purl.org/dc/terms/title> "Jeremiah 25 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4> <https://schema.org/url> <https://ebible.org/eng-web/JER25.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <http://purl.org/dc/terms/title> "Jeremiah 29 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5> <https://schema.org/url> <https://ebible.org/eng-web/JER29.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <http://purl.org/dc/terms/title> "Jeremiah 31 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6> <https://schema.org/url> <https://ebible.org/eng-web/JER31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <http://purl.org/dc/terms/title> "Jeremiah 32 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7> <https://schema.org/url> <https://ebible.org/eng-web/JER32.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <http://purl.org/dc/terms/title> "Jeremiah 36 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8> <https://schema.org/url> <https://ebible.org/eng-web/JER36.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <http://purl.org/dc/terms/title> "Jeremiah 43 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <https://schema.org/url> <https://ebible.org/eng-web/JER43.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/title> "Romans 12 (World English Bible)" .

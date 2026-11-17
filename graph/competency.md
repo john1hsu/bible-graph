@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:book-of-jeremiah` |
 
 ## Life situations with no Scripture (gap)
 
@@ -32,6 +34,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:grace` | Barnabas, Paul |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
 | `bg:mosaic-covenant` | Moses |
+| `bg:new-covenant` | Book of Jeremiah |
 | `bg:redemption` | The Exodus |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
 | `bg:worship` | Laying the Foundation of the Second Temple |
@@ -54,6 +57,11 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-ezra` | `bg:ezra` |
 | `bg:book-of-ezra` | `bg:second-temple-judaism` |
 | `bg:book-of-ezra` | `bg:zerubbabel` |
+| `bg:book-of-jeremiah` | `bg:babylonian-exile` |
+| `bg:book-of-jeremiah` | `bg:baruch` |
+| `bg:book-of-jeremiah` | `bg:jeremiah` |
+| `bg:book-of-jeremiah` | `bg:jerusalem` |
+| `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:jeshua-son-of-jozadak` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:the-temple` |
@@ -76,8 +84,6 @@ _Which written people, groups, places and events are not yet linked to any book,
 
 | node | type |
 |---|---|
-| `bg:babylonian-exile` | bgo:Event |
-| `bg:jerusalem` | bgo:Place |
 | `bg:the-exodus` | bgo:Event |
 
 ## Orphan articles (gap)

@@ -114,9 +114,19 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Jeremiah
 
+- **Jeremiah 1:1-10** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 7:1-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 20:7-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 25:1-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 25:11-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Jeremiah 29:1-14** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 - **Jeremiah 29:4-14** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Jeremiah 31:15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 31:31-34** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 32:6-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 36** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 43:1-7** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 52:28-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
 ## Ezekiel
@@ -147,6 +157,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 2:17-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -175,6 +186,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 
 ## Luke
 
@@ -190,6 +202,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Luke 22:20** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
@@ -312,6 +325,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Hebrews
 
 - **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Hebrews 8:8-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Hebrews 11:23-29** — [Moses](../articles/old-testament-people/moses.md) (Person)
 

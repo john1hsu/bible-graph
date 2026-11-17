@@ -640,6 +640,180 @@
    ]
   },
   {
+   "@id": "bg:book-of-jeremiah",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:jeremiah"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "old-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:baruch"
+    },
+    {
+     "@id": "bg:jeremiah"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:nebuchadnezzar-ii"
+    }
+   ],
+   "bgo:file": "articles/old-testament-books/book-of-jeremiah.md",
+   "bgo:hasGenre": {
+    "@id": "bg:prophecy"
+   },
+   "bgo:keyReference": [
+    "Hebrews 8:8-13",
+    "Jeremiah 1:1-10",
+    "Jeremiah 20:7-18",
+    "Jeremiah 25:1-13",
+    "Jeremiah 29:1-14",
+    "Jeremiah 31:15",
+    "Jeremiah 31:31-34",
+    "Jeremiah 32:6-15",
+    "Jeremiah 36",
+    "Jeremiah 43:1-7",
+    "Jeremiah 7:1-15",
+    "Luke 22:20",
+    "Mark 11:17",
+    "Matthew 2:17-18"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:2-kings"
+   },
+   "bgo:partOf": {
+    "@id": "bg:major-prophets"
+   },
+   "bgo:preservedIn": [
+    {
+     "@id": "bg:dead-sea-scrolls"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ],
+   "bgo:teaches": {
+    "@id": "bg:new-covenant"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9"
+    }
+   ],
+   "rdfs:label": "Book of Jeremiah",
+   "skos:altLabel": [
+    "Ieremias",
+    "Jeremiah (book)",
+    "Jeremias (book)",
+    "Prophecy of Jeremiah",
+    "Yirmeyahu (book)"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:major-prophets"
+    },
+    {
+     "@id": "bg:old-testament"
+    }
+   ],
+   "skos:definition": "The Old Testament prophetic book that gathers the oracles, prayers and life story of Jeremiah, a priest's son from Anathoth who warned Judah from about 627 BC until after Babylon destroyed Jerusalem in 587/586 BC, wrote to the exiles to seek the peace of Babylon, and promised a new covenant written on the heart.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books"
+   },
+   "skos:prefLabel": "Book of Jeremiah",
+   "skos:related": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-ezra"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:forgiveness-in-the-bible",
    "@type": "bgo:LifeSituation",
    "bgo:basis": "devotional",
@@ -2715,6 +2889,54 @@
    "rdfs:label": "Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "In Jeremiah 1:4-10, what objection does Jeremiah raise to God's call, and what two kinds of work (tearing down and building up) is he given?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "According to Jeremiah 7:1-15, why could the Temple not protect the people of Judah, and what did God want from them instead?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "What does Jeremiah 29:4-7 tell the exiles to do in Babylon, and how does verse 11 read differently once you know it was written to people facing seventy years away from home?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "Read Jeremiah 31:31-34 alongside Luke 22:20 and Hebrews 8:8-13. What is \"new\" about the new covenant, and how do the New Testament writers see it fulfilled?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-jeremiah"
+   },
+   "rdfs:label": "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -4383,6 +4605,272 @@
    "dcterms:title": "Nehemiah 8 (World English Bible)",
    "schema:url": {
     "@id": "https://bibliaparalela.com/web/nehemiah/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Hebrews 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/hebrews/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 22:20 (World English Bible and parallel versions)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/luke/22-20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 11:17 (World English Bible and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/mark/11-17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Crossway (ESV.org)",
+   "dcterms:title": "Matthew 2:17-18 (English Standard Version)",
+   "schema:url": {
+    "@id": "https://www.esv.org/verses/Matthew+2:17–18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Jeremiah — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/jeremiah/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Gale / Encyclopedia.com",
+   "dcterms:title": "Jeremiah, Book of (New Catholic Encyclopedia, G. Couturier)",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jeremiah-book"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Zondervan (via Bible Gateway)",
+   "dcterms:title": "Asbury Bible Commentary: Jeremiah — Structure, Authorship, and Date",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/asbury-bible-commentary/iii-structure-authorship-and-date"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "The Book of Jeremiah",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/The-Book-of-Jeremiah"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "The Book of Jeremiah: A Work in Progress (Emanuel Tov, Bible Review, June 2000)",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/article/the-book-of-jeremiah-a-work-in-progress/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Jeremiah, Book of (Jewish Encyclopedia, E. G. Hirsch and V. Ryssel)",
+   "schema:url": {
+    "@id": "https://JewishEncyclopedia.com/articles/8587-jeremiah-book-of"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela (Bible Hub)",
+   "dcterms:title": "Jeremiah 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/jeremiah/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 29 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER29.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 31 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER31.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 32 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER32.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 36 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER36.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 43 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER43.htm"
    }
   },
   {

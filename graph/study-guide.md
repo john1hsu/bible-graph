@@ -217,6 +217,18 @@ Study questions:
 - Ezra 7:10 says Ezra set his heart to seek the law, to do it and to teach it. Why do you think the order of those three verbs matters for anyone who studies Scripture?
 - Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?
 
+### [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) — Book
+
+Read: Jeremiah 1:1-10; Jeremiah 7:1-15; Jeremiah 20:7-18; Jeremiah 25:1-13; Jeremiah 29:1-14; Jeremiah 31:15; Jeremiah 31:31-34; Jeremiah 32:6-15; Jeremiah 36; Jeremiah 43:1-7; Mark 11:17; Matthew 2:17-18; Luke 22:20; Hebrews 8:8-13
+
+Study questions:
+- In Jeremiah 1:4-10, what objection does Jeremiah raise to God's call, and what two kinds of work (tearing down and building up) is he given?
+- According to Jeremiah 7:1-15, why could the Temple not protect the people of Judah, and what did God want from them instead?
+- What does Jeremiah 29:4-7 tell the exiles to do in Babylon, and how does verse 11 read differently once you know it was written to people facing seventy years away from home?
+- Read Jeremiah 31:31-34 alongside Luke 22:20 and Hebrews 8:8-13. What is "new" about the new covenant, and how do the New Testament writers see it fulfilled?
+- In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?
+- Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?
+
 ## old-testament-people
 
 ### [Moses](../articles/old-testament-people/moses.md) — Person
