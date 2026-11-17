@@ -100,6 +100,19 @@ Study questions:
 
 ## key-passages
 
+### [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) — Passage
+
+Read: Jeremiah 7:1-15; Jeremiah 7:16; Jeremiah 7:21-23; Jeremiah 26:1-24; Micah 3:12; Psalm 78:60; Isaiah 56:7; Mark 11:15-18
+
+Study questions:
+- Where does God tell Jeremiah to stand in Jeremiah 7:2, and who would be passing by as he spoke?
+- What were the people repeating in Jeremiah 7:4 and 7:10, and why did those words feel like a guarantee of safety?
+- Which wrongs does Jeremiah list in 7:5-9? How do they line up with the Ten Commandments and with care for the foreigner, the fatherless and the widow?
+- Why does God send the listeners to look at Shiloh (7:12-14)? What had happened there?
+- In Jeremiah 26 the elders remember Micah's words about Zion (26:18-19). How does that memory save Jeremiah's life, and what does it suggest about how God's warnings work?
+- Jesus quotes Jeremiah 7:11 in the Temple (Mark 11:17). What does the original sermon add to your understanding of that scene?
+- What "safe words" or religious habits might a church or a believer lean on today instead of a changed life, and how could this passage gently correct that?
+
 ### [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) — Passage
 
 Read: Ezra 3:1-13; Ezra 3:1-6; Ezra 3:10-13; Ezra 5:1-2; Ezra 5:16; Haggai 2:3-9; Haggai 2:18; Zechariah 4:9-10; Psalm 136:1

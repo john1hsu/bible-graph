@@ -107,6 +107,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
@@ -120,14 +121,19 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 2:2-4** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 
 ## Jeremiah
 
 - **Jeremiah 1:1-10** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 7:1-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 7:1-15** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Jeremiah 7:16** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Jeremiah 7:21-23** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Jeremiah 20:7-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 25:1-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 25:11-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Jeremiah 26:1-24** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Jeremiah 29:1-14** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 - **Jeremiah 29:4-14** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -151,6 +157,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Amos
 
 - **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+
+## Micah
+
+- **Micah 3:12** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 
 ## Haggai
 
@@ -200,6 +210,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 
 ## Luke

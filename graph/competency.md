@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:book-of-jeremiah` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -36,8 +34,9 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:mosaic-covenant` | Moses |
 | `bg:new-covenant` | Book of Jeremiah |
 | `bg:redemption` | The Exodus |
+| `bg:repentance` | Jeremiah's Temple Sermon |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
-| `bg:worship` | Laying the Foundation of the Second Temple |
+| `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
 
 ## Who and what appears where
 
@@ -63,6 +62,10 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
+| `bg:jeremiahs-temple-sermon` | `bg:jehoiakim` |
+| `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
+| `bg:jeremiahs-temple-sermon` | `bg:shiloh` |
+| `bg:jeremiahs-temple-sermon` | `bg:the-temple` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:jeshua-son-of-jozadak` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:the-temple` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:zerubbabel` |
@@ -108,6 +111,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 | earlier | relation | later |
 |---|---|---|
+| `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |

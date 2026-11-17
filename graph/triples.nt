@@ -708,6 +708,76 @@
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 107:23-30" .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 119:18" .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Where does God tell Jeremiah to stand in Jeremiah 7:2, and who would be passing by as he spoke?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What were the people repeating in Jeremiah 7:4 and 7:10, and why did those words feel like a guarantee of safety?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Which wrongs does Jeremiah list in 7:5-9? How do they line up with the Ten Commandments and with care for the foreigner, the fatherless and the widow?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why does God send the listeners to look at Shiloh (7:12-14)? What had happened there?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Jeremiah 26 the elders remember Micah's words about Zion (26:18-19). How does that memory save Jeremiah's life, and what does it suggest about how God's warnings work?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus quotes Jeremiah 7:11 in the Temple (Mark 11:17). What does the original sermon add to your understanding of that scene?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/7> <http://www.w3.org/2000/01/rdf-schema#label> "What \"safe words\" or religious habits might a church or a believer lean on today instead of a changed life, and how could this passage gently correct that?" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/7> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2000/01/rdf-schema#label> "Jeremiah's Temple Sermon" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jeremiah 26" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jeremiah 7:1-15" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jeremiah's sermon at the temple gate" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Temple Sermon" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "the temple of the LORD sermon" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#definition> "Jeremiah's message at the gate of the Jerusalem Temple (Jeremiah 7:1-15, with the story of its aftermath in Jeremiah 26), warning worshippers that chanting \"the temple of the LORD\" would not protect people who oppressed the vulnerable and broke the covenant, and that God could make the Temple like ruined Shiloh unless they changed their ways." .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeremiah's Temple Sermon" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jehoiakim> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/shiloh> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/jeremiahs-temple-sermon.md" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 56:7" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 26:1-24" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 7:1-15" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 7:16" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 7:21-23" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 11:15-18" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Micah 3:12" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 78:60" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/book-of-micah> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/repentance> .
+<https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/worship> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Samuel 5:6-9, who lived in Jerusalem before David, and what did David call the stronghold once he took it?" .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
@@ -2372,6 +2442,78 @@
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://schema.org/url> <https://core.ac.uk/download/155820339.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/title> "Isaiah 56:7 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <https://schema.org/url> <https://www.biblestudytools.com/kjv/isaiah/56-7.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <http://purl.org/dc/terms/publisher> "My Jewish Learning" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <http://purl.org/dc/terms/title> "Jeffrey Spitzer, Jeremiah 7: The Israelites' \"Edifice Complex\"" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s11> <https://schema.org/url> <https://www.myjewishlearning.com/article/jeremiah-7-the-israelites-quotedifice-complexquot/> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <http://purl.org/dc/terms/publisher> "My Jewish Learning" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <http://purl.org/dc/terms/title> "Haftarah for Tzav" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s12> <https://schema.org/url> <https://www.myjewishlearning.com/article/haftarah-for-tzav/> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <http://purl.org/dc/terms/title> "Jeremiah 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s1> <https://schema.org/url> <https://bibliaparalela.com/web/jeremiah/7.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <http://purl.org/dc/terms/publisher> "Bibleserver (ERF Medien)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <http://purl.org/dc/terms/title> "Jeremiah 26 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s2> <https://schema.org/url> <https://www.bibleserver.com/KJV/Jeremiah26> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <http://purl.org/dc/terms/title> "Michael Avioz, \"A Rhetorical Analysis of Jeremiah 7:1-15\", Tyndale Bulletin 57.2 (2006)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s3> <https://schema.org/url> <https://tyndalebulletin.org/article/29214.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <http://purl.org/dc/terms/publisher> "Durham University" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <http://purl.org/dc/terms/title> "Jonathan David Bentall, Jeremiah's Temple Sermon and the Hermeneutics of Tradition: A Theological Reading of Jeremiah 7:1-15 and 26:1-24 (PhD thesis, 2017)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s4> <https://schema.org/url> <https://etheses.durham.ac.uk/id/eprint/12293> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <http://purl.org/dc/terms/title> "Shiloh (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s5> <https://schema.org/url> <https://www.biblegateway.com:443/resources/encyclopedia-of-the-bible/Shiloh> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <http://purl.org/dc/terms/publisher> "InterVarsity Press, via Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <http://purl.org/dc/terms/title> "Judgment on the Temple Establishment (IVP New Testament Commentary Series: Matthew)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s6> <https://schema.org/url> <https://search.biblegateway.com/resources/ivp-nt/Judgment-Temple-Establishment> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <http://purl.org/dc/terms/publisher> "Blue Letter Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <http://purl.org/dc/terms/title> "Mark 11 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s7> <https://schema.org/url> <https://www.blueletterbible.org/mar/11> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <http://purl.org/dc/terms/title> "Micah 3:12 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s8> <https://schema.org/url> <https://www.christianity.com/bible/kjv/micah/3-12> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <http://purl.org/dc/terms/title> "Psalm 78:60 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s9> <https://schema.org/url> <https://www.christianity.com/bible/kjv/psalm/78-60> .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/title> "Luke 9:51 (World English Bible)" .
