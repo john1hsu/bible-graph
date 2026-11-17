@@ -2752,6 +2752,122 @@
    ]
   },
   {
+   "@id": "bg:old-testament",
+   "@type": "bgo:Collection",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:complements": {
+    "@id": "bg:new-testament"
+   },
+   "bgo:contrastsWith": {
+    "@id": "bg:tanakh"
+   },
+   "bgo:corroboratedBy": {
+    "@id": "bg:church-history-of-eusebius"
+   },
+   "bgo:domain": "bible-basics",
+   "bgo:file": "articles/bible-basics/old-testament.md",
+   "bgo:keyReference": [
+    "2 Corinthians 3:14",
+    "2 Timothy 3:15",
+    "Daniel 2:4",
+    "Jeremiah 31:31-33",
+    "Luke 24:27",
+    "Luke 24:44",
+    "Romans 15:4"
+   ],
+   "bgo:level": "introductory",
+   "bgo:preservedIn": [
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ],
+   "bgo:teaches": {
+    "@id": "bg:new-covenant"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s9"
+    }
+   ],
+   "rdfs:label": "Old Testament",
+   "skos:altLabel": [
+    "First Testament",
+    "Hebrew Scriptures",
+    "OT"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The first and larger part of the Christian Bible: the Scriptures of Israel, written mostly in Hebrew with some Aramaic, that Jesus and the apostles read as God's word, running from Genesis to Malachi in 39 books for Protestants and with additional deuterocanonical books for Catholics and the Orthodox.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "Old Testament",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:new-testament"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    }
+   ]
+  },
+  {
    "@id": "bg:parable-of-the-good-samaritan",
    "@type": "bgo:Parable",
    "bgo:basis": "scriptural",
@@ -5197,6 +5313,46 @@
     "@id": "bg:moses"
    },
    "rdfs:label": "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:old-testament"
+   },
+   "rdfs:label": "According to Luke 24:27 and 24:44, which parts of Israel's Scriptures did the risen Jesus say were about him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:old-testament"
+   },
+   "rdfs:label": "What does God promise in Jeremiah 31:31-33, and how does that promise explain why Christians speak of an \"old\" and a \"new\" testament?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:old-testament"
+   },
+   "rdfs:label": "In 2 Timothy 3:15, Timothy had known the sacred writings from infancy. Which writings could those have been, and what does Paul say they can do?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:old-testament"
+   },
+   "rdfs:label": "Romans 15:4 says earlier Scripture was written \"for our learning.\" Which Old Testament book has taught you the most, and which have you barely opened?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:old-testament"
+   },
+   "rdfs:label": "How could you speak about the \"Old\" Testament in a way that honours both its lasting value for Christians and its place as Jewish Scripture?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1",
@@ -10225,6 +10381,202 @@
    "dcterms:title": "Deuteronomy 18 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/deut/18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Episcopal Church",
+   "dcterms:title": "Old Testament (An Episcopal Dictionary of the Church)",
+   "schema:url": {
+    "@id": "https://www.episcopalchurch.org/glossary/old-testament/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See (Vatican archive)",
+   "dcterms:title": "Catechism of the Catholic Church, §§120-123",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PR.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Westminster Confession of Faith, Chapter 1 (in Philip Schaff, The Creeds of Christendom, vol. 3)",
+   "schema:url": {
+    "@id": "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "American Carpatho-Russian Orthodox Diocese of North America",
+   "dcterms:title": "The Septuagint (Fr. Lawrence Barriger)",
+   "schema:url": {
+    "@id": "https://acrod.org/orthodox-christianity/articles/scripture/septuagint"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bibliothek der Kirchenväter, University of Fribourg",
+   "dcterms:title": "Eusebius, Church History, Book 4, Chapter 26 (Melito and the circumstances which he records)",
+   "schema:url": {
+    "@id": "https://bkv.unifr.ch/works/cpg-3495/compare/kirchengeschichte-bkv-2/110/the-church-history-of-eusebius"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Corinthians 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_corinthians/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "2 Timothy 3:15-18 (World English Bible and Bible in Basic English)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/bbe+web/2tim/3/15-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Jeremiah 31:31-33 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/jeremiah/31-31-33"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Romans 15:4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/romans/15-4"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Daniel 2:4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/daniel/2-4.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "What Is the Difference Between the Old Testament, the Tanakh, and the Hebrew Bible?",
+   "schema:url": {
+    "@id": "https://bibleodyssey.com/bible-basics/what-is-the-difference-between-the-old-testament-the-tanakh-and-the-hebrew-bible/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Hebrew Bible — Books of the Hebrew Bible",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Hebrew-Bible/Books-of-the-Hebrew-Bible"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/old-testament/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Aramaic; Aramaic Language (International Standard Bible Encyclopedia, J. E. H. Thomson)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/aramaic-aramaic-language/"
    }
   },
   {

@@ -36,6 +36,17 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+### [Old Testament](../articles/bible-basics/old-testament.md) — Collection
+
+Read: Luke 24:27; Luke 24:44; Jeremiah 31:31-33; 2 Corinthians 3:14; 2 Timothy 3:15; Romans 15:4; Daniel 2:4
+
+Study questions:
+- According to Luke 24:27 and 24:44, which parts of Israel's Scriptures did the risen Jesus say were about him?
+- What does God promise in Jeremiah 31:31-33, and how does that promise explain why Christians speak of an "old" and a "new" testament?
+- In 2 Timothy 3:15, Timothy had known the sacred writings from infancy. Which writings could those have been, and what does Paul say they can do?
+- Romans 15:4 says earlier Scripture was written "for our learning." Which Old Testament book has taught you the most, and which have you barely opened?
+- How could you speak about the "Old" Testament in a way that honours both its lasting value for Christians and its place as Jewish Scripture?
+
 ### [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) — Concept
 
 Read: Genesis 1:1; Genesis 1:27; Genesis 1:31; Genesis 3; Genesis 12:1-3; 2 Chronicles 36:23; Malachi 4:5; Luke 24:25-27; Luke 24:44-47; Hebrews 1:1-2; Revelation 21:1-5; Revelation 22:1-3

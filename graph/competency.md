@@ -35,7 +35,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan |
 | `bg:mosaic-covenant` | Moses |
-| `bg:new-covenant` | Book of Jeremiah |
+| `bg:new-covenant` | Book of Jeremiah, Old Testament |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |

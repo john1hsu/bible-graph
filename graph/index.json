@@ -2629,6 +2629,118 @@
   ]
  },
  {
+  "id": "bg:old-testament",
+  "title": "Old Testament",
+  "aliases": [
+   "Hebrew Scriptures",
+   "First Testament",
+   "OT"
+  ],
+  "type": "Collection",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/bible-basics/old-testament.md",
+  "created": "2026-11-17",
+  "summary": "The first and larger part of the Christian Bible: the Scriptures of Israel, written mostly in Hebrew with some Aramaic, that Jesus and the apostles read as God's word, running from Genesis to Malachi in 39 books for Protestants and with additional deuterocanonical books for Catholics and the Orthodox.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:new-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:septuagint",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:masoretic-text",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:tanakh",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:new-covenant",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:new-testament",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:church-history-of-eusebius",
+    "source": "s14",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 24:27",
+   "Luke 24:44",
+   "Jeremiah 31:31-33",
+   "2 Corinthians 3:14",
+   "2 Timothy 3:15",
+   "Romans 15:4",
+   "Daniel 2:4"
+  ],
+  "studyQuestions": [
+   "According to Luke 24:27 and 24:44, which parts of Israel's Scriptures did the risen Jesus say were about him?",
+   "What does God promise in Jeremiah 31:31-33, and how does that promise explain why Christians speak of an \"old\" and a \"new\" testament?",
+   "In 2 Timothy 3:15, Timothy had known the sacred writings from infancy. Which writings could those have been, and what does Paul say they can do?",
+   "Romans 15:4 says earlier Scripture was written \"for our learning.\" Which Old Testament book has taught you the most, and which have you barely opened?",
+   "How could you speak about the \"Old\" Testament in a way that honours both its lasting value for Christians and its place as Jewish Scripture?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/luke/24.htm",
+   "https://biblehub.com/web/2_corinthians/3.htm",
+   "https://miamisdb.org/bible/bbe+web/2tim/3/15-18",
+   "https://www.christianity.com/bible/web/jeremiah/31-31-33",
+   "https://www.christianity.com/bible/web/romans/15-4",
+   "https://www.biblestudytools.com/web/daniel/2-4.html",
+   "https://bibleodyssey.com/bible-basics/what-is-the-difference-between-the-old-testament-the-tanakh-and-the-hebrew-bible/",
+   "https://www.britannica.com/topic/Hebrew-Bible/Books-of-the-Hebrew-Bible",
+   "https://www.biblestudytools.com/dictionary/aramaic-aramaic-language/",
+   "https://www.episcopalchurch.org/glossary/old-testament/",
+   "https://www.vatican.va/archive/ENG0015/__PR.HTM",
+   "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html",
+   "https://acrod.org/orthodox-christianity/articles/scripture/septuagint",
+   "https://bkv.unifr.ch/works/cpg-3495/compare/kirchengeschichte-bkv-2/110/the-church-history-of-eusebius"
+  ]
+ },
+ {
   "id": "bg:parable-of-the-good-samaritan",
   "title": "Parable of the Good Samaritan",
   "aliases": [

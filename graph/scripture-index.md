@@ -183,6 +183,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Jeremiah 29:1-14** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 - **Jeremiah 29:4-14** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Jeremiah 31:15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 31:31-33** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Jeremiah 31:31-34** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 32:6-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 36** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
@@ -197,6 +198,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Daniel
 
 - **Daniel 1:1-7** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Daniel 2:4** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## Amos
@@ -307,8 +309,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:13-35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:25-27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Luke 24:27** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Luke 24:27** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+- **Luke 24:44** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Luke 24:44-45** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44-47** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Luke 24:44-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -388,6 +392,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Romans 15:4** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 
 ## 1 Corinthians
 
@@ -398,6 +403,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Corinthians
 
+- **2 Corinthians 3:14** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Corinthians 11:25** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **2 Corinthians 12:9** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 
@@ -432,6 +438,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Timothy
 
+- **2 Timothy 3:15** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
 ## Titus
