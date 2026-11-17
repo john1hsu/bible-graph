@@ -30,10 +30,10 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:faith` | Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer, The Song of the Sea |
 | `bg:mosaic-covenant` | Moses |
 | `bg:new-covenant` | Book of Jeremiah |
-| `bg:redemption` | The Exodus |
+| `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
 | `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
@@ -75,7 +75,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:paul-at-the-areopagus` | `bg:dionysius-the-areopagite` |
 | `bg:paul-at-the-areopagus` | `bg:paul` |
 
-…and 2 more.
+…and 6 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -87,9 +87,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:the-exodus` | bgo:Event |
+_No results._
 
 ## Orphan articles (gap)
 

@@ -170,6 +170,21 @@
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/song-of-the-sea.md" .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> .
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> .
 <https://github.com/john1hsu/bible-graph/id/lords-prayer#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/lords-prayer#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
 <https://github.com/john1hsu/bible-graph/id/lords-prayer#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/life-and-teachings-of-jesus/lords-prayer.md" .
@@ -2043,6 +2058,147 @@
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://schema.org/url> <https://biblia.com/bible/kjv1900/romans/1/19-20> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> {
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Exodus 14:31 says the people \"feared Yahweh\" and believed. How does the song that follows in Exodus 15:1 turn that fear and faith into worship?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "List the names and pictures the song uses for God in Exodus 15:2-3 and 15:11. Which one surprises you, and why?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Verses 1-12 look back at the sea; verses 13-17 look ahead. Where is God leading his people, according to verses 13 and 17?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What does Exodus 15:18 add to the whole song? How does it prepare you to hear Jesus announce the kingdom of God?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who is Miriam (Exodus 15:20), and what does it mean that the women answer the song with drums and dancing?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "In Revelation 15:3 the redeemed sing \"the song of Moses ... and the song of the Lamb\". What rescue in your own life or your church's story would you put into words of praise?" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2000/01/rdf-schema#label> "The Song of the Sea" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Az Yashir" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Cantemus Domino" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Canticle of Moses" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Exodus 15:1-21" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Shirat ha-Yam" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#altLabel> "Song of Moses and Miriam" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/exodus> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#definition> "The victory hymn of Exodus 15:1-21, sung by Moses and the Israelites and answered by Miriam and the women after the crossing of the sea, praising the LORD as the warrior who saved his people, the incomparable God who redeems and guides them home, and the King who \"will reign forever and ever\"." .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Song of the Sea" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/passover> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/miriam> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/song-of-the-sea.md" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#hasGenre> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 14:21-31" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 15:1-21" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 12:2" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 118:14" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 15:2-3" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/exodus> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/redemption> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/publisher> "Saint Louis University, Liturgy" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/title> "Easter Vigil: Scripture in Depth (Reginald H. Fuller, from Preaching the Lectionary, Liturgical Press)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <https://schema.org/url> <https://liturgy.slu.edu/Triduum2023A/A_Easter_Vigil/theword_indepth.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <http://purl.org/dc/terms/title> "Exodus 13:20-15:19 (Vespers, 6th reading), 15 April 2023" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> <https://schema.org/url> <https://www.oca.org/readings/daily/2023/04/15/9> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <http://purl.org/dc/terms/publisher> "Common Prayer Online" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <http://purl.org/dc/terms/title> "Canticle 8: The Song of Moses (Cantemus Domino)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> <https://schema.org/url> <https://www.commonprayeronline.org/en/document/office/canticles/8> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <http://purl.org/dc/terms/title> "Exodus 15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1> <https://schema.org/url> <https://biblehub.com/web/exodus/15.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <http://purl.org/dc/terms/title> "Exodus 14 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2> <https://schema.org/url> <https://biblehub.com/web/exodus/14.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <http://purl.org/dc/terms/title> "Revelation 15:3 (parallel translations, including the World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3> <https://schema.org/url> <https://biblehub.com/revelation/15-3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <http://purl.org/dc/terms/title> "Psalm 118:14 (parallel translations and cross references, including Exodus 15:2 and Isaiah 12:2)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4> <https://schema.org/url> <https://biblehub.com/psalms/118-14.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <http://purl.org/dc/terms/title> "Sea, Song of the (Michael V. Fox and Louis Isaac Rabinowitz), Encyclopaedia Judaica" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5> <https://schema.org/url> <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sea-song> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <http://purl.org/dc/terms/title> "The Conquest and Early Hebrew Poetry (Peter C. Craigie), Tyndale Bulletin 20 (1969)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6> <https://schema.org/url> <https://tyndalebulletin.org/article/30674.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <http://purl.org/dc/terms/publisher> "TheTorah.com (Project TABS)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <http://purl.org/dc/terms/title> "Miriam's Song of the Sea: A Women's Victory Performance (Carol Meyers)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7> <https://schema.org/url> <https://www.thetorah.com/article/miriams-song-of-the-sea-a-womens-victory-performance> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <http://purl.org/dc/terms/publisher> "Jewish Women's Archive" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <http://purl.org/dc/terms/title> "Women with Hand-Drums, Dancing: Bible (Carol Meyers), Shalvi/Hyman Encyclopedia of Jewish Women" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8> <https://schema.org/url> <https://jwa.org/encyclopedia/article/women-with-hand-drums-dancing-bible> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <http://purl.org/dc/terms/title> "General Audience, 21 November 2001: the Canticle of Moses (Exodus 15:1-18)" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <https://schema.org/url> <https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20011121.html> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/lords-prayer#graph> {
@@ -4648,6 +4804,7 @@
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/baptism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/barnabas/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/barnabas/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -4757,8 +4914,11 @@
   <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/exile-and-return> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/exile-and-return> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/exodus> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/ezekiel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ezra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
@@ -4849,6 +5009,11 @@
   <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
   <https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
@@ -4867,6 +5032,7 @@
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/jehoiachin> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
@@ -4921,12 +5087,14 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -4978,6 +5146,7 @@
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/miriam> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/miriam> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
@@ -4991,6 +5160,8 @@
   <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/israelites> .
   <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prophets> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
@@ -5020,6 +5191,7 @@
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5085,6 +5257,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/reconciliation> <https://github.com/john1hsu/bible-graph/ontology#confusedWith> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/repentance> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/return-from-exile> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
@@ -5155,6 +5328,15 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/shiloh> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/exodus> .
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
@@ -5182,6 +5364,8 @@
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .

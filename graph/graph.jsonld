@@ -3041,6 +3041,128 @@
    ]
   },
   {
+   "@id": "bg:song-of-the-sea",
+   "@type": "bgo:Passage",
+   "bgo:basis": "debated",
+   "bgo:domain": "key-passages",
+   "bgo:features": [
+    {
+     "@id": "bg:israelites"
+    },
+    {
+     "@id": "bg:miriam"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:the-exodus"
+    }
+   ],
+   "bgo:file": "articles/key-passages/song-of-the-sea.md",
+   "bgo:hasGenre": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "bgo:keyReference": [
+    "Exodus 14:21-31",
+    "Exodus 15:1-21",
+    "Isaiah 12:2",
+    "Psalm 118:14",
+    "Revelation 15:2-3"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:exodus"
+   },
+   "bgo:requires": {
+    "@id": "bg:the-exodus"
+   },
+   "bgo:teaches": [
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:redemption"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9"
+    }
+   ],
+   "rdfs:label": "The Song of the Sea",
+   "skos:altLabel": [
+    "Az Yashir",
+    "Cantemus Domino",
+    "Canticle of Moses",
+    "Exodus 15:1-21",
+    "Shirat ha-Yam",
+    "Song of Moses and Miriam"
+   ],
+   "skos:broader": {
+    "@id": "bg:exodus"
+   },
+   "skos:definition": "The victory hymn of Exodus 15:1-21, sung by Moses and the Israelites and answered by Miriam and the women after the crossing of the sea, praising the LORD as the warrior who saved his people, the incomparable God who redeems and guides them home, and the King who \"will reign forever and ever\".",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages"
+   },
+   "skos:prefLabel": "The Song of the Sea",
+   "skos:related": [
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:passover"
+    }
+   ]
+  },
+  {
    "@id": "bg:the-exodus",
    "@type": "bgo:Event",
    "bgo:basis": "debated",
@@ -4552,6 +4674,54 @@
     "@id": "bg:sermon-on-the-mount"
    },
    "rdfs:label": "The sermon ends with two builders (Matthew 7:24-27). What is the difference between them, and what would \"doing\" one of these teachings look like for you or your group this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "Exodus 14:31 says the people \"feared Yahweh\" and believed. How does the song that follows in Exodus 15:1 turn that fear and faith into worship?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "List the names and pictures the song uses for God in Exodus 15:2-3 and 15:11. Which one surprises you, and why?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "Verses 1-12 look back at the sea; verses 13-17 look ahead. Where is God leading his people, according to verses 13 and 17?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "What does Exodus 15:18 add to the whole song? How does it prepare you to hear Jesus announce the kingdom of God?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "Who is Miriam (Exodus 15:20), and what does it mean that the women answer the song with drums and dancing?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:song-of-the-sea"
+   },
+   "rdfs:label": "In Revelation 15:3 the redeemed sing \"the song of Moses ... and the song of the Lamb\". What rescue in your own life or your church's story would you put into words of praise?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1",
@@ -9241,6 +9411,174 @@
    "dcterms:title": "The Schleitheim Confession (1527)",
    "schema:url": {
     "@id": "https://anabaptists.org/history/schleith.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Saint Louis University, Liturgy",
+   "dcterms:title": "Easter Vigil: Scripture in Depth (Reginald H. Fuller, from Preaching the Lectionary, Liturgical Press)",
+   "schema:url": {
+    "@id": "https://liturgy.slu.edu/Triduum2023A/A_Easter_Vigil/theword_indepth.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Exodus 13:20-15:19 (Vespers, 6th reading), 15 April 2023",
+   "schema:url": {
+    "@id": "https://www.oca.org/readings/daily/2023/04/15/9"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Common Prayer Online",
+   "dcterms:title": "Canticle 8: The Song of Moses (Cantemus Domino)",
+   "schema:url": {
+    "@id": "https://www.commonprayeronline.org/en/document/office/canticles/8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 14 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Revelation 15:3 (parallel translations, including the World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/revelation/15-3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 118:14 (parallel translations and cross references, including Exodus 15:2 and Isaiah 12:2)",
+   "schema:url": {
+    "@id": "https://biblehub.com/psalms/118-14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopedia.com",
+   "dcterms:title": "Sea, Song of the (Michael V. Fox and Louis Isaac Rabinowitz), Encyclopaedia Judaica",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sea-song"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Tyndale House, Cambridge",
+   "dcterms:title": "The Conquest and Early Hebrew Poetry (Peter C. Craigie), Tyndale Bulletin 20 (1969)",
+   "schema:url": {
+    "@id": "https://tyndalebulletin.org/article/30674.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "TheTorah.com (Project TABS)",
+   "dcterms:title": "Miriam's Song of the Sea: A Women's Victory Performance (Carol Meyers)",
+   "schema:url": {
+    "@id": "https://www.thetorah.com/article/miriams-song-of-the-sea-a-womens-victory-performance"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Women's Archive",
+   "dcterms:title": "Women with Hand-Drums, Dancing: Bible (Carol Meyers), Shalvi/Hyman Encyclopedia of Jewish Women",
+   "schema:url": {
+    "@id": "https://jwa.org/encyclopedia/article/women-with-hand-drums-dancing-bible"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "General Audience, 21 November 2001: the Canticle of Moses (Exodus 15:1-18)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20011121.html"
    }
   },
   {

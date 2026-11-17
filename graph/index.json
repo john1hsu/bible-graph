@@ -2940,6 +2940,134 @@
   ]
  },
  {
+  "id": "bg:song-of-the-sea",
+  "title": "The Song of the Sea",
+  "aliases": [
+   "Song of Moses and Miriam",
+   "Shirat ha-Yam",
+   "Az Yashir",
+   "Cantemus Domino",
+   "Canticle of Moses",
+   "Exodus 15:1-21"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/key-passages/song-of-the-sea.md",
+  "created": "2026-11-17",
+  "summary": "The victory hymn of Exodus 15:1-21, sung by Moses and the Israelites and answered by Miriam and the women after the crossing of the sea, praising the LORD as the warrior who saved his people, the incomparable God who redeems and guides them home, and the King who \"will reign forever and ever\".",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:passover"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:hebrew-poetry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:exodus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:the-exodus",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:moses",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:miriam",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:israelites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:redemption",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:hasGenre",
+    "object": "bg:hebrew-poetry",
+    "source": "s6",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Exodus 15:1-21",
+   "Exodus 14:21-31",
+   "Psalm 118:14",
+   "Isaiah 12:2",
+   "Revelation 15:2-3"
+  ],
+  "studyQuestions": [
+   "Exodus 14:31 says the people \"feared Yahweh\" and believed. How does the song that follows in Exodus 15:1 turn that fear and faith into worship?",
+   "List the names and pictures the song uses for God in Exodus 15:2-3 and 15:11. Which one surprises you, and why?",
+   "Verses 1-12 look back at the sea; verses 13-17 look ahead. Where is God leading his people, according to verses 13 and 17?",
+   "What does Exodus 15:18 add to the whole song? How does it prepare you to hear Jesus announce the kingdom of God?",
+   "Who is Miriam (Exodus 15:20), and what does it mean that the women answer the song with drums and dancing?",
+   "In Revelation 15:3 the redeemed sing \"the song of Moses ... and the song of the Lamb\". What rescue in your own life or your church's story would you put into words of praise?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/exodus/15.htm",
+   "https://biblehub.com/web/exodus/14.htm",
+   "https://biblehub.com/revelation/15-3.htm",
+   "https://biblehub.com/psalms/118-14.htm",
+   "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sea-song",
+   "https://tyndalebulletin.org/article/30674.pdf",
+   "https://www.thetorah.com/article/miriams-song-of-the-sea-a-womens-victory-performance",
+   "https://jwa.org/encyclopedia/article/women-with-hand-drums-dancing-bible",
+   "https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20011121.html",
+   "https://liturgy.slu.edu/Triduum2023A/A_Easter_Vigil/theword_indepth.html",
+   "https://www.oca.org/readings/daily/2023/04/15/9",
+   "https://www.commonprayeronline.org/en/document/office/canticles/8"
+  ]
+ },
+ {
   "id": "bg:the-exodus",
   "title": "The Exodus",
   "aliases": [

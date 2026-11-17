@@ -161,6 +161,18 @@ Study questions:
 - The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?
 - Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?
 
+### [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) — Passage
+
+Read: Exodus 15:1-21; Exodus 14:21-31; Psalm 118:14; Isaiah 12:2; Revelation 15:2-3
+
+Study questions:
+- Exodus 14:31 says the people "feared Yahweh" and believed. How does the song that follows in Exodus 15:1 turn that fear and faith into worship?
+- List the names and pictures the song uses for God in Exodus 15:2-3 and 15:11. Which one surprises you, and why?
+- Verses 1-12 look back at the sea; verses 13-17 look ahead. Where is God leading his people, according to verses 13 and 17?
+- What does Exodus 15:18 add to the whole song? How does it prepare you to hear Jesus announce the kingdom of God?
+- Who is Miriam (Exodus 15:20), and what does it mean that the women answer the song with drums and dancing?
+- In Revelation 15:3 the redeemed sing "the song of Moses ... and the song of the Lamb". What rescue in your own life or your church's story would you put into words of praise?
+
 ## life-and-teachings-of-jesus
 
 ### [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) — Passage
