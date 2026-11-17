@@ -376,6 +376,18 @@ Study questions:
 
 ## old-testament-people
 
+### [Abraham](../articles/old-testament-people/abraham.md) — Person
+
+Read: Genesis 11:26-32; Genesis 12:1-9; Genesis 12:10-20; Genesis 15:1-18; Genesis 16:1-16; Genesis 17:1-19; Genesis 18:1-33; Genesis 21:1-18; Genesis 22:1-18; Genesis 25:1-10; Isaiah 41:8; Matthew 1:1-2; John 8:39-58; Romans 4:1-22; Galatians 3:6-29; Hebrews 11:8-19; James 2:21-24
+
+Study questions:
+- What three things does God promise Abram in Genesis 12:1-3, and who, finally, is to be blessed through him?
+- Genesis 15:6 says Abram believed and it was credited to him as righteousness. What had God just promised him (15:1-5), and what in his circumstances made it hard to believe?
+- Compare Genesis 12:10-20 and Genesis 16:1-4 with Genesis 22:1-18. What do the earlier stories show about Abraham's fears and shortcuts, and how has his trust grown by chapter 22?
+- In Genesis 18:22-33 Abraham bargains with God over Sodom. What does he appeal to in verse 25, and what does this teach about bold, honest prayer?
+- Paul (Romans 4) and James (James 2:21-24) both use Abraham. Which episodes does each one point to, and how can both be true at once?
+- Hebrews 11:8 says Abraham "went out, not knowing where he went." Where is God asking you to take a next step before you can see the whole road?
+
 ### [Moses](../articles/old-testament-people/moses.md) — Person
 
 Read: Exodus 2:1-10; Exodus 2:11-22; Exodus 3:1-15; Exodus 4:10-20; Exodus 6:20; Exodus 32:1-32; Exodus 33:11-23; Numbers 12:1-8; Numbers 20:7-13; Deuteronomy 18:15-18; Deuteronomy 34:1-12; Matthew 17:1-8; John 1:17; Acts 7:20-24; Hebrews 3:1-6; Hebrews 11:23-29

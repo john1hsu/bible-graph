@@ -9,7 +9,7 @@ summary: >-
 level: introductory
 basis: debated
 broader: [bg:gospels]
-related: [bg:sermon-on-the-mount, bg:great-commission, bg:pharisees, bg:gospel-of-luke]
+related: [bg:sermon-on-the-mount, bg:great-commission, bg:pharisees, bg:gospel-of-luke, bg:abraham]
 requires: []
 relations:
   - {predicate: partOf, object: bg:gospels, source: s2, confidence: high}

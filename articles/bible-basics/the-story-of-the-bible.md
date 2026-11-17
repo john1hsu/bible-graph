@@ -9,7 +9,7 @@ summary: >-
 level: introductory
 basis: ecumenical
 broader: [bg:the-bible]
-related: [bg:old-testament, bg:new-testament, bg:biblical-canon, bg:kingdom-of-god, bg:the-exodus, bg:babylonian-exile]
+related: [bg:old-testament, bg:new-testament, bg:biblical-canon, bg:kingdom-of-god, bg:the-exodus, bg:babylonian-exile, bg:abraham]
 requires: []
 relations:
   - {predicate: heldBy, object: bg:catholic-church, source: s10, confidence: high}

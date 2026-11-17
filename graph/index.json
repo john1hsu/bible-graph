@@ -1,5 +1,175 @@
 [
  {
+  "id": "bg:abraham",
+  "title": "Abraham",
+  "aliases": [
+   "Abram",
+   "Avraham",
+   "Abraham our father",
+   "Father Abraham",
+   "Abraham the patriarch",
+   "Righteous Forefather Abraham",
+   "friend of God"
+  ],
+  "type": "Person",
+  "domain": "old-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-people/abraham.md",
+  "created": "2026-11-17",
+  "summary": "The patriarch whom God called from Mesopotamia to Canaan with promises of land, offspring and blessing for all the families of the earth; renamed from Abram, father of Ishmael and of Isaac, he is honoured in both Testaments as the model of faith and, for Christians, the father of all who believe.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:patriarchs"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sarah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:isaac"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ishmael"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:hagar"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lot"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:genesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abrahamic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:binding-of-isaac"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "bgo:spouseOf",
+    "object": "bg:sarah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parentOf",
+    "object": "bg:ishmael",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parentOf",
+    "object": "bg:isaac",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:faith",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:abrahamic-covenant",
+    "source": "s17",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:justification",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Genesis 11:26-32",
+   "Genesis 12:1-9",
+   "Genesis 12:10-20",
+   "Genesis 15:1-18",
+   "Genesis 16:1-16",
+   "Genesis 17:1-19",
+   "Genesis 18:1-33",
+   "Genesis 21:1-18",
+   "Genesis 22:1-18",
+   "Genesis 25:1-10",
+   "Isaiah 41:8",
+   "Matthew 1:1-2",
+   "John 8:39-58",
+   "Romans 4:1-22",
+   "Galatians 3:6-29",
+   "Hebrews 11:8-19",
+   "James 2:21-24"
+  ],
+  "studyQuestions": [
+   "What three things does God promise Abram in Genesis 12:1-3, and who, finally, is to be blessed through him?",
+   "Genesis 15:6 says Abram believed and it was credited to him as righteousness. What had God just promised him (15:1-5), and what in his circumstances made it hard to believe?",
+   "Compare Genesis 12:10-20 and Genesis 16:1-4 with Genesis 22:1-18. What do the earlier stories show about Abraham's fears and shortcuts, and how has his trust grown by chapter 22?",
+   "In Genesis 18:22-33 Abraham bargains with God over Sodom. What does he appeal to in verse 25, and what does this teach about bold, honest prayer?",
+   "Paul (Romans 4) and James (James 2:21-24) both use Abraham. Which episodes does each one point to, and how can both be true at once?",
+   "Hebrews 11:8 says Abraham \"went out, not knowing where he went.\" Where is God asking you to take a next step before you can see the whole road?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibliaparalela.com/web/genesis/11.htm",
+   "https://ebible.org/eng-web/GEN12.htm",
+   "https://www.bible.com/bible-verses/1204/GEN.15.WEBBE",
+   "https://mail.biblehub.com/web/genesis/16.htm",
+   "https://www.bibliaparalela.com/web/genesis/17.htm",
+   "https://bibliaparalela.com/web/genesis/18.htm",
+   "https://bibliaparalela.com/web/genesis/21.htm",
+   "https://www.bibliaparalela.com/web/genesis/22.htm",
+   "https://bibliaparalela.com/web/genesis/25.htm",
+   "https://biblehub.com/asv/isaiah/41-8.htm",
+   "https://biblehub.com/web/matthew/1.htm",
+   "https://biblehub.com/web/john/8.htm",
+   "https://biblehub.com/web/romans/4.htm",
+   "https://www.bibliaparalela.com/web/galatians/3.htm",
+   "https://bibliaparalela.com/web/hebrews/11.htm",
+   "https://biblehub.com/web/james/2.htm",
+   "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/abraham.html",
+   "https://www.newadvent.org/cathen/01051a.htm",
+   "https://www.britannica.com/biography/Abraham/The-Genesis-narrative-in-the-light-of-recent-scholarship",
+   "https://bibleodyssey.com/articles/abraham/",
+   "https://www.myjewishlearning.com/article/abraham/",
+   "https://www.thegospelcoalition.org/themelios/article/comparative-methods-and-the-patriarchal-narratives/",
+   "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_three/article_1.html",
+   "https://www.vatican.va/archive/ENG0015/__P91.HTM",
+   "https://www.oca.org/readings/daily/2025/10/09"
+  ]
+ },
+ {
   "id": "bg:acts-of-the-apostles",
   "title": "Acts of the Apostles",
   "aliases": [
@@ -1292,6 +1462,10 @@
    {
     "predicate": "skos:related",
     "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
    },
    {
     "predicate": "bgo:partOf",
@@ -3806,6 +3980,10 @@
    {
     "predicate": "skos:related",
     "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
    },
    {
     "predicate": "bgo:heldBy",

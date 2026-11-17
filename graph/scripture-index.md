@@ -9,9 +9,19 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 1:31** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 6:8** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Genesis 11:26-32** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 12:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Genesis 12:1-9** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 12:10-20** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 14:18-20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Genesis 15:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 16:1-16** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 17:1-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 18:1-33** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 21:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 22:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 22:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Genesis 25:1-10** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Exodus
@@ -152,6 +162,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 40:3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 40:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Isaiah 41:8** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Isaiah 53:11** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
@@ -212,6 +223,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Matthew
 
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 1:1-2** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 2:17-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
@@ -307,6 +319,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
@@ -367,6 +380,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Romans 3:24** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Romans 4:1-22** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Romans 5:20-21** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
@@ -394,6 +408,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Galatians 2:1** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 3:6-29** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Galatians 4:25-26** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Galatians 5:13-15** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
@@ -429,6 +444,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Hebrews 8:8-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+- **Hebrews 11:8-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Hebrews 11:23-29** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## James
@@ -436,6 +452,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **James 2:1-9** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **James 2:21-24** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 
 ## 1 Peter
 

@@ -26,10 +26,12 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
+| `bg:abrahamic-covenant` | Abraham |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
-| `bg:faith` | Moses |
+| `bg:faith` | Abraham, Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
+| `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan |
 | `bg:mosaic-covenant` | Moses |
@@ -88,7 +90,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:abraham` | bgo:Person |
 
 ## Orphan articles (gap)
 
@@ -134,6 +138,9 @@ _Who are the parents, children, spouses and siblings of each written biblical fi
 
 | person | relation | relative |
 |---|---|---|
+| `bg:abraham` | bgo:parentOf | `bg:isaac` |
+| `bg:abraham` | bgo:parentOf | `bg:ishmael` |
+| `bg:abraham` | bgo:spouseOf | `bg:sarah` |
 | `bg:moses` | bgo:siblingOf | `bg:aaron` |
 | `bg:moses` | bgo:spouseOf | `bg:zipporah` |
 
