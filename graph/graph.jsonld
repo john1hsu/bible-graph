@@ -2705,6 +2705,126 @@
    ]
   },
   {
+   "@id": "bg:the-story-of-the-bible",
+   "@type": "bgo:Concept",
+   "bgo:basis": "ecumenical",
+   "bgo:domain": "bible-basics",
+   "bgo:explainedBy": {
+    "@id": "bg:biblical-canon"
+   },
+   "bgo:file": "articles/bible-basics/the-story-of-the-bible.md",
+   "bgo:heldBy": [
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    }
+   ],
+   "bgo:keyReference": [
+    "2 Chronicles 36:23",
+    "Genesis 12:1-3",
+    "Genesis 1:1",
+    "Genesis 1:27",
+    "Genesis 1:31",
+    "Genesis 3",
+    "Hebrews 1:1-2",
+    "Luke 24:25-27",
+    "Luke 24:44-47",
+    "Malachi 4:5",
+    "Revelation 21:1-5",
+    "Revelation 22:1-3"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": {
+    "@id": "bg:road-to-emmaus"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s9"
+    }
+   ],
+   "rdfs:label": "The Story of the Bible",
+   "skos:altLabel": [
+    "metanarrative of the Bible",
+    "the Bible's big story",
+    "the biblical storyline",
+    "the drama of Scripture",
+    "the grand narrative of Scripture"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The single, unfolding story that Christians read across the Bible's many books: God creates a good world, humanity turns away, God calls Abraham and Israel, comes in Jesus the Messiah, sends the church to all nations, and promises a renewed creation.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "The Story of the Bible",
+   "skos:related": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:new-testament"
+    },
+    {
+     "@id": "bg:old-testament"
+    },
+    {
+     "@id": "bg:the-exodus"
+    }
+   ]
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -7940,6 +8060,202 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Genesis 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/study/content/texts/eng-web/GN1.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, §§120-130 (The Canon of Scripture; the unity of the Old and New Testaments)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PR.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Story of Our Life with God: An Introduction to the Old Testament",
+   "schema:url": {
+    "@id": "https://oca.org/the-hub/old-testament-studies/the-story-of-our-life-with-god-an-introduction-to-the-old-testament"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "NTWrightPage.com (reproduced by permission of the author)",
+   "dcterms:title": "N. T. Wright, \"How Can the Bible Be Authoritative?\", Vox Evangelica 21 (1991) 7-32",
+   "schema:url": {
+    "@id": "https://ntwrightpage.com/2016/07/12/how-can-the-bible-be-authoritative/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Evangelical Theological Society",
+   "dcterms:title": "Gregory Goswell, \"Having the Last Say: The End of the OT\", Journal of the Evangelical Theological Society 58/1 (2015) 15-30",
+   "schema:url": {
+    "@id": "https://etsjets.org/wp-content/uploads/2015/03/files_JETS-PDFs_58_58-1_JETS_58-1_15-30_Goswell.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Baker Academic",
+   "dcterms:title": "Craig G. Bartholomew and Michael W. Goheen, The Drama of Scripture: Finding Our Place in the Biblical Story (3rd edition)",
+   "schema:url": {
+    "@id": "https://bakerpublishinggroup.com/books/the-drama-of-scripture-3rd-edition/2315014"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Genesis 12:1-3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/genesis/12-1-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia (Faithlife)",
+   "dcterms:title": "Hebrews 1:1-2 (King James Version)",
+   "schema:url": {
+    "@id": "https://biblia.com/bible/kjv1900/hebrews/1/1-2"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "miamisdb.org parallel Bible",
+   "dcterms:title": "Revelation 21:1-5 (KJV, ASV and World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/kjv+asv+web/rev/21/1-5"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Revelation 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/revelation/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Chronicles 36:23 (World English Bible, KJV and other versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/2_chronicles/36-23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-story-of-the-bible/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Malachi 4:5 (World English Bible, KJV and other versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/malachi/4-5.htm"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -7970,6 +8286,46 @@
     "@id": "bg:the-exodus"
    },
    "rdfs:label": "Paul calls Christ \"our Passover\" (1 Corinthians 5:7) and says the wilderness events \"happened to them by way of example\" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "rdfs:label": "In Genesis 12:1-3, what does God promise Abram, and who will finally be blessed through him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "rdfs:label": "According to Luke 24:27 and Luke 24:44, which parts of the Scriptures did the risen Jesus say were about him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "rdfs:label": "Compare Genesis 3:23-24 with Revelation 22:1-3. What was lost at the beginning of the story, and what is restored at the end?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "rdfs:label": "Why might it matter whether the Old Testament closes with Cyrus's call to \"go up\" (2 Chronicles 36:23) or with the promise of Elijah (Malachi 4:5)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "rdfs:label": "If the church lives in the \"act\" between Pentecost and the new creation, what would faithful \"improvising\" look like in your own congregation this year?"
   }
  ]
 }

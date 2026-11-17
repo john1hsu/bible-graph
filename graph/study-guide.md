@@ -36,6 +36,17 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+### [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) — Concept
+
+Read: Genesis 1:1; Genesis 1:27; Genesis 1:31; Genesis 3; Genesis 12:1-3; 2 Chronicles 36:23; Malachi 4:5; Luke 24:25-27; Luke 24:44-47; Hebrews 1:1-2; Revelation 21:1-5; Revelation 22:1-3
+
+Study questions:
+- In Genesis 12:1-3, what does God promise Abram, and who will finally be blessed through him?
+- According to Luke 24:27 and Luke 24:44, which parts of the Scriptures did the risen Jesus say were about him?
+- Compare Genesis 3:23-24 with Revelation 22:1-3. What was lost at the beginning of the story, and what is restored at the end?
+- Why might it matter whether the Old Testament closes with Cyrus's call to "go up" (2 Chronicles 36:23) or with the promise of Elijah (Malachi 4:5)?
+- If the church lives in the "act" between Pentecost and the new creation, what would faithful "improvising" look like in your own congregation this year?
+
 ## events-and-timeline
 
 ### [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) — Event

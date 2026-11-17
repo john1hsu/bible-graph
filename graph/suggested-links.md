@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
+| 2.52 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
 | 2.41 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
 | 2.20 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 2.16 | `bg:grace` | `bg:moses` | `bg:faith`, `bg:mosaic-covenant` |
 | 2.11 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
 | 2.00 | `bg:book-of-jeremiah` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:jerusalem`, `bg:the-temple` |
 | 1.67 | `bg:barnabas` | `bg:jerusalem` | `bg:acts-of-the-apostles`, `bg:council-of-jerusalem`, `bg:second-temple-judaism` |
-| 1.45 | `bg:babylonian-exile` | `bg:kingdom-of-god` | `bg:jerusalem`, `bg:second-temple-judaism`, `bg:the-story-of-the-bible` |
-| 1.44 | `bg:acts-of-the-apostles` | `bg:biblical-canon` | `bg:new-testament` |
 | 1.44 | `bg:barnabas` | `bg:moses` | `bg:levites` |
-| 1.44 | `bg:grace` | `bg:the-exodus` | `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
 | 1.30 | `bg:acts-of-the-apostles` | `bg:gospel-of-matthew` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
 | 1.30 | `bg:acts-of-the-apostles` | `bg:lords-prayer` | `bg:gospel-of-luke`, `bg:kingdom-of-god` |
+| 1.30 | `bg:acts-of-the-apostles` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:new-testament` |
 | 1.28 | `bg:acts-of-the-apostles` | `bg:grace` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
 | 1.28 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
 | 1.26 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 1.22 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
 | 1.18 | `bg:barnabas` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
 | 1.18 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
-| 1.12 | `bg:biblical-canon` | `bg:book-of-ezra` | `bg:old-testament`, `bg:septuagint` |
-| 1.12 | `bg:biblical-canon` | `bg:book-of-jeremiah` | `bg:old-testament`, `bg:septuagint` |
+| 1.14 | `bg:babylonian-exile` | `bg:kingdom-of-god` | `bg:jerusalem`, `bg:second-temple-judaism`, `bg:the-story-of-the-bible` |
+| 1.14 | `bg:grace` | `bg:the-exodus` | `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
 | 1.07 | `bg:babylonian-exile` | `bg:septuagint` | `bg:book-of-ezra`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |
 | 1.07 | `bg:jerusalem` | `bg:septuagint` | `bg:book-of-ezra`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |
-| 0.92 | `bg:forgiveness-in-the-bible` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:sermon-on-the-mount` |
-| 0.91 | `bg:moses` | `bg:sermon-on-the-mount` | `bg:ten-commandments` |
-| 0.91 | `bg:sermon-on-the-mount` | `bg:the-exodus` | `bg:ten-commandments` |
+| 1.02 | `bg:biblical-canon` | `bg:book-of-ezra` | `bg:old-testament`, `bg:septuagint` |
+| 1.02 | `bg:biblical-canon` | `bg:book-of-jeremiah` | `bg:old-testament`, `bg:septuagint` |
+| 0.97 | `bg:book-of-ezra` | `bg:the-story-of-the-bible` | `bg:babylonian-exile`, `bg:old-testament` |
+| 0.97 | `bg:book-of-jeremiah` | `bg:the-story-of-the-bible` | `bg:babylonian-exile`, `bg:old-testament` |

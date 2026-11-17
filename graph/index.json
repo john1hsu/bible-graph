@@ -2569,5 +2569,116 @@
    "https://www.tyndalebulletin.org/article/32999",
    "https://www.britannica.com/event/Exodus-Old-Testament"
   ]
+ },
+ {
+  "id": "bg:the-story-of-the-bible",
+  "title": "The Story of the Bible",
+  "aliases": [
+   "the Bible's big story",
+   "the biblical storyline",
+   "the grand narrative of Scripture",
+   "the drama of Scripture",
+   "metanarrative of the Bible"
+  ],
+  "type": "Concept",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "ecumenical",
+  "file": "articles/bible-basics/the-story-of-the-bible.md",
+  "created": "2026-11-17",
+  "summary": "The single, unfolding story that Christians read across the Bible's many books: God creates a good world, humanity turns away, God calls Abraham and Israel, comes in Jesus the Messiah, sends the church to all nations, and promises a renewed creation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:new-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:eastern-orthodoxy",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:biblical-canon",
+    "source": "s13",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:road-to-emmaus",
+    "source": "s4",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Genesis 1:1",
+   "Genesis 1:27",
+   "Genesis 1:31",
+   "Genesis 3",
+   "Genesis 12:1-3",
+   "2 Chronicles 36:23",
+   "Malachi 4:5",
+   "Luke 24:25-27",
+   "Luke 24:44-47",
+   "Hebrews 1:1-2",
+   "Revelation 21:1-5",
+   "Revelation 22:1-3"
+  ],
+  "studyQuestions": [
+   "In Genesis 12:1-3, what does God promise Abram, and who will finally be blessed through him?",
+   "According to Luke 24:27 and Luke 24:44, which parts of the Scriptures did the risen Jesus say were about him?",
+   "Compare Genesis 3:23-24 with Revelation 22:1-3. What was lost at the beginning of the story, and what is restored at the end?",
+   "Why might it matter whether the Old Testament closes with Cyrus's call to \"go up\" (2 Chronicles 36:23) or with the promise of Elijah (Malachi 4:5)?",
+   "If the church lives in the \"act\" between Pentecost and the new creation, what would faithful \"improvising\" look like in your own congregation this year?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/study/content/texts/eng-web/GN1.html",
+   "https://biblehub.com/web/genesis/3.htm",
+   "https://www.christianity.com/bible/web/genesis/12-1-3",
+   "https://biblehub.com/web/luke/24.htm",
+   "https://biblia.com/bible/kjv1900/hebrews/1/1-2",
+   "https://miamisdb.org/bible/kjv+asv+web/rev/21/1-5",
+   "https://biblehub.com/web/revelation/22.htm",
+   "https://biblehub.com/multi/2_chronicles/36-23.htm",
+   "https://biblehub.com/multi/malachi/4-5.htm",
+   "https://www.vatican.va/archive/ENG0015/__PR.HTM",
+   "https://oca.org/the-hub/old-testament-studies/the-story-of-our-life-with-god-an-introduction-to-the-old-testament",
+   "https://ntwrightpage.com/2016/07/12/how-can-the-bible-be-authoritative/",
+   "https://etsjets.org/wp-content/uploads/2015/03/files_JETS-PDFs_58_58-1_JETS_58-1_15-30_Goswell.pdf",
+   "https://bakerpublishinggroup.com/books/the-drama-of-scripture-3rd-edition/2315014"
+  ]
  }
 ]
