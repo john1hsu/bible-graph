@@ -613,6 +613,101 @@
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Titus 2:11-14" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 17:10-12, what did the Jews of Beroea do with Paul's message, and how often?" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Ezra 7:10 describes Ezra's commitment to God's law in three verbs. What are they, and why might the order matter?" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "James 1:22-25 compares a hearer who does not act to someone looking in a mirror. What point is James making about study and application?" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Read Mark 4:35-41 slowly and list everything you observe before deciding what it means. What did you notice that you had missed before?" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Which of the phases (observation, interpretation, correlation, application) do you tend to skip, and how could your group help you slow down?" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> <https://github.com/john1hsu/bible-graph/ontology#after> "The disciples end by asking who Jesus is, since even wind and sea obey him; the passage first shows his identity and calls me to trust him in the storm, whether or not it stops." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> <https://github.com/john1hsu/bible-graph/ontology#before> "This story promises that Jesus will make the storms in my life go away if I have enough faith." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> <https://github.com/john1hsu/bible-graph/ontology#situation> "A small group opens Mark 4:35-41, the stilling of the storm, during a hard season for one of its members." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> <https://github.com/john1hsu/bible-graph/ontology#why> "Observing the closing question (Mark 4:41) and its echo of God calming the sea in Psalm 107:29 moves the group from a quick application to the passage's own focus on who Jesus is." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1> <https://schema.org/text> "Pray for understanding, then choose a unit to study (a paragraph, a chapter or a whole short book) and read it through several times without notes or commentary." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2> <https://schema.org/text> "Observe before you explain - write down who is involved, what happens or is argued, where and when, and note repeated words, contrasts, questions, turning points and the kind of writing it is." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3> <https://schema.org/text> "Turn your observations into questions (what does this mean, why is it here, why is it said this way?) and answer them first from the passage and its surrounding book." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4> <https://schema.org/text> "Only after your own study, check your conclusions against a good study Bible, Bible dictionary or commentary, and revise where the evidence points elsewhere." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5> <https://schema.org/text> "Correlate the passage with the rest of Scripture, asking how other texts on the same subject, and the whole story centred on Christ, shed light on it." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6> <https://schema.org/text> "Ask what the passage meant for its first readers and what it calls you to believe, pray or do now, and write down one concrete response." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7> <https://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7> <https://schema.org/text> "Share what you found with others, ideally in a small group, so that your reading can be tested and enriched." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/name> "Inductive Bible Study" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Practice> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2000/01/rdf-schema#label> "Inductive Bible Study" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#altLabel> "IBS" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#altLabel> "inductive method of Bible study" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#altLabel> "methodical Bible study" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#altLabel> "observation interpretation application" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#altLabel> "observe-interpret-apply" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#definition> "A way of studying a passage or book of the Bible that begins with careful observation of what the text actually says, moves to interpreting what it means in its context, correlates it with the rest of Scripture, and ends in applying it to life." .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/study-practices> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inductive Bible Study" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/eisegesis> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/proof-texting> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#domain> "study-practices" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#example> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/study-practices/inductive-bible-study.md" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#howTo> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/robert-a-traina> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 17:10-12" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 7:10" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "James 1:22-25" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 4:35-41" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 107:23-30" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 119:18" .
+<https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Samuel 5:6-9, who lived in Jerusalem before David, and what did David call the stronghold once he took it?" .
 <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
@@ -2211,6 +2306,72 @@
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/2-corinthians/12-9-10> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/publisher> "DTS Voice, Dallas Theological Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/title> "Living by the Book, Part 2 (Howard G. Hendricks)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <https://schema.org/url> <https://voice.dts.edu/videostory/living-by-the-book-part-2/> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <http://purl.org/dc/terms/publisher> "Working Preacher, Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <http://purl.org/dc/terms/title> "Meda Stamper, Commentary on Mark 4:35-41" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> <https://schema.org/url> <https://www.workingpreacher.org/commentaries/revised-common-lectionary/ordinary-12-2/commentary-on-mark-435-41> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <http://purl.org/dc/terms/title> "Acts 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1> <https://schema.org/url> <https://biblehub.com/web/acts/17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <http://purl.org/dc/terms/title> "James 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2> <https://schema.org/url> <https://biblehub.com/web/james/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <http://purl.org/dc/terms/title> "Psalm 119 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3> <https://schema.org/url> <https://ebible.org/eng-web/PSA119.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <http://purl.org/dc/terms/title> "Mark 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4> <https://schema.org/url> <https://bibliaparalela.com/web/mark/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <http://purl.org/dc/terms/title> "Psalm 107 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5> <https://schema.org/url> <https://ebible.org/eng-web/PSA107.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <http://purl.org/dc/terms/title> "Ezra 7:10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6> <https://schema.org/url> <https://www.biblestudytools.com/web/ezra/7-10.html> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <http://purl.org/dc/terms/publisher> "Library, Information, and Technology Services, Asbury Theological Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <http://purl.org/dc/terms/title> "Inductive Bible Study: History" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7> <https://schema.org/url> <https://guides.asburyseminary.edu/inductivebiblestudy/history> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <http://purl.org/dc/terms/publisher> "The Journal of Inductive Biblical Studies 1/1 (2014)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <http://purl.org/dc/terms/title> "William J. Abraham, Inductive Bible Study, Divine Revelation, and Canon" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8> <https://schema.org/url> <https://place.asburyseminary.edu/jibs/vol1/iss1/2> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://purl.org/dc/terms/publisher> "The Journal of Inductive Biblical Studies 3/2 (2016)" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://purl.org/dc/terms/title> "David L. Thompson, My Pilgrimage in Inductive Bible Study" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://schema.org/url> <https://core.ac.uk/download/155820339.pdf> .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
 <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s10> <http://purl.org/dc/terms/title> "Luke 9:51 (World English Bible)" .

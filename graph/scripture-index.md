@@ -93,6 +93,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Ezra 6:14-18** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Ezra 6:14-22** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 7:6-10** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 7:10** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Ezra 9:5-15** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 10:1-5** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 
@@ -107,6 +108,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
+- **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 122** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Psalm 137:1-4** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -195,6 +198,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 
@@ -263,6 +267,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 17:10-12** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Acts 17:16-34** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:22-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:23** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
@@ -345,6 +350,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## James
 
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 
 ## 1 Peter
 

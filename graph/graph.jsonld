@@ -1156,6 +1156,121 @@
    ]
   },
   {
+   "@id": "bg:inductive-bible-study",
+   "@type": "bgo:Practice",
+   "bgo:addresses": [
+    {
+     "@id": "bg:eisegesis"
+    },
+    {
+     "@id": "bg:proof-texting"
+    }
+   ],
+   "bgo:basis": "devotional",
+   "bgo:complements": [
+    {
+     "@id": "bg:reading-in-context"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ],
+   "bgo:domain": "study-practices",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example"
+   },
+   "bgo:file": "articles/study-practices/inductive-bible-study.md",
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto"
+   },
+   "bgo:introducedBy": [
+    {
+     "@id": "bg:robert-a-traina"
+    },
+    {
+     "@id": "bg:wilbert-webster-white"
+    }
+   ],
+   "bgo:keyReference": [
+    "Acts 17:10-12",
+    "Ezra 7:10",
+    "James 1:22-25",
+    "Mark 4:35-41",
+    "Psalm 107:23-30",
+    "Psalm 119:18"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9"
+    }
+   ],
+   "rdfs:label": "Inductive Bible Study",
+   "skos:altLabel": [
+    "IBS",
+    "inductive method of Bible study",
+    "methodical Bible study",
+    "observation interpretation application",
+    "observe-interpret-apply"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "skos:definition": "A way of studying a passage or book of the Bible that begins with careful observation of what the text actually says, moves to interpreting what it means in its context, correlates it with the rest of Scripture, and ends in applying it to life.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/study-practices"
+   },
+   "skos:prefLabel": "Inductive Bible Study",
+   "skos:related": [
+    {
+     "@id": "bg:genre-in-the-bible"
+    },
+    {
+     "@id": "bg:lectio-divina"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ]
+  },
+  {
    "@id": "bg:jerusalem",
    "@type": "bgo:Place",
    "bgo:basis": "debated",
@@ -3167,6 +3282,124 @@
     "@id": "bg:grace"
    },
    "rdfs:label": "Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:inductive-bible-study"
+   },
+   "rdfs:label": "According to Acts 17:10-12, what did the Jews of Beroea do with Paul's message, and how often?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:inductive-bible-study"
+   },
+   "rdfs:label": "Ezra 7:10 describes Ezra's commitment to God's law in three verbs. What are they, and why might the order matter?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:inductive-bible-study"
+   },
+   "rdfs:label": "James 1:22-25 compares a hearer who does not act to someone looking in a mirror. What point is James making about study and application?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:inductive-bible-study"
+   },
+   "rdfs:label": "Read Mark 4:35-41 slowly and list everything you observe before deciding what it means. What did you notice that you had missed before?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:inductive-bible-study"
+   },
+   "rdfs:label": "Which of the phases (observation, interpretation, correlation, application) do you tend to skip, and how could your group help you slow down?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "The disciples end by asking who Jesus is, since even wind and sea obey him; the passage first shows his identity and calls me to trust him in the storm, whether or not it stops.",
+   "bgo:before": "This story promises that Jesus will make the storms in my life go away if I have enough faith.",
+   "bgo:situation": "A small group opens Mark 4:35-41, the stilling of the storm, during a hard season for one of its members.",
+   "bgo:why": "Observing the closing question (Mark 4:41) and its echo of God calming the sea in Psalm 107:29 moves the group from a quick application to the passage's own focus on who Jesus is."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Inductive Bible Study",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Pray for understanding, then choose a unit to study (a paragraph, a chapter or a whole short book) and read it through several times without notes or commentary."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Observe before you explain - write down who is involved, what happens or is argued, where and when, and note repeated words, contrasts, questions, turning points and the kind of writing it is."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Turn your observations into questions (what does this mean, why is it here, why is it said this way?) and answer them first from the passage and its surrounding book."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Only after your own study, check your conclusions against a good study Bible, Bible dictionary or commentary, and revise where the evidence points elsewhere."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Correlate the passage with the rest of Scripture, asking how other texts on the same subject, and the whole story centred on Christ, shed light on it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Ask what the passage meant for its first readers and what it calls you to believe, pray or do now, and write down one concrete response."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Share what you found with others, ideally in a small group, so that your reading can be tested and enriched."
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/jerusalem/check/1",
@@ -5565,6 +5798,160 @@
    "dcterms:title": "2 Corinthians 12:9-10 (World English Bible)",
    "schema:url": {
     "@id": "https://www.christianity.com/bible/web/2-corinthians/12-9-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "DTS Voice, Dallas Theological Seminary",
+   "dcterms:title": "Living by the Book, Part 2 (Howard G. Hendricks)",
+   "schema:url": {
+    "@id": "https://voice.dts.edu/videostory/living-by-the-book-part-2/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Working Preacher, Luther Seminary",
+   "dcterms:title": "Meda Stamper, Commentary on Mark 4:35-41",
+   "schema:url": {
+    "@id": "https://www.workingpreacher.org/commentaries/revised-common-lectionary/ordinary-12-2/commentary-on-mark-435-41"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "James 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/james/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Psalm 119 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/PSA119.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Mark 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/mark/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Psalm 107 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/PSA107.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Ezra 7:10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/ezra/7-10.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library, Information, and Technology Services, Asbury Theological Seminary",
+   "dcterms:title": "Inductive Bible Study: History",
+   "schema:url": {
+    "@id": "https://guides.asburyseminary.edu/inductivebiblestudy/history"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Journal of Inductive Biblical Studies 1/1 (2014)",
+   "dcterms:title": "William J. Abraham, Inductive Bible Study, Divine Revelation, and Canon",
+   "schema:url": {
+    "@id": "https://place.asburyseminary.edu/jibs/vol1/iss1/2"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Journal of Inductive Biblical Studies 3/2 (2016)",
+   "dcterms:title": "David L. Thompson, My Pilgrimage in Inductive Bible Study",
+   "schema:url": {
+    "@id": "https://core.ac.uk/download/155820339.pdf"
    }
   },
   {

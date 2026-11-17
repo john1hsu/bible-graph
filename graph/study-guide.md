@@ -267,6 +267,35 @@ Study questions:
 - Luke 9:51 says Jesus "intently set his face" to go to Jerusalem, and Luke 19:41-44 shows him weeping over it. What do these two moments tell you about how Jesus regarded the city?
 - Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?
 
+## study-practices
+
+### [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) — Practice
+
+Read: Acts 17:10-12; Ezra 7:10; Psalm 119:18; James 1:22-25; Mark 4:35-41; Psalm 107:23-30
+
+1. Pray for understanding, then choose a unit to study (a paragraph, a chapter or a whole short book) and read it through several times without notes or commentary.
+2. Observe before you explain - write down who is involved, what happens or is argued, where and when, and note repeated words, contrasts, questions, turning points and the kind of writing it is.
+3. Turn your observations into questions (what does this mean, why is it here, why is it said this way?) and answer them first from the passage and its surrounding book.
+4. Only after your own study, check your conclusions against a good study Bible, Bible dictionary or commentary, and revise where the evidence points elsewhere.
+5. Correlate the passage with the rest of Scripture, asking how other texts on the same subject, and the whole story centred on Christ, shed light on it.
+6. Ask what the passage meant for its first readers and what it calls you to believe, pray or do now, and write down one concrete response.
+7. Share what you found with others, ideally in a small group, so that your reading can be tested and enriched.
+
+*A small group opens Mark 4:35-41, the stilling of the storm, during a hard season for one of its members.*
+
+| Before | After |
+|---|---|
+| This story promises that Jesus will make the storms in my life go away if I have enough faith. | The disciples end by asking who Jesus is, since even wind and sea obey him; the passage first shows his identity and calls me to trust him in the storm, whether or not it stops. |
+
+**Why:** Observing the closing question (Mark 4:41) and its echo of God calming the sea in Psalm 107:29 moves the group from a quick application to the passage's own focus on who Jesus is.
+
+Study questions:
+- According to Acts 17:10-12, what did the Jews of Beroea do with Paul's message, and how often?
+- Ezra 7:10 describes Ezra's commitment to God's law in three verbs. What are they, and why might the order matter?
+- James 1:22-25 compares a hearer who does not act to someone looking in a mirror. What point is James making about study and application?
+- Read Mark 4:35-41 slowly and list everything you observe before deciding what it means. What did you notice that you had missed before?
+- Which of the phases (observation, interpretation, correlation, application) do you tend to skip, and how could your group help you slow down?
+
 ## themes-and-theology
 
 ### [Grace](../articles/themes-and-theology/grace.md) — Theme
