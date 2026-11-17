@@ -5,27 +5,27 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.10 | `bg:abrahamic-covenant` | `bg:the-story-of-the-bible` | `bg:abraham`, `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:genesis`, `bg:grace` |
+| 2.98 | `bg:abrahamic-covenant` | `bg:giving-of-the-law-at-sinai` | `bg:ancient-near-eastern-treaties`, `bg:mosaic-covenant`, `bg:new-covenant`, `bg:the-exodus` |
 | 2.88 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
 | 2.43 | `bg:binding-of-isaac` | `bg:grace` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:faith`, `bg:genesis`, `bg:justification` |
 | 2.41 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
-| 2.35 | `bg:abrahamic-covenant` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant`, `bg:the-exodus` |
+| 2.39 | `bg:giving-of-the-law-at-sinai` | `bg:sadducees-question-about-the-resurrection` | `bg:deuteronomy`, `bg:exodus`, `bg:moses` |
 | 2.31 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
+| 2.28 | `bg:abrahamic-covenant` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant`, `bg:the-exodus` |
 | 2.23 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |
 | 2.20 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
 | 2.18 | `bg:binding-of-isaac` | `bg:the-exodus` | `bg:abrahamic-covenant`, `bg:crucifixion-of-jesus`, `bg:genesis` |
 | 2.16 | `bg:abrahamic-covenant` | `bg:scripture-interprets-scripture` | `bg:catholic-church`, `bg:reformed-tradition` |
+| 2.03 | `bg:giving-of-the-law-at-sinai` | `bg:song-of-the-sea` | `bg:exodus`, `bg:israelites`, `bg:moses`, `bg:the-exodus` |
 | 1.99 | `bg:paul-at-the-areopagus` | `bg:sadducees` | `bg:acts-of-the-apostles`, `bg:resurrection-of-the-dead`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
-| 1.99 | `bg:grace` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant` |
 | 1.95 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees`, `bg:sermon-on-the-mount` |
 | 1.93 | `bg:jeremiahs-temple-sermon` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:jerusalem`, `bg:the-temple`, `bg:worship` |
 | 1.92 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
+| 1.92 | `bg:grace` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant` |
 | 1.91 | `bg:kingdom-of-god` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 1.84 | `bg:pharisees` | `bg:the-temple` | `bg:antiquities-of-the-jews`, `bg:sadducees`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
 | 1.80 | `bg:genre-in-the-bible` | `bg:song-of-the-sea` | `bg:hebrew-poetry`, `bg:the-exodus` |
 | 1.80 | `bg:gospel-of-luke` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:road-to-emmaus` |
 | 1.77 | `bg:dead-sea-scrolls` | `bg:sadducees` | `bg:essenes`, `bg:second-temple-judaism` |
-| 1.75 | `bg:grace` | `bg:the-exodus` | `bg:abrahamic-covenant`, `bg:genesis`, `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
 | 1.72 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
-| 1.63 | `bg:acts-of-the-apostles` | `bg:sadducees-question-about-the-resurrection` | `bg:gospel-of-luke`, `bg:gospels`, `bg:paul-at-the-areopagus`, `bg:sadducees` |
-| 1.63 | `bg:sadducees-question-about-the-resurrection` | `bg:second-temple-judaism` | `bg:paul-at-the-areopagus`, `bg:pharisees`, `bg:sadducees`, `bg:the-temple` |
-| 1.63 | `bg:barnabas` | `bg:jerusalem` | `bg:acts-of-the-apostles`, `bg:council-of-jerusalem`, `bg:second-temple-judaism` |
+| 1.67 | `bg:grace` | `bg:the-exodus` | `bg:abrahamic-covenant`, `bg:genesis`, `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |

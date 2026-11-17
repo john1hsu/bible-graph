@@ -102,6 +102,17 @@ Study questions:
 - How does Exodus 20:2 connect the commandments to the rescue from Egypt? What difference does it make that God saves first and then gives the law?
 - Paul calls Christ "our Passover" (1 Corinthians 5:7) and says the wilderness events "happened to them by way of example" (1 Corinthians 10:11). Where do you see your own story in Israel's — both the rescue and the grumbling afterwards?
 
+### [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) — Event
+
+Read: Exodus 19:1-25; Exodus 20:1-21; Exodus 24:1-18; Exodus 32:1-20; Exodus 34:1-10; Exodus 34:27-35; Deuteronomy 5:1-5; Deuteronomy 5:22-27; Jeremiah 31:31-33; Mark 14:24; Hebrews 12:18-24; Acts 2:1-4
+
+Study questions:
+- In Exodus 19:4-6, what does God remind Israel he has already done, and what does he say they will become if they keep his covenant?
+- Why do the people ask Moses to speak to them instead of God (Exodus 20:18-21; Deuteronomy 5:23-27)? What does Moses say the fear is meant to do?
+- What happens with the blood in Exodus 24:6-8, and how do Jesus's words over the cup in Mark 14:24 echo Moses' words?
+- Deuteronomy 5:3 tells a later generation that the covenant was made "with us". In what sense does a story that happened long ago become your story too?
+- Hebrews 12:18-24 contrasts Sinai with Mount Zion. How should both the holiness of Sinai and the welcome of Zion shape the way you come to God in worship?
+
 ## interpretation
 
 ### [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) — Method

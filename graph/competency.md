@@ -35,7 +35,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan |
-| `bg:mosaic-covenant` | Moses |
+| `bg:mosaic-covenant` | Moses, The Giving of the Law at Sinai |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
@@ -72,15 +72,15 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:genesis` | `bg:abraham` |
 | `bg:genesis` | `bg:isaac` |
 | `bg:genesis` | `bg:joseph-son-of-jacob` |
+| `bg:giving-of-the-law-at-sinai` | `bg:aaron` |
+| `bg:giving-of-the-law-at-sinai` | `bg:israelites` |
+| `bg:giving-of-the-law-at-sinai` | `bg:moses` |
 | `bg:gospel-of-luke` | `bg:jerusalem` |
 | `bg:gospel-of-luke` | `bg:road-to-emmaus` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
 | `bg:gospels` | `bg:jesus` |
-| `bg:jeremiahs-temple-sermon` | `bg:jehoiakim` |
-| `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
-| `bg:jeremiahs-temple-sermon` | `bg:shiloh` |
 
-…and 18 more.
+…and 21 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -92,7 +92,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:giving-of-the-law-at-sinai` | bgo:Event |
 
 ## Orphan articles (gap)
 
@@ -125,6 +127,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
+| `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |

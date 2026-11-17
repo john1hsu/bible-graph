@@ -60,13 +60,19 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 15:1-21** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 15:1-21** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
+- **Exodus 19:1-25** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Exodus 20:1-21** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Exodus 24:1-18** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 25:8-9** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **Exodus 32:1-20** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 32:1-32** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 33:11-23** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Exodus 34:1-10** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 34:6** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Exodus 34:6-9** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Exodus 34:27-35** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 
 ## Leviticus
 
@@ -84,6 +90,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Deuteronomy
 
+- **Deuteronomy 5:1-5** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Deuteronomy 5:22-27** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Deuteronomy 6:4-5** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 6:4-5** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
@@ -218,6 +226,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Jeremiah 29:4-14** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Jeremiah 31:15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 31:31-33** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
+- **Jeremiah 31:31-33** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Jeremiah 31:31-34** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 32:6-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 34:18** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
@@ -321,6 +330,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:18-27** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 
 ## Luke
@@ -399,6 +409,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 1:8** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 2:1-4** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -537,6 +548,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Hebrews 11:8-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Hebrews 11:17-19** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **Hebrews 11:23-29** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Hebrews 12:18-24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 
 ## James
 

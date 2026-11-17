@@ -971,6 +971,79 @@
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/apocalyptic-literature> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/wisdom-literature> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Exodus 19:4-6, what does God remind Israel he has already done, and what does he say they will become if they keep his covenant?" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why do the people ask Moses to speak to them instead of God (Exodus 20:18-21; Deuteronomy 5:23-27)? What does Moses say the fear is meant to do?" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What happens with the blood in Exodus 24:6-8, and how do Jesus's words over the cup in Mark 14:24 echo Moses' words?" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Deuteronomy 5:3 tells a later generation that the covenant was made \"with us\". In what sense does a story that happened long ago become your story too?" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Hebrews 12:18-24 contrasts Sinai with Mount Zion. How should both the holiness of Sinai and the welcome of Zion shape the way you come to God in worship?" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Event> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2000/01/rdf-schema#label> "The Giving of the Law at Sinai" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#altLabel> "Matan Torah" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#altLabel> "the Sinai theophany" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#altLabel> "the covenant ceremony at Sinai" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#altLabel> "the giving of the Torah" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#altLabel> "the revelation at Sinai" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#definition> "The encounter at Mount Sinai (Horeb) in Exodus 19-24, where God came down on the mountain in fire and cloud, spoke the Ten Commandments to the Israelites he had just rescued from Egypt, gave his laws through Moses, and bound Israel to himself in a covenant sealed with blood." .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Giving of the Law at Sinai" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/exodus> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#domain> "events-and-timeline" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/aaron> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/events-and-timeline/giving-of-the-law-at-sinai.md" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:1-4" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 5:1-5" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 5:22-27" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 19:1-25" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 20:1-21" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 24:1-18" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 32:1-20" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 34:1-10" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 34:27-35" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 12:18-24" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 31:31-33" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 14:24" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#occurredAt> <https://github.com/john1hsu/bible-graph/id/mount-sinai> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#precedes> <https://github.com/john1hsu/bible-graph/id/golden-calf> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?" .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
@@ -4186,6 +4259,102 @@
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <https://schema.org/url> <https://www.cambridge.org/core/books/methods-for-exodus/genre-criticism/C5586D36DAAC6387D7AC74F28383DDCC> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <http://purl.org/dc/terms/title> "Acts 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s10> <https://schema.org/url> <https://bibliaparalela.com/web/acts/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <http://purl.org/dc/terms/publisher> "Open Yale Courses, Yale University" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <http://purl.org/dc/terms/title> "Lecture 8 — Exodus: From Egypt to Sinai (Exodus 5-24, 32; Numbers), RLST 145 Introduction to the Old Testament (Christine Hayes)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s11> <https://schema.org/url> <https://oyc.yale.edu/node/1731> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <http://purl.org/dc/terms/title> "Sinai, Mount (Encyclopaedia Judaica, 2nd ed.; Ora Lipschitz, S. David Sperling, Shimon Gibson, Harry Freedman)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s12> <https://schema.org/url> <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sinai-mount> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <http://purl.org/dc/terms/title> "Shavuot (Encyclopaedia Judaica; Louis Jacobs)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s13> <https://schema.org/url> <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/shavuot> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <http://purl.org/dc/terms/title> "The Case for (or Against) Jebel Musa, Biblical Archaeology Review 40:2" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s14> <https://schema.org/url> <https://library.biblicalarchaeology.org/sidebar/the-case-for-or-against-jebel-musa> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <http://purl.org/dc/terms/title> "Mount Sinai" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s15> <https://schema.org/url> <https://www.britannica.com/place/Mount-Sinai-mountain-Egypt> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <http://purl.org/dc/terms/title> "Augustine of Hippo, Letter 55 (A.D. 400), tr. J. G. Cunningham, Nicene and Post-Nicene Fathers, First Series, vol. 1" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s16> <https://schema.org/url> <https://www.newadvent.org/fathers/1102055.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <http://purl.org/dc/terms/title> "Exodus 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s1> <https://schema.org/url> <https://ebible.org/eng-web/EXO19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <http://purl.org/dc/terms/title> "Exodus 20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s2> <https://schema.org/url> <https://biblehub.com/web/exodus/20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <http://purl.org/dc/terms/title> "Exodus 24 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s3> <https://schema.org/url> <https://biblehub.com/web/exodus/24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <http://purl.org/dc/terms/title> "Exodus 32 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s4> <https://schema.org/url> <https://ebible.org/eng-web/EXO32.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <http://purl.org/dc/terms/title> "Exodus 34 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s5> <https://schema.org/url> <https://ebible.org/eng-web/EXO34.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <http://purl.org/dc/terms/title> "Deuteronomy 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s6> <https://schema.org/url> <https://biblehub.com/web/deuteronomy/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <http://purl.org/dc/terms/title> "Jeremiah 31 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s7> <https://schema.org/url> <https://ebible.org/eng-web/JER31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <http://purl.org/dc/terms/title> "Mark 14:24 (World English Bible, with parallel translations and commentary)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s8> <https://schema.org/url> <https://biblehub.com/mark/14-24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <http://purl.org/dc/terms/title> "Hebrews 12 (World English Bible, Catholic edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/giving-of-the-law-at-sinai/s9> <https://schema.org/url> <https://ebible.org/eng-web-c/HEB12.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/title> "The Gospel According to Luke (American Standard Version)" .

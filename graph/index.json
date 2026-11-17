@@ -1724,6 +1724,143 @@
   ]
  },
  {
+  "id": "bg:giving-of-the-law-at-sinai",
+  "title": "The Giving of the Law at Sinai",
+  "aliases": [
+   "the revelation at Sinai",
+   "the Sinai theophany",
+   "the giving of the Torah",
+   "Matan Torah",
+   "the covenant ceremony at Sinai"
+  ],
+  "type": "Event",
+  "domain": "events-and-timeline",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/events-and-timeline/giving-of-the-law-at-sinai.md",
+  "created": "2026-11-17",
+  "summary": "The encounter at Mount Sinai (Horeb) in Exodus 19-24, where God came down on the mountain in fire and cloud, spoke the Ten Commandments to the Israelites he had just rescued from Egypt, gave his laws through Moses, and bound Israel to himself in a covenant sealed with blood.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:new-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:moses",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:israelites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:aaron",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:mount-sinai",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:mosaic-covenant",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:golden-calf",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:ancient-near-eastern-treaties",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:pentecost",
+    "source": "s16",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 19:1-25",
+   "Exodus 20:1-21",
+   "Exodus 24:1-18",
+   "Exodus 32:1-20",
+   "Exodus 34:1-10",
+   "Exodus 34:27-35",
+   "Deuteronomy 5:1-5",
+   "Deuteronomy 5:22-27",
+   "Jeremiah 31:31-33",
+   "Mark 14:24",
+   "Hebrews 12:18-24",
+   "Acts 2:1-4"
+  ],
+  "studyQuestions": [
+   "In Exodus 19:4-6, what does God remind Israel he has already done, and what does he say they will become if they keep his covenant?",
+   "Why do the people ask Moses to speak to them instead of God (Exodus 20:18-21; Deuteronomy 5:23-27)? What does Moses say the fear is meant to do?",
+   "What happens with the blood in Exodus 24:6-8, and how do Jesus's words over the cup in Mark 14:24 echo Moses' words?",
+   "Deuteronomy 5:3 tells a later generation that the covenant was made \"with us\". In what sense does a story that happened long ago become your story too?",
+   "Hebrews 12:18-24 contrasts Sinai with Mount Zion. How should both the holiness of Sinai and the welcome of Zion shape the way you come to God in worship?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-web/EXO19.htm",
+   "https://biblehub.com/web/exodus/20.htm",
+   "https://biblehub.com/web/exodus/24.htm",
+   "https://ebible.org/eng-web/EXO32.htm",
+   "https://ebible.org/eng-web/EXO34.htm",
+   "https://biblehub.com/web/deuteronomy/5.htm",
+   "https://ebible.org/eng-web/JER31.htm",
+   "https://biblehub.com/mark/14-24.htm",
+   "https://ebible.org/eng-web-c/HEB12.htm",
+   "https://bibliaparalela.com/web/acts/2.htm",
+   "https://oyc.yale.edu/node/1731",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sinai-mount",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/shavuot",
+   "https://library.biblicalarchaeology.org/sidebar/the-case-for-or-against-jebel-musa",
+   "https://www.britannica.com/place/Mount-Sinai-mountain-Egypt",
+   "https://www.newadvent.org/fathers/1102055.htm"
+  ]
+ },
+ {
   "id": "bg:gospel-of-luke",
   "title": "Gospel of Luke",
   "aliases": [
