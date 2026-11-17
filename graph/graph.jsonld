@@ -4127,6 +4127,137 @@
    ]
   },
   {
+   "@id": "bg:sadducees",
+   "@type": "bgo:Group",
+   "bgo:basis": "debated",
+   "bgo:contrastsWith": [
+    {
+     "@id": "bg:essenes"
+    },
+    {
+     "@id": "bg:pharisees"
+    }
+   ],
+   "bgo:corroboratedBy": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "bgo:domain": "background-and-culture",
+   "bgo:explainedBy": [
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ],
+   "bgo:file": "articles/background-and-culture/sadducees.md",
+   "bgo:keyReference": [
+    "1 Kings 2:35",
+    "Acts 23:6-10",
+    "Acts 4:1-3",
+    "Acts 5:17-18",
+    "Deuteronomy 25:5-6",
+    "Exodus 3:6",
+    "Luke 20:27-40",
+    "Mark 12:18-27",
+    "Matthew 16:1-12",
+    "Matthew 22:23-34",
+    "Matthew 3:7"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s9"
+    }
+   ],
+   "rdfs:label": "Sadducees",
+   "skos:altLabel": [
+    "Sadducee",
+    "Zadokites (as a group name)",
+    "tsedukim"
+   ],
+   "skos:broader": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "skos:definition": "A small, aristocratic Jewish party of the Second Temple period, closely tied to the high priesthood and the Jerusalem Temple, which held to the written law of Moses, rejected the Pharisees' oral traditions and denied the resurrection of the dead; in the Gospels they question Jesus about the resurrection, and in Acts they lead opposition to the apostles.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture"
+   },
+   "skos:prefLabel": "Sadducees",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:essenes"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:pentateuch"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:resurrection-of-the-dead"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:scripture-interprets-scripture",
    "@type": "bgo:Method",
    "bgo:addresses": {
@@ -6743,6 +6874,38 @@
    "@type": "schema:HowToStep",
    "schema:position": 7,
    "schema:text": "Only then ask what the passage means for you or your church, applying it in a way its first readers would recognise as faithful to it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees"
+   },
+   "rdfs:label": "In Mark 12:18-27, what question do the Sadducees put to Jesus, and which passage of the Law of Moses does he answer them from?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees"
+   },
+   "rdfs:label": "According to Acts 23:8, what three things did the Sadducees deny, and how does Paul use that disagreement in Acts 23:6-10?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees"
+   },
+   "rdfs:label": "Why were the priests and the Sadducees \"upset\" with Peter and John in Acts 4:1-2?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees"
+   },
+   "rdfs:label": "Jesus tells the Sadducees they know neither \"the Scriptures nor the power of God\" (Mark 12:24). How might sincere Bible readers today make a similar mistake, and what helps guard against it?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture",
@@ -13603,6 +13766,230 @@
    "dcterms:title": "What Does Jeremiah 29:11 Mean? (\"For I Know the Plans I Have for You\")",
    "schema:url": {
     "@id": "https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, The Wars of the Jews 2.162-166 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_bj/2.162-166/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.1-25 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.1-18.25/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 20.197-200 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/20.197-20.200/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Sadducees (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Sadducees"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Sadducees (Kaufmann Kohler, Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/15146"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Deuteronomy 25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/deuteronomy/25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/web/acts/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/3.htm"
    }
   },
   {

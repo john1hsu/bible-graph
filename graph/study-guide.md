@@ -14,6 +14,16 @@ Study questions:
 - Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?
 - Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?
 
+### [Sadducees](../articles/background-and-culture/sadducees.md) — Group
+
+Read: Mark 12:18-27; Matthew 22:23-34; Luke 20:27-40; Exodus 3:6; Deuteronomy 25:5-6; Acts 4:1-3; Acts 5:17-18; Acts 23:6-10; Matthew 3:7; Matthew 16:1-12; 1 Kings 2:35
+
+Study questions:
+- In Mark 12:18-27, what question do the Sadducees put to Jesus, and which passage of the Law of Moses does he answer them from?
+- According to Acts 23:8, what three things did the Sadducees deny, and how does Paul use that disagreement in Acts 23:6-10?
+- Why were the priests and the Sadducees "upset" with Peter and John in Acts 4:1-2?
+- Jesus tells the Sadducees they know neither "the Scriptures nor the power of God" (Mark 12:24). How might sincere Bible readers today make a similar mistake, and what helps guard against it?
+
 ### [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) — Group
 
 Read: Ezra 6:14-18; Nehemiah 8:1-8; Luke 4:16-21; John 10:22-23; Acts 23:6-8; Galatians 1:13-14

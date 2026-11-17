@@ -92,7 +92,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:sadducees` | bgo:Group |
 
 ## Orphan articles (gap)
 
