@@ -558,6 +558,17 @@ Study questions:
 
 ## themes-and-theology
 
+### [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) — Covenant
+
+Read: Genesis 12:1-7; Genesis 15:1-21; Genesis 17:1-27; Genesis 22:15-18; Genesis 26:2-5; Genesis 28:13-15; Exodus 2:23-25; Jeremiah 34:18; Luke 1:72-73; Romans 4:9-17; Romans 11:1; Romans 11:28-29; Galatians 3:6-18; Galatians 3:29; Hebrews 6:13-18
+
+Study questions:
+- What three things does God promise Abram in Genesis 12:1-3 and 12:7, and who, in the end, is meant to be blessed?
+- In Genesis 15:9-18, who passes between the divided animals, and what does Jeremiah 34:18 suggest that rite meant?
+- What does God add in Genesis 17 (a new name, an "everlasting covenant", a sign), and why does Paul stress in Romans 4:9-11 that Abraham was counted righteous before he was circumcised?
+- Galatians 3:17 says the law, coming 430 years later, cannot cancel the promise. What difference does it make that God's promise came first?
+- Hebrews 6:13-18 says God bound himself with an oath so that his people would have "strong encouragement". Which of God's promises do you find hardest to rest on, and how might Abraham's story help?
+
 ### [Grace](../articles/themes-and-theology/grace.md) — Theme
 
 Read: Genesis 6:8; Exodus 34:6; John 1:17; Romans 3:24; Romans 5:20-21; Romans 6:1-2; Romans 6:14-15; Ephesians 2:8-10; Titus 2:11-14; 2 Corinthians 12:9; 2 Peter 1:4

@@ -95,6 +95,94 @@
 <https://github.com/john1hsu/bible-graph/id/abraham> <https://github.com/john1hsu/bible-graph/ontology#parentOf> <https://github.com/john1hsu/bible-graph/id/isaac> .
 <https://github.com/john1hsu/bible-graph/id/abraham> <https://github.com/john1hsu/bible-graph/ontology#parentOf> <https://github.com/john1hsu/bible-graph/id/ishmael> .
 <https://github.com/john1hsu/bible-graph/id/abraham> <https://github.com/john1hsu/bible-graph/ontology#spouseOf> <https://github.com/john1hsu/bible-graph/id/sarah> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What three things does God promise Abram in Genesis 12:1-3 and 12:7, and who, in the end, is meant to be blessed?" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Genesis 15:9-18, who passes between the divided animals, and what does Jeremiah 34:18 suggest that rite meant?" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does God add in Genesis 17 (a new name, an \"everlasting covenant\", a sign), and why does Paul stress in Romans 4:9-11 that Abraham was counted righteous before he was circumcised?" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Galatians 3:17 says the law, coming 430 years later, cannot cancel the promise. What difference does it make that God's promise came first?" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Hebrews 6:13-18 says God bound himself with an oath so that his people would have \"strong encouragement\". Which of God's promises do you find hardest to rest on, and how might Abraham's story help?" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2000/01/rdf-schema#label> "Abrahamic Covenant" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "God's covenant with Abraham" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "berit bein ha-betarim" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "covenant between the pieces" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "covenant with Abraham" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "patriarchal covenant" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "promise to Abraham" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#definition> "God's covenant with Abraham in Genesis 12-22, promising him descendants, the land of Canaan and blessing for all the families of the earth, sealed by a covenant rite in Genesis 15, given the sign of circumcision in Genesis 17 and confirmed by oath in Genesis 22; the New Testament reads it as fulfilled in Christ, and Christian traditions differ on how its promises to Israel and its sign carry forward." .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abrahamic Covenant" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/faith> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/isaac> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/justification> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sarah> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#causes> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#domain> "themes-and-theology" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/themes-and-theology/abrahamic-covenant.md" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#instanceOf> <https://github.com/john1hsu/bible-graph/id/covenant> .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 2:23-25" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 3:29" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 3:6-18" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 12:1-7" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 15:1-21" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 17:1-27" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 22:15-18" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 26:2-5" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 28:13-15" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 6:13-18" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 34:18" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:72-73" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:1" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:28-29" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 4:9-17" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/abraham> .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Luke 1:1-4 with Acts 1:1-3. Who is addressed in both, and what does Acts say the \"former treatise\" was about?" .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
@@ -3000,6 +3088,132 @@
 <https://github.com/john1hsu/bible-graph/id/source/abraham/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/abraham/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/abraham/s9> <https://schema.org/url> <https://bibliaparalela.com/web/genesis/25.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <http://purl.org/dc/terms/title> "Romans 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10> <https://schema.org/url> <https://bibliaparalela.com/web/romans/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <http://purl.org/dc/terms/title> "Romans 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11> <https://schema.org/url> <https://bibliaparalela.com/web/romans/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <http://purl.org/dc/terms/title> "Galatians 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <http://purl.org/dc/terms/title> "Hebrews 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13> <https://schema.org/url> <https://bibliaparalela.com/web/hebrews/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906), Kaufmann Kohler, Emil G. Hirsch et al." .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <http://purl.org/dc/terms/title> "Covenant" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/4714-covenant> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <http://purl.org/dc/terms/publisher> "The Master's Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <http://purl.org/dc/terms/title> "The Abrahamic Covenant as the Foundation for Missions (Kyle C. Dunham, The Master's Seminary Journal 36/1, 2025)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15> <https://schema.org/url> <https://tms.edu/wp-content/uploads/2025/03/TMSJ-36.1-Dunham.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 705-707" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16> <https://schema.org/url> <https://usccb.org/sites/default/files/flipbooks/catechism/189> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 839-840" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17> <https://schema.org/url> <https://usccb.org/sites/default/files/flipbooks/catechism/225> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, chapter 7, \"Of God's Covenant with Man\"" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18> <https://schema.org/url> <https://ccel.org/ccel/anonymous/westminster3/westminster3.i.vii.html> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <http://purl.org/dc/terms/publisher> "creeds.net" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <http://purl.org/dc/terms/title> "Heidelberg Catechism, Lord's Day 27 (Questions 72-74)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19> <https://schema.org/url> <https://creeds.net/Heidelberg/hdlb27.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <http://purl.org/dc/terms/title> "Genesis 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1> <https://schema.org/url> <https://bibliaparalela.com/web/genesis/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <http://purl.org/dc/terms/title> "Sunday of the Forefathers" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20> <https://schema.org/url> <https://www.oca.org/saints/lives/2005/12/11/80-sunday-of-the-forefathers> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <http://purl.org/dc/terms/publisher> "The Hendricks Center, Dallas Theological Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <http://purl.org/dc/terms/title> "Understanding Dispensationalism (The Table podcast, Glenn Kreider and Craig Blaising)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21> <https://schema.org/url> <https://hendrickscenter.dts.edu/?p=10504> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <http://purl.org/dc/terms/title> "Genesis 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2> <https://schema.org/url> <https://bibliaparalela.com/web/genesis/15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <http://purl.org/dc/terms/title> "Genesis 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/genesis/17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <http://purl.org/dc/terms/title> "Genesis 22 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4> <https://schema.org/url> <https://www.bibliaparalela.com/web/genesis/22.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <http://purl.org/dc/terms/title> "Genesis 26 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5> <https://schema.org/url> <https://bibliaparalela.com/web/genesis/26.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <http://purl.org/dc/terms/title> "Genesis 28 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6> <https://schema.org/url> <https://bibliaparalela.com/web/genesis/28.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <http://purl.org/dc/terms/publisher> "Sainte Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <http://purl.org/dc/terms/title> "Exodus 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7> <https://schema.org/url> <https://saintebible.com/web/exodus/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <http://purl.org/dc/terms/title> "Jeremiah 34:18 (King James Version, World English Bible and commentaries)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8> <https://schema.org/url> <https://mail.biblehub.com/jeremiah/34-18.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <http://purl.org/dc/terms/title> "Luke 1:73 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/1-73.html> .
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
 <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s1> <http://purl.org/dc/terms/title> "The Acts of the Apostles (American Standard Version)" .

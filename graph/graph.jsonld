@@ -203,6 +203,179 @@
    ]
   },
   {
+   "@id": "bg:abrahamic-covenant",
+   "@type": "bgo:Covenant",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:causes": {
+    "@id": "bg:the-exodus"
+   },
+   "bgo:complements": {
+    "@id": "bg:new-covenant"
+   },
+   "bgo:contrastsWith": {
+    "@id": "bg:mosaic-covenant"
+   },
+   "bgo:domain": "themes-and-theology",
+   "bgo:explainedBy": {
+    "@id": "bg:ancient-near-eastern-treaties"
+   },
+   "bgo:file": "articles/themes-and-theology/abrahamic-covenant.md",
+   "bgo:instanceOf": {
+    "@id": "bg:covenant"
+   },
+   "bgo:keyReference": [
+    "Exodus 2:23-25",
+    "Galatians 3:29",
+    "Galatians 3:6-18",
+    "Genesis 12:1-7",
+    "Genesis 15:1-21",
+    "Genesis 17:1-27",
+    "Genesis 22:15-18",
+    "Genesis 26:2-5",
+    "Genesis 28:13-15",
+    "Hebrews 6:13-18",
+    "Jeremiah 34:18",
+    "Luke 1:72-73",
+    "Romans 11:1",
+    "Romans 11:28-29",
+    "Romans 4:9-17"
+   ],
+   "bgo:level": "intermediate",
+   "bgo:requires": {
+    "@id": "bg:abraham"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9"
+    }
+   ],
+   "rdfs:label": "Abrahamic Covenant",
+   "skos:altLabel": [
+    "God's covenant with Abraham",
+    "berit bein ha-betarim",
+    "covenant between the pieces",
+    "covenant with Abraham",
+    "patriarchal covenant",
+    "promise to Abraham"
+   ],
+   "skos:broader": {
+    "@id": "bg:covenant"
+   },
+   "skos:definition": "God's covenant with Abraham in Genesis 12-22, promising him descendants, the land of Canaan and blessing for all the families of the earth, sealed by a covenant rite in Genesis 15, given the sign of circumcision in Genesis 17 and confirmed by oath in Genesis 22; the New Testament reads it as fulfilled in Christ, and Christian traditions differ on how its promises to Israel and its sign carry forward.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology"
+   },
+   "skos:prefLabel": "Abrahamic Covenant",
+   "skos:related": [
+    {
+     "@id": "bg:abraham"
+    },
+    {
+     "@id": "bg:binding-of-isaac"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:faith"
+    },
+    {
+     "@id": "bg:genesis"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:isaac"
+    },
+    {
+     "@id": "bg:justification"
+    },
+    {
+     "@id": "bg:new-covenant"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    },
+    {
+     "@id": "bg:sarah"
+    }
+   ]
+  },
+  {
    "@id": "bg:acts-of-the-apostles",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -5447,6 +5620,46 @@
    "rdfs:label": "Hebrews 11:8 says Abraham \"went out, not knowing where he went.\" Where is God asking you to take a next step before you can see the whole road?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "rdfs:label": "What three things does God promise Abram in Genesis 12:1-3 and 12:7, and who, in the end, is meant to be blessed?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "rdfs:label": "In Genesis 15:9-18, who passes between the divided animals, and what does Jeremiah 34:18 suggest that rite meant?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "rdfs:label": "What does God add in Genesis 17 (a new name, an \"everlasting covenant\", a sign), and why does Paul stress in Romans 4:9-11 that Abraham was counted righteous before he was circumcised?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "rdfs:label": "Galatians 3:17 says the law, coming 430 years later, cannot cancel the promise. What difference does it make that God's promise came first?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "rdfs:label": "Hebrews 6:13-18 says God bound himself with an oath so that his people would have \"strong encouragement\". Which of God's promises do you find hardest to rest on, and how might Abraham's story help?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -7785,6 +7998,300 @@
    "dcterms:title": "Genesis 25 (World English Bible)",
    "schema:url": {
     "@id": "https://bibliaparalela.com/web/genesis/25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/genesis/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Romans 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/romans/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Romans 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/romans/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/galatians/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Hebrews 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/hebrews/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906), Kaufmann Kohler, Emil G. Hirsch et al.",
+   "dcterms:title": "Covenant",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/4714-covenant"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Master's Seminary",
+   "dcterms:title": "The Abrahamic Covenant as the Foundation for Missions (Kyle C. Dunham, The Master's Seminary Journal 36/1, 2025)",
+   "schema:url": {
+    "@id": "https://tms.edu/wp-content/uploads/2025/03/TMSJ-36.1-Dunham.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 705-707",
+   "schema:url": {
+    "@id": "https://usccb.org/sites/default/files/flipbooks/catechism/189"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 839-840",
+   "schema:url": {
+    "@id": "https://usccb.org/sites/default/files/flipbooks/catechism/225"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Westminster Confession of Faith, chapter 7, \"Of God's Covenant with Man\"",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/anonymous/westminster3/westminster3.i.vii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "creeds.net",
+   "dcterms:title": "Heidelberg Catechism, Lord's Day 27 (Questions 72-74)",
+   "schema:url": {
+    "@id": "https://creeds.net/Heidelberg/hdlb27.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/genesis/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Sunday of the Forefathers",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/lives/2005/12/11/80-sunday-of-the-forefathers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s21",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Hendricks Center, Dallas Theological Seminary",
+   "dcterms:title": "Understanding Dispensationalism (The Table podcast, Glenn Kreider and Craig Blaising)",
+   "schema:url": {
+    "@id": "https://hendrickscenter.dts.edu/?p=10504"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/genesis/17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/genesis/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 26 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/genesis/26.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 28 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/genesis/28.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Sainte Bible",
+   "dcterms:title": "Exodus 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://saintebible.com/web/exodus/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Jeremiah 34:18 (King James Version, World English Bible and commentaries)",
+   "schema:url": {
+    "@id": "https://mail.biblehub.com/jeremiah/34-18.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/abrahamic-covenant/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 1:73 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/1-73.html"
    }
   },
   {
