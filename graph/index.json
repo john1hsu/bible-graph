@@ -2062,6 +2062,126 @@
   ]
  },
  {
+  "id": "bg:loving-your-neighbor",
+  "title": "Loving Your Neighbor",
+  "aliases": [
+   "love your neighbor as yourself",
+   "love thy neighbour as thyself",
+   "loving your neighbour",
+   "neighbour love",
+   "who is my neighbor",
+   "ve'ahavta l're'acha kamocha",
+   "plesion"
+  ],
+  "type": "LifeSituation",
+  "domain": "living-the-word",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/living-the-word/loving-your-neighbor.md",
+  "created": "2026-11-17",
+  "summary": "What Scripture says to Christians asking how to treat the people around them: the command of Leviticus 19:18 to love one's neighbor as oneself, which Jesus set beside love for God as the heart of the law, widened through the parable of the Good Samaritan and the call to love enemies, and which the apostles called the fulfilment of the law.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:love"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:forgiveness-in-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:samaritans"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:great-commandment",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:parable-of-the-good-samaritan",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:sermon-on-the-mount",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s14",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Leviticus 19:9-18",
+   "Leviticus 19:33-34",
+   "Deuteronomy 6:4-5",
+   "Deuteronomy 10:17-19",
+   "Mark 12:28-34",
+   "Matthew 22:34-40",
+   "Luke 10:25-37",
+   "Matthew 5:43-48",
+   "Romans 13:8-10",
+   "Galatians 5:13-15",
+   "James 2:1-9",
+   "1 John 4:19-21"
+  ],
+  "studyQuestions": [
+   "Read Leviticus 19:9-18. Which concrete actions does the chapter list before it reaches \"love your neighbor as yourself,\" and what do they show about what love means there?",
+   "In Luke 10:29 the lawyer asks \"Who is my neighbor?\" How does Jesus's question in Luke 10:36 turn that question around?",
+   "According to Romans 13:8-10 and Galatians 5:14, how is love of neighbor related to the rest of God's commandments?",
+   "What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?",
+   "Who is a \"neighbor\" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://christianlibrary.org/bibles/WEB/Lev19.htm",
+   "https://biblehub.com/web/luke/10.htm",
+   "https://miamisdb.org/bible/web/mark/12/28-34",
+   "https://biblehub.com/web/matthew/22.htm",
+   "https://biblehub.com/web/matthew/5.htm",
+   "https://biblehub.com/web/romans/13.htm",
+   "https://biblehub.com/web/galatians/5.htm",
+   "https://biblehub.com/web/james/2.htm",
+   "https://biblehub.com/web/1_john/4.htm",
+   "https://biblehub.com/web/deuteronomy/10.htm",
+   "https://bibliaparalela.com/web/deuteronomy/6.htm",
+   "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/neighbor.html",
+   "https://www.biblestudytools.com/encyclopedias/isbe/neighbor.html",
+   "https://www.jewishencyclopedia.com/articles/6744",
+   "https://logoslibrary.org/augustine/doctrine/130.html",
+   "https://www.vatican.va/archive/ENG0015/__P6O.HTM",
+   "https://bpc.org/sc-q42"
+  ]
+ },
+ {
   "id": "bg:moses",
   "title": "Moses",
   "aliases": [

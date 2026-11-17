@@ -42,7 +42,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Leviticus
 
+- **Leviticus 19:9-18** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Leviticus 19:17-18** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Leviticus 19:33-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## Numbers
 
@@ -51,8 +53,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Deuteronomy
 
+- **Deuteronomy 6:4-5** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -202,6 +206,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Matthew 5:43-48** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Matthew 6:1-34** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 6:5-15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 6:9-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
@@ -216,6 +221,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 18:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 18:21-35** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Matthew 22:34-40** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
@@ -228,6 +234,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## Luke
 
@@ -248,6 +255,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 9:51** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 10:25-37** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
@@ -338,6 +346,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 
 ## 1 Corinthians
@@ -360,6 +369,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 4:25-26** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Galatians 5:13-15** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## Ephesians
 
@@ -399,6 +409,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
+- **James 2:1-9** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## 1 Peter
 
@@ -409,6 +420,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **2 Peter 1:4** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+
+## 1 John
+
+- **1 John 4:19-21** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 
 ## Revelation
 

@@ -8,24 +8,24 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.52 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
 | 2.38 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
 | 2.16 | `bg:grace` | `bg:moses` | `bg:faith`, `bg:mosaic-covenant` |
+| 2.13 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
 | 2.07 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 2.04 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees`, `bg:sermon-on-the-mount` |
+| 1.90 | `bg:gospel-of-luke` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parables-of-jesus` |
 | 1.82 | `bg:genre-in-the-bible` | `bg:song-of-the-sea` | `bg:hebrew-poetry`, `bg:the-exodus` |
-| 1.81 | `bg:gospel-of-luke` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:road-to-emmaus` |
+| 1.80 | `bg:gospel-of-luke` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:road-to-emmaus` |
 | 1.79 | `bg:book-of-jeremiah` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:jerusalem`, `bg:the-temple` |
-| 1.72 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer` |
+| 1.67 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:paul` |
 | 1.67 | `bg:barnabas` | `bg:jerusalem` | `bg:acts-of-the-apostles`, `bg:council-of-jerusalem`, `bg:second-temple-judaism` |
-| 1.63 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 1.49 | `bg:gospel-of-luke` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:parables-of-jesus` |
+| 1.65 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:loving-your-neighbor`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
+| 1.59 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
+| 1.59 | `bg:lords-prayer` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 1.44 | `bg:barnabas` | `bg:moses` | `bg:levites` |
 | 1.44 | `bg:scripture-interprets-scripture` | `bg:the-story-of-the-bible` | `bg:catholic-church` |
-| 1.28 | `bg:acts-of-the-apostles` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:new-testament` |
-| 1.26 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
-| 1.26 | `bg:acts-of-the-apostles` | `bg:grace` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
-| 1.26 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
-| 1.22 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
-| 1.18 | `bg:barnabas` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
-| 1.18 | `bg:kingdom-of-god` | `bg:paul` | `bg:acts-of-the-apostles`, `bg:grace`, `bg:second-temple-judaism` |
-| 1.14 | `bg:grace` | `bg:the-exodus` | `bg:mosaic-covenant`, `bg:the-story-of-the-bible` |
-| 1.12 | `bg:babylonian-exile` | `bg:kingdom-of-god` | `bg:jerusalem`, `bg:second-temple-judaism`, `bg:the-story-of-the-bible` |
-| 1.09 | `bg:gospel-of-matthew` | `bg:jerusalem` | `bg:book-of-jeremiah`, `bg:gospel-of-luke`, `bg:kingdom-of-god` |
-| 1.09 | `bg:jerusalem` | `bg:reading-in-context` | `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:jeremiahs-temple-sermon` |
+| 1.31 | `bg:forgiveness-in-the-bible` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:loving-your-neighbor`, `bg:sermon-on-the-mount` |
+| 1.27 | `bg:acts-of-the-apostles` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:new-testament` |
+| 1.25 | `bg:acts-of-the-apostles` | `bg:grace` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
+| 1.23 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:pharisees` |
+| 1.21 | `bg:barnabas` | `bg:paul-at-the-areopagus` | `bg:acts-of-the-apostles`, `bg:paul`, `bg:second-temple-judaism` |
+| 1.20 | `bg:loving-your-neighbor` | `bg:paul` | `bg:grace`, `bg:pharisees`, `bg:second-temple-judaism` |
+| 1.18 | `bg:grace` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |

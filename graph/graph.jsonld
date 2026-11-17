@@ -2133,6 +2133,140 @@
    ]
   },
   {
+   "@id": "bg:loving-your-neighbor",
+   "@type": "bgo:LifeSituation",
+   "bgo:basis": "devotional",
+   "bgo:domain": "living-the-word",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/living-the-word/loving-your-neighbor.md",
+   "bgo:keyReference": [
+    "1 John 4:19-21",
+    "Deuteronomy 10:17-19",
+    "Deuteronomy 6:4-5",
+    "Galatians 5:13-15",
+    "James 2:1-9",
+    "Leviticus 19:33-34",
+    "Leviticus 19:9-18",
+    "Luke 10:25-37",
+    "Mark 12:28-34",
+    "Matthew 22:34-40",
+    "Matthew 5:43-48",
+    "Romans 13:8-10"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": [
+    {
+     "@id": "bg:great-commandment"
+    },
+    {
+     "@id": "bg:parable-of-the-good-samaritan"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9"
+    }
+   ],
+   "rdfs:label": "Loving Your Neighbor",
+   "skos:altLabel": [
+    "love thy neighbour as thyself",
+    "love your neighbor as yourself",
+    "loving your neighbour",
+    "neighbour love",
+    "plesion",
+    "ve'ahavta l're'acha kamocha",
+    "who is my neighbor"
+   ],
+   "skos:broader": {
+    "@id": "bg:love"
+   },
+   "skos:definition": "What Scripture says to Christians asking how to treat the people around them: the command of Leviticus 19:18 to love one's neighbor as oneself, which Jesus set beside love for God as the heart of the law, widened through the parable of the Good Samaritan and the call to love enemies, and which the apostles called the fulfilment of the law.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/living-the-word"
+   },
+   "skos:prefLabel": "Loving Your Neighbor",
+   "skos:related": [
+    {
+     "@id": "bg:forgiveness-in-the-bible"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:samaritans"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:moses",
    "@type": "bgo:Person",
    "bgo:basis": "debated",
@@ -4366,6 +4500,46 @@
     "@id": "bg:lords-prayer"
    },
    "rdfs:label": "Jesus prays \"your desire be done\" in Gethsemane (Matthew 26:42). How does that scene deepen what it means to pray \"your will be done\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "rdfs:label": "Read Leviticus 19:9-18. Which concrete actions does the chapter list before it reaches \"love your neighbor as yourself,\" and what do they show about what love means there?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "rdfs:label": "In Luke 10:29 the lawyer asks \"Who is my neighbor?\" How does Jesus's question in Luke 10:36 turn that question around?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "rdfs:label": "According to Romans 13:8-10 and Galatians 5:14, how is love of neighbor related to the rest of God's commandments?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "rdfs:label": "What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "rdfs:label": "Who is a \"neighbor\" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/moses/check/1",
@@ -8268,6 +8442,244 @@
    "dcterms:title": "Our Father (The Orthodox Faith, Vol. II, Worship — The Divine Liturgy)",
    "schema:url": {
     "@id": "https://oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/our-father"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Library",
+   "dcterms:title": "Leviticus 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://christianlibrary.org/bibles/WEB/Lev19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Deuteronomy 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/deuteronomy/10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Deuteronomy 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/deuteronomy/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Baker Books, via Bible Study Tools",
+   "dcterms:title": "Neighbor (Scot McKnight), Baker's Evangelical Dictionary of Biblical Theology",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/neighbor.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Neighbor (D. Miall Edwards), International Standard Bible Encyclopedia (1915)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/encyclopedias/isbe/neighbor.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Golden Rule, The (Kaufmann Kohler and Emil G. Hirsch), The Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/6744"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Logos Library",
+   "dcterms:title": "Augustine, On Christian Doctrine, Book I, chapter 30",
+   "schema:url": {
+    "@id": "https://logoslibrary.org/augustine/doctrine/130.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 1929-1933: Respect for the Human Person",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P6O.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Presbyterian Church General Synod",
+   "dcterms:title": "Westminster Shorter Catechism, Question 42",
+   "schema:url": {
+    "@id": "https://bpc.org/sc-q42"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Mark 12:28-34 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web/mark/12/28-34"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/romans/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Galatians 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/galatians/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "James 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/james/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 John 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_john/4.htm"
    }
   },
   {

@@ -236,6 +236,17 @@ Study questions:
 - What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?
 - Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?
 
+### [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) — LifeSituation
+
+Read: Leviticus 19:9-18; Leviticus 19:33-34; Deuteronomy 6:4-5; Deuteronomy 10:17-19; Mark 12:28-34; Matthew 22:34-40; Luke 10:25-37; Matthew 5:43-48; Romans 13:8-10; Galatians 5:13-15; James 2:1-9; 1 John 4:19-21
+
+Study questions:
+- Read Leviticus 19:9-18. Which concrete actions does the chapter list before it reaches "love your neighbor as yourself," and what do they show about what love means there?
+- In Luke 10:29 the lawyer asks "Who is my neighbor?" How does Jesus's question in Luke 10:36 turn that question around?
+- According to Romans 13:8-10 and Galatians 5:14, how is love of neighbor related to the rest of God's commandments?
+- What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?
+- Who is a "neighbor" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?
+
 ## manuscripts-translations-and-archaeology
 
 ### [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) — Translation

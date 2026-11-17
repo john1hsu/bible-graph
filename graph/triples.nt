@@ -1218,6 +1218,79 @@
 <https://github.com/john1hsu/bible-graph/id/lords-prayer> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
 <https://github.com/john1hsu/bible-graph/id/lords-prayer> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
 <https://github.com/john1hsu/bible-graph/id/lords-prayer> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Leviticus 19:9-18. Which concrete actions does the chapter list before it reaches \"love your neighbor as yourself,\" and what do they show about what love means there?" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 10:29 the lawyer asks \"Who is my neighbor?\" How does Jesus's question in Luke 10:36 turn that question around?" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "According to Romans 13:8-10 and Galatians 5:14, how is love of neighbor related to the rest of God's commandments?" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who is a \"neighbor\" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2000/01/rdf-schema#label> "Loving Your Neighbor" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "love thy neighbour as thyself" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "love your neighbor as yourself" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "loving your neighbour" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "neighbour love" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "plesion" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "ve'ahavta l're'acha kamocha" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#altLabel> "who is my neighbor" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/love> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#definition> "What Scripture says to Christians asking how to treat the people around them: the command of Leviticus 19:18 to love one's neighbor as oneself, which Jesus set beside love for God as the heart of the law, widened through the parable of the Good Samaritan and the call to love enemies, and which the apostles called the fulfilment of the law." .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/living-the-word> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loving Your Neighbor" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/samaritans> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#domain> "living-the-word" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/living-the-word/loving-your-neighbor.md" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 John 4:19-21" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 10:17-19" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 6:4-5" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 5:13-15" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "James 2:1-9" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:33-34" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:9-18" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 10:25-37" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 12:28-34" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 22:34-40" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 5:43-48" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 13:8-10" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/great-commandment> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+<https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question \"Who am I\"?" .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -3346,6 +3419,108 @@
 <https://github.com/john1hsu/bible-graph/id/source/lords-prayer/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/lords-prayer/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/lords-prayer/s9> <https://schema.org/url> <https://oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/our-father> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <http://purl.org/dc/terms/title> "Deuteronomy 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s10> <https://schema.org/url> <https://biblehub.com/web/deuteronomy/10.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <http://purl.org/dc/terms/title> "Deuteronomy 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s11> <https://schema.org/url> <https://bibliaparalela.com/web/deuteronomy/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <http://purl.org/dc/terms/publisher> "Baker Books, via Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <http://purl.org/dc/terms/title> "Neighbor (Scot McKnight), Baker's Evangelical Dictionary of Biblical Theology" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s12> <https://schema.org/url> <https://www.biblestudytools.com/dictionaries/bakers-evangelical-dictionary/neighbor.html> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <http://purl.org/dc/terms/title> "Neighbor (D. Miall Edwards), International Standard Bible Encyclopedia (1915)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s13> <https://schema.org/url> <https://www.biblestudytools.com/encyclopedias/isbe/neighbor.html> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <http://purl.org/dc/terms/title> "Golden Rule, The (Kaufmann Kohler and Emil G. Hirsch), The Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s14> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/6744> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <http://purl.org/dc/terms/publisher> "Logos Library" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <http://purl.org/dc/terms/title> "Augustine, On Christian Doctrine, Book I, chapter 30" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> <https://schema.org/url> <https://logoslibrary.org/augustine/doctrine/130.html> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, 1929-1933: Respect for the Human Person" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P6O.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <http://purl.org/dc/terms/publisher> "Bible Presbyterian Church General Synod" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <http://purl.org/dc/terms/title> "Westminster Shorter Catechism, Question 42" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> <https://schema.org/url> <https://bpc.org/sc-q42> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <http://purl.org/dc/terms/publisher> "Christian Library" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <http://purl.org/dc/terms/title> "Leviticus 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s1> <https://schema.org/url> <https://christianlibrary.org/bibles/WEB/Lev19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <http://purl.org/dc/terms/title> "Luke 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s2> <https://schema.org/url> <https://biblehub.com/web/luke/10.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <http://purl.org/dc/terms/title> "Mark 12:28-34 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s3> <https://schema.org/url> <https://miamisdb.org/bible/web/mark/12/28-34> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <http://purl.org/dc/terms/title> "Matthew 22 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s4> <https://schema.org/url> <https://biblehub.com/web/matthew/22.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <http://purl.org/dc/terms/title> "Matthew 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s5> <https://schema.org/url> <https://biblehub.com/web/matthew/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <http://purl.org/dc/terms/title> "Romans 13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s6> <https://schema.org/url> <https://biblehub.com/web/romans/13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <http://purl.org/dc/terms/title> "Galatians 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s7> <https://schema.org/url> <https://biblehub.com/web/galatians/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <http://purl.org/dc/terms/title> "James 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s8> <https://schema.org/url> <https://biblehub.com/web/james/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://purl.org/dc/terms/title> "1 John 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://schema.org/url> <https://biblehub.com/web/1_john/4.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/title> "Deuteronomy 34 (World English Bible)" .
