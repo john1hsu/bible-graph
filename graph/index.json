@@ -1801,6 +1801,119 @@
   ]
  },
  {
+  "id": "bg:gospels",
+  "title": "The Four Gospels",
+  "aliases": [
+   "the Gospels",
+   "the fourfold Gospel",
+   "the Evangelists' Gospels"
+  ],
+  "type": "Collection",
+  "domain": "new-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-books/gospels.md",
+  "created": "2026-11-17",
+  "summary": "The four books that open the New Testament (Matthew, Mark, Luke and John), each telling the good news of Jesus Christ's life, teaching, death and resurrection from its own angle, and received together by the church since the second century as one fourfold witness to him.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:new-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-john"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:new-testament",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jesus",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:book-of-isaiah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:against-heresies",
+    "source": "s10",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Mark 1:1-3",
+   "Mark 1:14-15",
+   "Luke 1:1-4",
+   "John 20:30-31",
+   "John 21:25",
+   "Isaiah 40:3",
+   "Isaiah 40:9",
+   "Isaiah 52:7",
+   "1 Corinthians 15:1-5"
+  ],
+  "studyQuestions": [
+   "Mark 1:1 calls what follows \"the beginning of the gospel of Jesus Christ\". What does the word \"gospel\" mean, and where in Isaiah 40 and 52 does the idea of a messenger with good news come from?",
+   "According to Luke 1:1-4, what did Luke know about earlier accounts and eyewitnesses, and why did he write his own?",
+   "John 20:30-31 says many signs were left out. What does John say his book is for, and how might that purpose shape the way you read any of the Gospels?",
+   "Paul summarises \"the gospel\" in 1 Corinthians 15:1-5. Which of those events do all four Gospels tell at length, and why do you think they give them so much space?",
+   "Choose one story told in more than one Gospel. Read the versions side by side. What does each writer emphasise, and what would be lost if we merged them into one account?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://miamisdb.org/bible/web+asv/mark/1",
+   "https://biblehub.com/web/luke/1.htm",
+   "https://ebible.org/asv/JHN20.htm",
+   "https://ebible.org/eng-web/ISA40.htm",
+   "https://www.christianity.com/bible/web/isaiah/52-7",
+   "https://miamisdb.org/bible/asv+web/1cor/15",
+   "https://www.christianity.com/bible/asv/john/21-25",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospels",
+   "https://bible.usccb.org/bible/gospelsintroduction/0",
+   "https://www.newadvent.org/fathers/0103311.htm",
+   "https://ccel.org/ccel/schaff/anf01.vii.ii.vi.html",
+   "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+   "https://dukespace.lib.duke.edu/server/api/core/bitstreams/46c0f6ae-ec7c-46cf-b3e5-420e76d3a974/content",
+   "https://www.britannica.com/topic/Synoptic-Gospels",
+   "https://oyc.yale.edu/religious-studies/rlst-152/lecture-6"
+  ]
+ },
+ {
   "id": "bg:grace",
   "title": "Grace",
   "aliases": [

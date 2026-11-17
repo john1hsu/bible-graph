@@ -360,6 +360,17 @@ Study questions:
 - In Matthew 5:17-20, what does Jesus say he came to do with the Law and the Prophets, and what kind of righteousness does he ask of his followers?
 - The Gospel begins with "God with us" (1:23) and ends with "I am with you always" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?
 
+### [The Four Gospels](../articles/new-testament-books/gospels.md) — Collection
+
+Read: Mark 1:1-3; Mark 1:14-15; Luke 1:1-4; John 20:30-31; John 21:25; Isaiah 40:3; Isaiah 40:9; Isaiah 52:7; 1 Corinthians 15:1-5
+
+Study questions:
+- Mark 1:1 calls what follows "the beginning of the gospel of Jesus Christ". What does the word "gospel" mean, and where in Isaiah 40 and 52 does the idea of a messenger with good news come from?
+- According to Luke 1:1-4, what did Luke know about earlier accounts and eyewitnesses, and why did he write his own?
+- John 20:30-31 says many signs were left out. What does John say his book is for, and how might that purpose shape the way you read any of the Gospels?
+- Paul summarises "the gospel" in 1 Corinthians 15:1-5. Which of those events do all four Gospels tell at length, and why do you think they give them so much space?
+- Choose one story told in more than one Gospel. Read the versions side by side. What does each writer emphasise, and what would be lost if we merged them into one account?
+
 ## new-testament-people
 
 ### [Barnabas](../articles/new-testament-people/barnabas.md) — Person

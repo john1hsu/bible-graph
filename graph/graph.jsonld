@@ -1850,6 +1850,125 @@
    ]
   },
   {
+   "@id": "bg:gospels",
+   "@type": "bgo:Collection",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:against-heresies"
+   },
+   "bgo:domain": "new-testament-books",
+   "bgo:features": {
+    "@id": "bg:jesus"
+   },
+   "bgo:file": "articles/new-testament-books/gospels.md",
+   "bgo:keyReference": [
+    "1 Corinthians 15:1-5",
+    "Isaiah 40:3",
+    "Isaiah 40:9",
+    "Isaiah 52:7",
+    "John 20:30-31",
+    "John 21:25",
+    "Luke 1:1-4",
+    "Mark 1:1-3",
+    "Mark 1:14-15"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:new-testament"
+   },
+   "bgo:quotes": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s9"
+    }
+   ],
+   "rdfs:label": "The Four Gospels",
+   "skos:altLabel": [
+    "the Evangelists' Gospels",
+    "the Gospels",
+    "the fourfold Gospel"
+   ],
+   "skos:broader": {
+    "@id": "bg:new-testament"
+   },
+   "skos:definition": "The four books that open the New Testament (Matthew, Mark, Luke and John), each telling the good news of Jesus Christ's life, teaching, death and resurrection from its own angle, and received together by the church since the second century as one fourfold witness to him.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books"
+   },
+   "skos:prefLabel": "The Four Gospels",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:gospel-of-john"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:grace",
    "@type": "bgo:Theme",
    "bgo:basis": "varies-by-tradition",
@@ -5623,6 +5742,46 @@
     "@id": "bg:gospel-of-matthew"
    },
    "rdfs:label": "The Gospel begins with \"God with us\" (1:23) and ends with \"I am with you always\" (28:20). How does that promise frame everything in between, and where do you need to hear it this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospels/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospels"
+   },
+   "rdfs:label": "Mark 1:1 calls what follows \"the beginning of the gospel of Jesus Christ\". What does the word \"gospel\" mean, and where in Isaiah 40 and 52 does the idea of a messenger with good news come from?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospels/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospels"
+   },
+   "rdfs:label": "According to Luke 1:1-4, what did Luke know about earlier accounts and eyewitnesses, and why did he write his own?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospels/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospels"
+   },
+   "rdfs:label": "John 20:30-31 says many signs were left out. What does John say his book is for, and how might that purpose shape the way you read any of the Gospels?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospels/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospels"
+   },
+   "rdfs:label": "Paul summarises \"the gospel\" in 1 Corinthians 15:1-5. Which of those events do all four Gospels tell at length, and why do you think they give them so much space?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospels/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospels"
+   },
+   "rdfs:label": "Choose one story told in more than one Gospel. Read the versions side by side. What does each writer emphasise, and what would be lost if we merged them into one account?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/grace/check/1",
@@ -9734,6 +9893,216 @@
    "dcterms:title": "Introduction to Matthew (ESV Global Study Bible)",
    "schema:url": {
     "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-matthew"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Mark 1 (World English Bible and American Standard Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+asv/mark/1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Irenaeus, Against Heresies III.11, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0103311.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Fragments of Papias VI, from Eusebius, Church History III.39 (Ante-Nicene Fathers vol. 1)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/schaff/anf01.vii.ii.vi.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Holy See",
+   "dcterms:title": "Dei Verbum, Dogmatic Constitution on Divine Revelation (Second Vatican Council, 1965), nos. 18-19",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "DukeSpace, Duke University Libraries",
+   "dcterms:title": "Mark Goodacre, \"A Monopoly on Marcan Priority? Fallacies at the Heart of Q\" (SBL Seminar Papers 2000)",
+   "schema:url": {
+    "@id": "https://dukespace.lib.duke.edu/server/api/core/bitstreams/46c0f6ae-ec7c-46cf-b3e5-420e76d3a974/content"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Synoptic Gospels",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Synoptic-Gospels"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Open Yale Courses",
+   "dcterms:title": "Dale B. Martin, Introduction to New Testament History and Literature (RLST 152), Lecture 6 — The Gospel of Mark",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/religious-studies/rlst-152/lecture-6"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "John 20 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://ebible.org/asv/JHN20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Isaiah 40 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ISA40.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Isaiah 52:7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/isaiah/52-7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "1 Corinthians 15 (American Standard Version and World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/asv+web/1cor/15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 21:25 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/asv/john/21-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Gospels (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospels"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospels/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "The Gospels — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/gospelsintroduction/0"
    }
   },
   {

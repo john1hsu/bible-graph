@@ -180,9 +180,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 12:2** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 40:3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Isaiah 40:3** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Isaiah 40:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Isaiah 40:9** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Isaiah 41:8** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Isaiah 52:7** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Isaiah 53:11** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Isaiah 61:1-2** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -279,8 +282,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Mark
 
+- **Mark 1:1-3** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Mark 1:2-3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Mark 1:14-15** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
@@ -299,6 +304,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:1-4** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Luke 1:1-4** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:1-4** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+- **Luke 1:1-4** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -354,7 +360,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **John 20:30-31** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **John 20:31** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+- **John 21:25** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 
 ## Acts
 
@@ -431,6 +439,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
 
 ## 2 Corinthians

@@ -33,7 +33,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer, The Song of the Sea |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan |
 | `bg:mosaic-covenant` | Moses |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
@@ -75,12 +75,12 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:gospel-of-luke` | `bg:jerusalem` |
 | `bg:gospel-of-luke` | `bg:road-to-emmaus` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
+| `bg:gospels` | `bg:jesus` |
 | `bg:jeremiahs-temple-sermon` | `bg:jehoiakim` |
 | `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
 | `bg:jeremiahs-temple-sermon` | `bg:shiloh` |
-| `bg:jeremiahs-temple-sermon` | `bg:the-temple` |
 
-…and 15 more.
+…and 16 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -122,6 +122,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 |---|---|---|
 | `bg:binding-of-isaac` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
+| `bg:book-of-isaiah` | quotes | `bg:gospels` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
