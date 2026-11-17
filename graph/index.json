@@ -4098,6 +4098,160 @@
   ]
  },
  {
+  "id": "bg:sadducees-question-about-the-resurrection",
+  "title": "The Sadducees' Question about the Resurrection",
+  "aliases": [
+   "the question about the resurrection",
+   "marriage at the resurrection",
+   "the woman with seven husbands",
+   "the God of the living",
+   "Mark 12:18-27"
+  ],
+  "type": "Passage",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md",
+  "created": "2026-11-17",
+  "summary": "The Synoptic scene in the Jerusalem Temple (Mark 12:18-27; Matthew 22:23-33; Luke 20:27-40) in which Sadducees, who denied the resurrection, pose a riddle about a widow married to seven brothers, and Jesus answers that the risen do not marry and that God's words to Moses at the burning bush show he is \"the God of the living.\"",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-the-dead"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul-at-the-areopagus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospel-of-mark",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospel-of-matthew",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospel-of-luke",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:sadducees",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:resurrection-of-the-dead",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:exodus",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:alludesTo",
+    "object": "bg:deuteronomy",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:levirate-marriage",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Mark 12:18-27",
+   "Matthew 22:23-33",
+   "Luke 20:27-40",
+   "Mark 11:27-33",
+   "Exodus 3:6",
+   "Deuteronomy 25:5-10",
+   "Tobit 3:8",
+   "Acts 23:8",
+   "Daniel 12:2",
+   "1 Corinthians 15:35-44"
+  ],
+  "studyQuestions": [
+   "Which law of Moses do the Sadducees build their question on (compare Mark 12:19 with Deuteronomy 25:5-6), and what was that law meant to protect?",
+   "Jesus says the Sadducees know neither \"the Scriptures nor the power of God\" (Mark 12:24). Which part of his answer addresses each of those two mistakes?",
+   "Read Exodus 3:6 and Mark 12:26-27 side by side. Why does God's naming himself \"the God of Abraham, the God of Isaac, and the God of Jacob\" matter for whether the dead will be raised?",
+   "Luke adds that \"all are alive to him\" (Luke 20:38). How might that line shape the way a Christian thinks about believers who have died?",
+   "Does Jesus say that the risen become angels, or that they are like angels? Why does the difference matter?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/mark/12.htm",
+   "https://ebible.org/eng-webbe/MAT22.htm",
+   "https://www.bibliaparalela.com/web/luke/20.htm",
+   "https://biblehub.com/web/mark/11.htm",
+   "https://ebible.org/eng-web/EXO03.htm",
+   "https://bibliaparalela.com/web/deuteronomy/25.htm",
+   "https://biblehub.com/web/tobit/3.htm",
+   "https://www.bible.com/bible/206/4ma.7.web",
+   "https://biblehub.com/web/daniel/12.htm",
+   "https://coursebible.com/world-english-bible-web/1-corinthians-15",
+   "https://biblehub.com/multi/acts/23-8.htm",
+   "https://www.galaxie.com/article/wtj74-1-04",
+   "https://jewishencyclopedia.com/articles/9859-levirate-marriage",
+   "https://www.newadvent.org/fathers/200170.htm",
+   "https://enterthebible.org/passage/mark-1218-27-god-is-god-of-the-living/",
+   "https://www.vatican.va/archive/ENG0015/__P2H.HTM",
+   "https://bazhum.muzhp.pl/media/texts/the-biblical-annals/2014-tom-4-numer-2/the_biblical_annals-r2014-t4-n2-s381-395.pdf"
+  ]
+ },
+ {
   "id": "bg:scripture-interprets-scripture",
   "title": "Scripture Interprets Scripture",
   "aliases": [

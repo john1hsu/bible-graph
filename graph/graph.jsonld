@@ -4258,6 +4258,159 @@
    ]
   },
   {
+   "@id": "bg:sadducees-question-about-the-resurrection",
+   "@type": "bgo:Passage",
+   "bgo:alludesTo": {
+    "@id": "bg:deuteronomy"
+   },
+   "bgo:basis": "scriptural",
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:explainedBy": {
+    "@id": "bg:levirate-marriage"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:sadducees"
+    }
+   ],
+   "bgo:file": "articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md",
+   "bgo:keyReference": [
+    "1 Corinthians 15:35-44",
+    "Acts 23:8",
+    "Daniel 12:2",
+    "Deuteronomy 25:5-10",
+    "Exodus 3:6",
+    "Luke 20:27-40",
+    "Mark 11:27-33",
+    "Mark 12:18-27",
+    "Matthew 22:23-33",
+    "Tobit 3:8"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": [
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    }
+   ],
+   "bgo:quotes": {
+    "@id": "bg:exodus"
+   },
+   "bgo:requires": {
+    "@id": "bg:sadducees"
+   },
+   "bgo:teaches": {
+    "@id": "bg:resurrection-of-the-dead"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9"
+    }
+   ],
+   "rdfs:label": "The Sadducees' Question about the Resurrection",
+   "skos:altLabel": [
+    "Mark 12:18-27",
+    "marriage at the resurrection",
+    "the God of the living",
+    "the question about the resurrection",
+    "the woman with seven husbands"
+   ],
+   "skos:broader": {
+    "@id": "bg:gospels"
+   },
+   "skos:definition": "The Synoptic scene in the Jerusalem Temple (Mark 12:18-27; Matthew 22:23-33; Luke 20:27-40) in which Sadducees, who denied the resurrection, pose a riddle about a widow married to seven brothers, and Jesus answers that the risen do not marry and that God's words to Moses at the burning bush show he is \"the God of the living.\"",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "The Sadducees' Question about the Resurrection",
+   "skos:related": [
+    {
+     "@id": "bg:abraham"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:paul-at-the-areopagus"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:resurrection-of-the-dead"
+    },
+    {
+     "@id": "bg:sadducees"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:scripture-interprets-scripture",
    "@type": "bgo:Method",
    "bgo:addresses": {
@@ -6874,6 +7027,46 @@
    "@type": "schema:HowToStep",
    "schema:position": 7,
    "schema:text": "Only then ask what the passage means for you or your church, applying it in a way its first readers would recognise as faithful to it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees-question-about-the-resurrection"
+   },
+   "rdfs:label": "Which law of Moses do the Sadducees build their question on (compare Mark 12:19 with Deuteronomy 25:5-6), and what was that law meant to protect?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees-question-about-the-resurrection"
+   },
+   "rdfs:label": "Jesus says the Sadducees know neither \"the Scriptures nor the power of God\" (Mark 12:24). Which part of his answer addresses each of those two mistakes?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees-question-about-the-resurrection"
+   },
+   "rdfs:label": "Read Exodus 3:6 and Mark 12:26-27 side by side. Why does God's naming himself \"the God of Abraham, the God of Isaac, and the God of Jacob\" matter for whether the dead will be raised?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees-question-about-the-resurrection"
+   },
+   "rdfs:label": "Luke adds that \"all are alive to him\" (Luke 20:38). How might that line shape the way a Christian thinks about believers who have died?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:sadducees-question-about-the-resurrection"
+   },
+   "rdfs:label": "Does Jesus say that the risen become angels, or that they are like angels? Why does the difference matter?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/sadducees/check/1",
@@ -13766,6 +13959,244 @@
    "dcterms:title": "What Does Jeremiah 29:11 Mean? (\"For I Know the Plans I Have for You\")",
    "schema:url": {
     "@id": "https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "1 Corinthians 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/1-corinthians-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 23:8 (parallel translations, incl. World English Bible and KJV)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/acts/23-8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Galaxie Software",
+   "dcterms:title": "David B. Sloan, God of Abraham, God of the Living: Jesus' Use of Exodus 3:6 in Mark 12:26-27, Westminster Theological Journal 74.1 (2012)",
+   "schema:url": {
+    "@id": "https://www.galaxie.com/article/wtj74-1-04"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Levirate Marriage (Solomon Schechter and Joseph Jacobs, Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/9859-levirate-marriage"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "John Chrysostom, Homily 70 on Matthew (Matthew 22:15-33)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/200170.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Enter the Bible (Luther Seminary)",
+   "dcterms:title": "Mark 12:18-27: God Is God of the Living",
+   "schema:url": {
+    "@id": "https://enterthebible.org/passage/mark-1218-27-god-is-god-of-the-living/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 992-1004 (I Believe in the Resurrection of the Body)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P2H.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Biblical Annals (via BazHum)",
+   "dcterms:title": "Michał Wojciechowski, Authority and Canonicity of the Book of Tobit, The Biblical Annals 4.2 (2014): 381-395",
+   "schema:url": {
+    "@id": "https://bazhum.muzhp.pl/media/texts/the-biblical-annals/2014-tom-4-numer-2/the_biblical_annals-r2014-t4-n2-s381-395.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Matthew 22 (World English Bible British Edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-webbe/MAT22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Luke 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/luke/20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Exodus 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/EXO03.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Deuteronomy 25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/deuteronomy/25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Tobit 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/tobit/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "4 Maccabees 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/4ma.7.web"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Daniel 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/daniel/12.htm"
    }
   },
   {

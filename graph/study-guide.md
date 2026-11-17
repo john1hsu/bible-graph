@@ -291,6 +291,17 @@ Study questions:
 - In Matthew 6:14-15 Jesus adds a comment on just one petition. Which one, and why might he single it out?
 - Jesus prays "your desire be done" in Gethsemane (Matthew 26:42). How does that scene deepen what it means to pray "your will be done"?
 
+### [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) — Passage
+
+Read: Mark 12:18-27; Matthew 22:23-33; Luke 20:27-40; Mark 11:27-33; Exodus 3:6; Deuteronomy 25:5-10; Tobit 3:8; Acts 23:8; Daniel 12:2; 1 Corinthians 15:35-44
+
+Study questions:
+- Which law of Moses do the Sadducees build their question on (compare Mark 12:19 with Deuteronomy 25:5-6), and what was that law meant to protect?
+- Jesus says the Sadducees know neither "the Scriptures nor the power of God" (Mark 12:24). Which part of his answer addresses each of those two mistakes?
+- Read Exodus 3:6 and Mark 12:26-27 side by side. Why does God's naming himself "the God of Abraham, the God of Isaac, and the God of Jacob" matter for whether the dead will be raised?
+- Luke adds that "all are alive to him" (Luke 20:38). How might that line shape the way a Christian thinks about believers who have died?
+- Does Jesus say that the risen become angels, or that they are like angels? Why does the difference matter?
+
 ## living-the-word
 
 ### [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) — LifeSituation

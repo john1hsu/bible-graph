@@ -2348,6 +2348,82 @@
 <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Philippians 4:10-14" .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 3:14-22" .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Which law of Moses do the Sadducees build their question on (compare Mark 12:19 with Deuteronomy 25:5-6), and what was that law meant to protect?" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus says the Sadducees know neither \"the Scriptures nor the power of God\" (Mark 12:24). Which part of his answer addresses each of those two mistakes?" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Read Exodus 3:6 and Mark 12:26-27 side by side. Why does God's naming himself \"the God of Abraham, the God of Isaac, and the God of Jacob\" matter for whether the dead will be raised?" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Luke adds that \"all are alive to him\" (Luke 20:38). How might that line shape the way a Christian thinks about believers who have died?" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Does Jesus say that the risen become angels, or that they are like angels? Why does the difference matter?" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2000/01/rdf-schema#label> "The Sadducees' Question about the Resurrection" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#altLabel> "Mark 12:18-27" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#altLabel> "marriage at the resurrection" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#altLabel> "the God of the living" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#altLabel> "the question about the resurrection" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#altLabel> "the woman with seven husbands" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/gospels> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#definition> "The Synoptic scene in the Jerusalem Temple (Mark 12:18-27; Matthew 22:23-33; Luke 20:27-40) in which Sadducees, who denied the resurrection, pose a riddle about a widow married to seven brothers, and Jesus answers that the risen do not marry and that God's words to Moses at the burning bush show he is \"the God of the living.\"" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Sadducees' Question about the Resurrection" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#alludesTo> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#domain> "life-and-teachings-of-jesus" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/levirate-marriage> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 15:35-44" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 23:8" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Daniel 12:2" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 25:5-10" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 3:6" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 20:27-40" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 11:27-33" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 12:18-27" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 22:23-33" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Tobit 3:8" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/exodus> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+<https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> .
 <https://github.com/john1hsu/bible-graph/id/sadducees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/sadducees/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Mark 12:18-27, what question do the Sadducees put to Jesus, and which passage of the Law of Moses does he answer them from?" .
 <https://github.com/john1hsu/bible-graph/id/sadducees/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/sadducees> .
@@ -5570,6 +5646,108 @@
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s9> <https://schema.org/url> <https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <http://purl.org/dc/terms/publisher> "CourseBible" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <http://purl.org/dc/terms/title> "1 Corinthians 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s10> <https://schema.org/url> <https://coursebible.com/world-english-bible-web/1-corinthians-15> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <http://purl.org/dc/terms/title> "Acts 23:8 (parallel translations, incl. World English Bible and KJV)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s11> <https://schema.org/url> <https://biblehub.com/multi/acts/23-8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <http://purl.org/dc/terms/publisher> "Galaxie Software" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <http://purl.org/dc/terms/title> "David B. Sloan, God of Abraham, God of the Living: Jesus' Use of Exodus 3:6 in Mark 12:26-27, Westminster Theological Journal 74.1 (2012)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s12> <https://schema.org/url> <https://www.galaxie.com/article/wtj74-1-04> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <http://purl.org/dc/terms/title> "Levirate Marriage (Solomon Schechter and Joseph Jacobs, Jewish Encyclopedia, 1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s13> <https://schema.org/url> <https://jewishencyclopedia.com/articles/9859-levirate-marriage> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <http://purl.org/dc/terms/title> "John Chrysostom, Homily 70 on Matthew (Matthew 22:15-33)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s14> <https://schema.org/url> <https://www.newadvent.org/fathers/200170.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <http://purl.org/dc/terms/publisher> "Enter the Bible (Luther Seminary)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <http://purl.org/dc/terms/title> "Mark 12:18-27: God Is God of the Living" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s15> <https://schema.org/url> <https://enterthebible.org/passage/mark-1218-27-god-is-god-of-the-living/> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 992-1004 (I Believe in the Resurrection of the Body)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s16> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P2H.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <http://purl.org/dc/terms/publisher> "The Biblical Annals (via BazHum)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <http://purl.org/dc/terms/title> "Michał Wojciechowski, Authority and Canonicity of the Book of Tobit, The Biblical Annals 4.2 (2014): 381-395" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s17> <https://schema.org/url> <https://bazhum.muzhp.pl/media/texts/the-biblical-annals/2014-tom-4-numer-2/the_biblical_annals-r2014-t4-n2-s381-395.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <http://purl.org/dc/terms/title> "Mark 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s1> <https://schema.org/url> <https://biblehub.com/web/mark/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <http://purl.org/dc/terms/title> "Matthew 22 (World English Bible British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s2> <https://schema.org/url> <https://ebible.org/eng-webbe/MAT22.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <http://purl.org/dc/terms/title> "Luke 20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/luke/20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <http://purl.org/dc/terms/title> "Mark 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s4> <https://schema.org/url> <https://biblehub.com/web/mark/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <http://purl.org/dc/terms/title> "Exodus 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s5> <https://schema.org/url> <https://ebible.org/eng-web/EXO03.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <http://purl.org/dc/terms/title> "Deuteronomy 25 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s6> <https://schema.org/url> <https://bibliaparalela.com/web/deuteronomy/25.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <http://purl.org/dc/terms/title> "Tobit 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s7> <https://schema.org/url> <https://biblehub.com/web/tobit/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <http://purl.org/dc/terms/title> "4 Maccabees 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s8> <https://schema.org/url> <https://www.bible.com/bible/206/4ma.7.web> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <http://purl.org/dc/terms/title> "Daniel 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/sadducees-question-about-the-resurrection/s9> <https://schema.org/url> <https://biblehub.com/web/daniel/12.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/sadducees/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/sadducees/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/sadducees/s10> <http://purl.org/dc/terms/title> "Matthew 16 (World English Bible)" .

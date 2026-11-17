@@ -1,11 +1,11 @@
 # Graph statistics
 
-- Articles (nodes written): **42**
-- Frontier nodes (referenced, unwritten): **149**
-- Asserted edges: **533** (typed + evidenced: **231**)
-- Asserted triples: **6565**; inferred by OWL-RL: **1022**
-- Citations: **595**
-- Scripture references: **411**; study questions: **207**; procedures: **5**; before/after examples: **5**
+- Articles (nodes written): **43**
+- Frontier nodes (referenced, unwritten): **151**
+- Asserted edges: **552** (typed + evidenced: **240**)
+- Asserted triples: **6743**; inferred by OWL-RL: **1060**
+- Citations: **612**
+- Scripture references: **421**; study questions: **212**; procedures: **5**; before/after examples: **5**
 - Weakly connected components: **1**
 - Communities (Louvain): **7**; max k-core: **5**
 
@@ -15,31 +15,31 @@ PageRank = authority; betweenness = bridges between areas.
 
 | Node | PageRank | Betweenness | Written |
 |---|---|---|---|
-| `bg:second-temple-judaism` | 0.0124 | 0.1609 | yes |
-| `bg:kingdom-of-god` | 0.0121 | 0.1059 | yes |
-| `bg:sermon-on-the-mount` | 0.0089 | 0.0316 | yes |
-| `bg:the-story-of-the-bible` | 0.0088 | 0.0998 | yes |
-| `bg:pharisees` | 0.0086 | 0.0187 | yes |
-| `bg:paul` | 0.0085 | 0.0458 | yes |
-| `bg:acts-of-the-apostles` | 0.0083 | 0.0462 | yes |
-| `bg:old-testament` | 0.0081 | 0.0566 | yes |
-| `bg:gospel-of-matthew` | 0.0081 | 0.0499 | yes |
-| `bg:parables-of-jesus` | 0.0079 | 0.0671 | yes |
-| `bg:gospel-of-luke` | 0.0077 | 0.0392 | yes |
-| `bg:babylonian-exile` | 0.0075 | 0.1345 | yes |
-| `bg:septuagint` | 0.0074 | 0.0432 | yes |
-| `bg:new-testament` | 0.0074 | 0.0314 | yes |
-| `bg:biblical-interpretation` | 0.0073 | 0.0032 | no |
+| `bg:second-temple-judaism` | 0.0123 | 0.1471 | yes |
+| `bg:kingdom-of-god` | 0.0120 | 0.0952 | yes |
+| `bg:sermon-on-the-mount` | 0.0088 | 0.0296 | yes |
+| `bg:pharisees` | 0.0087 | 0.0199 | yes |
+| `bg:the-story-of-the-bible` | 0.0087 | 0.0934 | yes |
+| `bg:paul` | 0.0084 | 0.0367 | yes |
+| `bg:acts-of-the-apostles` | 0.0083 | 0.0397 | yes |
+| `bg:gospel-of-matthew` | 0.0082 | 0.0482 | yes |
+| `bg:old-testament` | 0.0080 | 0.0517 | yes |
+| `bg:gospel-of-luke` | 0.0079 | 0.0453 | yes |
+| `bg:parables-of-jesus` | 0.0078 | 0.0653 | yes |
+| `bg:babylonian-exile` | 0.0074 | 0.1308 | yes |
+| `bg:new-testament` | 0.0073 | 0.0294 | yes |
+| `bg:septuagint` | 0.0073 | 0.0406 | yes |
+| `bg:biblical-interpretation` | 0.0072 | 0.0031 | no |
 
 ## Communities
 
-1. `bg:2-chronicles`, `bg:2-kings`, `bg:al-yahudu-tablets`, `bg:amarna-letters`, `bg:babylon`, `bg:babylonian-chronicle`, `bg:babylonian-exile`, `bg:baruch`, `bg:biblical-archaeology`, `bg:book-of-ezra`, `bg:book-of-haggai`, `bg:book-of-jeremiah` …
-2. `bg:against-heresies`, `bg:allegory`, `bg:atonement`, `bg:beatitudes`, `bg:biblical-theology`, `bg:book-of-daniel`, `bg:book-of-isaiah`, `bg:didache`, `bg:forgiveness-in-the-bible`, `bg:gospel-of-john`, `bg:gospel-of-luke`, `bg:gospel-of-mark` …
-3. `bg:acts-of-the-apostles`, `bg:antiquities-of-the-jews`, `bg:apostles`, `bg:athens`, `bg:barnabas`, `bg:council-of-jerusalem`, `bg:dionysius-the-areopagite`, `bg:epistle-of-barnabas`, `bg:first-clement`, `bg:general-revelation`, `bg:greco-roman-world`, `bg:john-mark` …
-4. `bg:biblical-canon`, `bg:church-history-of-eusebius`, `bg:codex-sinaiticus`, `bg:dead-sea-scrolls`, `bg:deuterocanonical-books`, `bg:eastern-orthodoxy`, `bg:essenes`, `bg:festal-letter-39-of-athanasius`, `bg:inspiration-of-scripture`, `bg:letter-of-aristeas`, `bg:marcion`, `bg:masoretic-text` …
-5. `bg:apocalyptic-literature`, `bg:biblical-interpretation`, `bg:catholic-church`, `bg:eisegesis`, `bg:genre-in-the-bible`, `bg:guigo-ii`, `bg:hebrew-poetry`, `bg:inductive-bible-study`, `bg:ladder-of-monks`, `bg:lectio-divina`, `bg:lutheranism`, `bg:on-christian-doctrine` …
-6. `bg:aaron`, `bg:baptism`, `bg:egypt-in-the-bible`, `bg:elijah`, `bg:exodus`, `bg:giving-of-the-law-at-sinai`, `bg:israelites`, `bg:joshua-son-of-nun`, `bg:miriam`, `bg:moses`, `bg:passover`, `bg:prophets` …
-7. `bg:abraham`, `bg:abrahamic-covenant`, `bg:binding-of-isaac`, `bg:crucifixion-of-jesus`, `bg:faith`, `bg:genesis`, `bg:hagar`, `bg:isaac`, `bg:ishmael`, `bg:joseph-son-of-jacob`, `bg:justification`, `bg:lot` …
+1. `bg:2-chronicles`, `bg:2-kings`, `bg:al-yahudu-tablets`, `bg:babylon`, `bg:babylonian-chronicle`, `bg:babylonian-exile`, `bg:baruch`, `bg:biblical-archaeology`, `bg:book-of-ezra`, `bg:book-of-haggai`, `bg:book-of-jeremiah`, `bg:book-of-micah` …
+2. `bg:aaron`, `bg:abraham`, `bg:abrahamic-covenant`, `bg:baptism`, `bg:binding-of-isaac`, `bg:crucifixion-of-jesus`, `bg:egypt-in-the-bible`, `bg:elijah`, `bg:exodus`, `bg:faith`, `bg:genesis`, `bg:giving-of-the-law-at-sinai` …
+3. `bg:allegory`, `bg:atonement`, `bg:beatitudes`, `bg:day-of-atonement`, `bg:didache`, `bg:forgiveness-in-the-bible`, `bg:grace`, `bg:great-commandment`, `bg:hebrew-bible-parables`, `bg:jericho`, `bg:kaddish`, `bg:lords-prayer` …
+4. `bg:acts-of-the-apostles`, `bg:against-heresies`, `bg:amarna-letters`, `bg:book-of-daniel`, `bg:book-of-isaiah`, `bg:council-of-jerusalem`, `bg:deuteronomy`, `bg:gospel-of-john`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:gospels` …
+5. `bg:antiquities-of-the-jews`, `bg:apostles`, `bg:athens`, `bg:barnabas`, `bg:dionysius-the-areopagite`, `bg:epistle-of-barnabas`, `bg:first-clement`, `bg:general-revelation`, `bg:greco-roman-world`, `bg:john-mark`, `bg:judaism`, `bg:levites` …
+6. `bg:apocalyptic-literature`, `bg:biblical-interpretation`, `bg:biblical-theology`, `bg:catholic-church`, `bg:eisegesis`, `bg:genre-in-the-bible`, `bg:guigo-ii`, `bg:hebrew-poetry`, `bg:inductive-bible-study`, `bg:ladder-of-monks`, `bg:lectio-divina`, `bg:lutheranism` …
+7. `bg:biblical-canon`, `bg:church-history-of-eusebius`, `bg:codex-sinaiticus`, `bg:dead-sea-scrolls`, `bg:deuterocanonical-books`, `bg:eastern-orthodoxy`, `bg:essenes`, `bg:festal-letter-39-of-athanasius`, `bg:inspiration-of-scripture`, `bg:letter-of-aristeas`, `bg:marcion`, `bg:masoretic-text` …
 
 ## By type
 
@@ -53,7 +53,7 @@ PageRank = authority; betweenness = bridges between areas.
 - Manuscript: 1
 - Method: 3
 - Parable: 1
-- Passage: 7
+- Passage: 8
 - Person: 4
 - Place: 2
 - Practice: 2
@@ -67,7 +67,7 @@ PageRank = authority; betweenness = bridges between areas.
 - events-and-timeline: 2
 - interpretation: 3
 - key-passages: 6
-- life-and-teachings-of-jesus: 3
+- life-and-teachings-of-jesus: 4
 - living-the-word: 2
 - manuscripts-translations-and-archaeology: 2
 - new-testament-books: 4
@@ -81,14 +81,14 @@ PageRank = authority; betweenness = bridges between areas.
 ## By level
 
 - intermediate: 1
-- introductory: 41
+- introductory: 42
 
 ## By basis
 
 - debated: 22
 - devotional: 6
 - ecumenical: 2
-- scriptural: 5
+- scriptural: 6
 - varies-by-tradition: 7
 
 ## Domain coverage (breadth runs pick the lowest)
@@ -103,8 +103,8 @@ PageRank = authority; betweenness = bridges between areas.
 - themes-and-theology: 2
 - background-and-culture: 3
 - interpretation: 3
-- life-and-teachings-of-jesus: 3
 - old-testament-books: 3
 - bible-basics: 4
+- life-and-teachings-of-jesus: 4
 - new-testament-books: 4
 - key-passages: 6

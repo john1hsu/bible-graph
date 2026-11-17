@@ -39,6 +39,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 2:11-22** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 3:1-15** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 3:6** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Exodus 3:6** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Exodus 3:7-15** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 4:10-20** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 6:20** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -83,6 +84,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 25:5-6** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Deuteronomy 25:5-10** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 32:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -225,6 +227,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Daniel 1:1-7** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Daniel 2:4** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Daniel 12:2** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
 ## Amos
 
@@ -247,6 +250,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Malachi
 
 - **Malachi 4:5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+
+## Tobit
+
+- **Tobit 3:8** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
 ## Matthew
 
@@ -280,6 +287,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 18:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 18:21-35** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Matthew 22:23-33** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Matthew 22:23-34** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 22:34-40** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
@@ -299,8 +307,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 11:15-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Mark 11:27-33** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Mark 12:1-12** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 12:18-27** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Mark 12:18-27** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
@@ -343,6 +353,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 19:1-10** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 20:27-40** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Luke 20:27-40** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Luke 22:20** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Luke 22:20** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -424,6 +435,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 23:6-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Acts 23:6-9** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Acts 23:6-10** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Acts 23:8** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Acts 28:14-16** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 28:30-31** — [Paul](../articles/new-testament-people/paul.md) (Person)
@@ -452,6 +464,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **1 Corinthians 15:35-44** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
 ## 2 Corinthians
 

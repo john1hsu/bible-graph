@@ -40,7 +40,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
-| `bg:resurrection-of-the-dead` | Paul at the Areopagus |
+| `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
 
 ## Who and what appears where
@@ -80,7 +80,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
 | `bg:jeremiahs-temple-sermon` | `bg:shiloh` |
 
-…and 16 more.
+…and 18 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -92,9 +92,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:sadducees` | bgo:Group |
+_No results._
 
 ## Orphan articles (gap)
 
@@ -126,6 +124,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
+| `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
