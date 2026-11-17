@@ -38,7 +38,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan |
 | `bg:mosaic-covenant` | Moses |
-| `bg:new-covenant` | Book of Jeremiah, Old Testament |
+| `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
@@ -124,6 +124,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:moses` | prefigures | `bg:jesus` |
+| `bg:old-testament` | quotes | `bg:new-testament` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |

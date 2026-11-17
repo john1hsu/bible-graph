@@ -2900,6 +2900,122 @@
    ]
   },
   {
+   "@id": "bg:new-testament",
+   "@type": "bgo:Collection",
+   "bgo:basis": "ecumenical",
+   "bgo:complements": {
+    "@id": "bg:old-testament"
+   },
+   "bgo:corroboratedBy": {
+    "@id": "bg:festal-letter-39-of-athanasius"
+   },
+   "bgo:domain": "bible-basics",
+   "bgo:file": "articles/bible-basics/new-testament.md",
+   "bgo:keyReference": [
+    "2 Peter 3:15-16",
+    "Colossians 4:16",
+    "Hebrews 8:6-13",
+    "John 20:31",
+    "Luke 1:1-4",
+    "Luke 22:20"
+   ],
+   "bgo:level": "introductory",
+   "bgo:preservedIn": {
+    "@id": "bg:codex-sinaiticus"
+   },
+   "bgo:quotes": {
+    "@id": "bg:old-testament"
+   },
+   "bgo:teaches": {
+    "@id": "bg:new-covenant"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s9"
+    }
+   ],
+   "rdfs:label": "New Testament",
+   "skos:altLabel": [
+    "Christian Greek Scriptures",
+    "NT",
+    "New Covenant Scriptures"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The second part of the Christian Bible: 27 books written in Greek in the first Christian generations (four Gospels, Acts, 21 letters and Revelation) that tell of Jesus Christ and the earliest church, and that Catholic, Orthodox and Protestant Christians all receive as Scripture.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "New Testament",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:gospels"
+    },
+    {
+     "@id": "bg:old-testament"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    }
+   ]
+  },
+  {
    "@id": "bg:old-testament",
    "@type": "bgo:Collection",
    "bgo:basis": "varies-by-tradition",
@@ -5675,6 +5791,46 @@
     "@id": "bg:moses"
    },
    "rdfs:label": "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:new-testament"
+   },
+   "rdfs:label": "What does Jesus call the cup in Luke 22:20, and how does that explain the name \"New Testament\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:new-testament"
+   },
+   "rdfs:label": "Which Old Testament promise does Hebrews 8 quote from verse 8 onward, and what does the writer conclude from it in verse 13?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:new-testament"
+   },
+   "rdfs:label": "According to Luke 1:1-4, how did Luke go about writing his Gospel, and why?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:new-testament"
+   },
+   "rdfs:label": "What do Colossians 4:16 and 2 Peter 3:15-16 show about how the first churches shared and regarded the apostles' letters?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:new-testament"
+   },
+   "rdfs:label": "John 20:31 gives a purpose for John's Gospel. Could the same purpose describe the whole New Testament? Which of its books have you read least, and how might you begin?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/old-testament/check/1",
@@ -10995,6 +11151,216 @@
    "dcterms:title": "Deuteronomy 18 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/deut/18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Luke 22:20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/luke/22-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Open Yale Courses, Yale University",
+   "dcterms:title": "Introduction to New Testament History and Literature (RLST 152), Lecture 2: From Stories to Canon (Dale B. Martin)",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/node/1750"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "In What Ways Is the New Testament a Religious Text?",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.org/articles/in-what-ways-is-the-new-testament-a-religious-text/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See (Vatican archive)",
+   "dcterms:title": "Catechism of the Catholic Church, §§120-130",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PR.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Westminster Confession of Faith, Chapter 1 (in Philip Schaff, The Creeds of Christendom, vol. 3)",
+   "schema:url": {
+    "@id": "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "Why Is Sinaiticus Significant? (Biblical Archaeology Review, November/December 2007)",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/article/why-is-sinaiticus-significant"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Institute for the Study of the Ancient World, New York University",
+   "dcterms:title": "Codex Sinaiticus (AWOL index entry for the Codex Sinaiticus Project)",
+   "schema:url": {
+    "@id": "https://isaw.nyu.edu/publications/awol-index/html/www.codexsinaiticus.org/en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Hebrews 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/hebrews/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "StudyBible.info",
+   "dcterms:title": "Luke 1:1-4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://studybible.info/WEB/Luke%201:1-4"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Colossians 4:16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/COL.4.16.WEB"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "2 Peter 3:15-17 (American Standard Version, World English Bible and Bible in Basic English)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/asv+web+bbe/2pet/3/15-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 20:31 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/john/20-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "New Testament",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/New-Testament"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Biblical literature — Determination of the canon in the 4th century",
+   "schema:url": {
+    "@id": "https://britannica.com/topic/biblical-literature/Determination-of-the-canon-in-the-4th-century"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/new-testament/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Athanasius, Letter 39 (Festal Letter for 367), trans. R. Payne-Smith",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/2806039.htm"
    }
   },
   {

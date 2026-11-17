@@ -36,6 +36,17 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+### [New Testament](../articles/bible-basics/new-testament.md) — Collection
+
+Read: Luke 22:20; Hebrews 8:6-13; Luke 1:1-4; Colossians 4:16; 2 Peter 3:15-16; John 20:31
+
+Study questions:
+- What does Jesus call the cup in Luke 22:20, and how does that explain the name "New Testament"?
+- Which Old Testament promise does Hebrews 8 quote from verse 8 onward, and what does the writer conclude from it in verse 13?
+- According to Luke 1:1-4, how did Luke go about writing his Gospel, and why?
+- What do Colossians 4:16 and 2 Peter 3:15-16 show about how the first churches shared and regarded the apostles' letters?
+- John 20:31 gives a purpose for John's Gospel. Could the same purpose describe the whole New Testament? Which of its books have you read least, and how might you begin?
+
 ### [Old Testament](../articles/bible-basics/old-testament.md) — Collection
 
 Read: Luke 24:27; Luke 24:44; Jeremiah 31:31-33; 2 Corinthians 3:14; 2 Timothy 3:15; Romans 15:4; Daniel 2:4

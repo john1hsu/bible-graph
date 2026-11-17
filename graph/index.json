@@ -2769,6 +2769,116 @@
   ]
  },
  {
+  "id": "bg:new-testament",
+  "title": "New Testament",
+  "aliases": [
+   "NT",
+   "New Covenant Scriptures",
+   "Christian Greek Scriptures"
+  ],
+  "type": "Collection",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "ecumenical",
+  "file": "articles/bible-basics/new-testament.md",
+  "created": "2026-11-17",
+  "summary": "The second part of the Christian Bible: 27 books written in Greek in the first Christian generations (four Gospels, Acts, 21 letters and Revelation) that tell of Jesus Christ and the earliest church, and that Catholic, Orthodox and Protestant Christians all receive as Scripture.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:old-testament",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:new-covenant",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:old-testament",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:festal-letter-39-of-athanasius",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:codex-sinaiticus",
+    "source": "s14",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Luke 22:20",
+   "Hebrews 8:6-13",
+   "Luke 1:1-4",
+   "Colossians 4:16",
+   "2 Peter 3:15-16",
+   "John 20:31"
+  ],
+  "studyQuestions": [
+   "What does Jesus call the cup in Luke 22:20, and how does that explain the name \"New Testament\"?",
+   "Which Old Testament promise does Hebrews 8 quote from verse 8 onward, and what does the writer conclude from it in verse 13?",
+   "According to Luke 1:1-4, how did Luke go about writing his Gospel, and why?",
+   "What do Colossians 4:16 and 2 Peter 3:15-16 show about how the first churches shared and regarded the apostles' letters?",
+   "John 20:31 gives a purpose for John's Gospel. Could the same purpose describe the whole New Testament? Which of its books have you read least, and how might you begin?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.christianity.com/bible/web/luke/22-20",
+   "https://biblehub.com/web/hebrews/8.htm",
+   "https://studybible.info/WEB/Luke%201:1-4",
+   "https://www.bible.com/bible/206/COL.4.16.WEB",
+   "https://miamisdb.org/bible/asv+web+bbe/2pet/3/15-17",
+   "https://www.christianity.com/bible/web/john/20-31",
+   "https://www.britannica.com/topic/New-Testament",
+   "https://britannica.com/topic/biblical-literature/Determination-of-the-canon-in-the-4th-century",
+   "https://www.newadvent.org/fathers/2806039.htm",
+   "https://oyc.yale.edu/node/1750",
+   "https://www.bibleodyssey.org/articles/in-what-ways-is-the-new-testament-a-religious-text/",
+   "https://www.vatican.va/archive/ENG0015/__PR.HTM",
+   "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html",
+   "https://library.biblicalarchaeology.org/article/why-is-sinaiticus-significant",
+   "https://isaw.nyu.edu/publications/awol-index/html/www.codexsinaiticus.org/en.html"
+  ]
+ },
+ {
   "id": "bg:old-testament",
   "title": "Old Testament",
   "aliases": [

@@ -5,13 +5,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 2.91 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
-| 2.45 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 2.39 | `bg:grace` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant` |
 | 2.33 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
+| 2.26 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 2.26 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
 | 2.21 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
 | 2.15 | `bg:pharisees` | `bg:the-temple` | `bg:antiquities-of-the-jews`, `bg:sadducees`, `bg:second-temple-judaism` |
-| 2.05 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 2.03 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
 | 1.99 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees`, `bg:sermon-on-the-mount` |
 | 1.94 | `bg:jeremiahs-temple-sermon` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:jerusalem`, `bg:the-temple`, `bg:worship` |
 | 1.92 | `bg:kingdom-of-god` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
@@ -20,7 +20,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.69 | `bg:parables-of-jesus` | `bg:second-temple-judaism` | `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan`, `bg:rabbinic-judaism` |
 | 1.66 | `bg:barnabas` | `bg:jerusalem` | `bg:acts-of-the-apostles`, `bg:council-of-jerusalem`, `bg:second-temple-judaism` |
 | 1.65 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan`, `bg:pharisees` |
-| 1.65 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:paul` |
+| 1.63 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:paul` |
 | 1.59 | `bg:forgiveness-in-the-bible` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:sermon-on-the-mount` |
 | 1.58 | `bg:dead-sea-scrolls` | `bg:jerusalem` | `bg:biblical-archaeology`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |
 | 1.58 | `bg:dead-sea-scrolls` | `bg:the-temple` | `bg:biblical-archaeology`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |

@@ -294,6 +294,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Luke 1:1-4** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Luke 1:1-4** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 1:1-4** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -323,6 +324,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 19:1-10** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 22:20** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Luke 22:20** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 23:34** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -346,6 +348,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **John 20:31** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 
 ## Acts
 
@@ -458,6 +461,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Colossians 4:16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 
 ## 2 Timothy
 
@@ -472,6 +476,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Hebrews 1:1-2** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Hebrews 8:6-13** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **Hebrews 8:8-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Hebrews 11:8-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
@@ -493,6 +498,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **2 Peter 1:4** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+- **2 Peter 3:15-16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 
 ## 1 John
 
