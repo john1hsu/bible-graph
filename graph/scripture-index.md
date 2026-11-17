@@ -51,6 +51,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Deuteronomy
 
+- **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -112,6 +114,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Psalm 91:11-12** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Psalm 98:7-9** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
@@ -193,6 +196,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 2:17-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Matthew 4:1-11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -258,7 +262,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:13-35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:25-27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Luke 24:27** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
+- **Luke 24:44-45** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44-47** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Luke 24:44-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 
@@ -308,6 +314,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 17:10-12** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
+- **Acts 17:11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Acts 17:16-34** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:22-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:23** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)

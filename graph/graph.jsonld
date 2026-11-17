@@ -2722,6 +2722,127 @@
    ]
   },
   {
+   "@id": "bg:scripture-interprets-scripture",
+   "@type": "bgo:Method",
+   "bgo:addresses": {
+    "@id": "bg:proof-texting"
+   },
+   "bgo:basis": "varies-by-tradition",
+   "bgo:domain": "interpretation",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/example"
+   },
+   "bgo:file": "articles/interpretation/scripture-interprets-scripture.md",
+   "bgo:heldBy": [
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    }
+   ],
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto"
+   },
+   "bgo:introducedIn": {
+    "@id": "bg:on-christian-doctrine"
+   },
+   "bgo:keyReference": [
+    "Acts 17:11",
+    "Deuteronomy 6:16",
+    "Deuteronomy 8:3",
+    "Luke 24:27",
+    "Luke 24:44-45",
+    "Matthew 4:1-11",
+    "Psalm 91:11-12"
+   ],
+   "bgo:level": "introductory",
+   "bgo:requires": {
+    "@id": "bg:reading-in-context"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s9"
+    }
+   ],
+   "rdfs:label": "Scripture Interprets Scripture",
+   "skos:altLabel": [
+    "Scriptura Scripturae interpres",
+    "Scripture is its own interpreter",
+    "analogia Scripturae",
+    "analogy of Scripture",
+    "comparing Scripture with Scripture"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "skos:definition": "The interpretive principle that the Bible is its own best interpreter: a passage is read in the light of the rest of Scripture, with clearer passages shedding light on harder ones, so that no single verse is made to say what the whole Bible does not.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Scripture Interprets Scripture",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-theology"
+    },
+    {
+     "@id": "bg:genre-in-the-bible"
+    },
+    {
+     "@id": "bg:inductive-bible-study"
+    },
+    {
+     "@id": "bg:proof-texting"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    }
+   ]
+  },
+  {
    "@id": "bg:second-temple-judaism",
    "@type": "bgo:Group",
    "bgo:basis": "debated",
@@ -4578,6 +4699,124 @@
    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology",
    "@type": "skos:ConceptScheme",
    "skos:prefLabel": "Themes, covenants and doctrines"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:scripture-interprets-scripture"
+   },
+   "rdfs:label": "In Matthew 4:1-11, where do Jesus's replies in verses 4 and 7 come from, and what situation of Israel's were those words first spoken into?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:scripture-interprets-scripture"
+   },
+   "rdfs:label": "What does the devil leave out when he uses Psalm 91 in Matthew 4:6, and what difference does Deuteronomy 6:16 make?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:scripture-interprets-scripture"
+   },
+   "rdfs:label": "According to Luke 24:27 and 24:44-45, how did the risen Jesus help his disciples understand the Scriptures as a whole?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:scripture-interprets-scripture"
+   },
+   "rdfs:label": "What did the people of Beroea do with Paul's preaching in Acts 17:11, and what would it look like for your study group to do the same?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:scripture-interprets-scripture"
+   },
+   "rdfs:label": "Is there a verse you have built a lot on by itself? Which other passages on the same subject could you read alongside it this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "Psalm 91 is a song of trust for the one who makes God their refuge; Jesus, offered this very verse as a dare, answered from Deuteronomy 6:16 that we must not put God to the test.",
+   "bgo:before": "God promised his angels will catch me, so I can push my luck and he has to rescue me.",
+   "bgo:situation": "Someone reads Psalm 91:11-12, \"they will bear you up in their hands\", and concludes that God guarantees protection from the consequences of any deliberate risk they choose to take.",
+   "bgo:why": "In Matthew 4:5-7 the devil quotes the psalm on its own, and Jesus answers \"Again, it is written\", letting another Scripture show how the promise is meant to be held."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Scripture Interprets Scripture",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/7"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Read the passage in its own setting first (paragraph, chapter, book) so you know what it says before you compare it with anything else."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Look up the cross-references in a study Bible, starting with any passage the text quotes or echoes, and read each one in its own context too."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "When the New Testament quotes the Old, open the Old Testament passage and ask what it meant there and why the New Testament writer reached for it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Gather the passages that treat the same subject directly and at length, and let these clearer, fuller passages shed light on brief or puzzling ones."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Check that each link is a real link of meaning, not just a shared English word that may mean different things in different books."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "When passages seem to pull in different directions, hold both and ask how they fit together before choosing one and setting the other aside."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/7",
+   "@type": "schema:HowToStep",
+   "schema:position": 7,
+   "schema:text": "Test your conclusion against the main lines of the whole biblical story and, as your church teaches, against its wider reading of the faith."
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1",
@@ -8879,6 +9118,188 @@
    "dcterms:title": "What Does Jeremiah 29:11 Mean? (\"For I Know the Plans I Have for You\")",
    "schema:url": {
     "@id": "https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Wiley-Blackwell (via Azbyka.ru)",
+   "dcterms:title": "Theodore G. Stylianopoulos, \"Bible\", in The Encyclopedia of Eastern Orthodox Christianity, ed. John Anthony McGuckin",
+   "schema:url": {
+    "@id": "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Archdiocese of Canada, Orthodox Church in America",
+   "dcterms:title": "The Holy Scriptures",
+   "schema:url": {
+    "@id": "https://www.archdiocese.ca/scriptures"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bethany Lutheran Theological Seminary",
+   "dcterms:title": "P. Zimmerman, \"Scripture Interprets Scripture\": A Hermeneutical Principle, Lutheran Synod Quarterly 9:3 (Spring 1969)",
+   "schema:url": {
+    "@id": "https://blts.edu/wp-content/downloads/LSQ/1969/LSQ-9,3%20Spring%201969.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of the Evangelical Theological Society (via Galaxie)",
+   "dcterms:title": "H. Wayne Johnson, The \"Analogy of Faith\" and Exegetical Methodology: A Preliminary Discussion on Relationships, JETS 31:1 (1988)",
+   "schema:url": {
+    "@id": "https://www.galaxie.com/article/jets31-1-07"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Psalm 91 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/psalms/91.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Deuteronomy 6:16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.worthy.bible/bible/web/deuteronomy/6/16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "miamisdb.org",
+   "dcterms:title": "Deuteronomy 8:3 (World English Bible and American Standard Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/asv+web/deut/8/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 17:11 (parallel translations, incl. World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/multi/acts/17-11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent (Nicene and Post-Nicene Fathers)",
+   "dcterms:title": "Augustine of Hippo, On Christian Doctrine, Book III",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/12023.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "creeds.net",
+   "dcterms:title": "Westminster Confession of Faith, chapter 1: Of the Holy Scripture",
+   "schema:url": {
+    "@id": "https://www.creeds.net/reformed/Westminster/c01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 109-119: The Holy Spirit, Interpreter of Scripture",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iii_the_holy_spirit%2C_interpreter_of_scripture.html"
    }
   },
   {

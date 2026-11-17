@@ -2640,6 +2640,130 @@
   ]
  },
  {
+  "id": "bg:scripture-interprets-scripture",
+  "title": "Scripture Interprets Scripture",
+  "aliases": [
+   "analogy of Scripture",
+   "analogia Scripturae",
+   "Scriptura Scripturae interpres",
+   "comparing Scripture with Scripture",
+   "Scripture is its own interpreter"
+  ],
+  "type": "Method",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/scripture-interprets-scripture.md",
+  "created": "2026-11-17",
+  "summary": "The interpretive principle that the Bible is its own best interpreter: a passage is read in the light of the rest of Scripture, with clearer passages shedding light on harder ones, so that no single verse is made to say what the whole Bible does not.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inductive-bible-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:genre-in-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:proof-texting"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-theology"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "bgo:addresses",
+    "object": "bg:proof-texting",
+    "source": "s12",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:on-christian-doctrine",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:reformed-tradition",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:lutheranism",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Matthew 4:1-11",
+   "Psalm 91:11-12",
+   "Deuteronomy 6:16",
+   "Deuteronomy 8:3",
+   "Luke 24:27",
+   "Luke 24:44-45",
+   "Acts 17:11"
+  ],
+  "studyQuestions": [
+   "In Matthew 4:1-11, where do Jesus's replies in verses 4 and 7 come from, and what situation of Israel's were those words first spoken into?",
+   "What does the devil leave out when he uses Psalm 91 in Matthew 4:6, and what difference does Deuteronomy 6:16 make?",
+   "According to Luke 24:27 and 24:44-45, how did the risen Jesus help his disciples understand the Scriptures as a whole?",
+   "What did the people of Beroea do with Paul's preaching in Acts 17:11, and what would it look like for your study group to do the same?",
+   "Is there a verse you have built a lot on by itself? Which other passages on the same subject could you read alongside it this week?"
+  ],
+  "steps": [
+   "Read the passage in its own setting first (paragraph, chapter, book) so you know what it says before you compare it with anything else.",
+   "Look up the cross-references in a study Bible, starting with any passage the text quotes or echoes, and read each one in its own context too.",
+   "When the New Testament quotes the Old, open the Old Testament passage and ask what it meant there and why the New Testament writer reached for it.",
+   "Gather the passages that treat the same subject directly and at length, and let these clearer, fuller passages shed light on brief or puzzling ones.",
+   "Check that each link is a real link of meaning, not just a shared English word that may mean different things in different books.",
+   "When passages seem to pull in different directions, hold both and ask how they fit together before choosing one and setting the other aside.",
+   "Test your conclusion against the main lines of the whole biblical story and, as your church teaches, against its wider reading of the faith."
+  ],
+  "example": {
+   "situation": "Someone reads Psalm 91:11-12, \"they will bear you up in their hands\", and concludes that God guarantees protection from the consequences of any deliberate risk they choose to take.",
+   "before": "God promised his angels will catch me, so I can push my luck and he has to rescue me.",
+   "after": "Psalm 91 is a song of trust for the one who makes God their refuge; Jesus, offered this very verse as a dare, answered from Deuteronomy 6:16 that we must not put God to the test.",
+   "why": "In Matthew 4:5-7 the devil quotes the psalm on its own, and Jesus answers \"Again, it is written\", letting another Scripture show how the promise is meant to be held."
+  },
+  "source_urls": [
+   "https://biblehub.com/web/matthew/4.htm",
+   "https://bibliaparalela.com/web/psalms/91.htm",
+   "https://www.worthy.bible/bible/web/deuteronomy/6/16",
+   "https://miamisdb.org/bible/asv+web/deut/8/3",
+   "https://bibliaparalela.com/web/luke/24.htm",
+   "https://www.bibliaparalela.com/multi/acts/17-11.htm",
+   "https://www.newadvent.org/fathers/12023.htm",
+   "https://www.creeds.net/reformed/Westminster/c01.htm",
+   "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iii_the_holy_spirit%2C_interpreter_of_scripture.html",
+   "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43",
+   "https://www.archdiocese.ca/scriptures",
+   "https://blts.edu/wp-content/downloads/LSQ/1969/LSQ-9,3%20Spring%201969.pdf",
+   "https://www.galaxie.com/article/jets31-1-07"
+  ]
+ },
+ {
   "id": "bg:second-temple-judaism",
   "title": "Second Temple Judaism",
   "aliases": [

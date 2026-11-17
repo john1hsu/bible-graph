@@ -17,6 +17,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.63 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 1.49 | `bg:gospel-of-luke` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:parables-of-jesus` |
 | 1.44 | `bg:barnabas` | `bg:moses` | `bg:levites` |
+| 1.44 | `bg:scripture-interprets-scripture` | `bg:the-story-of-the-bible` | `bg:catholic-church` |
 | 1.28 | `bg:acts-of-the-apostles` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:new-testament` |
 | 1.26 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 1.26 | `bg:acts-of-the-apostles` | `bg:grace` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:paul` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.12 | `bg:babylonian-exile` | `bg:kingdom-of-god` | `bg:jerusalem`, `bg:second-temple-judaism`, `bg:the-story-of-the-bible` |
 | 1.09 | `bg:gospel-of-matthew` | `bg:jerusalem` | `bg:book-of-jeremiah`, `bg:gospel-of-luke`, `bg:kingdom-of-god` |
 | 1.09 | `bg:jerusalem` | `bg:reading-in-context` | `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:jeremiahs-temple-sermon` |
-| 1.06 | `bg:babylonian-exile` | `bg:septuagint` | `bg:book-of-ezra`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |

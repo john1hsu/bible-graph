@@ -124,6 +124,33 @@ Study questions:
 - Revelation 3:20 is often used in evangelism. To whom is it first addressed (Revelation 3:14-22), and what does that add to its meaning?
 - Which verse do you hold dear but have never read in its surrounding chapter, and what do you notice when you read the whole chapter this week?
 
+### [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) — Method
+
+Read: Matthew 4:1-11; Psalm 91:11-12; Deuteronomy 6:16; Deuteronomy 8:3; Luke 24:27; Luke 24:44-45; Acts 17:11
+
+1. Read the passage in its own setting first (paragraph, chapter, book) so you know what it says before you compare it with anything else.
+2. Look up the cross-references in a study Bible, starting with any passage the text quotes or echoes, and read each one in its own context too.
+3. When the New Testament quotes the Old, open the Old Testament passage and ask what it meant there and why the New Testament writer reached for it.
+4. Gather the passages that treat the same subject directly and at length, and let these clearer, fuller passages shed light on brief or puzzling ones.
+5. Check that each link is a real link of meaning, not just a shared English word that may mean different things in different books.
+6. When passages seem to pull in different directions, hold both and ask how they fit together before choosing one and setting the other aside.
+7. Test your conclusion against the main lines of the whole biblical story and, as your church teaches, against its wider reading of the faith.
+
+*Someone reads Psalm 91:11-12, "they will bear you up in their hands", and concludes that God guarantees protection from the consequences of any deliberate risk they choose to take.*
+
+| Before | After |
+|---|---|
+| God promised his angels will catch me, so I can push my luck and he has to rescue me. | Psalm 91 is a song of trust for the one who makes God their refuge; Jesus, offered this very verse as a dare, answered from Deuteronomy 6:16 that we must not put God to the test. |
+
+**Why:** In Matthew 4:5-7 the devil quotes the psalm on its own, and Jesus answers "Again, it is written", letting another Scripture show how the promise is meant to be held.
+
+Study questions:
+- In Matthew 4:1-11, where do Jesus's replies in verses 4 and 7 come from, and what situation of Israel's were those words first spoken into?
+- What does the devil leave out when he uses Psalm 91 in Matthew 4:6, and what difference does Deuteronomy 6:16 make?
+- According to Luke 24:27 and 24:44-45, how did the risen Jesus help his disciples understand the Scriptures as a whole?
+- What did the people of Beroea do with Paul's preaching in Acts 17:11, and what would it look like for your study group to do the same?
+- Is there a verse you have built a lot on by itself? Which other passages on the same subject could you read alongside it this week?
+
 ## key-passages
 
 ### [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) — Passage
