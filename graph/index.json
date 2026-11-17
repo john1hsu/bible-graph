@@ -901,6 +901,112 @@
   ]
  },
  {
+  "id": "bg:genre-in-the-bible",
+  "title": "Genre in the Bible",
+  "aliases": [
+   "reading by genre",
+   "literary genres of Scripture",
+   "literary forms of Scripture",
+   "biblical genres"
+  ],
+  "type": "Method",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/interpretation/genre-in-the-bible.md",
+  "created": "2026-11-17",
+  "summary": "The interpretive habit of noticing what kind of writing a passage is (story, law, song, proverb, prophecy, gospel, letter or apocalypse) and reading it by the rules of that kind, so that we hear what its author meant in the way he meant it.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inductive-bible-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-interprets-scripture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "bgo:addresses",
+    "object": "bg:reading-proverbs-as-promises",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:usedFor",
+    "object": "bg:hebrew-poetry",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:usedFor",
+    "object": "bg:wisdom-literature",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:usedFor",
+    "object": "bg:apocalyptic-literature",
+    "source": "s10",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Exodus 14:21-31",
+   "Exodus 15:1-21",
+   "Psalm 98:7-9",
+   "Proverbs 26:4-5",
+   "Luke 1:1-4",
+   "Revelation 1:1-4"
+  ],
+  "studyQuestions": [
+   "Read Exodus 14:21-31 and then Exodus 15:1-10. What does the song add to the narrative account of the same event?",
+   "Psalm 98:8 calls on rivers to clap their hands. What is the psalmist inviting us to see and do?",
+   "How does Luke describe his purpose in Luke 1:1-4, and what does that tell you about the kind of book he is writing?",
+   "Revelation 1:1-4 calls the book a revelation, a prophecy and (by its greeting) a letter. How might each of these shape the way you read it?",
+   "Which part of the Bible do you find hardest to read, and could knowing more about its kind of writing help?"
+  ],
+  "steps": [
+   "Before interpreting a passage, ask what kind of writing it is (narrative, law, poetry, proverb, prophecy, gospel, letter or apocalypse) and look for clues the book gives about itself.",
+   "Note the features of that kind of writing, such as parallel lines and imagery in poetry, short general sayings in proverbs, or greetings and arguments in letters.",
+   "Ask what that kind of writing is designed to do (tell what happened, command, praise, give practical wisdom, warn, comfort or encourage endurance) and let that purpose guide your conclusions.",
+   "Compare passages where the Bible tells the same thing in two forms, such as the Red Sea in Exodus 14 and 15, and notice what each form adds.",
+   "Check your genre judgment with a study Bible or Bible dictionary, and hold it humbly where careful readers disagree.",
+   "Apply the passage in a way that fits its genre, taking a promise as a promise, a proverb as wise counsel and a song as praise to join."
+  ],
+  "example": {
+   "situation": "A small-group member reads Proverbs 26:4 and 26:5 side by side and concludes that the Bible contradicts itself.",
+   "before": "Verse 4 says don't answer a fool and verse 5 says answer him, so one of these must be wrong, and Proverbs can't be trusted.",
+   "after": "These are proverbs, not laws. Placed side by side, they teach that sometimes silence is wise and sometimes a reply is needed, and wisdom lies in discerning which situation I am in.",
+   "why": "Proverbs are short sayings that capture general truths for particular situations; reading them as rigid rules or guarantees misses how the genre works."
+  },
+  "source_urls": [
+   "https://bibliaparalela.com/web/proverbs/26.htm",
+   "https://biblehub.com/web/exodus/14.htm",
+   "https://bibliaparalela.com/web/exodus/15.htm",
+   "https://biblehub.com/web/psalms/98.htm",
+   "https://bibleinyear.com/chapter/luke-1",
+   "https://bibliaparalela.com/web/revelation/1.htm",
+   "https://www.intratext.com/IXT/ENG0037/_P4.HTM",
+   "https://library.dts.edu/Pages/TL/Special/ICBI_2.pdf",
+   "https://www.cambridge.org/core/books/methods-for-exodus/genre-criticism/C5586D36DAAC6387D7AC74F28383DDCC",
+   "https://academic.oup.com/book/1920",
+   "https://enterthebible.org/passage/proverbs-264-5-responding-to-fools",
+   "https://bibleproject.com/podcast/how-read-bible-part-4-poetry-narrative-and-prose-discourse-genres/"
+  ]
+ },
+ {
   "id": "bg:gospel-of-luke",
   "title": "Gospel of Luke",
   "aliases": [

@@ -72,6 +72,32 @@ Study questions:
 
 ## interpretation
 
+### [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) — Method
+
+Read: Exodus 14:21-31; Exodus 15:1-21; Psalm 98:7-9; Proverbs 26:4-5; Luke 1:1-4; Revelation 1:1-4
+
+1. Before interpreting a passage, ask what kind of writing it is (narrative, law, poetry, proverb, prophecy, gospel, letter or apocalypse) and look for clues the book gives about itself.
+2. Note the features of that kind of writing, such as parallel lines and imagery in poetry, short general sayings in proverbs, or greetings and arguments in letters.
+3. Ask what that kind of writing is designed to do (tell what happened, command, praise, give practical wisdom, warn, comfort or encourage endurance) and let that purpose guide your conclusions.
+4. Compare passages where the Bible tells the same thing in two forms, such as the Red Sea in Exodus 14 and 15, and notice what each form adds.
+5. Check your genre judgment with a study Bible or Bible dictionary, and hold it humbly where careful readers disagree.
+6. Apply the passage in a way that fits its genre, taking a promise as a promise, a proverb as wise counsel and a song as praise to join.
+
+*A small-group member reads Proverbs 26:4 and 26:5 side by side and concludes that the Bible contradicts itself.*
+
+| Before | After |
+|---|---|
+| Verse 4 says don't answer a fool and verse 5 says answer him, so one of these must be wrong, and Proverbs can't be trusted. | These are proverbs, not laws. Placed side by side, they teach that sometimes silence is wise and sometimes a reply is needed, and wisdom lies in discerning which situation I am in. |
+
+**Why:** Proverbs are short sayings that capture general truths for particular situations; reading them as rigid rules or guarantees misses how the genre works.
+
+Study questions:
+- Read Exodus 14:21-31 and then Exodus 15:1-10. What does the song add to the narrative account of the same event?
+- Psalm 98:8 calls on rivers to clap their hands. What is the psalmist inviting us to see and do?
+- How does Luke describe his purpose in Luke 1:1-4, and what does that tell you about the kind of book he is writing?
+- Revelation 1:1-4 calls the book a revelation, a prophecy and (by its greeting) a letter. How might each of these shape the way you read it?
+- Which part of the Bible do you find hardest to read, and could knowing more about its kind of writing help?
+
 ### [Reading in Context](../articles/interpretation/reading-in-context.md) — Method
 
 Read: Jeremiah 29:1-14; Philippians 4:10-14; Revelation 3:14-22; Nehemiah 8:8

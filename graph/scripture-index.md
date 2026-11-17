@@ -27,7 +27,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 12:26-27** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 12:37-42** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 12:51** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 14:21-31** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Exodus 14:21-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Exodus 15:1-21** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -108,6 +110,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Psalm 98:7-9** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
@@ -115,6 +118,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Psalm 137:1-4** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Psalm 145:11-13** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+
+## Proverbs
+
+- **Proverbs 26:4-5** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 
 ## Isaiah
 
@@ -217,6 +224,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Luke
 
 - **Luke 1:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Luke 1:1-4** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Luke 1:1-4** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -393,6 +401,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Revelation
 
+- **Revelation 1:1-4** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Revelation 3:14-22** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 - **Revelation 11:15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Revelation 21:1-5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)

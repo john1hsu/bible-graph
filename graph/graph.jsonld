@@ -943,6 +943,113 @@
    ]
   },
   {
+   "@id": "bg:genre-in-the-bible",
+   "@type": "bgo:Method",
+   "bgo:addresses": {
+    "@id": "bg:reading-proverbs-as-promises"
+   },
+   "bgo:basis": "devotional",
+   "bgo:domain": "interpretation",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example"
+   },
+   "bgo:file": "articles/interpretation/genre-in-the-bible.md",
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto"
+   },
+   "bgo:keyReference": [
+    "Exodus 14:21-31",
+    "Exodus 15:1-21",
+    "Luke 1:1-4",
+    "Proverbs 26:4-5",
+    "Psalm 98:7-9",
+    "Revelation 1:1-4"
+   ],
+   "bgo:level": "introductory",
+   "bgo:usedFor": [
+    {
+     "@id": "bg:apocalyptic-literature"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    },
+    {
+     "@id": "bg:wisdom-literature"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9"
+    }
+   ],
+   "rdfs:label": "Genre in the Bible",
+   "skos:altLabel": [
+    "biblical genres",
+    "literary forms of Scripture",
+    "literary genres of Scripture",
+    "reading by genre"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "skos:definition": "The interpretive habit of noticing what kind of writing a passage is (story, law, song, proverb, prophecy, gospel, letter or apocalypse) and reading it by the rules of that kind, so that we hear what its author meant in the way he meant it.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Genre in the Bible",
+   "skos:related": [
+    {
+     "@id": "bg:inductive-bible-study"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    },
+    {
+     "@id": "bg:the-exodus"
+    }
+   ]
+  },
+  {
    "@id": "bg:gospel-of-luke",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -3459,6 +3566,115 @@
    "rdfs:label": "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "rdfs:label": "Read Exodus 14:21-31 and then Exodus 15:1-10. What does the song add to the narrative account of the same event?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "rdfs:label": "Psalm 98:8 calls on rivers to clap their hands. What is the psalmist inviting us to see and do?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "rdfs:label": "How does Luke describe his purpose in Luke 1:1-4, and what does that tell you about the kind of book he is writing?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "rdfs:label": "Revelation 1:1-4 calls the book a revelation, a prophecy and (by its greeting) a letter. How might each of these shape the way you read it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "rdfs:label": "Which part of the Bible do you find hardest to read, and could knowing more about its kind of writing help?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "These are proverbs, not laws. Placed side by side, they teach that sometimes silence is wise and sometimes a reply is needed, and wisdom lies in discerning which situation I am in.",
+   "bgo:before": "Verse 4 says don't answer a fool and verse 5 says answer him, so one of these must be wrong, and Proverbs can't be trusted.",
+   "bgo:situation": "A small-group member reads Proverbs 26:4 and 26:5 side by side and concludes that the Bible contradicts itself.",
+   "bgo:why": "Proverbs are short sayings that capture general truths for particular situations; reading them as rigid rules or guarantees misses how the genre works."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Genre in the Bible",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Before interpreting a passage, ask what kind of writing it is (narrative, law, poetry, proverb, prophecy, gospel, letter or apocalypse) and look for clues the book gives about itself."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Note the features of that kind of writing, such as parallel lines and imagery in poetry, short general sayings in proverbs, or greetings and arguments in letters."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Ask what that kind of writing is designed to do (tell what happened, command, praise, give practical wisdom, warn, comfort or encourage endurance) and let that purpose guide your conclusions."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Compare passages where the Bible tells the same thing in two forms, such as the Red Sea in Exodus 14 and 15, and notice what each form adds."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Check your genre judgment with a study Bible or Bible dictionary, and hold it humbly where careful readers disagree."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Apply the passage in a way that fits its genre, taking a promise as a promise, a proverb as wise counsel and a song as praise to join."
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -5791,6 +6007,174 @@
    "dcterms:title": "Colossians 3 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/col/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Proverbs 26 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/proverbs/26.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Oxford University Press",
+   "dcterms:title": "Steven L. McKenzie, How to Read the Bible: History, Prophecy, Literature",
+   "schema:url": {
+    "@id": "https://academic.oup.com/book/1920"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Enter the Bible, Luther Seminary",
+   "dcterms:title": "Proverbs 26:4-5: Responding to Fools",
+   "schema:url": {
+    "@id": "https://enterthebible.org/passage/proverbs-264-5-responding-to-fools"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "BibleProject",
+   "dcterms:title": "How to Read the Bible, part 4: Poetry, Narrative, and Prose Discourse",
+   "schema:url": {
+    "@id": "https://bibleproject.com/podcast/how-read-bible-part-4-poetry-narrative-and-prose-discourse-genres/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 14 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Exodus 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/exodus/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 98 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/98.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible in a Year",
+   "dcterms:title": "Luke 1 (New Heart English Bible)",
+   "schema:url": {
+    "@id": "https://bibleinyear.com/chapter/luke-1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Revelation 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/revelation/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "IntraText (text of the Second Vatican Council)",
+   "dcterms:title": "Dei Verbum (Dogmatic Constitution on Divine Revelation), chapter III, para. 12",
+   "schema:url": {
+    "@id": "https://www.intratext.com/IXT/ENG0037/_P4.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Dallas Theological Seminary Library",
+   "dcterms:title": "The Chicago Statement on Biblical Hermeneutics (1982)",
+   "schema:url": {
+    "@id": "https://library.dts.edu/Pages/TL/Special/ICBI_2.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "Kenton L. Sparks, \"Genre Criticism\", in Methods for Exodus, ed. Thomas B. Dozeman",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/methods-for-exodus/genre-criticism/C5586D36DAAC6387D7AC74F28383DDCC"
    }
   },
   {

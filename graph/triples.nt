@@ -493,6 +493,95 @@
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Exodus 14:21-31 and then Exodus 15:1-10. What does the song add to the narrative account of the same event?" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 98:8 calls on rivers to clap their hands. What is the psalmist inviting us to see and do?" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "How does Luke describe his purpose in Luke 1:1-4, and what does that tell you about the kind of book he is writing?" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Revelation 1:1-4 calls the book a revelation, a prophecy and (by its greeting) a letter. How might each of these shape the way you read it?" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Which part of the Bible do you find hardest to read, and could knowing more about its kind of writing help?" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> <https://github.com/john1hsu/bible-graph/ontology#after> "These are proverbs, not laws. Placed side by side, they teach that sometimes silence is wise and sometimes a reply is needed, and wisdom lies in discerning which situation I am in." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> <https://github.com/john1hsu/bible-graph/ontology#before> "Verse 4 says don't answer a fool and verse 5 says answer him, so one of these must be wrong, and Proverbs can't be trusted." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> <https://github.com/john1hsu/bible-graph/ontology#situation> "A small-group member reads Proverbs 26:4 and 26:5 side by side and concludes that the Bible contradicts itself." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> <https://github.com/john1hsu/bible-graph/ontology#why> "Proverbs are short sayings that capture general truths for particular situations; reading them as rigid rules or guarantees misses how the genre works." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1> <https://schema.org/text> "Before interpreting a passage, ask what kind of writing it is (narrative, law, poetry, proverb, prophecy, gospel, letter or apocalypse) and look for clues the book gives about itself." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2> <https://schema.org/text> "Note the features of that kind of writing, such as parallel lines and imagery in poetry, short general sayings in proverbs, or greetings and arguments in letters." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3> <https://schema.org/text> "Ask what that kind of writing is designed to do (tell what happened, command, praise, give practical wisdom, warn, comfort or encourage endurance) and let that purpose guide your conclusions." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4> <https://schema.org/text> "Compare passages where the Bible tells the same thing in two forms, such as the Red Sea in Exodus 14 and 15, and notice what each form adds." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5> <https://schema.org/text> "Check your genre judgment with a study Bible or Bible dictionary, and hold it humbly where careful readers disagree." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6> <https://schema.org/text> "Apply the passage in a way that fits its genre, taking a promise as a promise, a proverb as wise counsel and a song as praise to join." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/name> "Genre in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/1> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/2> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/3> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/4> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/5> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto/6> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Method> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2000/01/rdf-schema#label> "Genre in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical genres" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "literary forms of Scripture" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "literary genres of Scripture" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#altLabel> "reading by genre" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#definition> "The interpretive habit of noticing what kind of writing a passage is (story, law, song, proverb, prophecy, gospel, letter or apocalypse) and reading it by the rules of that kind, so that we hear what its author meant in the way he meant it." .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/interpretation> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genre in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#domain> "interpretation" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#example> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/example> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/interpretation/genre-in-the-bible.md" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#howTo> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/howto> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 14:21-31" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 15:1-21" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:1-4" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Proverbs 26:4-5" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 98:7-9" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 1:1-4" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/apocalyptic-literature> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#usedFor> <https://github.com/john1hsu/bible-graph/id/wisdom-literature> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?" .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
@@ -2299,6 +2388,78 @@
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/col/3> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/title> "Steven L. McKenzie, How to Read the Bible: History, Prophecy, Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <https://schema.org/url> <https://academic.oup.com/book/1920> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <http://purl.org/dc/terms/publisher> "Enter the Bible, Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <http://purl.org/dc/terms/title> "Proverbs 26:4-5: Responding to Fools" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s11> <https://schema.org/url> <https://enterthebible.org/passage/proverbs-264-5-responding-to-fools> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <http://purl.org/dc/terms/publisher> "BibleProject" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <http://purl.org/dc/terms/title> "How to Read the Bible, part 4: Poetry, Narrative, and Prose Discourse" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s12> <https://schema.org/url> <https://bibleproject.com/podcast/how-read-bible-part-4-poetry-narrative-and-prose-discourse-genres/> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <http://purl.org/dc/terms/title> "Proverbs 26 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s1> <https://schema.org/url> <https://bibliaparalela.com/web/proverbs/26.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <http://purl.org/dc/terms/title> "Exodus 14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s2> <https://schema.org/url> <https://biblehub.com/web/exodus/14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <http://purl.org/dc/terms/title> "Exodus 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s3> <https://schema.org/url> <https://bibliaparalela.com/web/exodus/15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <http://purl.org/dc/terms/title> "Psalm 98 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s4> <https://schema.org/url> <https://biblehub.com/web/psalms/98.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <http://purl.org/dc/terms/publisher> "Bible in a Year" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <http://purl.org/dc/terms/title> "Luke 1 (New Heart English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s5> <https://schema.org/url> <https://bibleinyear.com/chapter/luke-1> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <http://purl.org/dc/terms/title> "Revelation 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s6> <https://schema.org/url> <https://bibliaparalela.com/web/revelation/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <http://purl.org/dc/terms/publisher> "IntraText (text of the Second Vatican Council)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <http://purl.org/dc/terms/title> "Dei Verbum (Dogmatic Constitution on Divine Revelation), chapter III, para. 12" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s7> <https://schema.org/url> <https://www.intratext.com/IXT/ENG0037/_P4.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <http://purl.org/dc/terms/publisher> "Dallas Theological Seminary Library" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <http://purl.org/dc/terms/title> "The Chicago Statement on Biblical Hermeneutics (1982)" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s8> <https://schema.org/url> <https://library.dts.edu/Pages/TL/Special/ICBI_2.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <http://purl.org/dc/terms/title> "Kenton L. Sparks, \"Genre Criticism\", in Methods for Exodus, ed. Thomas B. Dozeman" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s9> <https://schema.org/url> <https://www.cambridge.org/core/books/methods-for-exodus/genre-criticism/C5586D36DAAC6387D7AC74F28383DDCC> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
 <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/title> "The Gospel According to Luke (American Standard Version)" .
