@@ -3,7 +3,7 @@
 - Articles (nodes written): **29**
 - Frontier nodes (referenced, unwritten): **129**
 - Asserted edges: **355** (typed + evidenced: **162**)
-- Asserted triples: **4405**; inferred by OWL-RL: **678**
+- Asserted triples: **4406**; inferred by OWL-RL: **678**
 - Citations: **390**
 - Scripture references: **293**; study questions: **140**; procedures: **4**; before/after examples: **4**
 - Weakly connected components: **1**

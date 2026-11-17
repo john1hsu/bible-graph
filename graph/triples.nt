@@ -1650,6 +1650,7 @@
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/6> .
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/howto/7> .
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://purl.org/dc/terms/modified> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Method> .
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2000/01/rdf-schema#label> "Scripture Interprets Scripture" .
 <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2004/02/skos/core#altLabel> "Scriptura Scripturae interpres" .

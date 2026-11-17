@@ -2767,6 +2767,10 @@
     "@type": "xsd:date",
     "@value": "2026-11-17"
    },
+   "dcterms:modified": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
    "prov:wasDerivedFrom": [
     {
      "@id": "https://github.com/john1hsu/bible-graph/id/source/scripture-interprets-scripture/s1"
