@@ -486,6 +486,32 @@ Study questions:
 - Read Mark 4:35-41 slowly and list everything you observe before deciding what it means. What did you notice that you had missed before?
 - Which of the phases (observation, interpretation, correlation, application) do you tend to skip, and how could your group help you slow down?
 
+### [Lectio Divina](../articles/study-practices/lectio-divina.md) — Practice
+
+Read: Psalm 1:1-3; Joshua 1:8; Luke 2:19; Luke 10:38-42
+
+1. Choose a short passage of a few verses, such as a Gospel scene or a psalm, settle into quiet, and ask God to speak to you through his word.
+2. Lectio - read the passage slowly several times, aloud if you can, and first ask what the text says in itself and where it sits in its chapter.
+3. Meditatio - stay with a word or phrase that stands out, turn it over, and ask what that meaning says to your life today.
+4. Oratio - answer God in your own words, with thanks, confession, questions or requests drawn from the passage.
+5. Contemplatio - rest quietly before God for a few minutes without trying to produce more thoughts.
+6. Actio - choose one concrete way to live out what you received, and test any strong impression against the wider Bible and with your church or small group.
+
+*A member of a small group prays through Luke 10:38-42, the visit of Jesus to Martha and Mary, during a busy season of church volunteering.*
+
+| Before | After |
+|---|---|
+| Jesus' words to Martha about the one thing needed jumped out at me, so God is telling me to quit the hospitality team. | In the scene, Jesus defends Mary for sitting and listening to him while Martha is pulled apart by her serving; he invites me to put listening to him first and to notice where worry crowds it out, and my serving can grow from that. |
+
+**Why:** Lectio begins by asking what the text says in itself before asking what it says to me, so a striking phrase is heard within its scene instead of as a free-floating private message.
+
+Study questions:
+- According to Psalm 1:1-3, where does the blessed person find delight, and what picture describes the result of meditating day and night?
+- Joshua 1:8 says the book of the law should not depart from Joshua's mouth. What does that suggest about how meditation was practised, and what is it meant to lead to?
+- What did Mary do with the shepherds' words in Luke 2:19, and how is that like the step of meditatio?
+- In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?
+- Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?
+
 ## themes-and-theology
 
 ### [Grace](../articles/themes-and-theology/grace.md) — Theme

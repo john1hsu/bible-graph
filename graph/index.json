@@ -2371,6 +2371,116 @@
   ]
  },
  {
+  "id": "bg:lectio-divina",
+  "title": "Lectio Divina",
+  "aliases": [
+   "divine reading",
+   "sacred reading",
+   "prayerful reading of Scripture",
+   "lectio",
+   "reading meditation prayer contemplation"
+  ],
+  "type": "Practice",
+  "domain": "study-practices",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/study-practices/lectio-divina.md",
+  "created": "2026-11-17",
+  "summary": "An ancient Christian way of reading a short passage of Scripture slowly and prayerfully, moving through reading (lectio), meditation (meditatio), prayer (oratio) and contemplation (contemplatio), and often on to action (actio), so that reading the Bible becomes a conversation with God.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inductive-bible-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:origen",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:guigo-ii",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:ladder-of-monks",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:addresses",
+    "object": "bg:eisegesis",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 1:1-3",
+   "Joshua 1:8",
+   "Luke 2:19",
+   "Luke 10:38-42"
+  ],
+  "studyQuestions": [
+   "According to Psalm 1:1-3, where does the blessed person find delight, and what picture describes the result of meditating day and night?",
+   "Joshua 1:8 says the book of the law should not depart from Joshua's mouth. What does that suggest about how meditation was practised, and what is it meant to lead to?",
+   "What did Mary do with the shepherds' words in Luke 2:19, and how is that like the step of meditatio?",
+   "In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?",
+   "Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?"
+  ],
+  "steps": [
+   "Choose a short passage of a few verses, such as a Gospel scene or a psalm, settle into quiet, and ask God to speak to you through his word.",
+   "Lectio - read the passage slowly several times, aloud if you can, and first ask what the text says in itself and where it sits in its chapter.",
+   "Meditatio - stay with a word or phrase that stands out, turn it over, and ask what that meaning says to your life today.",
+   "Oratio - answer God in your own words, with thanks, confession, questions or requests drawn from the passage.",
+   "Contemplatio - rest quietly before God for a few minutes without trying to produce more thoughts.",
+   "Actio - choose one concrete way to live out what you received, and test any strong impression against the wider Bible and with your church or small group."
+  ],
+  "example": {
+   "situation": "A member of a small group prays through Luke 10:38-42, the visit of Jesus to Martha and Mary, during a busy season of church volunteering.",
+   "before": "Jesus' words to Martha about the one thing needed jumped out at me, so God is telling me to quit the hospitality team.",
+   "after": "In the scene, Jesus defends Mary for sitting and listening to him while Martha is pulled apart by her serving; he invites me to put listening to him first and to notice where worry crowds it out, and my serving can grow from that.",
+   "why": "Lectio begins by asking what the text says in itself before asking what it says to me, so a striking phrase is heard within its scene instead of as a free-floating private message."
+  },
+  "source_urls": [
+   "https://www.christianity.com/bible/web/psalm/1-1-3",
+   "https://biblehub.com/multi/joshua/1-8.htm",
+   "https://biblehub.com/parallel/luke/2-19.htm",
+   "https://www.christianity.com/bible/web/luke/10-38-42",
+   "https://www.catholicculture.org/culture/library/view.cfm?id=9460",
+   "https://www.vatican.va/archive/ENG0015/__P9L.HTM",
+   "https://www.usccb.org/resources/lectio-divina.pdf",
+   "https://biblico.it/doc-vari/swetnam_lec_div_ing.html",
+   "https://digitalcommons.csbsju.edu/sot_pubs/129",
+   "https://pressbooks.palni.org/ruleofbenedict/?p=183",
+   "https://www.newadvent.org/fathers/0415.htm",
+   "https://www.umilta.net/ladder.html",
+   "https://media.ctsfw.edu/Item/GetFullText/306",
+   "https://api.philpapers.org/rec/HOWLDI-2",
+   "https://gospelstudies.org.uk/biblicalstudies/pdf/jehs/03-2_033.pdf"
+  ]
+ },
+ {
   "id": "bg:lords-prayer",
   "title": "The Lord's Prayer",
   "aliases": [

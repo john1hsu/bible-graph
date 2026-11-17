@@ -2466,6 +2466,121 @@
    ]
   },
   {
+   "@id": "bg:lectio-divina",
+   "@type": "bgo:Practice",
+   "bgo:addresses": {
+    "@id": "bg:eisegesis"
+   },
+   "bgo:basis": "devotional",
+   "bgo:domain": "study-practices",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/example"
+   },
+   "bgo:file": "articles/study-practices/lectio-divina.md",
+   "bgo:heldBy": {
+    "@id": "bg:catholic-church"
+   },
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto"
+   },
+   "bgo:introducedBy": [
+    {
+     "@id": "bg:guigo-ii"
+    },
+    {
+     "@id": "bg:origen"
+    }
+   ],
+   "bgo:introducedIn": {
+    "@id": "bg:ladder-of-monks"
+   },
+   "bgo:keyReference": [
+    "Joshua 1:8",
+    "Luke 10:38-42",
+    "Luke 2:19",
+    "Psalm 1:1-3"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9"
+    }
+   ],
+   "rdfs:label": "Lectio Divina",
+   "skos:altLabel": [
+    "divine reading",
+    "lectio",
+    "prayerful reading of Scripture",
+    "reading meditation prayer contemplation",
+    "sacred reading"
+   ],
+   "skos:broader": {
+    "@id": "bg:prayer"
+   },
+   "skos:definition": "An ancient Christian way of reading a short passage of Scripture slowly and prayerfully, moving through reading (lectio), meditation (meditatio), prayer (oratio) and contemplation (contemplatio), and often on to action (actio), so that reading the Bible becomes a conversation with God.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/study-practices"
+   },
+   "skos:prefLabel": "Lectio Divina",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-interpretation"
+    },
+    {
+     "@id": "bg:inductive-bible-study"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    }
+   ]
+  },
+  {
    "@id": "bg:lords-prayer",
    "@type": "bgo:Passage",
    "bgo:basis": "varies-by-tradition",
@@ -5663,6 +5778,115 @@
     "@id": "bg:laying-the-foundation-of-the-second-temple"
    },
    "rdfs:label": "Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you \"could not discern\" one from the other? What does this passage give you to bring to such a moment?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lectio-divina"
+   },
+   "rdfs:label": "According to Psalm 1:1-3, where does the blessed person find delight, and what picture describes the result of meditating day and night?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lectio-divina"
+   },
+   "rdfs:label": "Joshua 1:8 says the book of the law should not depart from Joshua's mouth. What does that suggest about how meditation was practised, and what is it meant to lead to?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lectio-divina"
+   },
+   "rdfs:label": "What did Mary do with the shepherds' words in Luke 2:19, and how is that like the step of meditatio?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lectio-divina"
+   },
+   "rdfs:label": "In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lectio-divina"
+   },
+   "rdfs:label": "Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "In the scene, Jesus defends Mary for sitting and listening to him while Martha is pulled apart by her serving; he invites me to put listening to him first and to notice where worry crowds it out, and my serving can grow from that.",
+   "bgo:before": "Jesus' words to Martha about the one thing needed jumped out at me, so God is telling me to quit the hospitality team.",
+   "bgo:situation": "A member of a small group prays through Luke 10:38-42, the visit of Jesus to Martha and Mary, during a busy season of church volunteering.",
+   "bgo:why": "Lectio begins by asking what the text says in itself before asking what it says to me, so a striking phrase is heard within its scene instead of as a free-floating private message."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Lectio Divina",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Choose a short passage of a few verses, such as a Gospel scene or a psalm, settle into quiet, and ask God to speak to you through his word."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Lectio - read the passage slowly several times, aloud if you can, and first ask what the text says in itself and where it sits in its chapter."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Meditatio - stay with a word or phrase that stands out, turn it over, and ask what that meaning says to your life today."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Oratio - answer God in your own words, with thanks, confession, questions or requests drawn from the passage."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Contemplatio - rest quietly before God for a few minutes without trying to produce more thoughts."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "Actio - choose one concrete way to live out what you received, and test any strong impression against the wider Bible and with your church or small group."
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/lords-prayer/check/1",
@@ -10395,6 +10619,216 @@
    "dcterms:title": "Book of Ezra (Encyclopedia of The Bible)",
    "schema:url": {
     "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ezra"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Psalm 1:1-3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/psalm/1-1-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Saint Meinrad Archabbey (PALNI Press)",
+   "dcterms:title": "The Rule of Saint Benedict, chapter 48: The Daily Manual Labor",
+   "schema:url": {
+    "@id": "https://pressbooks.palni.org/ruleofbenedict/?p=183"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Origen, Letter to Gregory, trans. Frederick Crombie (Ante-Nicene Fathers, vol. 4)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0415.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Julia Bolton Holloway, umilta.net",
+   "dcterms:title": "Guigo II, A Ladder of Four Rungs (Scala Claustralium), modern English version",
+   "schema:url": {
+    "@id": "https://www.umilta.net/ladder.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Concordia Theological Quarterly 66/3 (2002), 255-267; Concordia Theological Seminary, Fort Wayne",
+   "dcterms:title": "John W. Kleinig, Oratio, Meditatio, Tentatio: What Makes a Theologian?",
+   "schema:url": {
+    "@id": "https://media.ctsfw.edu/Item/GetFullText/306"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of Spiritual Formation and Soul Care 5/1 (2012), 56-77 (PhilPapers record)",
+   "dcterms:title": "Lectio Divina in the Evangelical Tradition",
+   "schema:url": {
+    "@id": "https://api.philpapers.org/rec/HOWLDI-2"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Journal of the Evangelical Homiletics Society 3/2 (2003), 33-48 (via BiblicalStudies.org.uk)",
+   "dcterms:title": "Timothy J. Ralston, \"Back to the Future\": Classical Categories of Exegesis, Application and Authority for Preaching and Spiritual Formation",
+   "schema:url": {
+    "@id": "https://gospelstudies.org.uk/biblicalstudies/pdf/jehs/03-2_033.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Joshua 1:8 (King James Version and World English Bible, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/joshua/1-8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 2:19 (World English Bible, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/luke/2-19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Luke 10:38-42 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/luke/10-38-42"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Catholic Culture (text of the Holy See document)",
+   "dcterms:title": "Benedict XVI, Verbum Domini (Post-Synodal Apostolic Exhortation, 2010), nos. 86-87: The prayerful reading of sacred Scripture and lectio divina",
+   "schema:url": {
+    "@id": "https://www.catholicculture.org/culture/library/view.cfm?id=9460"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, nos. 2705-2708: Meditation",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P9L.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Lectio Divina (adapted from Sr. Antoine Lawlor, IHM, for Catechetical Sunday 2009)",
+   "schema:url": {
+    "@id": "https://www.usccb.org/resources/lectio-divina.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Pontifical Biblical Institute, Rome",
+   "dcterms:title": "James Swetnam, SJ, Lectio Divina (2008)",
+   "schema:url": {
+    "@id": "https://biblico.it/doc-vari/swetnam_lec_div_ing.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Liturgy 2/3 (1982), 63-68; Digital Commons, College of Saint Benedict and Saint John's University",
+   "dcterms:title": "Allan R. Bouley, OSB, Scripture, Personal Prayer, and Liturgy",
+   "schema:url": {
+    "@id": "https://digitalcommons.csbsju.edu/sot_pubs/129"
    }
   },
   {

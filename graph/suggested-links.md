@@ -5,6 +5,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 2.91 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
+| 2.42 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |
 | 2.39 | `bg:grace` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:mosaic-covenant` |
 | 2.33 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
 | 2.26 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
@@ -28,4 +29,3 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.56 | `bg:gospel-of-luke` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parables-of-jesus` |
 | 1.56 | `bg:grace` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parables-of-jesus` |
 | 1.56 | `bg:gospel-of-luke` | `bg:second-temple-judaism` | `bg:jerusalem`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan` |
-| 1.54 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |

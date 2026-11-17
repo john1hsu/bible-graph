@@ -606,6 +606,24 @@
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s11> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/study-practices/lectio-divina.md" .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> .
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/grace> .
 <https://github.com/john1hsu/bible-graph/id/grace#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/themes-and-theology/grace.md" .
@@ -6284,6 +6302,190 @@
   <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://schema.org/url> <https://core.ac.uk/download/155820339.pdf> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> {
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Psalm 1:1-3, where does the blessed person find delight, and what picture describes the result of meditating day and night?" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Joshua 1:8 says the book of the law should not depart from Joshua's mouth. What does that suggest about how meditation was practised, and what is it meant to lead to?" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did Mary do with the shepherds' words in Luke 2:19, and how is that like the step of meditatio?" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <https://github.com/john1hsu/bible-graph/ontology#after> "In the scene, Jesus defends Mary for sitting and listening to him while Martha is pulled apart by her serving; he invites me to put listening to him first and to notice where worry crowds it out, and my serving can grow from that." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <https://github.com/john1hsu/bible-graph/ontology#before> "Jesus' words to Martha about the one thing needed jumped out at me, so God is telling me to quit the hospitality team." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <https://github.com/john1hsu/bible-graph/ontology#situation> "A member of a small group prays through Luke 10:38-42, the visit of Jesus to Martha and Mary, during a busy season of church volunteering." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <https://github.com/john1hsu/bible-graph/ontology#why> "Lectio begins by asking what the text says in itself before asking what it says to me, so a striking phrase is heard within its scene instead of as a free-floating private message." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1> <https://schema.org/text> "Choose a short passage of a few verses, such as a Gospel scene or a psalm, settle into quiet, and ask God to speak to you through his word." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2> <https://schema.org/text> "Lectio - read the passage slowly several times, aloud if you can, and first ask what the text says in itself and where it sits in its chapter." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3> <https://schema.org/text> "Meditatio - stay with a word or phrase that stands out, turn it over, and ask what that meaning says to your life today." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4> <https://schema.org/text> "Oratio - answer God in your own words, with thanks, confession, questions or requests drawn from the passage." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5> <https://schema.org/text> "Contemplatio - rest quietly before God for a few minutes without trying to produce more thoughts." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6> <https://schema.org/text> "Actio - choose one concrete way to live out what you received, and test any strong impression against the wider Bible and with your church or small group." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/name> "Lectio Divina" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/1> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/2> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/3> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/4> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/5> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto/6> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Practice> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2000/01/rdf-schema#label> "Lectio Divina" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#altLabel> "divine reading" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#altLabel> "lectio" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#altLabel> "prayerful reading of Scripture" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#altLabel> "reading meditation prayer contemplation" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#altLabel> "sacred reading" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/prayer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#definition> "An ancient Christian way of reading a short passage of Scripture slowly and prayerfully, moving through reading (lectio), meditation (meditatio), prayer (oratio) and contemplation (contemplatio), and often on to action (actio), so that reading the Bible becomes a conversation with God." .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/study-practices> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lectio Divina" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/eisegesis> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#domain> "study-practices" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#example> <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/study-practices/lectio-divina.md" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#howTo> <https://github.com/john1hsu/bible-graph/id/lectio-divina/howto> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/guigo-ii> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/origen> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#introducedIn> <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 1:8" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 10:38-42" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 2:19" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 1:1-3" .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <http://purl.org/dc/terms/publisher> "Saint Meinrad Archabbey (PALNI Press)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <http://purl.org/dc/terms/title> "The Rule of Saint Benedict, chapter 48: The Daily Manual Labor" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s10> <https://schema.org/url> <https://pressbooks.palni.org/ruleofbenedict/?p=183> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <http://purl.org/dc/terms/title> "Origen, Letter to Gregory, trans. Frederick Crombie (Ante-Nicene Fathers, vol. 4)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s11> <https://schema.org/url> <https://www.newadvent.org/fathers/0415.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <http://purl.org/dc/terms/publisher> "Julia Bolton Holloway, umilta.net" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <http://purl.org/dc/terms/title> "Guigo II, A Ladder of Four Rungs (Scala Claustralium), modern English version" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s12> <https://schema.org/url> <https://www.umilta.net/ladder.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <http://purl.org/dc/terms/publisher> "Concordia Theological Quarterly 66/3 (2002), 255-267; Concordia Theological Seminary, Fort Wayne" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <http://purl.org/dc/terms/title> "John W. Kleinig, Oratio, Meditatio, Tentatio: What Makes a Theologian?" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> <https://schema.org/url> <https://media.ctsfw.edu/Item/GetFullText/306> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <http://purl.org/dc/terms/publisher> "Journal of Spiritual Formation and Soul Care 5/1 (2012), 56-77 (PhilPapers record)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <http://purl.org/dc/terms/title> "Lectio Divina in the Evangelical Tradition" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> <https://schema.org/url> <https://api.philpapers.org/rec/HOWLDI-2> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <http://purl.org/dc/terms/publisher> "Journal of the Evangelical Homiletics Society 3/2 (2003), 33-48 (via BiblicalStudies.org.uk)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <http://purl.org/dc/terms/title> "Timothy J. Ralston, \"Back to the Future\": Classical Categories of Exegesis, Application and Authority for Preaching and Spiritual Formation" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> <https://schema.org/url> <https://gospelstudies.org.uk/biblicalstudies/pdf/jehs/03-2_033.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <http://purl.org/dc/terms/title> "Psalm 1:1-3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s1> <https://schema.org/url> <https://www.christianity.com/bible/web/psalm/1-1-3> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <http://purl.org/dc/terms/title> "Joshua 1:8 (King James Version and World English Bible, parallel)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s2> <https://schema.org/url> <https://biblehub.com/multi/joshua/1-8.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <http://purl.org/dc/terms/title> "Luke 2:19 (World English Bible, parallel)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s3> <https://schema.org/url> <https://biblehub.com/parallel/luke/2-19.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <http://purl.org/dc/terms/title> "Luke 10:38-42 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/luke/10-38-42> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <http://purl.org/dc/terms/publisher> "Catholic Culture (text of the Holy See document)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <http://purl.org/dc/terms/title> "Benedict XVI, Verbum Domini (Post-Synodal Apostolic Exhortation, 2010), nos. 86-87: The prayerful reading of sacred Scripture and lectio divina" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s5> <https://schema.org/url> <https://www.catholicculture.org/culture/library/view.cfm?id=9460> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, nos. 2705-2708: Meditation" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s6> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P9L.HTM> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <http://purl.org/dc/terms/title> "Lectio Divina (adapted from Sr. Antoine Lawlor, IHM, for Catechetical Sunday 2009)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s7> <https://schema.org/url> <https://www.usccb.org/resources/lectio-divina.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <http://purl.org/dc/terms/publisher> "Pontifical Biblical Institute, Rome" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <http://purl.org/dc/terms/title> "James Swetnam, SJ, Lectio Divina (2008)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s8> <https://schema.org/url> <https://biblico.it/doc-vari/swetnam_lec_div_ing.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <http://purl.org/dc/terms/publisher> "Liturgy 2/3 (1982), 63-68; Digital Commons, College of Saint Benedict and Saint John's University" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <http://purl.org/dc/terms/title> "Allan R. Bouley, OSB, Scripture, Personal Prayer, and Liturgy" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <https://schema.org/url> <https://digitalcommons.csbsju.edu/sot_pubs/129> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/grace#graph> {
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Exodus 34:6 is God's own description of himself to Moses. Which words in it describe grace, and why is it striking that this comes right after the golden calf?" .
@@ -6770,6 +6972,7 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
@@ -6821,6 +7024,7 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/old-testament> .
@@ -6864,6 +7068,7 @@
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
@@ -6993,6 +7198,9 @@
   <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
   <https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/guigo-ii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/guigo-ii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
+  <https://github.com/john1hsu/bible-graph/id/guigo-ii> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/hagar> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-bible-parables> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
@@ -7100,6 +7308,9 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
+  <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-temple> .
@@ -7117,7 +7328,15 @@
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
-  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prayer> .
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
@@ -7235,6 +7454,9 @@
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/origen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/origen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
+  <https://github.com/john1hsu/bible-graph/id/origen> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -7319,6 +7541,8 @@
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/presence-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
@@ -7350,6 +7574,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .

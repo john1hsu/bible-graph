@@ -108,6 +108,7 @@ _Which doctrines, methods and practices does each Christian (or Jewish) traditio
 
 | tradition | teaching |
 |---|---|
+| `bg:catholic-church` | `bg:lectio-divina` |
 | `bg:catholic-church` | `bg:scripture-interprets-scripture` |
 | `bg:catholic-church` | `bg:the-story-of-the-bible` |
 | `bg:eastern-orthodoxy` | `bg:septuagint` |

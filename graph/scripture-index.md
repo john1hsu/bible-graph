@@ -86,6 +86,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Joshua
 
+- **Joshua 1:8** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Joshua 15:63** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 
 ## 1 Samuel
@@ -151,6 +152,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Psalms
 
+- **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
@@ -298,6 +300,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 2:19** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Luke 3:38** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
@@ -312,6 +315,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 10:25-37** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Luke 10:25-37** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Luke 10:38-42** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Luke 10:38-42** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
