@@ -644,6 +644,141 @@
   ]
  },
  {
+  "id": "bg:binding-of-isaac",
+  "title": "The Binding of Isaac",
+  "aliases": [
+   "Akedah",
+   "Aqedah",
+   "Akedat Yitzhak",
+   "Sacrifice of Isaac",
+   "Testing of Abraham",
+   "Genesis 22"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "intermediate",
+  "basis": "debated",
+  "file": "articles/key-passages/binding-of-isaac.md",
+  "created": "2026-11-17",
+  "summary": "The account in Genesis 22:1-19 of God testing Abraham by asking him to offer his beloved son Isaac on a mountain in the land of Moriah, of Abraham binding Isaac on the altar, and of the angel who stops him, the ram offered in Isaac's place, and God's renewed oath of blessing; Jews call it the Akedah (\"binding\"), and Christians have long read it as a foreshadowing of Christ.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:genesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:isaac"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abrahamic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:faith"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:justification"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:abraham"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:genesis",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:abraham",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:isaac",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:moriah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:faith",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:abrahamic-covenant",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:crucifixion-of-jesus",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Genesis 22:1-19",
+   "Hebrews 11:17-19",
+   "James 2:21-23",
+   "Romans 8:32",
+   "2 Chronicles 3:1"
+  ],
+  "studyQuestions": [
+   "Genesis 22:1 tells the reader something Abraham is not told. What is it, and how does knowing it change the way you read the rest of the chapter?",
+   "Isaac asks in Genesis 22:7, \"where is the lamb?\" Compare Abraham's answer in 22:8 with what happens in 22:13-14. What name does Abraham give the place, and why?",
+   "What reasons does the angel give in Genesis 22:12 and 22:16-18 for God's words to Abraham? What does God promise, and for whose sake?",
+   "Hebrews 11:17-19 and James 2:21-23 both look back to this chapter. What does each writer draw from it about faith?",
+   "Romans 8:32 says God \"didn't spare his own Son\". Reading Genesis 22 alongside it, what do you learn about the cost of God's love?",
+   "Where in your own life is it hardest to trust that \"Yahweh will provide\", and what helps you keep walking up the mountain?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/genesis/22.htm",
+   "https://www.christianity.com/bible/web/hebrews/11-17-19",
+   "https://biblehub.com/web/james/2.htm",
+   "https://biblehub.com/romans/8-32.htm",
+   "https://biblehub.com/webc/2_chronicles/3.htm",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/akedah",
+   "https://jewishencyclopedia.com/articles/1026-akedah",
+   "https://verbumetecclesia.org.za/index.php/ve/article/download/814/1884",
+   "https://core-prod.cambridgecore.org/core/books/bible-theology-and-faith/ancient-and-modern-interpretations-of-genesis-22/351AA07F932FB9E05CD779B61814B471",
+   "https://www.usccb.org/sites/default/files/flipbooks/catechism/620/index.html",
+   "https://bible.usccb.org/bible/readings/040426.cfm",
+   "https://ccel.org/ccel/schaff/anf03/anf03.iv.ix.x.html",
+   "https://www.newadvent.org/fathers/0103405.htm"
+  ]
+ },
+ {
   "id": "bg:book-of-ezra",
   "title": "Book of Ezra",
   "aliases": [

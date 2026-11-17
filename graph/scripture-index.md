@@ -25,6 +25,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 18:1-33** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 21:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 22:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 22:1-19** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **Genesis 22:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Genesis 25:1-10** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 37:2-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
@@ -118,6 +119,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Chronicles
 
 - **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Chronicles 3:1** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **2 Chronicles 3:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **2 Chronicles 28:15** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -417,6 +419,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Romans 8:32** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -484,6 +487,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Hebrews 8:8-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Hebrews 10:5-7** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Hebrews 11:8-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Hebrews 11:17-19** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **Hebrews 11:23-29** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## James
@@ -491,6 +495,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **James 2:1-9** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **James 2:21-23** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **James 2:21-24** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 
 ## 1 Peter

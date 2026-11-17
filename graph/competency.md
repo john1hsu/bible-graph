@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:genesis` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -28,10 +26,10 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
-| `bg:abrahamic-covenant` | Abraham, Genesis |
+| `bg:abrahamic-covenant` | Abraham, Genesis, The Binding of Isaac |
 | `bg:davidic-covenant` | The Temple |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
-| `bg:faith` | Abraham, Moses |
+| `bg:faith` | Abraham, Moses, The Binding of Isaac |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:justification` | Abraham |
@@ -59,6 +57,9 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:babylonian-exile` | `bg:ezekiel` |
 | `bg:babylonian-exile` | `bg:jehoiachin` |
 | `bg:babylonian-exile` | `bg:nebuchadnezzar-ii` |
+| `bg:binding-of-isaac` | `bg:abraham` |
+| `bg:binding-of-isaac` | `bg:isaac` |
+| `bg:binding-of-isaac` | `bg:moriah` |
 | `bg:book-of-ezra` | `bg:cyrus-the-great` |
 | `bg:book-of-ezra` | `bg:ezra` |
 | `bg:book-of-ezra` | `bg:second-temple-judaism` |
@@ -78,11 +79,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
 | `bg:jeremiahs-temple-sermon` | `bg:shiloh` |
 | `bg:jeremiahs-temple-sermon` | `bg:the-temple` |
-| `bg:laying-the-foundation-of-the-second-temple` | `bg:jeshua-son-of-jozadak` |
-| `bg:laying-the-foundation-of-the-second-temple` | `bg:the-temple` |
-| `bg:laying-the-foundation-of-the-second-temple` | `bg:zerubbabel` |
 
-…and 12 more.
+…and 15 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -122,6 +120,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 | earlier | relation | later |
 |---|---|---|
+| `bg:binding-of-isaac` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:moses` | prefigures | `bg:jesus` |

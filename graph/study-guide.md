@@ -222,6 +222,18 @@ Study questions:
 - The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?
 - Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?
 
+### [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) — Passage
+
+Read: Genesis 22:1-19; Hebrews 11:17-19; James 2:21-23; Romans 8:32; 2 Chronicles 3:1
+
+Study questions:
+- Genesis 22:1 tells the reader something Abraham is not told. What is it, and how does knowing it change the way you read the rest of the chapter?
+- Isaac asks in Genesis 22:7, "where is the lamb?" Compare Abraham's answer in 22:8 with what happens in 22:13-14. What name does Abraham give the place, and why?
+- What reasons does the angel give in Genesis 22:12 and 22:16-18 for God's words to Abraham? What does God promise, and for whose sake?
+- Hebrews 11:17-19 and James 2:21-23 both look back to this chapter. What does each writer draw from it about faith?
+- Romans 8:32 says God "didn't spare his own Son". Reading Genesis 22 alongside it, what do you learn about the cost of God's love?
+- Where in your own life is it hardest to trust that "Yahweh will provide", and what helps you keep walking up the mountain?
+
 ### [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) — Passage
 
 Read: Exodus 15:1-21; Exodus 14:21-31; Psalm 118:14; Isaiah 12:2; Revelation 15:2-3
