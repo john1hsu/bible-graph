@@ -385,6 +385,18 @@ Study questions:
 - In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?
 - Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?
 
+### [Genesis](../articles/old-testament-books/genesis.md) — Book
+
+Read: Genesis 1:1–2:3; Genesis 2:4-7; Genesis 3:15; Genesis 12:1-3; Genesis 15:5-6; Genesis 37:2-3; Genesis 50:20; Romans 4:3; Galatians 3:6-9
+
+Study questions:
+- Read Genesis 1:26-28 and 1:31. What does God say about human beings, and how does he judge everything he has made?
+- Genesis 2:4 and 37:2 both begin with "This is the history of the generations of…". How does noticing this repeated heading help you see the shape of the whole book?
+- What three things does God promise Abram in Genesis 12:1-3, and who, finally, is to share in the blessing?
+- In Genesis 50:20 Joseph looks back on his brothers' cruelty. What does he say about their intentions and about God's? Where have you seen God bring good out of something meant for harm?
+- Paul quotes Genesis 15:6 in Romans 4:3 and Genesis 12:3 in Galatians 3:8. Why do you think the apostle reaches back to Genesis to explain the gospel?
+- Genesis opens with a world declared "very good" and closes with a family in a foreign land waiting for God's promise. What does that tell you about where the story is heading?
+
 ## old-testament-people
 
 ### [Abraham](../articles/old-testament-people/abraham.md) — Person

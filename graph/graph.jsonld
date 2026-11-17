@@ -1251,6 +1251,154 @@
    ]
   },
   {
+   "@id": "bg:genesis",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:moses"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "old-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:abraham"
+    },
+    {
+     "@id": "bg:isaac"
+    },
+    {
+     "@id": "bg:joseph-son-of-jacob"
+    }
+   ],
+   "bgo:file": "articles/old-testament-books/genesis.md",
+   "bgo:keyReference": [
+    "Galatians 3:6-9",
+    "Genesis 12:1-3",
+    "Genesis 15:5-6",
+    "Genesis 1:1–2:3",
+    "Genesis 2:4-7",
+    "Genesis 37:2-3",
+    "Genesis 3:15",
+    "Genesis 50:20",
+    "Romans 4:3"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:pentateuch"
+   },
+   "bgo:requires": {
+    "@id": "bg:old-testament"
+   },
+   "bgo:teaches": {
+    "@id": "bg:abrahamic-covenant"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s9"
+    }
+   ],
+   "rdfs:label": "Genesis",
+   "skos:altLabel": [
+    "Bereishit",
+    "Bereshit",
+    "Book of Genesis",
+    "First Book of Moses"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:old-testament"
+    },
+    {
+     "@id": "bg:pentateuch"
+    }
+   ],
+   "skos:definition": "The first book of the Bible and of the Pentateuch (Torah), which tells of God's creation of the world, humanity's fall into sin and its spread, the Flood and Babel, and then God's call of Abraham and the story of his family through Isaac, Jacob and Joseph, ending with Israel's ancestors in Egypt.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books"
+   },
+   "skos:prefLabel": "Genesis",
+   "skos:related": [
+    {
+     "@id": "bg:abraham"
+    },
+    {
+     "@id": "bg:abrahamic-covenant"
+    },
+    {
+     "@id": "bg:forgiveness-in-the-bible"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:patriarchs"
+    },
+    {
+     "@id": "bg:the-exodus"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    }
+   ]
+  },
+  {
    "@id": "bg:genre-in-the-bible",
    "@type": "bgo:Method",
    "bgo:addresses": {
@@ -4838,6 +4986,54 @@
    "rdfs:label": "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "Read Genesis 1:26-28 and 1:31. What does God say about human beings, and how does he judge everything he has made?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "Genesis 2:4 and 37:2 both begin with \"This is the history of the generations of…\". How does noticing this repeated heading help you see the shape of the whole book?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "What three things does God promise Abram in Genesis 12:1-3, and who, finally, is to share in the blessing?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "In Genesis 50:20 Joseph looks back on his brothers' cruelty. What does he say about their intentions and about God's? Where have you seen God bring good out of something meant for harm?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "Paul quotes Genesis 15:6 in Romans 4:3 and Genesis 12:3 in Galatians 3:8. Why do you think the apostle reaches back to Genesis to explain the gospel?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:genesis"
+   },
+   "rdfs:label": "Genesis opens with a world declared \"very good\" and closes with a family in a foreign land waiting for God's promise. What does that tell you about where the story is heading?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -8181,6 +8377,258 @@
    "dcterms:title": "Colossians 3 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/col/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Genesis (Old Testament)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Genesis-Old-Testament"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "StudyLight.org",
+   "dcterms:title": "Genesis, International Standard Bible Encyclopedia (1915, ed. James Orr)",
+   "schema:url": {
+    "@id": "https://www.studylight.org/encyclopedias/isb/g/genesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Genesis, the Book of (Benno Jacob and Emil G. Hirsch), Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/6580-genesis-the-book-of"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Posen Library / Yale University Press",
+   "dcterms:title": "The Rabbis on the Authorship of Biblical Books (Babylonian Talmud, Bava Batra 14b–15a), Posen Library of Jewish Culture and Civilization",
+   "schema:url": {
+    "@id": "https://www.posenlibrary.com/node/11079"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Bible and Interpretation, University of Arizona",
+   "dcterms:title": "The Re-Emergence of Source Criticism - The Neo-Documentary Hypothesis (Joel S. Baden, 2012)",
+   "schema:url": {
+    "@id": "https://bibleinterp.arizona.edu/node/3378"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Open Yale Courses",
+   "dcterms:title": "Lecture 5 - Critical Approaches to the Bible - Introduction to Genesis 12-50 (Christine Hayes, RLST 145)",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/node/1728"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 279-314 (The Creator)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Catholic Culture",
+   "dcterms:title": "Catechism of the Catholic Church, paragraph 410",
+   "schema:url": {
+    "@id": "https://www.catholicculture.org/culture/library/catechism/cat_view.cfm?recnum=635"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Catholic Answers",
+   "dcterms:title": "Pentateuch, Catholic Encyclopedia (incl. the Biblical Commission's answers on Genesis 1–3)",
+   "schema:url": {
+    "@id": "https://www.catholic.com/encyclopedia/pentateuch-biblical-commission"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 3:15 (parallel translations, incl. WEB and KJV)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/genesis/3-15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Genesis 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/GEN15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 37 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/37.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 50:20 (parallel translations, incl. WEB and KJV)",
+   "schema:url": {
+    "@id": "https://biblehub.com/genesis/50-20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 4:3 (parallel translations, incl. WEB)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/romans/4-3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/genesis/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/galatians/3.htm"
    }
   },
   {

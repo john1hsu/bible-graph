@@ -649,6 +649,82 @@
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Genesis 1:26-28 and 1:31. What does God say about human beings, and how does he judge everything he has made?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Genesis 2:4 and 37:2 both begin with \"This is the history of the generations of…\". How does noticing this repeated heading help you see the shape of the whole book?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What three things does God promise Abram in Genesis 12:1-3, and who, finally, is to share in the blessing?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Genesis 50:20 Joseph looks back on his brothers' cruelty. What does he say about their intentions and about God's? Where have you seen God bring good out of something meant for harm?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Paul quotes Genesis 15:6 in Romans 4:3 and Genesis 12:3 in Galatians 3:8. Why do you think the apostle reaches back to Genesis to explain the gospel?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Genesis opens with a world declared \"very good\" and closes with a family in a foreign land waiting for God's promise. What does that tell you about where the story is heading?" .
+<https://github.com/john1hsu/bible-graph/id/genesis/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2000/01/rdf-schema#label> "Genesis" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#altLabel> "Bereishit" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#altLabel> "Bereshit" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#altLabel> "Book of Genesis" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#altLabel> "First Book of Moses" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#definition> "The first book of the Bible and of the Pentateuch (Torah), which tells of God's creation of the world, humanity's fall into sin and its spread, the Flood and Babel, and then God's call of Abraham and the story of his family through Isaac, Jacob and Joseph, ending with Israel's ancestors in Egypt." .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genesis" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/patriarchs> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s10> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s11> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s12> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s13> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s14> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s15> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s16> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s17> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s18> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s1> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s2> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s3> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s4> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s5> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s6> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s7> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s8> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/genesis/s9> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-books" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/abraham> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/isaac> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/joseph-son-of-jacob> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-books/genesis.md" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 3:6-9" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 12:1-3" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 15:5-6" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 1:1–2:3" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 2:4-7" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 37:2-3" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 3:15" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 50:20" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 4:3" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Exodus 14:21-31 and then Exodus 15:1-10. What does the song add to the narrative account of the same event?" .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
@@ -3212,6 +3288,114 @@
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/col/3> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <http://purl.org/dc/terms/title> "Genesis (Old Testament)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s10> <https://schema.org/url> <https://www.britannica.com/topic/Genesis-Old-Testament> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <http://purl.org/dc/terms/publisher> "StudyLight.org" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <http://purl.org/dc/terms/title> "Genesis, International Standard Bible Encyclopedia (1915, ed. James Orr)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s11> <https://schema.org/url> <https://www.studylight.org/encyclopedias/isb/g/genesis.html> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <http://purl.org/dc/terms/title> "Genesis, the Book of (Benno Jacob and Emil G. Hirsch), Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s12> <https://schema.org/url> <https://jewishencyclopedia.com/articles/6580-genesis-the-book-of> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <http://purl.org/dc/terms/publisher> "Posen Library / Yale University Press" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <http://purl.org/dc/terms/title> "The Rabbis on the Authorship of Biblical Books (Babylonian Talmud, Bava Batra 14b–15a), Posen Library of Jewish Culture and Civilization" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s13> <https://schema.org/url> <https://www.posenlibrary.com/node/11079> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation, University of Arizona" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <http://purl.org/dc/terms/title> "The Re-Emergence of Source Criticism - The Neo-Documentary Hypothesis (Joel S. Baden, 2012)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s14> <https://schema.org/url> <https://bibleinterp.arizona.edu/node/3378> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <http://purl.org/dc/terms/publisher> "Open Yale Courses" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <http://purl.org/dc/terms/title> "Lecture 5 - Critical Approaches to the Bible - Introduction to Genesis 12-50 (Christine Hayes, RLST 145)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s15> <https://schema.org/url> <https://oyc.yale.edu/node/1728> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 279-314 (The Creator)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s16> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <http://purl.org/dc/terms/publisher> "Catholic Culture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraph 410" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s17> <https://schema.org/url> <https://www.catholicculture.org/culture/library/catechism/cat_view.cfm?recnum=635> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <http://purl.org/dc/terms/publisher> "Catholic Answers" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <http://purl.org/dc/terms/title> "Pentateuch, Catholic Encyclopedia (incl. the Biblical Commission's answers on Genesis 1–3)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s18> <https://schema.org/url> <https://www.catholic.com/encyclopedia/pentateuch-biblical-commission> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <http://purl.org/dc/terms/title> "Genesis 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s1> <https://schema.org/url> <https://biblehub.com/web/genesis/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <http://purl.org/dc/terms/title> "Genesis 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s2> <https://schema.org/url> <https://biblehub.com/web/genesis/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <http://purl.org/dc/terms/title> "Genesis 3:15 (parallel translations, incl. WEB and KJV)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s3> <https://schema.org/url> <https://biblehub.com/multi/genesis/3-15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <http://purl.org/dc/terms/title> "Genesis 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s4> <https://schema.org/url> <https://biblehub.com/web/genesis/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <http://purl.org/dc/terms/title> "Genesis 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s5> <https://schema.org/url> <https://ebible.org/eng-web/GEN15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <http://purl.org/dc/terms/title> "Genesis 37 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s6> <https://schema.org/url> <https://biblehub.com/web/genesis/37.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <http://purl.org/dc/terms/title> "Genesis 50:20 (parallel translations, incl. WEB and KJV)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s7> <https://schema.org/url> <https://biblehub.com/genesis/50-20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <http://purl.org/dc/terms/title> "Romans 4:3 (parallel translations, incl. WEB)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s8> <https://schema.org/url> <https://biblehub.com/multi/romans/4-3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <http://purl.org/dc/terms/title> "Galatians 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/genesis/s9> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/3.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Oxford University Press" .
 <https://github.com/john1hsu/bible-graph/id/source/genre-in-the-bible/s10> <http://purl.org/dc/terms/title> "Steven L. McKenzie, How to Read the Bible: History, Prophecy, Literature" .

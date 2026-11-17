@@ -5,16 +5,21 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Genesis
 
 - **Genesis 1:1** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Genesis 1:1–2:3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 1:27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 1:31** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Genesis 2:4-7** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Genesis 3:15** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 6:8** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Genesis 11:26-32** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 12:1-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 12:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 12:1-9** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 12:10-20** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 14:18-20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Genesis 15:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 15:5-6** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 16:1-16** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 17:1-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 18:1-33** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
@@ -22,7 +27,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 22:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 22:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Genesis 25:1-10** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Genesis 37:2-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Genesis 50:20** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 
 ## Exodus
 
@@ -398,6 +405,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Romans 3:24** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 4:1-22** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Romans 4:3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Romans 5:20-21** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
@@ -428,6 +436,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Galatians 2:1** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 3:6-9** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Galatians 3:6-29** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Galatians 4:25-26** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Galatians 5:13-15** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)

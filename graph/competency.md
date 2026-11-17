@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:genesis` |
 
 ## Life situations with no Scripture (gap)
 
@@ -26,7 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
-| `bg:abrahamic-covenant` | Abraham |
+| `bg:abrahamic-covenant` | Abraham, Genesis |
 | `bg:davidic-covenant` | The Temple |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses |
@@ -66,6 +68,9 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
+| `bg:genesis` | `bg:abraham` |
+| `bg:genesis` | `bg:isaac` |
+| `bg:genesis` | `bg:joseph-son-of-jacob` |
 | `bg:gospel-of-luke` | `bg:jerusalem` |
 | `bg:gospel-of-luke` | `bg:road-to-emmaus` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
@@ -76,11 +81,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:jeshua-son-of-jozadak` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:the-temple` |
 | `bg:laying-the-foundation-of-the-second-temple` | `bg:zerubbabel` |
-| `bg:parable-of-the-good-samaritan` | `bg:jericho` |
-| `bg:parable-of-the-good-samaritan` | `bg:levites` |
-| `bg:parable-of-the-good-samaritan` | `bg:samaritans` |
 
-…and 9 more.
+…and 12 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -92,9 +94,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:abraham` | bgo:Person |
+_No results._
 
 ## Orphan articles (gap)
 
