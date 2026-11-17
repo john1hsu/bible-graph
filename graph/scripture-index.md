@@ -122,6 +122,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Isaiah 61:1-2** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 
 ## Jeremiah
 
@@ -216,22 +217,38 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Luke
 
 - **Luke 1:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Luke 1:1-4** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 3:38** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 6:17-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **Luke 9:51** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Luke 15** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Luke 19:1-10** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 22:20** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Luke 23:34** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 24:13-35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:25-27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 - **Luke 24:44-47** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Luke 24:44-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 
 ## John
 
@@ -341,6 +358,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Colossians 3:12-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 
 ## 2 Timothy
 

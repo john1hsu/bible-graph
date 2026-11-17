@@ -195,6 +195,17 @@ Study questions:
 - What question brought the apostles and elders together in Acts 15:1-6, and how does the phrase "it seemed good to the Holy Spirit, and to us" (15:28) describe the way they reached a decision?
 - Acts ends with Paul under guard in Rome yet preaching "with all boldness, none forbidding him" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?
 
+### [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) — Book
+
+Read: Luke 1:1-4; Luke 1:35; Luke 1:46-55; Luke 2:10-11; Luke 3:38; Luke 4:16-21; Luke 4:43; Luke 6:17-49; Luke 9:51; Luke 10:25-37; Luke 15; Luke 19:1-10; Luke 23:34; Luke 23:43; Luke 24:13-35; Luke 24:44-49; Isaiah 61:1-2; Colossians 4:14
+
+Study questions:
+- Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?
+- In the synagogue at Nazareth (Luke 4:16-21) Jesus reads from Isaiah 61. Who is the good news for, and what does he say has happened "today"?
+- Luke 15 opens with a complaint that Jesus "receiveth sinners, and eateth with them" (15:2). How do the three stories that follow answer it, and why does the last one end with the elder brother still outside?
+- In Luke 10:29 the lawyer asks "who is my neighbor?", but in 10:36 Jesus asks which man "proved neighbor". How does that change of question change the way you read the parable?
+- Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament "concerning himself" shape the way you read it this week?
+
 ### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book
 
 Read: Matthew 1:1; Matthew 1:22-23; Matthew 4:17; Matthew 5:17-20; Matthew 7:28-29; Matthew 9:9; Matthew 16:16-18; Matthew 18:17-20; Matthew 28:18-20

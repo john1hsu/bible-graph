@@ -235,6 +235,18 @@
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s5> .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s6> .
 <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/new-testament-books/gospel-of-luke.md" .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> .
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/new-testament-books/gospel-of-matthew.md" .
@@ -2567,6 +2579,136 @@
   <https://github.com/john1hsu/bible-graph/id/source/acts-of-the-apostles/s7> <https://schema.org/url> <https://biblehub.com/parallel/colossians/4-14.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/gospel-of-luke#graph> {
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In the synagogue at Nazareth (Luke 4:16-21) Jesus reads from Isaiah 61. Who is the good news for, and what does he say has happened \"today\"?" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Luke 15 opens with a complaint that Jesus \"receiveth sinners, and eateth with them\" (15:2). How do the three stories that follow answer it, and why does the last one end with the elder brother still outside?" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 10:29 the lawyer asks \"who is my neighbor?\", but in 10:36 Jesus asks which man \"proved neighbor\". How does that change of question change the way you read the parable?" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament \"concerning himself\" shape the way you read it this week?" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2000/01/rdf-schema#label> "Gospel of Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#altLabel> "Book of Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#altLabel> "Gospel According to Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#altLabel> "Gospel According to Saint Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#altLabel> "Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#altLabel> "the Third Gospel" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#definition> "The third Gospel and the first volume of Luke's two-part work with Acts: an orderly account, written for Theophilus, of Jesus' birth, Spirit-anointed ministry, long journey to Jerusalem, death, resurrection and ascension, presenting him as the Saviour who seeks and saves the lost and brings good news to the poor and to all peoples." .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gospel of Luke" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-books" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/road-to-emmaus> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-books/gospel-of-luke.md" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Colossians 4:14" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 61:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 10:25-37" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 15" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 19:1-10" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:1-4" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:35" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:46-55" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 23:34" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 23:43" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:13-35" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:44-49" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 2:10-11" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 3:38" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:16-21" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:43" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 6:17-49" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:51" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://purl.org/dc/terms/title> "The Gospel According to Luke (American Standard Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1> <https://schema.org/url> <https://ebible.org/asv/Luke.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <http://purl.org/dc/terms/title> "Luke, Gospel of (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Luke> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <http://purl.org/dc/terms/title> "The Gospel According to Luke — Introduction (New American Bible, Revised Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3> <https://schema.org/url> <https://bible.usccb.org/bible/luke/0> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <http://purl.org/dc/terms/title> "Irenaeus, Against Heresies III.1, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4> <https://schema.org/url> <https://www.newadvent.org/fathers/0103301.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <http://purl.org/dc/terms/publisher> "Crossway / ESV.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <http://purl.org/dc/terms/title> "Introduction to Luke (ESV Global Study Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5> <https://schema.org/url> <https://www.esv.org/resources/esv-global-study-bible/introduction-to-luke> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <http://purl.org/dc/terms/title> "Who Wrote the Gospel of Luke? (Mikeal C. Parsons, Bible Review, April 2001)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6> <https://schema.org/url> <https://library.biblicalarchaeology.org/article/who-wrote-the-gospel-of-luke/> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <http://purl.org/dc/terms/title> "Luke 15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7> <https://schema.org/url> <https://biblehub.com/web/luke/15.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <http://purl.org/dc/terms/title> "Isaiah 61 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8> <https://schema.org/url> <https://ebible.org/eng-web/ISA61.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <http://purl.org/dc/terms/title> "Colossians 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9> <https://schema.org/url> <https://biblehub.com/webc/colossians/4.htm> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew#graph> {
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Matthew 1:1 calls Jesus \"the son of David, the son of Abraham.\" Why might Matthew open with those two names in particular?" .
@@ -4288,6 +4430,7 @@
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
@@ -4373,6 +4516,9 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -4450,6 +4596,7 @@
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/general-revelation> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
@@ -4457,12 +4604,18 @@
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
-  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
-  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
-  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -4478,10 +4631,13 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -4553,6 +4709,7 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
@@ -4576,6 +4733,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -4617,6 +4775,7 @@
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -4662,9 +4821,12 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/passover> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -4735,6 +4897,7 @@
   <https://github.com/john1hsu/bible-graph/id/repentance> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/return-from-exile> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+  <https://github.com/john1hsu/bible-graph/id/road-to-emmaus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/road-to-emmaus> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/robert-a-traina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/robert-a-traina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .

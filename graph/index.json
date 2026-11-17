@@ -901,6 +901,148 @@
   ]
  },
  {
+  "id": "bg:gospel-of-luke",
+  "title": "Gospel of Luke",
+  "aliases": [
+   "Luke",
+   "Book of Luke",
+   "Gospel According to Luke",
+   "Gospel According to Saint Luke",
+   "the Third Gospel"
+  ],
+  "type": "Book",
+  "domain": "new-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-books/gospel-of-luke.md",
+  "created": "2026-11-17",
+  "summary": "The third Gospel and the first volume of Luke's two-part work with Acts: an orderly account, written for Theophilus, of Jesus' birth, Spirit-anointed ministry, long journey to Jerusalem, death, resurrection and ascension, presenting him as the Saviour who seeks and saves the lost and brings good news to the poor and to all peoples.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lords-prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parable-of-the-prodigal-son"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parable-of-the-good-samaritan"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospels",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:luke-the-evangelist",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:acts-of-the-apostles",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:gospel-of-mark",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:book-of-isaiah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jerusalem",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:road-to-emmaus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:forgiveness-in-the-bible",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 1:1-4",
+   "Luke 1:35",
+   "Luke 1:46-55",
+   "Luke 2:10-11",
+   "Luke 3:38",
+   "Luke 4:16-21",
+   "Luke 4:43",
+   "Luke 6:17-49",
+   "Luke 9:51",
+   "Luke 10:25-37",
+   "Luke 15",
+   "Luke 19:1-10",
+   "Luke 23:34",
+   "Luke 23:43",
+   "Luke 24:13-35",
+   "Luke 24:44-49",
+   "Isaiah 61:1-2",
+   "Colossians 4:14"
+  ],
+  "studyQuestions": [
+   "Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?",
+   "In the synagogue at Nazareth (Luke 4:16-21) Jesus reads from Isaiah 61. Who is the good news for, and what does he say has happened \"today\"?",
+   "Luke 15 opens with a complaint that Jesus \"receiveth sinners, and eateth with them\" (15:2). How do the three stories that follow answer it, and why does the last one end with the elder brother still outside?",
+   "In Luke 10:29 the lawyer asks \"who is my neighbor?\", but in 10:36 Jesus asks which man \"proved neighbor\". How does that change of question change the way you read the parable?",
+   "Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament \"concerning himself\" shape the way you read it this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/asv/Luke.htm",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Luke",
+   "https://bible.usccb.org/bible/luke/0",
+   "https://www.newadvent.org/fathers/0103301.htm",
+   "https://www.esv.org/resources/esv-global-study-bible/introduction-to-luke",
+   "https://library.biblicalarchaeology.org/article/who-wrote-the-gospel-of-luke/",
+   "https://biblehub.com/web/luke/15.htm",
+   "https://ebible.org/eng-web/ISA61.htm",
+   "https://biblehub.com/webc/colossians/4.htm"
+  ]
+ },
+ {
   "id": "bg:gospel-of-matthew",
   "title": "Gospel of Matthew",
   "aliases": [

@@ -943,6 +943,132 @@
    ]
   },
   {
+   "@id": "bg:gospel-of-luke",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:luke-the-evangelist"
+   },
+   "bgo:basis": "debated",
+   "bgo:complements": {
+    "@id": "bg:acts-of-the-apostles"
+   },
+   "bgo:domain": "new-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:road-to-emmaus"
+    }
+   ],
+   "bgo:file": "articles/new-testament-books/gospel-of-luke.md",
+   "bgo:keyReference": [
+    "Colossians 4:14",
+    "Isaiah 61:1-2",
+    "Luke 10:25-37",
+    "Luke 15",
+    "Luke 19:1-10",
+    "Luke 1:1-4",
+    "Luke 1:35",
+    "Luke 1:46-55",
+    "Luke 23:34",
+    "Luke 23:43",
+    "Luke 24:13-35",
+    "Luke 24:44-49",
+    "Luke 2:10-11",
+    "Luke 3:38",
+    "Luke 4:16-21",
+    "Luke 4:43",
+    "Luke 6:17-49",
+    "Luke 9:51"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "bgo:partOf": {
+    "@id": "bg:gospels"
+   },
+   "bgo:quotes": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:speaksTo": {
+    "@id": "bg:forgiveness-in-the-bible"
+   },
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9"
+    }
+   ],
+   "rdfs:label": "Gospel of Luke",
+   "skos:altLabel": [
+    "Book of Luke",
+    "Gospel According to Luke",
+    "Gospel According to Saint Luke",
+    "Luke",
+    "the Third Gospel"
+   ],
+   "skos:broader": {
+    "@id": "bg:gospels"
+   },
+   "skos:definition": "The third Gospel and the first volume of Luke's two-part work with Acts: an orderly account, written for Theophilus, of Jesus' birth, Spirit-anointed ministry, long journey to Jerusalem, death, resurrection and ascension, presenting him as the Saviour who seeks and saves the lost and brings good news to the poor and to all peoples.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books"
+   },
+   "skos:prefLabel": "Gospel of Luke",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:lords-prayer"
+    },
+    {
+     "@id": "bg:parable-of-the-good-samaritan"
+    },
+    {
+     "@id": "bg:parable-of-the-prodigal-son"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:gospel-of-matthew",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -3333,6 +3459,46 @@
    "rdfs:label": "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "rdfs:label": "Read Luke 1:1-4. What does Luke say about how he gathered his material, and why does he say he is writing to Theophilus?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "rdfs:label": "In the synagogue at Nazareth (Luke 4:16-21) Jesus reads from Isaiah 61. Who is the good news for, and what does he say has happened \"today\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "rdfs:label": "Luke 15 opens with a complaint that Jesus \"receiveth sinners, and eateth with them\" (15:2). How do the three stories that follow answer it, and why does the last one end with the elder brother still outside?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "rdfs:label": "In Luke 10:29 the lawyer asks \"who is my neighbor?\", but in 10:36 Jesus asks which man \"proved neighbor\". How does that change of question change the way you read the parable?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "rdfs:label": "Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament \"concerning himself\" shape the way you read it this week?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -5625,6 +5791,132 @@
    "dcterms:title": "Colossians 3 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/col/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "The Gospel According to Luke (American Standard Version)",
+   "schema:url": {
+    "@id": "https://ebible.org/asv/Luke.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Luke, Gospel of (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Luke"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "The Gospel According to Luke — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/luke/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Irenaeus, Against Heresies III.1, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0103301.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Crossway / ESV.org",
+   "dcterms:title": "Introduction to Luke (ESV Global Study Bible)",
+   "schema:url": {
+    "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-luke"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society Library",
+   "dcterms:title": "Who Wrote the Gospel of Luke? (Mikeal C. Parsons, Bible Review, April 2001)",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/article/who-wrote-the-gospel-of-luke/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Isaiah 61 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ISA61.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-luke/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Colossians 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/webc/colossians/4.htm"
    }
   },
   {

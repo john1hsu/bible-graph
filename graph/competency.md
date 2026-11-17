@@ -30,7 +30,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:faith` | Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Lord's Prayer |
 | `bg:mosaic-covenant` | Moses |
 | `bg:new-covenant` | Book of Jeremiah |
 | `bg:redemption` | The Exodus |
@@ -61,6 +61,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
+| `bg:gospel-of-luke` | `bg:jerusalem` |
+| `bg:gospel-of-luke` | `bg:road-to-emmaus` |
 | `bg:gospel-of-matthew` | `bg:pharisees` |
 | `bg:jeremiahs-temple-sermon` | `bg:jehoiakim` |
 | `bg:jeremiahs-temple-sermon` | `bg:jeremiah` |
@@ -72,8 +74,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:paul-at-the-areopagus` | `bg:athens` |
 | `bg:paul-at-the-areopagus` | `bg:dionysius-the-areopagite` |
 | `bg:paul-at-the-areopagus` | `bg:paul` |
-| `bg:the-exodus` | `bg:israelites` |
-| `bg:the-exodus` | `bg:moses` |
+
+…and 2 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -111,6 +113,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 | earlier | relation | later |
 |---|---|---|
+| `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
