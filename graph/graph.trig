@@ -174,6 +174,21 @@
 <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s8> .
 <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> .
 <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s10> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/parable-of-the-good-samaritan.md" .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> .
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/paul-at-the-areopagus.md" .
@@ -2158,6 +2173,146 @@
   <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
   <https://github.com/john1hsu/bible-graph/id/source/laying-the-foundation-of-the-second-temple/s9> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ezra> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan#graph> {
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What two commandments does the lawyer quote in Luke 10:27, and where in the law of Moses do they come from (Deuteronomy 6:5; Leviticus 19:18)?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "The lawyer asks \"Who is my neighbor?\" (Luke 10:29), but Jesus asks which of the three \"seemed to be a neighbor\" (Luke 10:36). What changes between the two questions?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "List everything the Samaritan does in Luke 10:33-35. What does each action cost him in time, money or risk?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Read Luke 9:51-56 just before the parable. How might that scene have shaped the way the disciples heard a story with a Samaritan as its hero?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Why is it a misreading to treat the priest and the Levite as a picture of Judaism as a whole?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Who is lying \"by the side of the road\" in my own week, and what keeps me from crossing over to them?" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Parable> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2000/01/rdf-schema#label> "Parable of the Good Samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#altLabel> "good samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#altLabel> "luke 10:25-37" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#altLabel> "parable of the merciful samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#altLabel> "the compassionate samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#altLabel> "the good samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#definition> "Jesus's story in Luke 10:25-37, told to a lawyer who asked \"Who is my neighbor?\", about a man left half dead on the road down to Jericho who is passed by a priest and a Levite and rescued by a Samaritan; Jesus ends by asking who proved a neighbor and telling the lawyer to \"go and do likewise.\"" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parable of the Good Samaritan" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/great-commandment> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jericho> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/levites> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/samaritans> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/parable-of-the-good-samaritan.md" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Chronicles 28:15" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 6:4-5" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 4:9" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:18" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:33-34" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 21:1-3" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 10:25-37" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 10:38-42" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:51-56" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/love> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <http://purl.org/dc/terms/publisher> "Lectionary Central" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <http://purl.org/dc/terms/title> "Origen, Homily 34 on Luke (trans. M. F. Toale)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s10> <https://schema.org/url> <https://lectionarycentral.com/trinity13/Origen.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <http://purl.org/dc/terms/publisher> "Bible History Online" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <http://purl.org/dc/terms/title> "Samaritans (W. Ewing), International Standard Bible Encyclopedia (1915)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s11> <https://schema.org/url> <https://bible-history.com/isbe/s/samaritans> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <http://purl.org/dc/terms/publisher> "BiblePlaces.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <http://purl.org/dc/terms/title> "Wadi Qilt" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s12> <https://schema.org/url> <https://www.bibleplaces.com/wadiqilt/> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <http://purl.org/dc/terms/title> "Luke 10 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s1> <https://schema.org/url> <https://miamisdb.org/bible/web+asv/luke/10> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <http://purl.org/dc/terms/publisher> "StudyBible.info" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <http://purl.org/dc/terms/title> "Luke 9:51-56 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s2> <https://schema.org/url> <https://www.studybible.info/WEB/Luke%209:51-56> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <http://purl.org/dc/terms/title> "John 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/john/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <http://purl.org/dc/terms/title> "Leviticus 19 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s4> <https://schema.org/url> <https://bibliaparalela.com/web/leviticus/19.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <http://purl.org/dc/terms/title> "Leviticus 21:1-4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s5> <https://schema.org/url> <https://www.christianity.com/bible/web/leviticus/21-1-4> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <http://purl.org/dc/terms/title> "Deuteronomy 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s6> <https://schema.org/url> <https://bibliaparalela.com/web/deuteronomy/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <http://purl.org/dc/terms/title> "2 Chronicles 28:15 (parallel translations, incl. World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s7> <https://schema.org/url> <https://biblehub.com/parallel/2_chronicles/28-15.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <http://purl.org/dc/terms/publisher> "Jewish-Christian Relations (JCRelations)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <http://purl.org/dc/terms/title> "Revisiting the Parable of the Good Samaritan (Maurice Ryan), Studies in Christian-Jewish Relations 16:1 (2021)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s8> <https://schema.org/url> <https://www.jcrelations.net/articles/article/revisiting-the-parable-of-the-good-samaritan.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <http://purl.org/dc/terms/publisher> "Center for Christian Ethics, Baylor University" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <http://purl.org/dc/terms/title> "Hearing a Parable with the Early Church (Mikeal C. Parsons), Christian Reflection: Parables (2006)" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/parable-of-the-good-samaritan/s9> <https://schema.org/url> <https://ifl.web.baylor.edu/sites/g/files/ecbvkj771/files/2023-02/parablesarticleparsons.pdf> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> {
@@ -5363,6 +5518,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
@@ -5390,6 +5546,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5405,6 +5562,7 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/greco-roman-world> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
@@ -5458,6 +5616,7 @@
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
+  <https://github.com/john1hsu/bible-graph/id/jericho> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5517,6 +5676,7 @@
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+  <https://github.com/john1hsu/bible-graph/id/levites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/levites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/levites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/lords-prayer/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5535,6 +5695,7 @@
   <https://github.com/john1hsu/bible-graph/id/lords-prayer> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/love> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/love> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/love> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5544,6 +5705,7 @@
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/love> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
@@ -5603,11 +5765,25 @@
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
@@ -5701,6 +5877,7 @@
   <https://github.com/john1hsu/bible-graph/id/sadducees> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/samaritans> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5729,6 +5906,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/septuagint> .
@@ -5761,6 +5939,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .

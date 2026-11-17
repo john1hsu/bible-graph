@@ -44,7 +44,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Leviticus 19:9-18** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Leviticus 19:17-18** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Leviticus 19:18** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 19:33-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Leviticus 19:33-34** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Leviticus 21:1-3** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 
 ## Numbers
 
@@ -54,6 +57,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Deuteronomy
 
 - **Deuteronomy 6:4-5** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Deuteronomy 6:4-5** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
@@ -84,6 +88,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Chronicles
 
 - **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Chronicles 28:15** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **2 Chronicles 36:23** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
@@ -254,8 +259,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 9:30-31** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Luke 9:51** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Luke 9:51-56** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 10:25-37** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Luke 10:25-37** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Luke 10:38-42** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
@@ -281,6 +289,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 

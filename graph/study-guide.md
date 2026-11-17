@@ -177,6 +177,18 @@ Study questions:
 - Why did the older priests and Levites weep in Ezra 3:12? How does Haggai 2:3-9 speak to the same feeling?
 - Have you known a moment, in your own life or your church's, when joy and grief were mixed together so that you "could not discern" one from the other? What does this passage give you to bring to such a moment?
 
+### [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) — Parable
+
+Read: Luke 10:25-37; Luke 10:38-42; Luke 9:51-56; Leviticus 19:18; Leviticus 19:33-34; Deuteronomy 6:4-5; Leviticus 21:1-3; John 4:9; 2 Chronicles 28:15
+
+Study questions:
+- What two commandments does the lawyer quote in Luke 10:27, and where in the law of Moses do they come from (Deuteronomy 6:5; Leviticus 19:18)?
+- The lawyer asks "Who is my neighbor?" (Luke 10:29), but Jesus asks which of the three "seemed to be a neighbor" (Luke 10:36). What changes between the two questions?
+- List everything the Samaritan does in Luke 10:33-35. What does each action cost him in time, money or risk?
+- Read Luke 9:51-56 just before the parable. How might that scene have shaped the way the disciples heard a story with a Samaritan as its hero?
+- Why is it a misreading to treat the priest and the Levite as a picture of Judaism as a whole?
+- Who is lying "by the side of the road" in my own week, and what keeps me from crossing over to them?
+
 ### [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) — Passage
 
 Read: Acts 17:16-34; Acts 17:22-31; Acts 17:23; Acts 17:28; Acts 17:30-31; Acts 7:48-50; Romans 1:19-20
