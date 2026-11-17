@@ -782,6 +782,114 @@
   ]
  },
  {
+  "id": "bg:dead-sea-scrolls",
+  "title": "Dead Sea Scrolls",
+  "aliases": [
+   "Qumran scrolls",
+   "Qumran library",
+   "scrolls from the Dead Sea"
+  ],
+  "type": "Manuscript",
+  "domain": "manuscripts-translations-and-archaeology",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md",
+  "created": "2026-11-17",
+  "summary": "Ancient Jewish manuscripts found from 1947 in eleven caves near Qumran on the north-western shore of the Dead Sea, dating from about the third century BC to AD 68; they include the oldest known copies of the books of the Hebrew Bible, alongside other religious writings of the Second Temple period.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-archaeology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-isaiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:essenes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "bgo:discoveredAt",
+    "object": "bg:qumran",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:textual-criticism",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:septuagint",
+    "source": "s8",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Isaiah 40:3",
+   "Isaiah 40:8",
+   "Isaiah 53:11",
+   "Deuteronomy 32:8",
+   "1 Samuel 10:27",
+   "Mark 1:2-3",
+   "Matthew 5:43-44"
+  ],
+  "studyQuestions": [
+   "Every book of the Hebrew Bible except one is represented among the scrolls. Which book is missing, and why might the absence of a book from a small, damaged collection prove very little?",
+   "Compare Deuteronomy 32:8 in two English translations. How do they end the verse, and what does the difference tell you about the manuscripts behind them?",
+   "Both the Qumran community and Mark 1:2-3 used Isaiah 40:3 about the wilderness. How did each understand the \"way\" being prepared?",
+   "How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.loc.gov/exhibits/scrolls/intr.html",
+   "https://www.loc.gov/exhibits/scrolls/libr.html",
+   "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/introduction-to-the-dead-sea-scrolls/",
+   "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Dead-Sea-Scrolls",
+   "https://cris.huji.ac.il/en/publications/understanding-the-text-of-the-bible-65-years-after-the-discovery-/",
+   "https://rsc.byu.edu/new-testament-history-culture-society/dead-sea-scrolls-new-testament",
+   "https://textandcanon.org/?p=3300",
+   "https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/",
+   "https://www.biblestudytools.com/deuteronomy/32-8-compare.html",
+   "https://www.biblestudytools.com/nrs/1-samuel/10-27.html",
+   "https://www.biblestudytools.com/isaiah/53-11-compare.html",
+   "https://www.bibliaparalela.com/web/isaiah/40.htm",
+   "https://www.bibliaparalela.com/web/mark/1.htm",
+   "https://biblehub.com/web/matthew/5.htm",
+   "https://www.deadseascrolls.org.il/about-the-project/a-note-from-the-iaa-director"
+  ]
+ },
+ {
   "id": "bg:forgiveness-in-the-bible",
   "title": "Forgiveness in the Bible",
   "aliases": [

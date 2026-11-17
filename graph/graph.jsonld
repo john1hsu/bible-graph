@@ -814,6 +814,125 @@
    ]
   },
   {
+   "@id": "bg:dead-sea-scrolls",
+   "@type": "bgo:Manuscript",
+   "bgo:basis": "debated",
+   "bgo:complements": {
+    "@id": "bg:septuagint"
+   },
+   "bgo:discoveredAt": {
+    "@id": "bg:qumran"
+   },
+   "bgo:domain": "manuscripts-translations-and-archaeology",
+   "bgo:file": "articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md",
+   "bgo:keyReference": [
+    "1 Samuel 10:27",
+    "Deuteronomy 32:8",
+    "Isaiah 40:3",
+    "Isaiah 40:8",
+    "Isaiah 53:11",
+    "Mark 1:2-3",
+    "Matthew 5:43-44"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": [
+    {
+     "@id": "bg:biblical-archaeology"
+    },
+    {
+     "@id": "bg:textual-criticism"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9"
+    }
+   ],
+   "rdfs:label": "Dead Sea Scrolls",
+   "skos:altLabel": [
+    "Qumran library",
+    "Qumran scrolls",
+    "scrolls from the Dead Sea"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "skos:definition": "Ancient Jewish manuscripts found from 1947 in eleven caves near Qumran on the north-western shore of the Dead Sea, dating from about the third century BC to AD 68; they include the oldest known copies of the books of the Hebrew Bible, alongside other religious writings of the Second Temple period.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology"
+   },
+   "skos:prefLabel": "Dead Sea Scrolls",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:book-of-isaiah"
+    },
+    {
+     "@id": "bg:essenes"
+    },
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:old-testament"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ]
+  },
+  {
    "@id": "bg:forgiveness-in-the-bible",
    "@type": "bgo:LifeSituation",
    "bgo:basis": "devotional",
@@ -4122,6 +4241,38 @@
    "rdfs:label": "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:dead-sea-scrolls"
+   },
+   "rdfs:label": "Every book of the Hebrew Bible except one is represented among the scrolls. Which book is missing, and why might the absence of a book from a small, damaged collection prove very little?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:dead-sea-scrolls"
+   },
+   "rdfs:label": "Compare Deuteronomy 32:8 in two English translations. How do they end the verse, and what does the difference tell you about the manuscripts behind them?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:dead-sea-scrolls"
+   },
+   "rdfs:label": "Both the Qumran community and Mark 1:2-3 used Isaiah 40:3 about the wilderness. How did each understand the \"way\" being prepared?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:dead-sea-scrolls"
+   },
+   "rdfs:label": "How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -6681,6 +6832,216 @@
    "dcterms:title": "Jeremiah 43 (World English Bible)",
    "schema:url": {
     "@id": "https://ebible.org/eng-web/JER43.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "government",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Scrolls from the Dead Sea: The World of the Scrolls",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/scrolls/intr.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Samuel 10:27 (New Revised Standard Version, with textual note)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/nrs/1-samuel/10-27.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Isaiah 53:11 (WEB, KJV, ESV, NIV, NRSV and other translations compared)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/isaiah/53-11-compare.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Isaiah 40 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/isaiah/40.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Mark 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/mark/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "government",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Israel Antiquities Authority",
+   "dcterms:title": "A Note from the IAA Director (The Leon Levy Dead Sea Scrolls Digital Library)",
+   "schema:url": {
+    "@id": "https://www.deadseascrolls.org.il/about-the-project/a-note-from-the-iaa-director"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "government",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Library of Congress",
+   "dcterms:title": "Scrolls from the Dead Sea: The Qumran Library",
+   "schema:url": {
+    "@id": "https://www.loc.gov/exhibits/scrolls/libr.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "Introduction to the Dead Sea Scrolls",
+   "schema:url": {
+    "@id": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/introduction-to-the-dead-sea-scrolls/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Dead Sea Scrolls (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Dead-Sea-Scrolls"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Hebrew University of Jerusalem (research portal)",
+   "dcterms:title": "Understanding the Text of the Bible 65 Years after the Discovery of the Dead Sea Scrolls (Emanuel Tov, Open Theology 1, 2015)",
+   "schema:url": {
+    "@id": "https://cris.huji.ac.il/en/publications/understanding-the-text-of-the-bible-65-years-after-the-discovery-/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Religious Studies Center, Brigham Young University",
+   "dcterms:title": "The Dead Sea Scrolls and the New Testament (Dana M. Pike)",
+   "schema:url": {
+    "@id": "https://rsc.byu.edu/new-testament-history-culture-society/dead-sea-scrolls-new-testament"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Text & Canon Institute, Phoenix Seminary",
+   "dcterms:title": "Part 5: The Servant Who Sees Light after Anguish (Anthony Ferguson)",
+   "schema:url": {
+    "@id": "https://textandcanon.org/?p=3300"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society Library",
+   "dcterms:title": "Deuteronomy 32:8 (sidebar to \"Combine the Best from Each Tradition\")",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Deuteronomy 32:8 (WEB, KJV, ESV, NRSV, NIV and other translations compared)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/deuteronomy/32-8-compare.html"
    }
   },
   {

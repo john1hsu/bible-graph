@@ -63,11 +63,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Deuteronomy 32:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## Joshua
 
 - **Joshua 15:63** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+
+## 1 Samuel
+
+- **1 Samuel 10:27** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 
 ## 2 Samuel
 
@@ -145,7 +150,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 5:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Isaiah 12:2** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Isaiah 40:3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Isaiah 40:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Isaiah 53:11** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Isaiah 61:1-2** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 
@@ -213,6 +221,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Matthew 5:43-44** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Matthew 5:43-48** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Matthew 6:1-34** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 6:5-15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
@@ -236,6 +245,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Mark
 
+- **Mark 1:2-3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)

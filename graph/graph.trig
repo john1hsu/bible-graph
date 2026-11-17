@@ -304,6 +304,24 @@
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md" .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> .
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> .
 <https://github.com/john1hsu/bible-graph/id/septuagint#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/septuagint#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/septuagint> .
 <https://github.com/john1hsu/bible-graph/id/septuagint#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/manuscripts-translations-and-archaeology/septuagint.md" .
@@ -3366,6 +3384,158 @@
   <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://schema.org/url> <https://biblehub.com/web/1_john/4.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> {
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Every book of the Hebrew Bible except one is represented among the scrolls. Which book is missing, and why might the absence of a book from a small, damaged collection prove very little?" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Deuteronomy 32:8 in two English translations. How do they end the verse, and what does the difference tell you about the manuscripts behind them?" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Both the Qumran community and Mark 1:2-3 used Isaiah 40:3 about the wilderness. How did each understand the \"way\" being prepared?" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Manuscript> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2000/01/rdf-schema#label> "Dead Sea Scrolls" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#altLabel> "Qumran library" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#altLabel> "Qumran scrolls" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#altLabel> "scrolls from the Dead Sea" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#definition> "Ancient Jewish manuscripts found from 1947 in eleven caves near Qumran on the north-western shore of the Dead Sea, dating from about the third century BC to AD 68; they include the oldest known copies of the books of the Hebrew Bible, alongside other religious writings of the Second Temple period." .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dead Sea Scrolls" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/essenes> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#discoveredAt> <https://github.com/john1hsu/bible-graph/id/qumran> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#domain> "manuscripts-translations-and-archaeology" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Samuel 10:27" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 32:8" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 40:3" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 40:8" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 53:11" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:2-3" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 5:43-44" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <http://purl.org/dc/terms/title> "1 Samuel 10:27 (New Revised Standard Version, with textual note)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s10> <https://schema.org/url> <https://www.biblestudytools.com/nrs/1-samuel/10-27.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <http://purl.org/dc/terms/title> "Isaiah 53:11 (WEB, KJV, ESV, NIV, NRSV and other translations compared)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s11> <https://schema.org/url> <https://www.biblestudytools.com/isaiah/53-11-compare.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <http://purl.org/dc/terms/title> "Isaiah 40 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s12> <https://schema.org/url> <https://www.bibliaparalela.com/web/isaiah/40.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s13> <https://schema.org/url> <https://www.bibliaparalela.com/web/mark/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <http://purl.org/dc/terms/title> "Matthew 5 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s14> <https://schema.org/url> <https://biblehub.com/web/matthew/5.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <http://purl.org/dc/terms/publisher> "Israel Antiquities Authority" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <http://purl.org/dc/terms/title> "A Note from the IAA Director (The Leon Levy Dead Sea Scrolls Digital Library)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s15> <https://schema.org/url> <https://www.deadseascrolls.org.il/about-the-project/a-note-from-the-iaa-director> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <http://purl.org/dc/terms/title> "Scrolls from the Dead Sea: The World of the Scrolls" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s1> <https://schema.org/url> <https://www.loc.gov/exhibits/scrolls/intr.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <http://purl.org/dc/terms/publisher> "Library of Congress" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <http://purl.org/dc/terms/title> "Scrolls from the Dead Sea: The Qumran Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "government" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s2> <https://schema.org/url> <https://www.loc.gov/exhibits/scrolls/libr.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <http://purl.org/dc/terms/title> "Introduction to the Dead Sea Scrolls" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s3> <https://schema.org/url> <https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/introduction-to-the-dead-sea-scrolls/> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <http://purl.org/dc/terms/title> "Dead Sea Scrolls (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s4> <https://schema.org/url> <https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Dead-Sea-Scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <http://purl.org/dc/terms/publisher> "Hebrew University of Jerusalem (research portal)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <http://purl.org/dc/terms/title> "Understanding the Text of the Bible 65 Years after the Discovery of the Dead Sea Scrolls (Emanuel Tov, Open Theology 1, 2015)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s5> <https://schema.org/url> <https://cris.huji.ac.il/en/publications/understanding-the-text-of-the-bible-65-years-after-the-discovery-/> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <http://purl.org/dc/terms/publisher> "Religious Studies Center, Brigham Young University" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <http://purl.org/dc/terms/title> "The Dead Sea Scrolls and the New Testament (Dana M. Pike)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s6> <https://schema.org/url> <https://rsc.byu.edu/new-testament-history-culture-society/dead-sea-scrolls-new-testament> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <http://purl.org/dc/terms/publisher> "Text & Canon Institute, Phoenix Seminary" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <http://purl.org/dc/terms/title> "Part 5: The Servant Who Sees Light after Anguish (Anthony Ferguson)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s7> <https://schema.org/url> <https://textandcanon.org/?p=3300> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <http://purl.org/dc/terms/title> "Deuteronomy 32:8 (sidebar to \"Combine the Best from Each Tradition\")" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s8> <https://schema.org/url> <https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://purl.org/dc/terms/title> "Deuteronomy 32:8 (WEB, KJV, ESV, NRSV, NIV and other translations compared)" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://schema.org/url> <https://www.biblestudytools.com/deuteronomy/32-8-compare.html> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/septuagint#graph> {
   <https://github.com/john1hsu/bible-graph/id/septuagint/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/septuagint/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Psalm 40:6 in an English Bible with Hebrews 10:5. What does each say God prepared, and why might they differ?" .
@@ -5508,12 +5678,15 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
@@ -5549,6 +5722,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -5585,7 +5759,12 @@
   <https://github.com/john1hsu/bible-graph/id/daniel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
-  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
@@ -5605,6 +5784,7 @@
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/essenes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/exile-and-return> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/exile-and-return> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/exodus> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
@@ -5865,6 +6045,7 @@
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/marcion> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
@@ -5906,6 +6087,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
@@ -5997,6 +6179,9 @@
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/psalm-136> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/qumran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/qumran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+  <https://github.com/john1hsu/bible-graph/id/qumran> <https://github.com/john1hsu/bible-graph/ontology#findSpotOf> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
@@ -6057,6 +6242,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
@@ -6082,6 +6268,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .

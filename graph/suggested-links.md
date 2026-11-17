@@ -6,14 +6,15 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 |---|---|---|---|
 | 2.94 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
 | 2.86 | `bg:jeremiahs-temple-sermon` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:jerusalem`, `bg:the-temple`, `bg:worship` |
-| 2.52 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
 | 2.46 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 2.38 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
+| 2.44 | `bg:septuagint` | `bg:the-story-of-the-bible` | `bg:biblical-canon`, `bg:eastern-orthodoxy`, `bg:old-testament` |
 | 2.37 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
 | 2.16 | `bg:grace` | `bg:moses` | `bg:faith`, `bg:mosaic-covenant` |
+| 2.12 | `bg:dead-sea-scrolls` | `bg:jerusalem` | `bg:biblical-archaeology`, `bg:book-of-jeremiah`, `bg:second-temple-judaism` |
 | 2.07 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
 | 2.00 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees`, `bg:sermon-on-the-mount` |
 | 1.93 | `bg:kingdom-of-god` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
+| 1.89 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
 | 1.82 | `bg:genre-in-the-bible` | `bg:song-of-the-sea` | `bg:hebrew-poetry`, `bg:the-exodus` |
 | 1.80 | `bg:gospel-of-luke` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:road-to-emmaus` |
 | 1.79 | `bg:book-of-jeremiah` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:jerusalem`, `bg:the-temple` |
@@ -21,11 +22,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 1.67 | `bg:grace` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:paul` |
 | 1.66 | `bg:barnabas` | `bg:jerusalem` | `bg:acts-of-the-apostles`, `bg:council-of-jerusalem`, `bg:second-temple-judaism` |
 | 1.65 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan`, `bg:pharisees` |
+| 1.64 | `bg:book-of-ezra` | `bg:dead-sea-scrolls` | `bg:book-of-jeremiah`, `bg:old-testament`, `bg:second-temple-judaism`, `bg:septuagint` |
 | 1.60 | `bg:kingdom-of-god` | `bg:pharisees` | `bg:gospel-of-matthew`, `bg:loving-your-neighbor`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 1.59 | `bg:forgiveness-in-the-bible` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:sermon-on-the-mount` |
 | 1.57 | `bg:gospel-of-luke` | `bg:grace` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parables-of-jesus` |
 | 1.57 | `bg:grace` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parables-of-jesus` |
 | 1.56 | `bg:gospel-of-luke` | `bg:second-temple-judaism` | `bg:jerusalem`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan` |
 | 1.55 | `bg:gospel-of-matthew` | `bg:lords-prayer` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 1.55 | `bg:lords-prayer` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 1.55 | `bg:lords-prayer` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |

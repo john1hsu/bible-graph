@@ -273,6 +273,16 @@ Study questions:
 
 ## manuscripts-translations-and-archaeology
 
+### [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) — Manuscript
+
+Read: Isaiah 40:3; Isaiah 40:8; Isaiah 53:11; Deuteronomy 32:8; 1 Samuel 10:27; Mark 1:2-3; Matthew 5:43-44
+
+Study questions:
+- Every book of the Hebrew Bible except one is represented among the scrolls. Which book is missing, and why might the absence of a book from a small, damaged collection prove very little?
+- Compare Deuteronomy 32:8 in two English translations. How do they end the verse, and what does the difference tell you about the manuscripts behind them?
+- Both the Qumran community and Mark 1:2-3 used Isaiah 40:3 about the wilderness. How did each understand the "way" being prepared?
+- How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?
+
 ### [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) — Translation
 
 Read: Psalm 40:6; Hebrews 10:5-7; Amos 9:12; Acts 15:17
