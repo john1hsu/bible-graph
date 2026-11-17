@@ -424,6 +424,16 @@ Study questions:
 - Luke 9:51 says Jesus "intently set his face" to go to Jerusalem, and Luke 19:41-44 shows him weeping over it. What do these two moments tell you about how Jesus regarded the city?
 - Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?
 
+### [The Temple](../articles/places-and-geography/the-temple.md) — Place
+
+Read: Exodus 25:8-9; 2 Samuel 7:1-13; 1 Kings 6; 1 Kings 8:10-13; 1 Kings 8:27-30; 2 Chronicles 3:1-2; 2 Kings 25:8-13; Ezra 6:15; Haggai 2:3-9; Mark 11:15-17; Mark 13:1-2; Mark 15:38; John 2:18-22; 1 Corinthians 3:16-17; Revelation 21:22
+
+Study questions:
+- According to 2 Samuel 7, David wanted to build God a house. What "house" does God promise to build for David instead, and who will build the Temple?
+- In 1 Kings 8:27-30, Solomon says heaven itself cannot contain God. If that is so, what was the Temple for, according to his prayer?
+- In John 2:18-22, what did Jesus mean by "this temple", and when did his disciples finally understand it?
+- Paul tells the Corinthian church, "ye are the temple of God" (1 Corinthians 3:16, KJV). How might seeing your congregation, and not only a building, as God's dwelling change the way you treat one another?
+
 ## study-practices
 
 ### [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) — Practice

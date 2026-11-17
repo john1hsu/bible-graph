@@ -4320,6 +4320,172 @@
    ]
   },
   {
+   "@id": "bg:the-temple",
+   "@type": "bgo:Place",
+   "bgo:basis": "scriptural",
+   "bgo:corroboratedBy": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "bgo:domain": "places-and-geography",
+   "bgo:file": "articles/places-and-geography/the-temple.md",
+   "bgo:illustrates": [
+    {
+     "@id": "bg:davidic-covenant"
+    },
+    {
+     "@id": "bg:presence-of-god"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Corinthians 3:16-17",
+    "1 Kings 6",
+    "1 Kings 8:10-13",
+    "1 Kings 8:27-30",
+    "2 Chronicles 3:1-2",
+    "2 Kings 25:8-13",
+    "2 Samuel 7:1-13",
+    "Exodus 25:8-9",
+    "Ezra 6:15",
+    "Haggai 2:3-9",
+    "John 2:18-22",
+    "Mark 11:15-17",
+    "Mark 13:1-2",
+    "Mark 15:38",
+    "Revelation 21:22"
+   ],
+   "bgo:level": "introductory",
+   "bgo:prefigures": {
+    "@id": "bg:jesus"
+   },
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s9"
+    }
+   ],
+   "rdfs:label": "The Temple",
+   "skos:altLabel": [
+    "Beit HaMikdash",
+    "First Temple",
+    "Herod's Temple",
+    "Jerusalem Temple",
+    "Solomon's Temple",
+    "Temple in Jerusalem",
+    "Temple of Jerusalem",
+    "Yahweh's house",
+    "house of the LORD"
+   ],
+   "skos:broader": {
+    "@id": "bg:jerusalem"
+   },
+   "skos:definition": "The sanctuary of Israel's God on the Temple Mount in Jerusalem: first built by Solomon and burned by the Babylonians, rebuilt after the exile and lavishly expanded by Herod, then destroyed by Rome in AD 70; in Scripture the place where God set his name among his people, a theme the New Testament carries over to Jesus himself and to the church.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography"
+   },
+   "skos:prefLabel": "The Temple",
+   "skos:related": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-ezra"
+    },
+    {
+     "@id": "bg:cleansing-of-the-temple"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:day-of-atonement"
+    },
+    {
+     "@id": "bg:jeremiahs-temple-sermon"
+    },
+    {
+     "@id": "bg:laying-the-foundation-of-the-second-temple"
+    },
+    {
+     "@id": "bg:sadducees"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:solomon"
+    },
+    {
+     "@id": "bg:tabernacle"
+    },
+    {
+     "@id": "bg:worship"
+    }
+   ]
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/abraham/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12764,6 +12930,286 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Exodus 25:8-9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/exodus/25-8.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "StudyLight.org",
+   "dcterms:title": "Mark 15:38 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.studylight.org/bible/eng/web/mark/15-38.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 2:18-22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/john/2-18-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "BibleServer",
+   "dcterms:title": "1 Corinthians 3 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.bibleserver.com/KJV/1%20Corinthians3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Revelation 21:22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/revelation/21-22.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906)",
+   "dcterms:title": "Temple of Solomon (Executive Committee of the Editorial Board and George A. Barton)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/14310-temple-of-solomon"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 15.380-425 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/15.380-15.425/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906)",
+   "dcterms:title": "Temple of Herod (Executive Committee of the Editorial Board and George A. Barton)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/14304-temple-of-herod.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society Library",
+   "dcterms:title": "An Exalted House: Solomon's Temple in Jerusalem",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/sidebar/solomons-temple-in-jerusalem/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 583-586 (Jesus and the Temple)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P1N.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Samuel 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_samuel/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Temple of Jerusalem (summary)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/summary/Temple-of-Jerusalem"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Chronicles 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_chronicles/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Kings 25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_kings/25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Ezra 6:15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/ezra/6-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Haggai 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/haggai/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/the-temple/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-17"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Mark 11:17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/mark/11-17.html"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12834,6 +13280,38 @@
     "@id": "bg:the-story-of-the-bible"
    },
    "rdfs:label": "If the church lives in the \"act\" between Pentecost and the new creation, what would faithful \"improvising\" look like in your own congregation this year?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-temple/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-temple"
+   },
+   "rdfs:label": "According to 2 Samuel 7, David wanted to build God a house. What \"house\" does God promise to build for David instead, and who will build the Temple?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-temple/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-temple"
+   },
+   "rdfs:label": "In 1 Kings 8:27-30, Solomon says heaven itself cannot contain God. If that is so, what was the Temple for, according to his prayer?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-temple/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-temple"
+   },
+   "rdfs:label": "In John 2:18-22, what did Jesus mean by \"this temple\", and when did his disciples finally understand it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/the-temple/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:the-temple"
+   },
+   "rdfs:label": "Paul tells the Corinthian church, \"ye are the temple of God\" (1 Corinthians 3:16, KJV). How might seeing your congregation, and not only a building, as God's dwelling change the way you treat one another?"
   }
  ]
 }

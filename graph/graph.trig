@@ -530,6 +530,29 @@
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s16> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s17> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s18> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/places-and-geography/the-temple.md" .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> .
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/study-practices/inductive-bible-study.md" .
@@ -5510,6 +5533,213 @@
   <https://github.com/john1hsu/bible-graph/id/source/jerusalem/s9> <https://schema.org/url> <https://ebible.org/eng-web/ISA02.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/the-temple#graph> {
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <http://purl.org/dc/terms/title> "Mark 13 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> <https://schema.org/url> <https://biblehub.com/web/mark/13.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <http://purl.org/dc/terms/publisher> "StudyLight.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <http://purl.org/dc/terms/title> "Mark 15:38 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> <https://schema.org/url> <https://www.studylight.org/bible/eng/web/mark/15-38.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <http://purl.org/dc/terms/title> "John 2:18-22 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> <https://schema.org/url> <https://www.christianity.com/bible/web/john/2-18-22> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <http://purl.org/dc/terms/publisher> "BibleServer" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <http://purl.org/dc/terms/title> "1 Corinthians 3 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> <https://schema.org/url> <https://www.bibleserver.com/KJV/1%20Corinthians3> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <http://purl.org/dc/terms/title> "Revelation 21:22 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> <https://schema.org/url> <https://www.biblestudytools.com/web/revelation/21-22.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <http://purl.org/dc/terms/title> "Temple of Solomon (Executive Committee of the Editorial Board and George A. Barton)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/14310-temple-of-solomon> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 15.380-425 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> <https://schema.org/url> <https://lexundria.com/j_aj/15.380-15.425/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <http://purl.org/dc/terms/title> "Temple of Herod (Executive Committee of the Editorial Board and George A. Barton)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/14304-temple-of-herod.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <http://purl.org/dc/terms/title> "An Exalted House: Solomon's Temple in Jerusalem" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> <https://schema.org/url> <https://library.biblicalarchaeology.org/sidebar/solomons-temple-in-jerusalem/> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 583-586 (Jesus and the Temple)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P1N.HTM> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <http://purl.org/dc/terms/title> "Exodus 25:8-9 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> <https://schema.org/url> <https://www.biblestudytools.com/web/exodus/25-8.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <http://purl.org/dc/terms/title> "Temple of Jerusalem (summary)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> <https://schema.org/url> <https://www.britannica.com/summary/Temple-of-Jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <http://purl.org/dc/terms/title> "2 Samuel 7 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> <https://schema.org/url> <https://biblehub.com/web/2_samuel/7.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <http://purl.org/dc/terms/title> "1 Kings 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> <https://schema.org/url> <https://biblehub.com/web/1_kings/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <http://purl.org/dc/terms/title> "1 Kings 8 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> <https://schema.org/url> <https://biblehub.com/web/1_kings/8.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <http://purl.org/dc/terms/title> "2 Chronicles 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> <https://schema.org/url> <https://biblehub.com/web/2_chronicles/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <http://purl.org/dc/terms/title> "2 Kings 25 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> <https://schema.org/url> <https://biblehub.com/web/2_kings/25.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <http://purl.org/dc/terms/title> "Ezra 6:15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> <https://schema.org/url> <https://www.christianity.com/bible/web/ezra/6-15> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <http://purl.org/dc/terms/title> "Haggai 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> <https://schema.org/url> <https://biblehub.com/web/haggai/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <http://purl.org/dc/terms/title> "Mark 11:17 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/mark/11-17.html> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Samuel 7, David wanted to build God a house. What \"house\" does God promise to build for David instead, and who will build the Temple?" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In 1 Kings 8:27-30, Solomon says heaven itself cannot contain God. If that is so, what was the Temple for, according to his prayer?" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In John 2:18-22, what did Jesus mean by \"this temple\", and when did his disciples finally understand it?" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Paul tells the Corinthian church, \"ye are the temple of God\" (1 Corinthians 3:16, KJV). How might seeing your congregation, and not only a building, as God's dwelling change the way you treat one another?" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://purl.org/dc/terms/created> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2000/01/rdf-schema#label> "The Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Beit HaMikdash" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "First Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Herod's Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Jerusalem Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Solomon's Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Temple in Jerusalem" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Temple of Jerusalem" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "Yahweh's house" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#altLabel> "house of the LORD" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#definition> "The sanctuary of Israel's God on the Temple Mount in Jerusalem: first built by Solomon and burned by the Babylonians, rebuilt after the exile and lavishly expanded by Herod, then destroyed by Rome in AD 70; in Scripture the place where God set his name among his people, a theme the New Testament carries over to Jesus himself and to the church." .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Temple" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/day-of-atonement> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomon> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/tabernacle> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/worship> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s10> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s11> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s12> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s13> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s14> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s15> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s16> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s17> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s18> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s19> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s1> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s20> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s2> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s3> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s4> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s5> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s6> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s7> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s8> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#domain> "places-and-geography" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/places-and-geography/the-temple.md" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/davidic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/presence-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 3:16-17" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 6" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 8:10-13" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 8:27-30" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Chronicles 3:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 25:8-13" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Samuel 7:1-13" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 25:8-9" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 6:15" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Haggai 2:3-9" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 2:18-22" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 11:15-17" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 13:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 15:38" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:22" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study#graph> {
   <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 17:10-12, what did the Jews of Beroea do with Paul's message, and how often?" .
@@ -6087,6 +6317,7 @@
   <https://github.com/john1hsu/bible-graph/id/amarna-letters> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/apocalyptic-literature> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
@@ -6114,6 +6345,7 @@
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
@@ -6173,6 +6405,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
@@ -6207,6 +6440,7 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
@@ -6217,6 +6451,9 @@
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/daniel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/davidic-covenant> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -6412,6 +6649,7 @@
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
   <https://github.com/john1hsu/bible-graph/id/jericho> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -6421,12 +6659,15 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+  <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -6459,6 +6700,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -6471,6 +6713,7 @@
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
@@ -6657,6 +6900,7 @@
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/presence-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
@@ -6707,6 +6951,7 @@
   <https://github.com/john1hsu/bible-graph/id/robert-a-traina> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -6741,6 +6986,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
@@ -6790,6 +7036,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/shiloh> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/solomon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -6800,6 +7047,7 @@
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/exodus> .
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/tabernacle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/tanakh> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
@@ -6852,6 +7100,13 @@
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -6862,6 +7117,7 @@
   <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
   <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/wisdom-literature> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/worship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/worship> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/worship> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/zerubbabel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .

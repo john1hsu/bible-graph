@@ -45,6 +45,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 15:1-21** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 20:13-14** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Exodus 25:8-9** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Exodus 32:1-32** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 33:11-23** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 34:6** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
@@ -87,23 +88,29 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Samuel
 
 - **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Samuel 7:1-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **2 Samuel 12:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 
 ## 1 Kings
 
+- **1 Kings 6** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Kings 8:10-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **1 Kings 8:27-30** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 
 ## 2 Kings
 
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Kings 24:10-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:1-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **2 Kings 25:8-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **2 Kings 25:21** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:27-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
 ## 2 Chronicles
 
 - **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Chronicles 3:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **2 Chronicles 28:15** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -123,6 +130,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Ezra 5:16** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 6:14-18** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Ezra 6:14-22** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Ezra 6:15** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Ezra 7:6-10** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 7:10** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Ezra 9:5-15** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -212,6 +220,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Haggai
 
 - **Haggai 2:3-9** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
+- **Haggai 2:3-9** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Haggai 2:18** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 
 ## Zechariah
@@ -265,10 +274,13 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Mark 11:15-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Mark 12:1-12** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 
 ## Luke
 
@@ -321,6 +333,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **John 2:18-22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
@@ -396,6 +409,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 1 Corinthians
 
+- **1 Corinthians 3:16-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
@@ -484,5 +498,6 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Revelation 21:1-5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Revelation 21:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Revelation 21:22** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Revelation 21:22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Revelation 22:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 

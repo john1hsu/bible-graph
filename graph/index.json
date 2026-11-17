@@ -4161,5 +4161,158 @@
    "https://etsjets.org/wp-content/uploads/2015/03/files_JETS-PDFs_58_58-1_JETS_58-1_15-30_Goswell.pdf",
    "https://bakerpublishinggroup.com/books/the-drama-of-scripture-3rd-edition/2315014"
   ]
+ },
+ {
+  "id": "bg:the-temple",
+  "title": "The Temple",
+  "aliases": [
+   "Temple in Jerusalem",
+   "Jerusalem Temple",
+   "Temple of Jerusalem",
+   "Solomon's Temple",
+   "First Temple",
+   "Herod's Temple",
+   "house of the LORD",
+   "Yahweh's house",
+   "Beit HaMikdash"
+  ],
+  "type": "Place",
+  "domain": "places-and-geography",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/places-and-geography/the-temple.md",
+  "created": "2026-11-17",
+  "summary": "The sanctuary of Israel's God on the Temple Mount in Jerusalem: first built by Solomon and burned by the Babylonians, rebuilt after the exile and lavishly expanded by Herod, then destroyed by Rome in AD 70; in Scripture the place where God set his name among his people, a theme the New Testament carries over to Jesus himself and to the church.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:tabernacle"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:solomon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:david"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:laying-the-foundation-of-the-second-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jeremiahs-temple-sermon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-ezra"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:cleansing-of-the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:day-of-atonement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:worship"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:presence-of-god",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:davidic-covenant",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:jesus",
+    "source": "s19",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s18",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 25:8-9",
+   "2 Samuel 7:1-13",
+   "1 Kings 6",
+   "1 Kings 8:10-13",
+   "1 Kings 8:27-30",
+   "2 Chronicles 3:1-2",
+   "2 Kings 25:8-13",
+   "Ezra 6:15",
+   "Haggai 2:3-9",
+   "Mark 11:15-17",
+   "Mark 13:1-2",
+   "Mark 15:38",
+   "John 2:18-22",
+   "1 Corinthians 3:16-17",
+   "Revelation 21:22"
+  ],
+  "studyQuestions": [
+   "According to 2 Samuel 7, David wanted to build God a house. What \"house\" does God promise to build for David instead, and who will build the Temple?",
+   "In 1 Kings 8:27-30, Solomon says heaven itself cannot contain God. If that is so, what was the Temple for, according to his prayer?",
+   "In John 2:18-22, what did Jesus mean by \"this temple\", and when did his disciples finally understand it?",
+   "Paul tells the Corinthian church, \"ye are the temple of God\" (1 Corinthians 3:16, KJV). How might seeing your congregation, and not only a building, as God's dwelling change the way you treat one another?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.biblestudytools.com/web/exodus/25-8.html",
+   "https://biblehub.com/web/2_samuel/7.htm",
+   "https://biblehub.com/web/1_kings/6.htm",
+   "https://biblehub.com/web/1_kings/8.htm",
+   "https://biblehub.com/web/2_chronicles/3.htm",
+   "https://biblehub.com/web/2_kings/25.htm",
+   "https://www.christianity.com/bible/web/ezra/6-15",
+   "https://biblehub.com/web/haggai/2.htm",
+   "https://www.biblestudytools.com/web/mark/11-17.html",
+   "https://biblehub.com/web/mark/13.htm",
+   "https://www.studylight.org/bible/eng/web/mark/15-38.html",
+   "https://www.christianity.com/bible/web/john/2-18-22",
+   "https://www.bibleserver.com/KJV/1%20Corinthians3",
+   "https://www.biblestudytools.com/web/revelation/21-22.html",
+   "https://www.jewishencyclopedia.com/articles/14310-temple-of-solomon",
+   "https://lexundria.com/j_aj/15.380-15.425/wst",
+   "https://www.jewishencyclopedia.com/articles/14304-temple-of-herod.html",
+   "https://library.biblicalarchaeology.org/sidebar/solomons-temple-in-jerusalem/",
+   "https://www.vatican.va/archive/ENG0015/__P1N.HTM",
+   "https://www.britannica.com/summary/Temple-of-Jerusalem"
+  ]
  }
 ]

@@ -27,6 +27,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | theme | texts |
 |---|---|
 | `bg:abrahamic-covenant` | Abraham |
+| `bg:davidic-covenant` | The Temple |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses |
 | `bg:general-revelation` | Paul at the Areopagus |
@@ -36,6 +37,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:love` | Parable of the Good Samaritan |
 | `bg:mosaic-covenant` | Moses |
 | `bg:new-covenant` | Book of Jeremiah, Old Testament |
+| `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus |
@@ -125,6 +127,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |
+| `bg:the-temple` | prefigures | `bg:jesus` |
 
 ## Events with no place in the timeline (gap)
 
