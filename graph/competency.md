@@ -18,9 +18,7 @@ _No results._
 
 _Which written life situations have no passage, theme, doctrine or practice that speaks to them?_ — `queries/03-situations-without-scripture.rq`
 
-| node |
-|---|
-| `bg:suffering-and-lament` |
+_No results._
 
 ## Themes traced across Scripture
 
@@ -35,7 +33,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
@@ -132,6 +130,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
+| `bg:psalm-22` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |

@@ -243,6 +243,18 @@ Study questions:
 - The speech begins with creation and ends with repentance, judgment and the resurrection (17:30-31). Why do you think Paul builds toward Jesus in that order for this audience?
 - Luke records three responses in 17:32-34. Which response do you see most often when you talk about faith with friends or colleagues, and what might Paul's example teach you about those conversations?
 
+### [Psalm 22](../articles/key-passages/psalm-22.md) — Passage
+
+Read: Psalm 22; Psalm 22:1-11; Psalm 22:12-21; Psalm 22:22-31; Matthew 27:35; Matthew 27:39; Matthew 27:43; Matthew 27:46; Mark 15:34; John 19:23-24; Hebrews 2:10-12
+
+Study questions:
+- In Psalm 22:1-2 the psalmist says God does not answer. Whom is he still speaking to, and what does it mean that he calls God "my God"?
+- What does the psalmist remember in verses 4-5 and 9-10? How do those memories help him keep praying?
+- Find the point where the psalm turns from plea to praise. How far does the praise reach by verses 27-31?
+- Compare Psalm 22:7-8 and 22:18 with Matthew 27:35, 39 and 43 and John 19:23-24. What do the Gospel writers want readers to notice?
+- Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?
+- Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?
+
 ### [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) — Passage
 
 Read: Genesis 22:1-19; Hebrews 11:17-19; James 2:21-23; Romans 8:32; 2 Chronicles 3:1

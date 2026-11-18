@@ -290,6 +290,23 @@
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s7> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s8> .
 <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/psalm-22.md" .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> .
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/shema> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/shema.md" .
@@ -3610,6 +3627,166 @@
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
   <https://github.com/john1hsu/bible-graph/id/source/paul-at-the-areopagus/s9> <https://schema.org/url> <https://biblia.com/bible/kjv1900/romans/1/19-20> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/psalm-22#graph> {
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Psalm 22:1-2 the psalmist says God does not answer. Whom is he still speaking to, and what does it mean that he calls God \"my God\"?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What does the psalmist remember in verses 4-5 and 9-10? How do those memories help him keep praying?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Find the point where the psalm turns from plea to praise. How far does the praise reach by verses 27-31?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Psalm 22:7-8 and 22:18 with Matthew 27:35, 39 and 43 and John 19:23-24. What do the Gospel writers want readers to notice?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 22" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#altLabel> "My God, my God, why have you forsaken me?" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#altLabel> "Psalm 21 (Greek and Latin numbering)" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/book-of-psalms> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#definition> "The psalm of David that begins \"My God, my God, why have you forsaken me?\": a lament that moves from feeling abandoned, mocked and surrounded to a vow of praise in which the nations and generations yet unborn turn to God. Jesus prayed its first words from the cross, and the Gospels tell the crucifixion in its language." .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psalm 22" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-john> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/prayer> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/psalm-22.md" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 2:10-12" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 19:23-24" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 15:34" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 27:35" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 27:39" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 27:43" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 27:46" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22:1-11" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22:12-21" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22:22-31" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/book-of-psalms> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <http://purl.org/dc/terms/publisher> "Torat Har Etzion, Yeshivat Har Etzion" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <http://purl.org/dc/terms/title> "Psalm 22: Complaint, Supplication, and Thanksgiving (Part I) (Rav Elchanan Samet, trans. David Strauss)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10> <https://schema.org/url> <https://etzion.org.il/en/node/27509> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <http://purl.org/dc/terms/publisher> "Chabad.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <http://purl.org/dc/terms/title> "Tehillim (Psalms) chapter 22 with Rashi's commentary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11> <https://schema.org/url> <https://www.chabad.org/library/bible_cdo/aid/16243/showrashi/true> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <http://purl.org/dc/terms/title> "Augustine of Hippo, Exposition on Psalm 22 (21), Expositions on the Psalms" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> <https://schema.org/url> <https://www.newadvent.org/fathers/1801022.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <http://purl.org/dc/terms/publisher> "Logos Virtual Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <http://purl.org/dc/terms/title> "Justin Martyr, Dialogue with Trypho, chapter 98 (trans. Alexander Roberts and James Donaldson)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> <https://schema.org/url> <https://logoslibrary.org/justin/trypho/098.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <http://purl.org/dc/terms/publisher> "Scriptura" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <http://purl.org/dc/terms/title> "The Text of Ps. 22:17b, Psalms: Layer by Layer" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> <https://schema.org/url> <https://psalms.scriptura.org/w/The_Text_of_Ps._22:17b> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <http://purl.org/dc/terms/title> "Psalm 22 (World English Bible, with King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1> <https://schema.org/url> <https://miamisdb.org/bible/kjv+web/ps/22> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <http://purl.org/dc/terms/title> "Psalm 22, with notes (New American Bible, Revised Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2> <https://schema.org/url> <https://bible.usccb.org/bible/psalms/22> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <http://purl.org/dc/terms/publisher> "Bíblia Online" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <http://purl.org/dc/terms/title> "Matthew 27 (World English Bible, with King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3> <https://schema.org/url> <https://www.bibliaonline.com.br/kjv+web/mt/27> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <http://purl.org/dc/terms/title> "Mark 15 (World English Bible, US)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4> <https://schema.org/url> <https://www.bible.com/bible-verses/206/MRK.15.WEBUS> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <http://purl.org/dc/terms/title> "John 19 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5> <https://schema.org/url> <https://www.bibliaparalela.com/web/john/19.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <http://purl.org/dc/terms/title> "Hebrews 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6> <https://schema.org/url> <https://bibliaparalela.com/web/hebrews/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <http://purl.org/dc/terms/publisher> "Biblia (Faithlife)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <http://purl.org/dc/terms/title> "Psalm 22:16 with translators' notes (NET Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7> <https://schema.org/url> <https://biblia.com/bible/gs-netbible/Ps%2022.16> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <http://purl.org/dc/terms/publisher> "Working Preacher, Luther Seminary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <http://purl.org/dc/terms/title> "Commentary on Psalm 22 (Amanda Benckhuysen, Calvin Theological Seminary), Good Friday" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8> <https://schema.org/url> <https://www.workingpreacher.org/commentaries/revised-common-lectionary/good-friday/commentary-on-psalm-22-7> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://purl.org/dc/terms/publisher> "Enter the Bible, Luther Seminary" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://purl.org/dc/terms/title> "Psalm 22: My God, my God, why have you forsaken me?" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://schema.org/url> <https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/shema#graph> {
@@ -9414,6 +9591,9 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-micah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/book-of-micah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/book-of-nehemiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
@@ -9436,16 +9616,22 @@
   <https://github.com/john1hsu/bible-graph/id/covenant> <https://github.com/john1hsu/bible-graph/ontology#hasInstance> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <https://github.com/john1hsu/bible-graph/ontology#hasInstance> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-cylinder> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/daniel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/david> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/davidic-covenant> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/day-of-atonement> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -9457,6 +9643,7 @@
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -9581,6 +9768,7 @@
   <https://github.com/john1hsu/bible-graph/id/golden-calf> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
   <https://github.com/john1hsu/bible-graph/id/golden-calf> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-john> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-john> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -9600,6 +9788,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -9620,6 +9809,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -9687,6 +9877,7 @@
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
@@ -9773,6 +9964,7 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -9815,6 +10007,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
@@ -9914,6 +10107,7 @@
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
@@ -10149,6 +10343,7 @@
   <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+  <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/prayer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/presence-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
@@ -10163,6 +10358,15 @@
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/psalm-136> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/psalm-22> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-psalms> .
   <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/qumran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/qumran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
@@ -10306,6 +10510,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10365,6 +10570,8 @@
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prayer> .
+  <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/tabernacle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/tanakh> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/old-testament> .

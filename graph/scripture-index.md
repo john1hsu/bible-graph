@@ -218,8 +218,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Psalm 13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 22** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 22:1-5** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 22:1-11** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Psalm 22:12-21** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 22:22-24** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 22:22-31** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
@@ -368,7 +372,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 22:37-40** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Matthew 27:35** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Matthew 27:39** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Matthew 27:43** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Matthew 27:45-46** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Matthew 27:46** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 
 ## Mark
@@ -392,6 +400,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Mark 15:34** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 
 ## Luke
@@ -460,6 +469,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **John 19:23-24** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **John 20:30-31** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **John 20:31** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **John 21:25** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
@@ -611,6 +621,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Hebrews
 
 - **Hebrews 1:1-2** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Hebrews 2:10-12** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Hebrews 6:13-18** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Hebrews 8:6-13** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)

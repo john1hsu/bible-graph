@@ -4923,6 +4923,143 @@
    ]
   },
   {
+   "@id": "bg:psalm-22",
+   "@type": "bgo:Passage",
+   "bgo:attributedTo": {
+    "@id": "bg:david"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "key-passages",
+   "bgo:file": "articles/key-passages/psalm-22.md",
+   "bgo:keyReference": [
+    "Hebrews 2:10-12",
+    "John 19:23-24",
+    "Mark 15:34",
+    "Matthew 27:35",
+    "Matthew 27:39",
+    "Matthew 27:43",
+    "Matthew 27:46",
+    "Psalm 22",
+    "Psalm 22:1-11",
+    "Psalm 22:12-21",
+    "Psalm 22:22-31"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:book-of-psalms"
+   },
+   "bgo:prefigures": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "bgo:preservedIn": [
+    {
+     "@id": "bg:dead-sea-scrolls"
+    },
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ],
+   "bgo:speaksTo": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9"
+    }
+   ],
+   "rdfs:label": "Psalm 22",
+   "skos:altLabel": [
+    "My God, my God, why have you forsaken me?",
+    "Psalm 21 (Greek and Latin numbering)"
+   ],
+   "skos:broader": {
+    "@id": "bg:book-of-psalms"
+   },
+   "skos:definition": "The psalm of David that begins \"My God, my God, why have you forsaken me?\": a lament that moves from feeling abandoned, mocked and surrounded to a vow of praise in which the nations and generations yet unborn turn to God. Jesus prayed its first words from the cross, and the Gospels tell the crucifixion in its language.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages"
+   },
+   "skos:prefLabel": "Psalm 22",
+   "skos:related": [
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:gospel-of-john"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:prayer"
+    },
+    {
+     "@id": "bg:suffering-and-lament"
+    }
+   ]
+  },
+  {
    "@id": "bg:reading-in-context",
    "@type": "bgo:Method",
    "bgo:addresses": [
@@ -8322,6 +8459,54 @@
     "@id": "bg:pharisees"
    },
    "rdfs:label": "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "In Psalm 22:1-2 the psalmist says God does not answer. Whom is he still speaking to, and what does it mean that he calls God \"my God\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "What does the psalmist remember in verses 4-5 and 9-10? How do those memories help him keep praying?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "Find the point where the psalm turns from plea to praise. How far does the praise reach by verses 27-31?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "Compare Psalm 22:7-8 and 22:18 with Matthew 27:35, 39 and 43 and John 19:23-24. What do the Gospel writers want readers to notice?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:psalm-22"
+   },
+   "rdfs:label": "Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1",
@@ -16798,6 +16983,202 @@
    "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
    "schema:url": {
     "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Psalm 22 (World English Bible, with King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/kjv+web/ps/22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Torat Har Etzion, Yeshivat Har Etzion",
+   "dcterms:title": "Psalm 22: Complaint, Supplication, and Thanksgiving (Part I) (Rav Elchanan Samet, trans. David Strauss)",
+   "schema:url": {
+    "@id": "https://etzion.org.il/en/node/27509"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Chabad.org",
+   "dcterms:title": "Tehillim (Psalms) chapter 22 with Rashi's commentary",
+   "schema:url": {
+    "@id": "https://www.chabad.org/library/bible_cdo/aid/16243/showrashi/true"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Augustine of Hippo, Exposition on Psalm 22 (21), Expositions on the Psalms",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/1801022.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Logos Virtual Library",
+   "dcterms:title": "Justin Martyr, Dialogue with Trypho, chapter 98 (trans. Alexander Roberts and James Donaldson)",
+   "schema:url": {
+    "@id": "https://logoslibrary.org/justin/trypho/098.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Scriptura",
+   "dcterms:title": "The Text of Ps. 22:17b, Psalms: Layer by Layer",
+   "schema:url": {
+    "@id": "https://psalms.scriptura.org/w/The_Text_of_Ps._22:17b"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Psalm 22, with notes (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/psalms/22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bíblia Online",
+   "dcterms:title": "Matthew 27 (World English Bible, with King James Version)",
+   "schema:url": {
+    "@id": "https://www.bibliaonline.com.br/kjv+web/mt/27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Mark 15 (World English Bible, US)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible-verses/206/MRK.15.WEBUS"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "John 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/john/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Hebrews 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/hebrews/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia (Faithlife)",
+   "dcterms:title": "Psalm 22:16 with translators' notes (NET Bible)",
+   "schema:url": {
+    "@id": "https://biblia.com/bible/gs-netbible/Ps%2022.16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Working Preacher, Luther Seminary",
+   "dcterms:title": "Commentary on Psalm 22 (Amanda Benckhuysen, Calvin Theological Seminary), Good Friday",
+   "schema:url": {
+    "@id": "https://www.workingpreacher.org/commentaries/revised-common-lectionary/good-friday/commentary-on-psalm-22-7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Enter the Bible, Luther Seminary",
+   "dcterms:title": "Psalm 22: My God, my God, why have you forsaken me?",
+   "schema:url": {
+    "@id": "https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/"
    }
   },
   {

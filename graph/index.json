@@ -4722,6 +4722,150 @@
   ]
  },
  {
+  "id": "bg:psalm-22",
+  "title": "Psalm 22",
+  "aliases": [
+   "My God, my God, why have you forsaken me?",
+   "Psalm 21 (Greek and Latin numbering)"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/key-passages/psalm-22.md",
+  "created": "2026-11-18",
+  "summary": "The psalm of David that begins \"My God, my God, why have you forsaken me?\": a lament that moves from feeling abandoned, mocked and surrounded to a vow of praise in which the nations and generations yet unborn turn to God. Jesus prayed its first words from the cross, and the Gospels tell the crucifixion in its language.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:book-of-psalms"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:suffering-and-lament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-john"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:hebrew-poetry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:david"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:book-of-psalms",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:david",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:suffering-and-lament",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:crucifixion-of-jesus",
+    "source": "s12",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:masoretic-text",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:septuagint",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:dead-sea-scrolls",
+    "source": "s14",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 22",
+   "Psalm 22:1-11",
+   "Psalm 22:12-21",
+   "Psalm 22:22-31",
+   "Matthew 27:35",
+   "Matthew 27:39",
+   "Matthew 27:43",
+   "Matthew 27:46",
+   "Mark 15:34",
+   "John 19:23-24",
+   "Hebrews 2:10-12"
+  ],
+  "studyQuestions": [
+   "In Psalm 22:1-2 the psalmist says God does not answer. Whom is he still speaking to, and what does it mean that he calls God \"my God\"?",
+   "What does the psalmist remember in verses 4-5 and 9-10? How do those memories help him keep praying?",
+   "Find the point where the psalm turns from plea to praise. How far does the praise reach by verses 27-31?",
+   "Compare Psalm 22:7-8 and 22:18 with Matthew 27:35, 39 and 43 and John 19:23-24. What do the Gospel writers want readers to notice?",
+   "Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?",
+   "Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://miamisdb.org/bible/kjv+web/ps/22",
+   "https://bible.usccb.org/bible/psalms/22",
+   "https://www.bibliaonline.com.br/kjv+web/mt/27",
+   "https://www.bible.com/bible-verses/206/MRK.15.WEBUS",
+   "https://www.bibliaparalela.com/web/john/19.htm",
+   "https://bibliaparalela.com/web/hebrews/2.htm",
+   "https://biblia.com/bible/gs-netbible/Ps%2022.16",
+   "https://www.workingpreacher.org/commentaries/revised-common-lectionary/good-friday/commentary-on-psalm-22-7",
+   "https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/",
+   "https://etzion.org.il/en/node/27509",
+   "https://www.chabad.org/library/bible_cdo/aid/16243/showrashi/true",
+   "https://www.newadvent.org/fathers/1801022.htm",
+   "https://logoslibrary.org/justin/trypho/098.html",
+   "https://psalms.scriptura.org/w/The_Text_of_Ps._22:17b"
+  ]
+ },
+ {
   "id": "bg:reading-in-context",
   "title": "Reading in Context",
   "aliases": [
