@@ -5637,6 +5637,144 @@
    ]
   },
   {
+   "@id": "bg:suffering-and-lament",
+   "@type": "bgo:LifeSituation",
+   "bgo:basis": "devotional",
+   "bgo:complements": {
+    "@id": "bg:grief"
+   },
+   "bgo:domain": "living-the-word",
+   "bgo:explainedBy": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "bgo:file": "articles/living-the-word/suffering-and-lament.md",
+   "bgo:keyReference": [
+    "2 Corinthians 1:3-9",
+    "Habakkuk 1:2-4",
+    "Job 2:11-13",
+    "Job 42:7-10",
+    "Lamentations 3:1-33",
+    "Matthew 27:45-46",
+    "Psalm 13",
+    "Psalm 22:1-5",
+    "Psalm 22:22-24",
+    "Psalm 88",
+    "Revelation 21:3-5",
+    "Romans 8:18-28"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": [
+    {
+     "@id": "bg:book-of-job"
+    },
+    {
+     "@id": "bg:book-of-lamentations"
+    },
+    {
+     "@id": "bg:psalm-22"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9"
+    }
+   ],
+   "rdfs:label": "Suffering and Lament",
+   "skos:altLabel": [
+    "biblical lament",
+    "complaint psalms",
+    "lament psalms",
+    "lament",
+    "psalms of lament",
+    "qinah",
+    "where is God when it hurts",
+    "why do I suffer"
+   ],
+   "skos:broader": {
+    "@id": "bg:prayer"
+   },
+   "skos:definition": "What Scripture says to Christians who are suffering: the Bible does not explain every sorrow, but it gives God's people words to bring their pain, protest and questions honestly to him in lament, as the psalmists, Job, Lamentations and Jesus on the cross did, and it holds that cry together with trust in God's faithful love and the hope of a world made new.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/living-the-word"
+   },
+   "skos:prefLabel": "Suffering and Lament",
+   "skos:related": [
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-jeremiah"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:grief"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:parable-of-the-good-samaritan"
+    }
+   ]
+  },
+  {
    "@id": "bg:the-exodus",
    "@type": "bgo:Event",
    "bgo:basis": "debated",
@@ -17226,6 +17364,244 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "2 Corinthians 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/2-corinthians/1.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Revelation 21 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/revelation/21.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Fortress Press, via J. Richard Middleton",
+   "dcterms:title": "The Costly Loss of Lament (Walter Brueggemann), Journal for the Study of the Old Testament 36 (1986): 57-71, reprinted in The Psalms and the Life of Faith (Fortress, 1995)",
+   "schema:url": {
+    "@id": "https://jrichardmiddleton.com/wp-content/uploads/2014/10/brueggemann-costly-loss-of-lament-reprint-1995.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Luther Seminary",
+   "dcterms:title": "Praying the Psalms (Kathryn Schifferdecker), Word & World 35, no. 1 (2015): 5-12",
+   "schema:url": {
+    "@id": "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/35-1_Prayer/Praying%20the%20Psalms.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Suffering (Barry D. Smith), Baker's Evangelical Dictionary of Biblical Theology; and Suffering (H. L. E. Luering), International Standard Bible Encyclopedia",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/suffering"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Lamentations: Introduction, New American Bible, Revised Edition",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/lamentations/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Ab, Ninth Day of, The Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/110-ab-ninth-day-of.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Salvifici Doloris: On the Christian Meaning of Human Suffering (John Paul II, 1984)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Psalm 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/psalms/22.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Psalm 88 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/psalms/88.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Lamentations 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/lamentations/3.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Job 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/job/2.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Job 42 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/job/42.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Habakkuk 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/habakkuk/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 27 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/27.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Romans 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/romans/8.html"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1",
    "@type": "bgo:Source",
    "bgo:sourceType": "scripture",
@@ -17924,6 +18300,46 @@
    "schema:url": {
     "@id": "https://www.biblestudytools.com/web/mark/11-17.html"
    }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "rdfs:label": "Psalm 13 asks \"How long?\" four times in two verses. What changes in verses 5-6, and has the psalmist's situation changed by then?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "rdfs:label": "Psalm 88 ends in darkness, without a turn to praise. Why might God have included a prayer like this in Scripture?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "rdfs:label": "In Job 42:7-8, God says the friends did not speak rightly about him \"as my servant Job has.\" What had the friends said, and what had Job done?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "rdfs:label": "Jesus prays the opening words of Psalm 22 from the cross (Matthew 27:46). How does knowing the whole psalm shape the way you hear his cry?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "rdfs:label": "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/1",

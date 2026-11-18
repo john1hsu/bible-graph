@@ -193,12 +193,21 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Nehemiah 8:1-12** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
+## Job
+
+- **Job 2:11-13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Job 42:7-10** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+
 ## Psalms
 
 - **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
+- **Psalm 13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 22:1-5** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 22:22-24** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Psalm 88** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 91:11-12** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Psalm 98:7-9** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -256,6 +265,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Jeremiah 43:1-7** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 52:28-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
+## Lamentations
+
+- **Lamentations 3:1-33** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+
 ## Ezekiel
 
 - **Ezekiel 1:1-3** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -275,6 +288,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Micah
 
 - **Micah 3:12** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+
+## Habakkuk
+
+- **Habakkuk 1:2-4** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 
 ## Haggai
 
@@ -334,6 +351,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 22:37-40** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Matthew 27:45-46** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 
 ## Mark
@@ -496,6 +514,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
+- **Romans 8:18-28** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Romans 8:32** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **Romans 9:4** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Romans 11:1** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
@@ -517,6 +536,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Corinthians
 
+- **2 Corinthians 1:3-9** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **2 Corinthians 3:6-16** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **2 Corinthians 3:14** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Corinthians 11:25** — [Paul](../articles/new-testament-people/paul.md) (Person)
@@ -610,6 +630,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Revelation 15:2-3** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Revelation 21:1-5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Revelation 21:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Revelation 21:3-5** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Revelation 21:22** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Revelation 21:22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Revelation 22:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)

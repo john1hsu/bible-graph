@@ -7029,6 +7029,108 @@
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <https://schema.org/url> <https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20011121.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <http://purl.org/dc/terms/title> "2 Corinthians 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> <https://schema.org/url> <https://www.biblestudytools.com/web/2-corinthians/1.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <http://purl.org/dc/terms/title> "Revelation 21 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> <https://schema.org/url> <https://www.bibliaparalela.com/web/revelation/21.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <http://purl.org/dc/terms/publisher> "Fortress Press, via J. Richard Middleton" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <http://purl.org/dc/terms/title> "The Costly Loss of Lament (Walter Brueggemann), Journal for the Study of the Old Testament 36 (1986): 57-71, reprinted in The Psalms and the Life of Faith (Fortress, 1995)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> <https://schema.org/url> <https://jrichardmiddleton.com/wp-content/uploads/2014/10/brueggemann-costly-loss-of-lament-reprint-1995.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <http://purl.org/dc/terms/publisher> "Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <http://purl.org/dc/terms/title> "Praying the Psalms (Kathryn Schifferdecker), Word & World 35, no. 1 (2015): 5-12" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> <https://schema.org/url> <https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/35-1_Prayer/Praying%20the%20Psalms.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <http://purl.org/dc/terms/title> "Suffering (Barry D. Smith), Baker's Evangelical Dictionary of Biblical Theology; and Suffering (H. L. E. Luering), International Standard Bible Encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> <https://schema.org/url> <https://www.biblestudytools.com/dictionary/suffering> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <http://purl.org/dc/terms/title> "Lamentations: Introduction, New American Bible, Revised Edition" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> <https://schema.org/url> <https://bible.usccb.org/bible/lamentations/0> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <http://purl.org/dc/terms/title> "Ab, Ninth Day of, The Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/110-ab-ninth-day-of.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <http://purl.org/dc/terms/title> "Salvifici Doloris: On the Christian Meaning of Human Suffering (John Paul II, 1984)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> <https://schema.org/url> <https://www.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <http://purl.org/dc/terms/title> "Psalm 13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> <https://schema.org/url> <https://biblehub.com/web/psalms/13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <http://purl.org/dc/terms/title> "Psalm 22 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> <https://schema.org/url> <https://www.biblestudytools.com/web/psalms/22.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <http://purl.org/dc/terms/title> "Psalm 88 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> <https://schema.org/url> <https://www.biblestudytools.com/web/psalms/88.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <http://purl.org/dc/terms/title> "Lamentations 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> <https://schema.org/url> <https://www.biblestudytools.com/web/lamentations/3.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <http://purl.org/dc/terms/title> "Job 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/job/2.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <http://purl.org/dc/terms/title> "Job 42 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> <https://schema.org/url> <https://www.biblestudytools.com/web/job/42.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <http://purl.org/dc/terms/title> "Habakkuk 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> <https://schema.org/url> <https://bibliaparalela.com/web/habakkuk/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <http://purl.org/dc/terms/title> "Matthew 27 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> <https://schema.org/url> <https://biblehub.com/web/matthew/27.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://purl.org/dc/terms/title> "Romans 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/romans/8.html> .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/title> "Luke 9:31 (World English Bible)" .
@@ -7329,6 +7431,81 @@
 <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/the-temple/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/mark/11-17.html> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 13 asks \"How long?\" four times in two verses. What changes in verses 5-6, and has the psalmist's situation changed by then?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 88 ends in darkness, without a turn to praise. Why might God have included a prayer like this in Scripture?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Job 42:7-8, God says the friends did not speak rightly about him \"as my servant Job has.\" What had the friends said, and what had Job done?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus prays the opening words of Psalm 22 from the cross (Matthew 27:46). How does knowing the whole psalm shape the way you hear his cry?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2000/01/rdf-schema#label> "Suffering and Lament" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical lament" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "complaint psalms" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "lament psalms" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "lament" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "psalms of lament" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "qinah" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "where is God when it hurts" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#altLabel> "why do I suffer" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/prayer> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#definition> "What Scripture says to Christians who are suffering: the Bible does not explain every sorrow, but it gives God's people words to bring their pain, protest and questions honestly to him in lament, as the psalmists, Job, Lamentations and Jesus on the cross did, and it holds that cry together with trust in God's faithful love and the hope of a world made new." .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/living-the-word> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suffering and Lament" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s10> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s11> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s12> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s13> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s14> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s1> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s2> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s3> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s4> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s5> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s6> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s7> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s8> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#domain> "living-the-word" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/living-the-word/suffering-and-lament.md" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Corinthians 1:3-9" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Habakkuk 1:2-4" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Job 2:11-13" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Job 42:7-10" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Lamentations 3:1-33" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 27:45-46" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 13" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22:1-5" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 22:22-24" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 88" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:3-5" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 8:18-28" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-job> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> .
+<https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?" .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .

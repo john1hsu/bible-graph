@@ -337,6 +337,17 @@ Study questions:
 - What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?
 - Who is a "neighbor" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?
 
+### [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) — LifeSituation
+
+Read: Psalm 13; Psalm 22:1-5; Psalm 22:22-24; Psalm 88; Lamentations 3:1-33; Job 2:11-13; Job 42:7-10; Habakkuk 1:2-4; Matthew 27:45-46; Romans 8:18-28; 2 Corinthians 1:3-9; Revelation 21:3-5
+
+Study questions:
+- Psalm 13 asks "How long?" four times in two verses. What changes in verses 5-6, and has the psalmist's situation changed by then?
+- Psalm 88 ends in darkness, without a turn to praise. Why might God have included a prayer like this in Scripture?
+- In Job 42:7-8, God says the friends did not speak rightly about him "as my servant Job has." What had the friends said, and what had Job done?
+- Jesus prays the opening words of Psalm 22 from the cross (Matthew 27:46). How does knowing the whole psalm shape the way you hear his cry?
+- What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?
+
 ## manuscripts-translations-and-archaeology
 
 ### [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) — Manuscript

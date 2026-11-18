@@ -5438,6 +5438,133 @@
   ]
  },
  {
+  "id": "bg:suffering-and-lament",
+  "title": "Suffering and Lament",
+  "aliases": [
+   "lament",
+   "biblical lament",
+   "lament psalms",
+   "psalms of lament",
+   "complaint psalms",
+   "why do I suffer",
+   "where is God when it hurts",
+   "qinah"
+  ],
+  "type": "LifeSituation",
+  "domain": "living-the-word",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/living-the-word/suffering-and-lament.md",
+  "created": "2026-11-18",
+  "summary": "What Scripture says to Christians who are suffering: the Bible does not explain every sorrow, but it gives God's people words to bring their pain, protest and questions honestly to him in lament, as the psalmists, Job, Lamentations and Jesus on the cross did, and it holds that cry together with trust in God's faithful love and the hope of a world made new.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grief"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:hebrew-poetry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-jeremiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parable-of-the-good-samaritan"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:psalm-22",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:book-of-lamentations",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:book-of-job",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:grief",
+    "source": "s15",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:hebrew-poetry",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 13",
+   "Psalm 22:1-5",
+   "Psalm 22:22-24",
+   "Psalm 88",
+   "Lamentations 3:1-33",
+   "Job 2:11-13",
+   "Job 42:7-10",
+   "Habakkuk 1:2-4",
+   "Matthew 27:45-46",
+   "Romans 8:18-28",
+   "2 Corinthians 1:3-9",
+   "Revelation 21:3-5"
+  ],
+  "studyQuestions": [
+   "Psalm 13 asks \"How long?\" four times in two verses. What changes in verses 5-6, and has the psalmist's situation changed by then?",
+   "Psalm 88 ends in darkness, without a turn to praise. Why might God have included a prayer like this in Scripture?",
+   "In Job 42:7-8, God says the friends did not speak rightly about him \"as my servant Job has.\" What had the friends said, and what had Job done?",
+   "Jesus prays the opening words of Psalm 22 from the cross (Matthew 27:46). How does knowing the whole psalm shape the way you hear his cry?",
+   "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/psalms/13.htm",
+   "https://www.biblestudytools.com/web/psalms/22.html",
+   "https://www.biblestudytools.com/web/psalms/88.html",
+   "https://www.biblestudytools.com/web/lamentations/3.html",
+   "https://www.biblestudytools.com/web/job/2.html",
+   "https://www.biblestudytools.com/web/job/42.html",
+   "https://bibliaparalela.com/web/habakkuk/1.htm",
+   "https://biblehub.com/web/matthew/27.htm",
+   "https://www.biblestudytools.com/web/romans/8.html",
+   "https://www.biblestudytools.com/web/2-corinthians/1.html",
+   "https://www.bibliaparalela.com/web/revelation/21.htm",
+   "https://jrichardmiddleton.com/wp-content/uploads/2014/10/brueggemann-costly-loss-of-lament-reprint-1995.pdf",
+   "https://wordandworld.luthersem.edu/wp-content/uploads/pdfs/35-1_Prayer/Praying%20the%20Psalms.pdf",
+   "https://www.biblestudytools.com/dictionary/suffering",
+   "https://bible.usccb.org/bible/lamentations/0",
+   "https://www.jewishencyclopedia.com/articles/110-ab-ninth-day-of.html",
+   "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html"
+  ]
+ },
+ {
   "id": "bg:the-exodus",
   "title": "The Exodus",
   "aliases": [

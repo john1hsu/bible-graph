@@ -20,7 +20,9 @@ _Which written books of the Bible have no written key passage or parable that is
 
 _Which written life situations have no passage, theme, doctrine or practice that speaks to them?_ — `queries/03-situations-without-scripture.rq`
 
-_No results._
+| node |
+|---|
+| `bg:suffering-and-lament` |
 
 ## Themes traced across Scripture
 
