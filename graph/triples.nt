@@ -1098,6 +1098,92 @@
 <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/old-testament> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In 1 Kings 18:21, what choice does Elijah put to the people on Mount Carmel, and how do they answer in verse 39?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What does Elijah say to God in 1 Kings 19:4 and 19:10, and how does God care for him and answer him in 19:5-18?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "According to 1 Kings 19:11-12, where was the LORD not found, and how did he come to Elijah?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In 1 Kings 21:17-20, why is Elijah sent to Ahab after Naboth's death? What does this show about the God Elijah served?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "How do Malachi 4:5-6, Luke 1:17 and Matthew 17:10-13 connect Elijah with John the Baptist?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "James 5:17 says Elijah had \"a nature like ours.\" Where have you felt Elijah's exhaustion or loneliness, and what in God's care for him at Horeb speaks to you?" .
+<https://github.com/john1hsu/bible-graph/id/elijah/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2000/01/rdf-schema#label> "Elijah" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Elias" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Elijah the Prophet" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Elijah the Tishbite" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Eliyahu ha-Navi" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Eliyahu" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophet Elias" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/prophets> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#definition> "The prophet from Gilead who confronted King Ahab and Queen Jezebel over the worship of Baal in the northern kingdom of Israel: he announced a drought, faced Baal's prophets on Mount Carmel, met God in a still small voice at Horeb and was taken up to heaven in a whirlwind; Malachi promised his return, and the Gospels see that promise in John the Baptist." .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elijah" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/2-kings> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ahab> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-malachi> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomistic-history> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elisha> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jezebel> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mount-carmel> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mount-sinai> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/transfiguration> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s10> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s11> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s12> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s13> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s14> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s15> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s16> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s17> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s18> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s19> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s1> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s2> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s3> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s4> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s5> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s6> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s7> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s8> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/elijah/s9> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-people" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/baal> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-people/elijah.md" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/monotheism> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/prayer> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 17:1-24" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 18:17-46" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 19:1-21" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 21:17-29" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 1:1-17" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 2:1-15" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "James 5:16-18" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:17" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:25-26" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:54-55" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 4:5-6" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 11:13-14" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 17:1-13" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:2-5" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/elijah> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?" .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -6075,6 +6161,120 @@
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <https://schema.org/url> <https://biblehub.com/web/matthew/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <http://purl.org/dc/terms/title> "Luke 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s10> <https://schema.org/url> <https://ebible.org/eng-web/LUK01.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <http://purl.org/dc/terms/title> "Luke 4:25-26 (New International Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s11> <https://schema.org/url> <https://www.christianity.com/bible/niv/luke/4-25-26> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <http://purl.org/dc/terms/title> "Luke 9:51-56 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s12> <https://schema.org/url> <https://www.christianity.com/bible/web/luke/9-51-56> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <http://purl.org/dc/terms/title> "James 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s13> <https://schema.org/url> <https://www.bibliaparalela.com/web/james/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <http://purl.org/dc/terms/title> "Elias (Charles Souvay, Catholic Encyclopedia, 1909)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s14> <https://schema.org/url> <https://www.newadvent.org/cathen/05381b.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <http://purl.org/dc/terms/publisher> "St. Mary's University (course reading)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <http://purl.org/dc/terms/title> "1 Kings 17 – 2 Kings 25 (John J. Collins, A Short Introduction to the Hebrew Bible, 3rd ed., Fortress Press), chapter excerpt on Elijah" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s15> <https://schema.org/url> <https://palimpsest.stmarytx.edu/thanneken/th3310/Collins-2018-ShortIntroHebrewBible/Collins-Elijah.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <http://purl.org/dc/terms/title> "Elijah (Emil G. Hirsch, Eduard König, Solomon Schechter, Louis Ginzberg et al., Jewish Encyclopedia, 1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s16> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/5634-elijah.html> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 2582-2584 (Elijah, the prophets, and conversion of heart)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s17> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P91.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <http://purl.org/dc/terms/title> "Holy, Glorious Prophet Elijah (Lives of the Saints, July 20)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s18> <https://schema.org/url> <https://www.oca.org/saints/lives/2026/07/20/102060-holy-glorious-prophet-elijah> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <http://purl.org/dc/terms/title> "Romans 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s19> <https://schema.org/url> <https://bibliaparalela.com/web/romans/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <http://purl.org/dc/terms/title> "1 Kings 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s1> <https://schema.org/url> <https://www.bibliaparalela.com/web/1_kings/17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <http://purl.org/dc/terms/title> "1 Kings 18 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s2> <https://schema.org/url> <https://bibliaparalela.com/web/1_kings/18.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <http://purl.org/dc/terms/title> "1 Kings 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s3> <https://schema.org/url> <https://biblehub.com/web/1_kings/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <http://purl.org/dc/terms/title> "1 Kings 21 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s4> <https://schema.org/url> <https://biblehub.com/web/1_kings/21.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <http://purl.org/dc/terms/title> "2 Kings 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s5> <https://schema.org/url> <https://ebible.org/eng-web/2KI01.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <http://purl.org/dc/terms/title> "2 Kings 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s6> <https://schema.org/url> <https://biblehub.com/web/2_kings/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <http://purl.org/dc/terms/title> "Malachi 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s7> <https://schema.org/url> <https://bibliaparalela.com/web/malachi/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <http://purl.org/dc/terms/title> "Matthew 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s8> <https://schema.org/url> <https://biblehub.com/web/matthew/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <http://purl.org/dc/terms/title> "Matthew 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/elijah/s9> <https://schema.org/url> <https://www.bibliaparalela.com/web/matthew/17.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/title> "Romans 12 (World English Bible)" .

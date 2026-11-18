@@ -38,9 +38,10 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
-| `bg:monotheism` | The Shema |
+| `bg:monotheism` | Elijah, The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
+| `bg:prayer` | Elijah |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
@@ -96,7 +97,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:elijah` | bgo:Person |
 
 ## Orphan articles (gap)
 
@@ -136,6 +139,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-joel` | fulfils | `bg:pentecost` |
 | `bg:book-of-malachi` | fulfils | `bg:john-the-baptist` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
+| `bg:elijah` | prefigures | `bg:john-the-baptist` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
 | `bg:moses` | prefigures | `bg:jesus` |

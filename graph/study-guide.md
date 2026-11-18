@@ -690,6 +690,18 @@ Study questions:
 - Paul (Romans 4) and James (James 2:21-24) both use Abraham. Which episodes does each one point to, and how can both be true at once?
 - Hebrews 11:8 says Abraham "went out, not knowing where he went." Where is God asking you to take a next step before you can see the whole road?
 
+### [Elijah](../articles/old-testament-people/elijah.md) — Person
+
+Read: 1 Kings 17:1-24; 1 Kings 18:17-46; 1 Kings 19:1-21; 1 Kings 21:17-29; 2 Kings 1:1-17; 2 Kings 2:1-15; Malachi 4:5-6; Matthew 11:13-14; Matthew 17:1-13; Luke 1:17; Luke 4:25-26; Luke 9:54-55; Romans 11:2-5; James 5:16-18
+
+Study questions:
+- In 1 Kings 18:21, what choice does Elijah put to the people on Mount Carmel, and how do they answer in verse 39?
+- What does Elijah say to God in 1 Kings 19:4 and 19:10, and how does God care for him and answer him in 19:5-18?
+- According to 1 Kings 19:11-12, where was the LORD not found, and how did he come to Elijah?
+- In 1 Kings 21:17-20, why is Elijah sent to Ahab after Naboth's death? What does this show about the God Elijah served?
+- How do Malachi 4:5-6, Luke 1:17 and Matthew 17:10-13 connect Elijah with John the Baptist?
+- James 5:17 says Elijah had "a nature like ours." Where have you felt Elijah's exhaustion or loneliness, and what in God's care for him at Horeb speaks to you?
+
 ### [Israelites](../articles/old-testament-people/israelites.md) — Group
 
 Read: Genesis 32:28; Genesis 35:9-12; Genesis 35:23-26; Exodus 1:1-9; Exodus 19:3-8; Deuteronomy 7:6-9; 1 Kings 12:16-20; 2 Kings 17:5-18; Romans 9:3-8; Romans 11:1-2; Romans 11:17-29

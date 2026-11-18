@@ -170,10 +170,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 8:27-30** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 9:11** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **1 Kings 12:16-20** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **1 Kings 17:1-24** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **1 Kings 18:17-46** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **1 Kings 19:1-21** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **1 Kings 19:19-21** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
+- **1 Kings 21:17-29** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 
 ## 2 Kings
 
+- **2 Kings 1:1-17** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **2 Kings 2:1-15** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **2 Kings 15:29** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **2 Kings 17:5-18** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
@@ -369,6 +375,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Malachi 3:1** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Malachi 3:8-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Malachi 4:5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Malachi 4:5-6** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Malachi 4:5-6** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 
 ## Tobit
@@ -413,12 +420,14 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 9:9** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 9:10-13** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Matthew 11:2-19** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
+- **Matthew 11:13-14** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Matthew 13:1-52** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Matthew 16:1-12** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 16:13-21** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Matthew 16:13-23** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Matthew 16:16-18** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 17:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Matthew 17:1-13** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 18:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 18:21-35** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
@@ -508,6 +517,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:1-4** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 - **Luke 1:1-4** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Luke 1:5-25** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
+- **Luke 1:17** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:39-45** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -528,6 +538,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Luke 4:25-26** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 5:1-11** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Luke 6:17-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -538,6 +549,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 9:51** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **Luke 9:51-56** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Luke 9:54-55** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Luke 9:61-62** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 10:25-37** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
@@ -708,6 +720,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 11:1** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 11:1-2** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 11:1-2** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
+- **Romans 11:2-5** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Romans 11:17-29** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 11:28-29** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 11:28-29** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
@@ -826,6 +839,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **James 2:19** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **James 2:21-23** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **James 2:21-24** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **James 5:16-18** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 
 ## 1 Peter
 

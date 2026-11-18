@@ -2100,6 +2100,160 @@
   ]
  },
  {
+  "id": "bg:elijah",
+  "title": "Elijah",
+  "aliases": [
+   "Elias",
+   "Elijah the Tishbite",
+   "Eliyahu",
+   "Eliyahu ha-Navi",
+   "Elijah the Prophet",
+   "Prophet Elias"
+  ],
+  "type": "Person",
+  "domain": "old-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-people/elijah.md",
+  "created": "2026-11-18",
+  "summary": "The prophet from Gilead who confronted King Ahab and Queen Jezebel over the worship of Baal in the northern kingdom of Israel: he announced a drought, faced Baal's prophets on Mount Carmel, met God in a still small voice at Horeb and was taken up to heaven in a whirlwind; Malachi promised his return, and the Gospels see that promise in John the Baptist.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prophets"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elisha"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ahab"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jezebel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-the-baptist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:transfiguration"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-malachi"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mount-carmel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mount-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:1-kings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:2-kings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomistic-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:israelites",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:john-the-baptist",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:prayer",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:monotheism",
+    "source": "s16",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:baal",
+    "source": "s15",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "1 Kings 17:1-24",
+   "1 Kings 18:17-46",
+   "1 Kings 19:1-21",
+   "1 Kings 21:17-29",
+   "2 Kings 1:1-17",
+   "2 Kings 2:1-15",
+   "Malachi 4:5-6",
+   "Matthew 11:13-14",
+   "Matthew 17:1-13",
+   "Luke 1:17",
+   "Luke 4:25-26",
+   "Luke 9:54-55",
+   "Romans 11:2-5",
+   "James 5:16-18"
+  ],
+  "studyQuestions": [
+   "In 1 Kings 18:21, what choice does Elijah put to the people on Mount Carmel, and how do they answer in verse 39?",
+   "What does Elijah say to God in 1 Kings 19:4 and 19:10, and how does God care for him and answer him in 19:5-18?",
+   "According to 1 Kings 19:11-12, where was the LORD not found, and how did he come to Elijah?",
+   "In 1 Kings 21:17-20, why is Elijah sent to Ahab after Naboth's death? What does this show about the God Elijah served?",
+   "How do Malachi 4:5-6, Luke 1:17 and Matthew 17:10-13 connect Elijah with John the Baptist?",
+   "James 5:17 says Elijah had \"a nature like ours.\" Where have you felt Elijah's exhaustion or loneliness, and what in God's care for him at Horeb speaks to you?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibliaparalela.com/web/1_kings/17.htm",
+   "https://bibliaparalela.com/web/1_kings/18.htm",
+   "https://biblehub.com/web/1_kings/19.htm",
+   "https://biblehub.com/web/1_kings/21.htm",
+   "https://ebible.org/eng-web/2KI01.htm",
+   "https://biblehub.com/web/2_kings/2.htm",
+   "https://bibliaparalela.com/web/malachi/4.htm",
+   "https://biblehub.com/web/matthew/11.htm",
+   "https://www.bibliaparalela.com/web/matthew/17.htm",
+   "https://ebible.org/eng-web/LUK01.htm",
+   "https://www.christianity.com/bible/niv/luke/4-25-26",
+   "https://www.christianity.com/bible/web/luke/9-51-56",
+   "https://www.bibliaparalela.com/web/james/5.htm",
+   "https://bibliaparalela.com/web/romans/11.htm",
+   "https://www.newadvent.org/cathen/05381b.htm",
+   "https://palimpsest.stmarytx.edu/thanneken/th3310/Collins-2018-ShortIntroHebrewBible/Collins-Elijah.pdf",
+   "https://www.jewishencyclopedia.com/articles/5634-elijah.html",
+   "https://www.vatican.va/archive/ENG0015/__P91.HTM",
+   "https://www.oca.org/saints/lives/2026/07/20/102060-holy-glorious-prophet-elijah"
+  ]
+ },
+ {
   "id": "bg:forgiveness-in-the-bible",
   "title": "Forgiveness in the Bible",
   "aliases": [
