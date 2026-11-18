@@ -611,6 +611,30 @@
 <https://github.com/john1hsu/bible-graph/id/paul#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul/s12> .
 <https://github.com/john1hsu/bible-graph/id/paul#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul/s13> .
 <https://github.com/john1hsu/bible-graph/id/paul#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/paul/s14> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/new-testament-people/peter.md" .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s1> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s2> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s3> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s4> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s5> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s6> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s7> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s8> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s9> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s10> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s11> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s12> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s13> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s14> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s15> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s16> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s17> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s18> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s19> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s20> .
+<https://github.com/john1hsu/bible-graph/id/peter#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s21> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-books/book-of-ezra.md" .
@@ -6593,6 +6617,224 @@
   <https://github.com/john1hsu/bible-graph/id/source/paul/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/acts/18-3> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/peter#graph> {
+  <https://github.com/john1hsu/bible-graph/id/peter/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 16:13-20, what does Peter confess about Jesus, and where does Jesus say that insight came from?" .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Jesus rebuke Peter so sharply in Matthew 16:21-23, only moments after blessing him?" .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Jesus' warning in Luke 22:31-34 with his three questions in John 21:15-17. How does the second scene answer the first?" .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What did Peter learn at Joppa and in Cornelius's house (Acts 10:28, 10:34-35), and how did he use that lesson at Jerusalem (Acts 15:7-11)?" .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Peter failed publicly and was restored and given work to do. Where do you, or your church, need to hear that a failure is not the end of someone's discipleship?" .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2000/01/rdf-schema#label> "Peter" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Cephas" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Kephas" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Peter the Apostle" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Petros" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Saint Peter" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Simeon Peter" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Simon Bar Jonah" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Simon Peter" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Simon son of Jonah" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Simon" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Symeon" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#definition> "Simon, a Galilean fisherman whom Jesus renamed Cephas or Peter (\"rock\"); first among the Twelve, the disciple who confessed Jesus as the Christ, denied him three times and was restored by the risen Lord, and who then led the early church in Jerusalem and opened its door to the Gentiles before dying, by early tradition, as a martyr in Rome." .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peter" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-mark> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s10> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s11> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s12> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s13> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s14> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s15> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s16> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s17> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s18> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s19> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s1> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s20> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s21> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s2> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s3> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s4> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s5> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s6> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s7> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s8> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/peter/s9> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/first-clement> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-people" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-people/peter.md" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/grace> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 15:5" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Peter 5:12-13" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 10" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 12:1-17" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:7-14" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:14-41" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 2:7-14" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:40-44" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 21:15-19" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 22:31-34" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 22:54-62" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:16-18" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:29-31" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 16:13-23" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/andrew> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/title> "Acts 12 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <https://schema.org/url> <https://biblehub.com/web/acts/12.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <http://purl.org/dc/terms/title> "Acts 15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s11> <https://schema.org/url> <https://biblehub.com/web/acts/15.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <http://purl.org/dc/terms/title> "Galatians 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s12> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <http://purl.org/dc/terms/title> "1 Peter 5:12-14 (American Standard Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s13> <https://schema.org/url> <https://bible.com/et/bible/12/1PE.5.12-14.ASV> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <http://purl.org/dc/terms/title> "Simon Peter (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s14> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Simon-Peter> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <http://purl.org/dc/terms/title> "St. Peter, Prince of the Apostles (Catholic Encyclopedia)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s15> <https://schema.org/url> <https://www.newadvent.org/cathen/11744a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <http://purl.org/dc/terms/title> "Saint Peter the Apostle — Tradition of Peter in Rome (D. W. O'Connor and the editors)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s16> <https://schema.org/url> <https://www.britannica.com:443/biography/Saint-Peter-the-Apostle/Tradition-of-Peter-in-Rome> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <http://purl.org/dc/terms/title> "Clement of Rome, First Epistle to the Corinthians, ch. 5 (Ante-Nicene Fathers)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s17> <https://schema.org/url> <https://www.newadvent.org/fathers/1010.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paras. 880-882" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s18> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P2A.HTM> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <http://purl.org/dc/terms/publisher> "BookOfConcord.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <http://purl.org/dc/terms/title> "Treatise on the Power and Primacy of the Pope (1537), Book of Concord" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s19> <https://schema.org/url> <https://bookofconcord.org/power-and-primacy/treatise-compiled-at-smalcald/> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <http://purl.org/dc/terms/title> "Matthew 16 (World English Bible, British Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s1> <https://schema.org/url> <https://ebible.org/eng-webbe/MAT16.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <http://purl.org/dc/terms/title> "The Holy Glorious and All-Praised Leader of the Apostles, Peter (Lives of the Saints, June 29)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s20> <https://schema.org/url> <https://www.oca.org/saints/all-lives/2026/06/29> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <http://purl.org/dc/terms/publisher> "The Gospel Coalition" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <http://purl.org/dc/terms/title> "Gregg R. Allison, on \"this rock\" in Matthew 16:18" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s21> <https://schema.org/url> <https://thegospelcoalition.org/article/what-does-this-rock-refer-to-matthew-1618> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <http://purl.org/dc/terms/publisher> "StudyBible.info" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <http://purl.org/dc/terms/title> "John 1:40-44 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s2> <https://schema.org/url> <https://www.studybible.info/WEB/John%201:40-44> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <http://purl.org/dc/terms/title> "Mark 1:16-20 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s3> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/1-16-20> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <http://purl.org/dc/terms/title> "Mark 1:29-31 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/1-29-31> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <http://purl.org/dc/terms/title> "Luke 22 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s5> <https://schema.org/url> <https://biblehub.com/web/luke/22.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <http://purl.org/dc/terms/title> "John 21 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s6> <https://schema.org/url> <https://biblehub.com/web/john/21.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <http://purl.org/dc/terms/title> "1 Corinthians 15:5 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/1-corinthians/15-5.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <http://purl.org/dc/terms/title> "Acts 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s8> <https://schema.org/url> <https://ebible.org/eng-web/ACT02.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <http://purl.org/dc/terms/title> "Acts 10 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/peter/s9> <https://schema.org/url> <https://biblehub.com/web/acts/10.htm> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> {
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Ezra 1:1-4 with 2 Chronicles 36:22-23. What do the two passages share, and what does that suggest about how the story of Israel continues after the exile?" .
@@ -9605,6 +9847,9 @@
   <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
   <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/andrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/andrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/andrew> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/sadducees> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -9614,9 +9859,12 @@
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/athens> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/atonement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
@@ -9752,6 +10000,7 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
@@ -9763,6 +10012,7 @@
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
@@ -9828,6 +10078,7 @@
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -9867,6 +10118,7 @@
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -9972,6 +10224,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -10007,6 +10260,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/gospels> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/grace/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10024,6 +10278,7 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
@@ -10130,6 +10385,7 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -10139,6 +10395,7 @@
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/joseph-son-of-jacob> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
@@ -10262,6 +10519,7 @@
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
@@ -10493,12 +10751,16 @@
   <https://github.com/john1hsu/bible-graph/id/pentateuch> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/pentateuch> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/pentateuch> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/shema> .
+  <https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
-  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
-  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
-  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
-  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/phaenomena-of-aratus> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .

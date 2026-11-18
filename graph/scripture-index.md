@@ -363,6 +363,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 9:9** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 13:1-52** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Matthew 16:1-12** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Matthew 16:13-23** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Matthew 16:16-18** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 17:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Matthew 18:15-35** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -390,6 +391,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 1:14-15** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 1:14-15** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
+- **Mark 1:16-18** — [Peter](../articles/new-testament-people/peter.md) (Person)
+- **Mark 1:29-31** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Mark 2:5** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 4:11** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
@@ -466,6 +469,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 20:27-40** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Luke 22:20** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Luke 22:20** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+- **Luke 22:31-34** — [Peter](../articles/new-testament-people/peter.md) (Person)
+- **Luke 22:54-62** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 23:34** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -483,6 +488,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **John 1:40-44** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **John 2:18-22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
@@ -492,6 +498,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 19:23-24** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **John 20:30-31** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **John 20:31** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+- **John 21:15-19** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **John 21:25** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 
 ## Acts
@@ -502,6 +509,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Acts 2:14-41** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -515,9 +523,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:26-27** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 10** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 11:19-30** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 11:26** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 12:1-17** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 12:12** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Acts 13:1-4** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:1-4** — [Paul](../articles/new-testament-people/paul.md) (Person)
@@ -529,6 +539,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 14:12-14** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:1-6** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:2** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 15:7-14** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 15:12** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:17** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Acts 15:25-26** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -586,6 +597,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
+- **1 Corinthians 15:5** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **1 Corinthians 15:8-10** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **1 Corinthians 15:35-44** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
@@ -602,6 +614,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Galatians 1:13-14** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Galatians 1:15-24** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Galatians 2:1** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Galatians 2:7-14** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Galatians 2:9** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 2:11-13** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Galatians 3:6-9** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
@@ -669,6 +682,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Peter 1:1** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **1 Peter 1:17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **1 Peter 5:12-13** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **1 Peter 5:13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 
 ## 2 Peter

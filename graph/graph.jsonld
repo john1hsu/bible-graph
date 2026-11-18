@@ -4983,6 +4983,174 @@
    ]
   },
   {
+   "@id": "bg:peter",
+   "@type": "bgo:Person",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:corroboratedBy": {
+    "@id": "bg:first-clement"
+   },
+   "bgo:domain": "new-testament-people",
+   "bgo:file": "articles/new-testament-people/peter.md",
+   "bgo:illustrates": {
+    "@id": "bg:grace"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 15:5",
+    "1 Peter 5:12-13",
+    "Acts 10",
+    "Acts 12:1-17",
+    "Acts 15:7-14",
+    "Acts 2:14-41",
+    "Galatians 2:7-14",
+    "John 1:40-44",
+    "John 21:15-19",
+    "Luke 22:31-34",
+    "Luke 22:54-62",
+    "Mark 1:16-18",
+    "Mark 1:29-31",
+    "Matthew 16:13-23"
+   ],
+   "bgo:level": "introductory",
+   "bgo:memberOf": {
+    "@id": "bg:apostles"
+   },
+   "bgo:requires": {
+    "@id": "bg:gospels"
+   },
+   "bgo:siblingOf": {
+    "@id": "bg:andrew"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s9"
+    }
+   ],
+   "rdfs:label": "Peter",
+   "skos:altLabel": [
+    "Cephas",
+    "Kephas",
+    "Peter the Apostle",
+    "Petros",
+    "Saint Peter",
+    "Simeon Peter",
+    "Simon Bar Jonah",
+    "Simon Peter",
+    "Simon son of Jonah",
+    "Simon",
+    "Symeon"
+   ],
+   "skos:broader": {
+    "@id": "bg:apostles"
+   },
+   "skos:definition": "Simon, a Galilean fisherman whom Jesus renamed Cephas or Peter (\"rock\"); first among the Twelve, the disciple who confessed Jesus as the Christ, denied him three times and was restored by the risen Lord, and who then led the early church in Jerusalem and opened its door to the Gentiles before dying, by early tradition, as a martyr in Rome.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people"
+   },
+   "skos:prefLabel": "Peter",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:council-of-jerusalem"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:john-mark"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:pentecost"
+    }
+   ]
+  },
+  {
    "@id": "bg:pharisees",
    "@type": "bgo:Group",
    "bgo:basis": "debated",
@@ -8615,6 +8783,46 @@
     "@id": "bg:paul"
    },
    "rdfs:label": "Paul calls himself \"the least of the apostles\" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:peter"
+   },
+   "rdfs:label": "In Matthew 16:13-20, what does Peter confess about Jesus, and where does Jesus say that insight came from?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:peter"
+   },
+   "rdfs:label": "Why does Jesus rebuke Peter so sharply in Matthew 16:21-23, only moments after blessing him?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:peter"
+   },
+   "rdfs:label": "Compare Jesus' warning in Luke 22:31-34 with his three questions in John 21:15-17. How does the second scene answer the first?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:peter"
+   },
+   "rdfs:label": "What did Peter learn at Joppa and in Cornelius's house (Acts 10:28, 10:34-35), and how did he use that lesson at Jerusalem (Acts 15:7-11)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:peter"
+   },
+   "rdfs:label": "Peter failed publicly and was restored and given work to do. Where do you, or your church, need to hear that a failure is not the end of someone's discipleship?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/pharisees/check/1",
@@ -17185,6 +17393,300 @@
    "dcterms:title": "Acts 18:3 (World English Bible)",
    "schema:url": {
     "@id": "https://www.christianity.com/bible/web/acts/18-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Matthew 16 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-webbe/MAT16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/galatians/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "1 Peter 5:12-14 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://bible.com/et/bible/12/1PE.5.12-14.ASV"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Simon Peter (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Simon-Peter"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "St. Peter, Prince of the Apostles (Catholic Encyclopedia)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/11744a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Saint Peter the Apostle — Tradition of Peter in Rome (D. W. O'Connor and the editors)",
+   "schema:url": {
+    "@id": "https://www.britannica.com:443/biography/Saint-Peter-the-Apostle/Tradition-of-Peter-in-Rome"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Clement of Rome, First Epistle to the Corinthians, ch. 5 (Ante-Nicene Fathers)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/1010.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, paras. 880-882",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P2A.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "BookOfConcord.org",
+   "dcterms:title": "Treatise on the Power and Primacy of the Pope (1537), Book of Concord",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/power-and-primacy/treatise-compiled-at-smalcald/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "StudyBible.info",
+   "dcterms:title": "John 1:40-44 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.studybible.info/WEB/John%201:40-44"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Holy Glorious and All-Praised Leader of the Apostles, Peter (Lives of the Saints, June 29)",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/all-lives/2026/06/29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s21",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Gospel Coalition",
+   "dcterms:title": "Gregg R. Allison, on \"this rock\" in Matthew 16:18",
+   "schema:url": {
+    "@id": "https://thegospelcoalition.org/article/what-does-this-rock-refer-to-matthew-1618"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 1:16-20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/1-16-20"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 1:29-31 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/1-29-31"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 21 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/21.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Corinthians 15:5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-corinthians/15-5.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Acts 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ACT02.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/peter/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/10.htm"
    }
   },
   {

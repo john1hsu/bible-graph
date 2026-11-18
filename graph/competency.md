@@ -31,7 +31,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
 | `bg:general-revelation` | Paul at the Areopagus |
-| `bg:grace` | Barnabas, Paul |
+| `bg:grace` | Barnabas, Paul, Peter |
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
@@ -155,4 +155,5 @@ _Who are the parents, children, spouses and siblings of each written biblical fi
 | `bg:abraham` | bgo:spouseOf | `bg:sarah` |
 | `bg:moses` | bgo:siblingOf | `bg:aaron` |
 | `bg:moses` | bgo:spouseOf | `bg:zipporah` |
+| `bg:peter` | bgo:siblingOf | `bg:andrew` |
 

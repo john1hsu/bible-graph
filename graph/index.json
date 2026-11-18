@@ -4800,6 +4800,160 @@
   ]
  },
  {
+  "id": "bg:peter",
+  "title": "Peter",
+  "aliases": [
+   "Simon Peter",
+   "Saint Peter",
+   "Peter the Apostle",
+   "Simon",
+   "Cephas",
+   "Kephas",
+   "Symeon",
+   "Simeon Peter",
+   "Simon son of Jonah",
+   "Simon Bar Jonah",
+   "Petros"
+  ],
+  "type": "Person",
+  "domain": "new-testament-people",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/new-testament-people/peter.md",
+  "created": "2026-11-18",
+  "summary": "Simon, a Galilean fisherman whom Jesus renamed Cephas or Peter (\"rock\"); first among the Twelve, the disciple who confessed Jesus as the Christ, denied him three times and was restored by the risen Lord, and who then led the early church in Jerusalem and opened its door to the Gentiles before dying, by early tradition, as a martyr in Rome.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:barnabas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:council-of-jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pentecost"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "bgo:memberOf",
+    "object": "bg:apostles",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:siblingOf",
+    "object": "bg:andrew",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:grace",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:first-clement",
+    "source": "s17",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Matthew 16:13-23",
+   "John 1:40-44",
+   "Mark 1:16-18",
+   "Mark 1:29-31",
+   "Luke 22:31-34",
+   "Luke 22:54-62",
+   "John 21:15-19",
+   "1 Corinthians 15:5",
+   "Acts 2:14-41",
+   "Acts 10",
+   "Acts 12:1-17",
+   "Acts 15:7-14",
+   "Galatians 2:7-14",
+   "1 Peter 5:12-13"
+  ],
+  "studyQuestions": [
+   "In Matthew 16:13-20, what does Peter confess about Jesus, and where does Jesus say that insight came from?",
+   "Why does Jesus rebuke Peter so sharply in Matthew 16:21-23, only moments after blessing him?",
+   "Compare Jesus' warning in Luke 22:31-34 with his three questions in John 21:15-17. How does the second scene answer the first?",
+   "What did Peter learn at Joppa and in Cornelius's house (Acts 10:28, 10:34-35), and how did he use that lesson at Jerusalem (Acts 15:7-11)?",
+   "Peter failed publicly and was restored and given work to do. Where do you, or your church, need to hear that a failure is not the end of someone's discipleship?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-webbe/MAT16.htm",
+   "https://www.studybible.info/WEB/John%201:40-44",
+   "https://www.christianity.com/bible/web/mark/1-16-20",
+   "https://www.christianity.com/bible/web/mark/1-29-31",
+   "https://biblehub.com/web/luke/22.htm",
+   "https://biblehub.com/web/john/21.htm",
+   "https://www.biblestudytools.com/web/1-corinthians/15-5.html",
+   "https://ebible.org/eng-web/ACT02.htm",
+   "https://biblehub.com/web/acts/10.htm",
+   "https://biblehub.com/web/acts/12.htm",
+   "https://biblehub.com/web/acts/15.htm",
+   "https://www.bibliaparalela.com/web/galatians/2.htm",
+   "https://bible.com/et/bible/12/1PE.5.12-14.ASV",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Simon-Peter",
+   "https://www.newadvent.org/cathen/11744a.htm",
+   "https://www.britannica.com:443/biography/Saint-Peter-the-Apostle/Tradition-of-Peter-in-Rome",
+   "https://www.newadvent.org/fathers/1010.htm",
+   "https://www.vatican.va/archive/ENG0015/__P2A.HTM",
+   "https://bookofconcord.org/power-and-primacy/treatise-compiled-at-smalcald/",
+   "https://www.oca.org/saints/all-lives/2026/06/29",
+   "https://thegospelcoalition.org/article/what-does-this-rock-refer-to-matthew-1618"
+  ]
+ },
+ {
   "id": "bg:pharisees",
   "title": "Pharisees",
   "aliases": [

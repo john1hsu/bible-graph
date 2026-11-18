@@ -483,6 +483,17 @@ Study questions:
 - In Philippians 3:4-8, which credentials does Paul list, and how does he now value them?
 - Paul calls himself "the least of the apostles" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?
 
+### [Peter](../articles/new-testament-people/peter.md) — Person
+
+Read: Matthew 16:13-23; John 1:40-44; Mark 1:16-18; Mark 1:29-31; Luke 22:31-34; Luke 22:54-62; John 21:15-19; 1 Corinthians 15:5; Acts 2:14-41; Acts 10; Acts 12:1-17; Acts 15:7-14; Galatians 2:7-14; 1 Peter 5:12-13
+
+Study questions:
+- In Matthew 16:13-20, what does Peter confess about Jesus, and where does Jesus say that insight came from?
+- Why does Jesus rebuke Peter so sharply in Matthew 16:21-23, only moments after blessing him?
+- Compare Jesus' warning in Luke 22:31-34 with his three questions in John 21:15-17. How does the second scene answer the first?
+- What did Peter learn at Joppa and in Cornelius's house (Acts 10:28, 10:34-35), and how did he use that lesson at Jerusalem (Acts 15:7-11)?
+- Peter failed publicly and was restored and given work to do. Where do you, or your church, need to hear that a failure is not the end of someone's discipleship?
+
 ## old-testament-books
 
 ### [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) — Book
