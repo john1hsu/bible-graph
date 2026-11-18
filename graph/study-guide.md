@@ -148,6 +148,17 @@ Study questions:
 
 ## interpretation
 
+### [Catholic Church](../articles/interpretation/catholic-church.md) — Tradition
+
+Read: 2 Thessalonians 2:15; 2 Timothy 3:14-17; Acts 2:42; 1 Corinthians 10:1-11
+
+Study questions:
+- In 2 Thessalonians 2:15, by what two means does Paul say the Thessalonians were taught, and how does Catholic teaching draw on that verse?
+- According to 2 Timothy 3:15-17, what is Scripture able to do for the believer, and what does it equip them for?
+- In 1 Corinthians 10:1-11, how does Paul read the crossing of the sea and the wilderness years, and how does that example help explain the "spiritual senses" of Scripture?
+- Acts 2:42 lists four things the first believers devoted themselves to. Which of them shape how your own church hears the Bible?
+- What would help you describe the Catholic way of reading Scripture accurately to a friend from another tradition, or describe another tradition's way accurately to a Catholic friend?
+
 ### [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) — Method
 
 Read: Exodus 14:21-31; Exodus 15:1-21; Psalm 98:7-9; Proverbs 26:4-5; Luke 1:1-4; Revelation 1:1-4

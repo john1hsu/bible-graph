@@ -606,6 +606,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:1-47** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 2:14-41** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 2:42** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Acts 4:32-37** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -701,6 +702,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 8:4-6** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **1 Corinthians 10:1-11** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 12:13** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
@@ -760,6 +762,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Colossians 4:16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 
+## 2 Thessalonians
+
+- **2 Thessalonians 2:15** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
+
 ## 1 Timothy
 
 - **1 Timothy 6:6-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
@@ -767,6 +773,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Timothy
 
+- **2 Timothy 3:14-17** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **2 Timothy 3:15** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 

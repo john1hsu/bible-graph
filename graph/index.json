@@ -1424,6 +1424,131 @@
   ]
  },
  {
+  "id": "bg:catholic-church",
+  "title": "Catholic Church",
+  "aliases": [
+   "Roman Catholic Church",
+   "Catholicism",
+   "Roman Catholicism",
+   "Catholic tradition"
+  ],
+  "type": "Tradition",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/catholic-church.md",
+  "created": "2026-11-18",
+  "summary": "The Christian communion in full communion with the bishop of Rome, which receives Scripture together with apostolic Tradition as one sacred deposit of the word of God, entrusts its authentic interpretation to the Church's teaching office, and reads the Bible in its literal and spiritual senses within the liturgy and the life of the Church.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:christianity"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reformed-tradition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:vulgate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lectio-divina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-interprets-scripture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inspiration-of-scripture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:typology"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:dei-verbum",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:catechism-of-the-catholic-church",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:divino-afflante-spiritu",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:lutheranism",
+    "source": "s12",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "2 Thessalonians 2:15",
+   "2 Timothy 3:14-17",
+   "Acts 2:42",
+   "1 Corinthians 10:1-11"
+  ],
+  "studyQuestions": [
+   "In 2 Thessalonians 2:15, by what two means does Paul say the Thessalonians were taught, and how does Catholic teaching draw on that verse?",
+   "According to 2 Timothy 3:15-17, what is Scripture able to do for the believer, and what does it equip them for?",
+   "In 1 Corinthians 10:1-11, how does Paul read the crossing of the sea and the wilderness years, and how does that example help explain the \"spiritual senses\" of Scripture?",
+   "Acts 2:42 lists four things the first believers devoted themselves to. Which of them shape how your own church hears the Bible?",
+   "What would help you describe the Catholic way of reading Scripture accurately to a friend from another tradition, or describe another tradition's way accurately to a Catholic friend?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.biblestudytools.com/web/2-thessalonians/2-15.html",
+   "https://biblehub.com/web/2_timothy/3.htm",
+   "https://www.christianity.com/bible/web/acts/2-42",
+   "https://ebible.org/engwebu/1CO10.htm",
+   "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+   "https://www.vatican.va/archive/ENG0015/__PL.HTM",
+   "https://www.vatican.va/archive/ENG0015/__PQ.HTM",
+   "https://1981.catholic-resources.org/ChurchDocs/PBC_Interp-FullText.htm",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/divino-afflante-spiritu",
+   "https://www.britannica.com/topic/Roman-Catholicism/Revelation",
+   "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494",
+   "https://bookofconcord.org/epitome/rule-and-norm/",
+   "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+  ]
+ },
+ {
   "id": "bg:crucifixion-of-jesus",
   "title": "Crucifixion of Jesus",
   "aliases": [

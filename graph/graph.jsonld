@@ -1463,6 +1463,134 @@
    ]
   },
   {
+   "@id": "bg:catholic-church",
+   "@type": "bgo:Tradition",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:contrastsWith": {
+    "@id": "bg:lutheranism"
+   },
+   "bgo:domain": "interpretation",
+   "bgo:file": "articles/interpretation/catholic-church.md",
+   "bgo:introducedIn": [
+    {
+     "@id": "bg:catechism-of-the-catholic-church"
+    },
+    {
+     "@id": "bg:dei-verbum"
+    },
+    {
+     "@id": "bg:divino-afflante-spiritu"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Corinthians 10:1-11",
+    "2 Thessalonians 2:15",
+    "2 Timothy 3:14-17",
+    "Acts 2:42"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9"
+    }
+   ],
+   "rdfs:label": "Catholic Church",
+   "skos:altLabel": [
+    "Catholic tradition",
+    "Catholicism",
+    "Roman Catholic Church",
+    "Roman Catholicism"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:biblical-interpretation"
+    },
+    {
+     "@id": "bg:christianity"
+    }
+   ],
+   "skos:definition": "The Christian communion in full communion with the bishop of Rome, which receives Scripture together with apostolic Tradition as one sacred deposit of the word of God, entrusts its authentic interpretation to the Church's teaching office, and reads the Bible in its literal and spiritual senses within the liturgy and the life of the Church.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Catholic Church",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:inspiration-of-scripture"
+    },
+    {
+     "@id": "bg:lectio-divina"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:typology"
+    },
+    {
+     "@id": "bg:vulgate"
+    }
+   ]
+  },
+  {
    "@id": "bg:crucifixion-of-jesus",
    "@type": "bgo:Event",
    "bgo:basis": "scriptural",
@@ -8939,6 +9067,46 @@
    "rdfs:label": "The first disciples were ordinary working people called in the middle of their work. What \"nets\" might Jesus be asking you to leave, and what might he be asking you to bring with you?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/catholic-church/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:catholic-church"
+   },
+   "rdfs:label": "In 2 Thessalonians 2:15, by what two means does Paul say the Thessalonians were taught, and how does Catholic teaching draw on that verse?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/catholic-church/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:catholic-church"
+   },
+   "rdfs:label": "According to 2 Timothy 3:15-17, what is Scripture able to do for the believer, and what does it equip them for?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/catholic-church/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:catholic-church"
+   },
+   "rdfs:label": "In 1 Corinthians 10:1-11, how does Paul read the crossing of the sea and the wilderness years, and how does that example help explain the \"spiritual senses\" of Scripture?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/catholic-church/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:catholic-church"
+   },
+   "rdfs:label": "Acts 2:42 lists four things the first believers devoted themselves to. Which of them shape how your own church hears the Bible?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/catholic-church/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:catholic-church"
+   },
+   "rdfs:label": "What would help you describe the Catholic way of reading Scripture accurately to a friend from another tradition, or describe another tradition's way accurately to a Catholic friend?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -13716,6 +13884,188 @@
    "dcterms:title": "G. H. Trever, Disciple, International Standard Bible Encyclopedia (1915)",
    "schema:url": {
     "@id": "https://www.biblestudytools.com/encyclopedias/isbe/disciple.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "2 Thessalonians 2:15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/2-thessalonians/2-15.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Roman Catholicism: Revelation",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Roman-Catholicism/Revelation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "EWTN",
+   "dcterms:title": "Council of Trent, Session IV, Decree Concerning the Canonical Scriptures (1546)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "BookofConcord.org",
+   "dcterms:title": "Formula of Concord, Epitome, \"Comprehensive Summary, Rule and Norm\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/epitome/rule-and-norm/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Scripture and Tradition (pamphlet)",
+   "schema:url": {
+    "@id": "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Timothy 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_timothy/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Acts 2:42 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/acts/2-42"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "1 Corinthians 10 (World English Bible, updated edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebu/1CO10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Second Vatican Council, Dei Verbum, Dogmatic Constitution on Divine Revelation (1965)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, §§80-83 (The Relationship between Tradition and Sacred Scripture)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PL.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, §§115-119 (The Senses of Scripture)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__PQ.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Catholic Resources (Felix Just, S.J.)",
+   "dcterms:title": "Pontifical Biblical Commission, The Interpretation of the Bible in the Church (1993)",
+   "schema:url": {
+    "@id": "https://1981.catholic-resources.org/ChurchDocs/PBC_Interp-FullText.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia.com",
+   "dcterms:title": "J. F. Whealon, \"Divino Afflante Spiritu\", New Catholic Encyclopedia",
+   "schema:url": {
+    "@id": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/divino-afflante-spiritu"
    }
   },
   {
