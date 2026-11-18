@@ -115,6 +115,7 @@ _Which doctrines, methods and practices does each Christian (or Jewish) traditio
 | `bg:eastern-orthodoxy` | `bg:septuagint` |
 | `bg:eastern-orthodoxy` | `bg:the-story-of-the-bible` |
 | `bg:lutheranism` | `bg:scripture-interprets-scripture` |
+| `bg:rabbinic-judaism` | `bg:masoretic-text` |
 | `bg:reformed-tradition` | `bg:scripture-interprets-scripture` |
 
 ## Promise and fulfilment

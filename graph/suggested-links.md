@@ -19,13 +19,13 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.15 | `bg:abrahamic-covenant` | `bg:deuteronomy` | `bg:ancient-near-eastern-treaties`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant`, `bg:the-exodus` |
 | 2.13 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |
 | 2.08 | `bg:genesis` | `bg:israelites` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:deuteronomy`, `bg:moses`, `bg:old-testament` |
+| 2.00 | `bg:old-testament` | `bg:second-temple-judaism` | `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:israelites`, `bg:masoretic-text`, `bg:septuagint` |
 | 1.98 | `bg:paul-at-the-areopagus` | `bg:sadducees` | `bg:acts-of-the-apostles`, `bg:resurrection-of-the-dead`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
 | 1.94 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees`, `bg:sermon-on-the-mount` |
 | 1.92 | `bg:jeremiahs-temple-sermon` | `bg:laying-the-foundation-of-the-second-temple` | `bg:babylonian-exile`, `bg:jerusalem`, `bg:the-temple`, `bg:worship` |
 | 1.91 | `bg:gospel-of-matthew` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 1.84 | `bg:pharisees` | `bg:the-temple` | `bg:antiquities-of-the-jews`, `bg:sadducees`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
+| 1.83 | `bg:pharisees` | `bg:the-temple` | `bg:antiquities-of-the-jews`, `bg:sadducees`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
 | 1.79 | `bg:abraham` | `bg:mosaic-covenant` | `bg:abrahamic-covenant`, `bg:grace`, `bg:israelites`, `bg:moses`, `bg:paul` |
 | 1.79 | `bg:abraham` | `bg:the-exodus` | `bg:abrahamic-covenant`, `bg:genesis`, `bg:israelites`, `bg:moses`, `bg:the-story-of-the-bible` |
 | 1.78 | `bg:gospel-of-luke` | `bg:the-story-of-the-bible` | `bg:kingdom-of-god`, `bg:road-to-emmaus` |
 | 1.77 | `bg:laying-the-foundation-of-the-second-temple` | `bg:suffering-and-lament` | `bg:babylonian-exile`, `bg:grief` |
-| 1.76 | `bg:israelites` | `bg:the-story-of-the-bible` | `bg:abraham`, `bg:babylonian-exile`, `bg:giving-of-the-law-at-sinai`, `bg:old-testament`, `bg:the-exodus` |

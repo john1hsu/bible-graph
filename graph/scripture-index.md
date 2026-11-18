@@ -4,6 +4,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Genesis
 
+- **Genesis 1:1** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Genesis 1:1** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 1:1–2:3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 1:27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
@@ -205,6 +206,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Nehemiah 8:1-12** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
+- **Nehemiah 8:8** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
 
 ## Job
@@ -224,6 +226,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 88** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 91:11-12** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Psalm 98:7-9** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
+- **Psalm 100:3** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 118:14** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
@@ -404,6 +407,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:19** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Luke 3:38** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 4:16-19** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)

@@ -3545,6 +3545,99 @@
   ]
  },
  {
+  "id": "bg:masoretic-text",
+  "title": "Masoretic Text",
+  "aliases": [
+   "MT",
+   "Masoretic Hebrew text",
+   "Hebrew Masoretic Text"
+  ],
+  "type": "Manuscript",
+  "domain": "manuscripts-translations-and-archaeology",
+  "level": "introductory",
+  "basis": "historical",
+  "file": "articles/manuscripts-translations-and-archaeology/masoretic-text.md",
+  "created": "2026-11-18",
+  "summary": "The traditional Hebrew text of the Old Testament as fixed by Jewish scholars called Masoretes between about the sixth and tenth centuries AD, who added vowel signs, reading accents and marginal notes to the inherited consonantal text; it is the authoritative Bible of Judaism and the basis of most modern Old Testament translations.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:dead-sea-scrolls"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:aleppo-codex"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:leningrad-codex"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:rabbinic-judaism",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:textual-criticism",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:aaron-ben-asher",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Nehemiah 8:8",
+   "Psalm 100:3",
+   "Genesis 1:1",
+   "Luke 4:16-19"
+  ],
+  "studyQuestions": [
+   "Read Psalm 100:3 in the King James Version and in the World English Bible. How do they differ, and how does the Masoretic note about what is \"written\" and what is \"read\" explain it?",
+   "In Nehemiah 8:8 the Levites read the law \"distinctly\" and \"gave the sense\". How did the Masoretes' vowel signs and accents serve the same goal?",
+   "According to Luke 4:16-17, what was Jesus handed in the synagogue at Nazareth, and what does that tell you about how Scripture was read in his day?",
+   "Why might the Masoretes have counted the verses, words and even letters of Scripture? What does that care suggest about how they regarded the text?",
+   "How does it shape your trust in the Old Testament to know that much of it reached your Bible through generations of Jewish scribes?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://tyndale.cam.ac.uk/explore/articles/the-masoretic-text/",
+   "https://britannica.com/topic/Masoretic-text",
+   "https://www.jewishencyclopedia.com/articles/9283-kere-and-ketib",
+   "https://www.newadvent.org/cathen/10035a.htm",
+   "https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0013_0_13385.html",
+   "https://biblia.com/books/lbd/offset/12772345",
+   "https://ancientjewreview.com/read/2020/9/11/introduction-to-the-masorah-the-masorah-of-the-leningrad-codex-in-the-biblia-hebraica-stuttgartensia-bhs-edition",
+   "https://www.thetorah.com/article/the-bible-and-the-masoretic-text",
+   "https://www.biblicalarchaeology.org/exhibits-events/a-jewel-from-the-crown/",
+   "https://www.sefaria.org/api/texts/Pirkei_Avot.3",
+   "https://www.biblestudytools.com/web/psalms/100-3.html",
+   "https://www.biblestudytools.com/kjv/psalms/100-3.html",
+   "https://biblehub.com/commentaries/psalms/100-3.htm",
+   "https://www.biblegateway.com/verse/en/Nehemiah%208:8",
+   "https://biblehub.com/parallel/genesis/1-1.htm",
+   "https://www.christianity.com/bible/web/luke/4-16-19"
+  ]
+ },
+ {
   "id": "bg:mosaic-covenant",
   "title": "Mosaic Covenant",
   "aliases": [

@@ -372,6 +372,17 @@ Study questions:
 - Both the Qumran community and Mark 1:2-3 used Isaiah 40:3 about the wilderness. How did each understand the "way" being prepared?
 - How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?
 
+### [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) — Manuscript
+
+Read: Nehemiah 8:8; Psalm 100:3; Genesis 1:1; Luke 4:16-19
+
+Study questions:
+- Read Psalm 100:3 in the King James Version and in the World English Bible. How do they differ, and how does the Masoretic note about what is "written" and what is "read" explain it?
+- In Nehemiah 8:8 the Levites read the law "distinctly" and "gave the sense". How did the Masoretes' vowel signs and accents serve the same goal?
+- According to Luke 4:16-17, what was Jesus handed in the synagogue at Nazareth, and what does that tell you about how Scripture was read in his day?
+- Why might the Masoretes have counted the verses, words and even letters of Scripture? What does that care suggest about how they regarded the text?
+- How does it shape your trust in the Old Testament to know that much of it reached your Bible through generations of Jewish scribes?
+
 ### [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) — Translation
 
 Read: Psalm 40:6; Hebrews 10:5-7; Amos 9:12; Acts 15:17

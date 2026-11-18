@@ -2063,6 +2063,63 @@
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/great-commandment> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Psalm 100:3 in the King James Version and in the World English Bible. How do they differ, and how does the Masoretic note about what is \"written\" and what is \"read\" explain it?" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Nehemiah 8:8 the Levites read the law \"distinctly\" and \"gave the sense\". How did the Masoretes' vowel signs and accents serve the same goal?" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "According to Luke 4:16-17, what was Jesus handed in the synagogue at Nazareth, and what does that tell you about how Scripture was read in his day?" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why might the Masoretes have counted the verses, words and even letters of Scripture? What does that care suggest about how they regarded the text?" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "How does it shape your trust in the Old Testament to know that much of it reached your Bible through generations of Jewish scribes?" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Manuscript> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2000/01/rdf-schema#label> "Masoretic Text" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#altLabel> "Hebrew Masoretic Text" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#altLabel> "MT" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#altLabel> "Masoretic Hebrew text" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#definition> "The traditional Hebrew text of the Old Testament as fixed by Jewish scholars called Masoretes between about the sixth and tenth centuries AD, who added vowel signs, reading accents and marginal notes to the inherited consonantal text; it is the authoritative Bible of Judaism and the basis of most modern Old Testament translations." .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#prefLabel> "Masoretic Text" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/aleppo-codex> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/leningrad-codex> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#basis> "historical" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#domain> "manuscripts-translations-and-archaeology" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/manuscripts-translations-and-archaeology/masoretic-text.md" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/aaron-ben-asher> .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 1:1" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:16-19" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:8" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 100:3" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
 <https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Deuteronomy 7:7-8, why did the Lord choose Israel and bring them out of Egypt? What does that order (love first, commandments after) tell you about the covenant?" .
 <https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
@@ -5871,6 +5928,102 @@
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://schema.org/url> <https://biblehub.com/web/1_john/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <http://purl.org/dc/terms/publisher> "Sefaria" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <http://purl.org/dc/terms/title> "Pirkei Avot 3 (Mishnah Yomit translation, Joshua Kulp)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s10> <https://schema.org/url> <https://www.sefaria.org/api/texts/Pirkei_Avot.3> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <http://purl.org/dc/terms/title> "Psalm 100:3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s11> <https://schema.org/url> <https://www.biblestudytools.com/web/psalms/100-3.html> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <http://purl.org/dc/terms/title> "Psalm 100:3 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s12> <https://schema.org/url> <https://www.biblestudytools.com/kjv/psalms/100-3.html> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <http://purl.org/dc/terms/title> "Psalm 100:3 commentaries (Cambridge Bible for Schools and Colleges, Ellicott, Keil and Delitzsch, Barnes, Pulpit Commentary)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s13> <https://schema.org/url> <https://biblehub.com/commentaries/psalms/100-3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <http://purl.org/dc/terms/title> "Nehemiah 8:8 (World English Bible, KJV, ASV and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s14> <https://schema.org/url> <https://www.biblegateway.com/verse/en/Nehemiah%208:8> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <http://purl.org/dc/terms/title> "Genesis 1:1 (World English Bible, KJV and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s15> <https://schema.org/url> <https://biblehub.com/parallel/genesis/1-1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <http://purl.org/dc/terms/title> "Luke 4:16-19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s16> <https://schema.org/url> <https://www.christianity.com/bible/web/luke/4-16-19> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <http://purl.org/dc/terms/title> "Following the Footnotes: The Masoretic Text" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s1> <https://schema.org/url> <https://tyndale.cam.ac.uk/explore/articles/the-masoretic-text/> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <http://purl.org/dc/terms/title> "Masoretic text" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s2> <https://schema.org/url> <https://britannica.com/topic/Masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <http://purl.org/dc/terms/title> "Masorah (Jewish Encyclopedia, Crawford Howell Toy and Caspar Levias)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s3> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/9283-kere-and-ketib> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <http://purl.org/dc/terms/title> "Massorah (Catholic Encyclopedia, Walter Drum)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s4> <https://schema.org/url> <https://www.newadvent.org/cathen/10035a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <http://purl.org/dc/terms/publisher> "Jewish Virtual Library" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <http://purl.org/dc/terms/title> "Masorah (Encyclopaedia Judaica)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s5> <https://schema.org/url> <https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0013_0_13385.html> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <http://purl.org/dc/terms/publisher> "Lexham Press, via Biblia" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <http://purl.org/dc/terms/title> "A Perpetual Qere (Lexham Bible Dictionary)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s6> <https://schema.org/url> <https://biblia.com/books/lbd/offset/12772345> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <http://purl.org/dc/terms/publisher> "Ancient Jew Review" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <http://purl.org/dc/terms/title> "Introduction to the Masorah: The Masorah of the Leningrad Codex in the Biblia Hebraica Stuttgartensia (Daniel Mynatt)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s7> <https://schema.org/url> <https://ancientjewreview.com/read/2020/9/11/introduction-to-the-masorah-the-masorah-of-the-leningrad-codex-in-the-biblia-hebraica-stuttgartensia-bhs-edition> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <http://purl.org/dc/terms/publisher> "TheTorah.com" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <http://purl.org/dc/terms/title> "The Bible and the Masoretic Text (Emanuel Tov)" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s8> <https://schema.org/url> <https://www.thetorah.com/article/the-bible-and-the-masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <http://purl.org/dc/terms/title> "A Jewel from the Crown" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/masoretic-text/s9> <https://schema.org/url> <https://www.biblicalarchaeology.org/exhibits-events/a-jewel-from-the-crown/> .
 <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
 <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/title> "Jeremiah 31 (World English Bible)" .
