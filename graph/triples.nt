@@ -736,6 +736,90 @@
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Where and when does Moses speak, according to Deuteronomy 1:1-5? Why might it matter that the people are standing on the edge of the land rather than at Sinai?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Deuteronomy 5:2-3 Moses says the covenant at Horeb was made \"with us, even us, who are all of us here alive today\". Most of his listeners were born after Sinai. What is he asking them to understand about God's covenant, and how might that apply to a reader today?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Read the Shema (Deuteronomy 6:4-9). List the places and times of day where God's words are to be kept. What would that look like in your household or small group?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Deuteronomy 30:11-14 says the commandment is \"not too hard\" and \"very near\". How does that sit with the warnings in the rest of the chapter?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "When Jesus is tempted in the wilderness (Matthew 4:1-11), every answer he gives comes from Deuteronomy. Why do you think he reached for this book in particular?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Moses sees the land but does not enter it (Deuteronomy 34:4-5). What does his story teach about faithfulness when we do not see the end of what God is doing?" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2000/01/rdf-schema#label> "Deuteronomy" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#altLabel> "Book of Deuteronomy" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#altLabel> "Debarim" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#altLabel> "Devarim" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#altLabel> "Fifth Book of Moses" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#altLabel> "Mishneh Torah" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#definition> "The fifth book of the Bible and the last book of the Torah (Pentateuch), presented as Moses' farewell speeches to Israel on the plains of Moab, in which he recalls the covenant made at Horeb (Sinai), restates its laws, calls Israel to love the one God with all their heart, and sets before them the choice of life or death before he dies and Joshua leads them into the land." .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deuteronomy" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomistic-history> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/josiah> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-books" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-books/deuteronomy.md" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 22:8-13" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 12:5" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 17:18" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 1:1-5" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 30:11-20" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 34:1-12" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 5:1-6" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 5:22-27" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 6:4-9" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 8:3" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 22:37-40" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:1-11" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "How does God describe himself to Moses in Exodus 34:6-7, and what does that tell us about where forgiveness begins?" .
 <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -3983,6 +4067,114 @@
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://schema.org/url> <https://www.biblestudytools.com/deuteronomy/32-8-compare.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/title> "Matthew 22:37-40 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <https://schema.org/url> <https://miamisdb.org/bible/web+asv/matt/22/37-40> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <http://purl.org/dc/terms/title> "Deuteronomy (Old Testament)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s11> <https://schema.org/url> <https://www.britannica.com/topic/Deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <http://purl.org/dc/terms/title> "Deuteronomy, Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s12> <https://schema.org/url> <https://jewishencyclopedia.com/articles/5132-deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <http://purl.org/dc/terms/publisher> "Open Yale Courses" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <http://purl.org/dc/terms/title> "Lecture 11 - On the Steps of Moab - Deuteronomy (Christine Hayes, RLST 145)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s13> <https://schema.org/url> <https://oyc.yale.edu/node/1734> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <http://purl.org/dc/terms/title> "Deuteronomy, Encyclopedia of the Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s14> <https://schema.org/url> <https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <http://purl.org/dc/terms/title> "Deuteronomy (Anthony Maas), Catholic Encyclopedia (1908)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s15> <https://schema.org/url> <https://www.newadvent.org/cathen/04761b.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraph 2083" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s16> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <http://purl.org/dc/terms/publisher> "My Jewish Learning" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <http://purl.org/dc/terms/title> "Deuteronomy (Jeffrey Tigay, from Etz Hayim, Jewish Publication Society)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s17> <https://schema.org/url> <https://www.myjewishlearning.com/article/deuteronomy/> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <http://purl.org/dc/terms/title> "Deuteronomy 17:18 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s18> <https://schema.org/url> <https://biblehub.com/kjv/deuteronomy/17-18.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <http://purl.org/dc/terms/title> "Deuteronomy 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s1> <https://schema.org/url> <https://www.bibliaparalela.com/web/deuteronomy/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <http://purl.org/dc/terms/title> "Deuteronomy 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s2> <https://schema.org/url> <https://biblehub.com/web/deuteronomy/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <http://purl.org/dc/terms/title> "Deuteronomy 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s3> <https://schema.org/url> <https://ebible.org/eng-web/DEU06.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <http://purl.org/dc/terms/title> "Deuteronomy 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s4> <https://schema.org/url> <https://biblehub.com/web/deuteronomy/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <http://purl.org/dc/terms/publisher> "williamsbible.link" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <http://purl.org/dc/terms/title> "Deuteronomy 30 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s5> <https://schema.org/url> <https://williamsbible.link/web/1/05/030.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <http://purl.org/dc/terms/title> "Deuteronomy 34 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s6> <https://schema.org/url> <https://www.worthy.bible/bible/web/deuteronomy/34> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <http://purl.org/dc/terms/title> "Deuteronomy 8:3 (World English Bible and American Standard Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s7> <https://schema.org/url> <https://miamisdb.org/bible/asv+web/deut/8/3> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <http://purl.org/dc/terms/title> "2 Kings 22 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s8> <https://schema.org/url> <https://bibliaparalela.com/web/2_kings/22.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <http://purl.org/dc/terms/title> "Matthew 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s9> <https://schema.org/url> <https://biblehub.com/web/matthew/4.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/forgiveness-in-the-bible/s10> <http://purl.org/dc/terms/title> "Romans 12 (World English Bible)" .

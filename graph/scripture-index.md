@@ -90,18 +90,27 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Deuteronomy
 
+- **Deuteronomy 1:1-5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 5:1-5** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Deuteronomy 5:1-6** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
+- **Deuteronomy 5:22-27** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 5:22-27** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Deuteronomy 6:4-5** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 6:4-5** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Deuteronomy 6:4-9** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Deuteronomy 8:3** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Deuteronomy 12:5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
+- **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 25:5-6** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Deuteronomy 25:5-10** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Deuteronomy 30:11-20** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 32:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Deuteronomy 34:1-12** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## Joshua
@@ -130,6 +139,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Kings
 
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Kings 22:8-13** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **2 Kings 24:10-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:1-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Kings 25:8-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
@@ -280,6 +290,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 2:17-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Matthew 3:7** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Matthew 4:1-11** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 4:1-11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -307,6 +318,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 22:23-33** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Matthew 22:23-34** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 22:34-40** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Matthew 22:37-40** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)

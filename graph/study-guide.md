@@ -451,6 +451,18 @@ Study questions:
 - In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?
 - Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?
 
+### [Deuteronomy](../articles/old-testament-books/deuteronomy.md) — Book
+
+Read: Deuteronomy 1:1-5; Deuteronomy 5:1-6; Deuteronomy 5:22-27; Deuteronomy 6:4-9; Deuteronomy 8:3; Deuteronomy 12:5; Deuteronomy 17:18; Deuteronomy 30:11-20; Deuteronomy 34:1-12; 2 Kings 22:8-13; Matthew 4:1-11; Matthew 22:37-40
+
+Study questions:
+- Where and when does Moses speak, according to Deuteronomy 1:1-5? Why might it matter that the people are standing on the edge of the land rather than at Sinai?
+- In Deuteronomy 5:2-3 Moses says the covenant at Horeb was made "with us, even us, who are all of us here alive today". Most of his listeners were born after Sinai. What is he asking them to understand about God's covenant, and how might that apply to a reader today?
+- Read the Shema (Deuteronomy 6:4-9). List the places and times of day where God's words are to be kept. What would that look like in your household or small group?
+- Deuteronomy 30:11-14 says the commandment is "not too hard" and "very near". How does that sit with the warnings in the rest of the chapter?
+- When Jesus is tempted in the wilderness (Matthew 4:1-11), every answer he gives comes from Deuteronomy. Why do you think he reached for this book in particular?
+- Moses sees the land but does not enter it (Deuteronomy 34:4-5). What does his story teach about faithfulness when we do not see the end of what God is doing?
+
 ### [Genesis](../articles/old-testament-books/genesis.md) — Book
 
 Read: Genesis 1:1–2:3; Genesis 2:4-7; Genesis 3:15; Genesis 12:1-3; Genesis 15:5-6; Genesis 37:2-3; Genesis 50:20; Romans 4:3; Galatians 3:6-9

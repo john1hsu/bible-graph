@@ -1359,6 +1359,170 @@
   ]
  },
  {
+  "id": "bg:deuteronomy",
+  "title": "Deuteronomy",
+  "aliases": [
+   "Book of Deuteronomy",
+   "Devarim",
+   "Debarim",
+   "Mishneh Torah",
+   "Fifth Book of Moses"
+  ],
+  "type": "Book",
+  "domain": "old-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-books/deuteronomy.md",
+  "created": "2026-11-18",
+  "summary": "The fifth book of the Bible and the last book of the Torah (Pentateuch), presented as Moses' farewell speeches to Israel on the plains of Moab, in which he recalls the covenant made at Horeb (Sinai), restates its laws, calls Israel to love the one God with all their heart, and sets before them the choice of life or death before he dies and Joshua leads them into the land.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:pentateuch"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:genesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:loving-your-neighbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:josiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomistic-history"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:pentateuch",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:moses",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:giving-of-the-law-at-sinai",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:joshua-son-of-nun",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:israelites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:mosaic-covenant",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:moses",
+    "source": "s14",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:ancient-near-eastern-treaties",
+    "source": "s13",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Deuteronomy 1:1-5",
+   "Deuteronomy 5:1-6",
+   "Deuteronomy 5:22-27",
+   "Deuteronomy 6:4-9",
+   "Deuteronomy 8:3",
+   "Deuteronomy 12:5",
+   "Deuteronomy 17:18",
+   "Deuteronomy 30:11-20",
+   "Deuteronomy 34:1-12",
+   "2 Kings 22:8-13",
+   "Matthew 4:1-11",
+   "Matthew 22:37-40"
+  ],
+  "studyQuestions": [
+   "Where and when does Moses speak, according to Deuteronomy 1:1-5? Why might it matter that the people are standing on the edge of the land rather than at Sinai?",
+   "In Deuteronomy 5:2-3 Moses says the covenant at Horeb was made \"with us, even us, who are all of us here alive today\". Most of his listeners were born after Sinai. What is he asking them to understand about God's covenant, and how might that apply to a reader today?",
+   "Read the Shema (Deuteronomy 6:4-9). List the places and times of day where God's words are to be kept. What would that look like in your household or small group?",
+   "Deuteronomy 30:11-14 says the commandment is \"not too hard\" and \"very near\". How does that sit with the warnings in the rest of the chapter?",
+   "When Jesus is tempted in the wilderness (Matthew 4:1-11), every answer he gives comes from Deuteronomy. Why do you think he reached for this book in particular?",
+   "Moses sees the land but does not enter it (Deuteronomy 34:4-5). What does his story teach about faithfulness when we do not see the end of what God is doing?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibliaparalela.com/web/deuteronomy/1.htm",
+   "https://biblehub.com/web/deuteronomy/5.htm",
+   "https://ebible.org/eng-web/DEU06.htm",
+   "https://biblehub.com/web/deuteronomy/12.htm",
+   "https://williamsbible.link/web/1/05/030.html",
+   "https://www.worthy.bible/bible/web/deuteronomy/34",
+   "https://miamisdb.org/bible/asv+web/deut/8/3",
+   "https://bibliaparalela.com/web/2_kings/22.htm",
+   "https://biblehub.com/web/matthew/4.htm",
+   "https://miamisdb.org/bible/web+asv/matt/22/37-40",
+   "https://www.britannica.com/topic/Deuteronomy",
+   "https://jewishencyclopedia.com/articles/5132-deuteronomy",
+   "https://oyc.yale.edu/node/1734",
+   "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Deuteronomy",
+   "https://www.newadvent.org/cathen/04761b.htm",
+   "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one.html",
+   "https://www.myjewishlearning.com/article/deuteronomy/",
+   "https://biblehub.com/kjv/deuteronomy/17-18.htm"
+  ]
+ },
+ {
   "id": "bg:forgiveness-in-the-bible",
   "title": "Forgiveness in the Bible",
   "aliases": [
