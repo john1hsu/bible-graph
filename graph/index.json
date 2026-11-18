@@ -4049,6 +4049,155 @@
   ]
  },
  {
+  "id": "bg:john-the-baptist",
+  "title": "John the Baptist",
+  "aliases": [
+   "John the Baptizer",
+   "Saint John the Baptist",
+   "John the Forerunner",
+   "the Forerunner",
+   "John son of Zechariah",
+   "Yohanan"
+  ],
+  "type": "Person",
+  "domain": "new-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-people/john-the-baptist.md",
+  "created": "2026-11-18",
+  "summary": "The prophet, son of the priest Zechariah and Elizabeth, who preached repentance and baptized in the Jordan wilderness, baptized Jesus and pointed to him as the one coming after him, and was executed by Herod Antipas; the Gospels present him as the messenger and returning \"Elijah\" foretold by Isaiah and Malachi.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prophets"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:public-ministry-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mary-mother-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:herod-antipas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:essenes"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "bgo:fulfills",
+    "object": "bg:book-of-isaiah",
+    "source": "s5",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:fulfills",
+    "object": "bg:book-of-malachi",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:repentance",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 1:5-25",
+   "Luke 1:39-45",
+   "Luke 1:57-80",
+   "Luke 3:1-20",
+   "Mark 1:1-14",
+   "Matthew 3:1-17",
+   "Matthew 11:2-19",
+   "John 1:19-40",
+   "John 3:22-30",
+   "Mark 6:14-29",
+   "Acts 19:1-7",
+   "Isaiah 40:3",
+   "Malachi 3:1",
+   "Malachi 4:5-6"
+  ],
+  "studyQuestions": [
+   "According to Luke 1:13-17, what did the angel tell Zechariah his son would be and do, and whose \"spirit and power\" would he go in?",
+   "What did John tell the crowds, the tax collectors and the soldiers to do in Luke 3:10-14? What do his answers show about the repentance he preached?",
+   "In John 1:19-23 John says who he is not before he says who he is. What does he call himself, and which prophet is he quoting?",
+   "Why might John, in prison, have sent to ask Jesus, \"Are you he who comes?\" (Matthew 11:3), and how does Jesus answer from Isaiah's promises rather than with a plain yes?",
+   "\"He must increase, but I must decrease\" (John 3:30). Where in your church life or service is it hardest to point away from yourself to Christ?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/luke/1.htm",
+   "https://biblehub.com/web/luke/3.htm",
+   "https://www.bibliaparalela.com/web/mark/1.htm",
+   "https://www.christianity.com/bible/web/mark/6-14-29",
+   "https://biblehub.com/web/matthew/3.htm",
+   "https://biblehub.com/web/matthew/11.htm",
+   "https://biblehub.com/web/john/1.htm",
+   "https://biblehub.com/web/john/3.htm",
+   "https://bibliaparalela.com/web/acts/19.htm",
+   "https://www.bibliaparalela.com/web/isaiah/40.htm",
+   "https://bibliaparalela.com/web/malachi/3.htm",
+   "https://bibliaparalela.com/web/malachi/4.htm",
+   "https://lexundria.com/j_aj/18.109-18.119/wst",
+   "https://www.newadvent.org/cathen/08486b.htm",
+   "https://www.biblicaltraining.org/library/john-the-baptist",
+   "https://britannica.com/biography/Saint-John-the-Baptist/Possible-relationship-with-the-Essenes",
+   "https://www.bibleodyssey.org/articles/john-the-baptist/",
+   "https://www.vatican.va/archive/ENG0015/__P23.HTM",
+   "https://www.oca.org/saints/lives/2021/06/24/101800-nativity-of-the-holy-glorious-prophet-forerunner-and-baptist-joh"
+  ]
+ },
+ {
   "id": "bg:kingdom-of-god",
   "title": "Kingdom of God",
   "aliases": [

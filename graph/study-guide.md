@@ -585,6 +585,17 @@ Study questions:
 - Compare the order of the names in Acts 13:2 and 13:7 with Acts 13:46. What change in the mission does it hint at?
 - Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?
 
+### [John the Baptist](../articles/new-testament-people/john-the-baptist.md) — Person
+
+Read: Luke 1:5-25; Luke 1:39-45; Luke 1:57-80; Luke 3:1-20; Mark 1:1-14; Matthew 3:1-17; Matthew 11:2-19; John 1:19-40; John 3:22-30; Mark 6:14-29; Acts 19:1-7; Isaiah 40:3; Malachi 3:1; Malachi 4:5-6
+
+Study questions:
+- According to Luke 1:13-17, what did the angel tell Zechariah his son would be and do, and whose "spirit and power" would he go in?
+- What did John tell the crowds, the tax collectors and the soldiers to do in Luke 3:10-14? What do his answers show about the repentance he preached?
+- In John 1:19-23 John says who he is not before he says who he is. What does he call himself, and which prophet is he quoting?
+- Why might John, in prison, have sent to ask Jesus, "Are you he who comes?" (Matthew 11:3), and how does Jesus answer from Isaiah's promises rather than with a plain yes?
+- "He must increase, but I must decrease" (John 3:30). Where in your church life or service is it hardest to point away from yourself to Christ?
+
 ### [Paul](../articles/new-testament-people/paul.md) — Person
 
 Read: Acts 8:1-3; Acts 13:1-4; Acts 13:47; Acts 9:1-30; Acts 13:9; Acts 18:3; Acts 22:3; Acts 22:25-28; Acts 28:30-31; Galatians 1:15-24; Philippians 3:4-14; 1 Corinthians 15:8-10; 2 Corinthians 11:25

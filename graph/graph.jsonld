@@ -4131,6 +4131,165 @@
    ]
   },
   {
+   "@id": "bg:john-the-baptist",
+   "@type": "bgo:Person",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "bgo:domain": "new-testament-people",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/new-testament-people/john-the-baptist.md",
+   "bgo:fulfills": [
+    {
+     "@id": "bg:book-of-isaiah"
+    },
+    {
+     "@id": "bg:book-of-malachi"
+    }
+   ],
+   "bgo:illustrates": {
+    "@id": "bg:repentance"
+   },
+   "bgo:keyReference": [
+    "Acts 19:1-7",
+    "Isaiah 40:3",
+    "John 1:19-40",
+    "John 3:22-30",
+    "Luke 1:39-45",
+    "Luke 1:5-25",
+    "Luke 1:57-80",
+    "Luke 3:1-20",
+    "Malachi 3:1",
+    "Malachi 4:5-6",
+    "Mark 1:1-14",
+    "Mark 6:14-29",
+    "Matthew 11:2-19",
+    "Matthew 3:1-17"
+   ],
+   "bgo:level": "introductory",
+   "bgo:requires": {
+    "@id": "bg:gospels"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9"
+    }
+   ],
+   "rdfs:label": "John the Baptist",
+   "skos:altLabel": [
+    "John son of Zechariah",
+    "John the Baptizer",
+    "John the Forerunner",
+    "Saint John the Baptist",
+    "Yohanan",
+    "the Forerunner"
+   ],
+   "skos:broader": {
+    "@id": "bg:prophets"
+   },
+   "skos:definition": "The prophet, son of the priest Zechariah and Elizabeth, who preached repentance and baptized in the Jordan wilderness, baptized Jesus and pointed to him as the one coming after him, and was executed by Herod Antipas; the Gospels present him as the messenger and returning \"Elijah\" foretold by Isaiah and Malachi.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people"
+   },
+   "skos:prefLabel": "John the Baptist",
+   "skos:related": [
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:baptism-of-jesus"
+    },
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:essenes"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:herod-antipas"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:mary-mother-of-jesus"
+    },
+    {
+     "@id": "bg:public-ministry-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:kingdom-of-god",
    "@type": "bgo:Theme",
    "bgo:basis": "scriptural",
@@ -10151,6 +10310,46 @@
     "@id": "bg:jesus"
    },
    "rdfs:label": "Philippians 2:5-11 begins \"Have this in your mind.\" What attitude of Jesus does Paul want his readers to share, and where could you practise it this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:john-the-baptist"
+   },
+   "rdfs:label": "According to Luke 1:13-17, what did the angel tell Zechariah his son would be and do, and whose \"spirit and power\" would he go in?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:john-the-baptist"
+   },
+   "rdfs:label": "What did John tell the crowds, the tax collectors and the soldiers to do in Luke 3:10-14? What do his answers show about the repentance he preached?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:john-the-baptist"
+   },
+   "rdfs:label": "In John 1:19-23 John says who he is not before he says who he is. What does he call himself, and which prophet is he quoting?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:john-the-baptist"
+   },
+   "rdfs:label": "Why might John, in prison, have sent to ask Jesus, \"Are you he who comes?\" (Matthew 11:3), and how does Jesus answer from Isaiah's promises rather than with a plain yes?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:john-the-baptist"
+   },
+   "rdfs:label": "\"He must increase, but I must decrease\" (John 3:30). Where in your church life or service is it hardest to point away from yourself to Christ?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1",
@@ -18031,6 +18230,272 @@
    "dcterms:title": "Philippians 2:5-11 (World English Bible)",
    "schema:url": {
     "@id": "https://www.christianity.com/bible/web/philippians/2-5-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Isaiah 40 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/isaiah/40.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Malachi 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/malachi/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Malachi 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/malachi/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.109-119 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.109-18.119/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "St. John the Baptist (Catholic Encyclopedia, 1910)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/08486b.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "BiblicalTraining.org",
+   "dcterms:title": "John the Baptist (International Standard Bible Encyclopedia and other Bible dictionaries)",
+   "schema:url": {
+    "@id": "https://www.biblicaltraining.org/library/john-the-baptist"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Saint John the Baptist — Possible relationship with the Essenes",
+   "schema:url": {
+    "@id": "https://britannica.com/biography/Saint-John-the-Baptist/Possible-relationship-with-the-Essenes"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "Who was John the Baptist?",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.org/articles/john-the-baptist/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 717-720",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P23.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John (Lives of the Saints, June 24)",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/lives/2021/06/24/101800-nativity-of-the-holy-glorious-prophet-forerunner-and-baptist-joh"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Mark 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/mark/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 6:14-29 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/6-14-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/19.htm"
    }
   },
   {

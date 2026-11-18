@@ -43,7 +43,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
-| `bg:repentance` | Jeremiah's Temple Sermon |
+| `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
 
@@ -129,10 +129,12 @@ _Which people, events and passages does the New Testament present as fulfilling 
 |---|---|---|
 | `bg:binding-of-isaac` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:book-of-isaiah` | fulfils | `bg:jesus` |
+| `bg:book-of-isaiah` | fulfils | `bg:john-the-baptist` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-mark` |
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
 | `bg:book-of-joel` | fulfils | `bg:pentecost` |
+| `bg:book-of-malachi` | fulfils | `bg:john-the-baptist` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |

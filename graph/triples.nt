@@ -2242,6 +2242,88 @@
 <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Philippians 2:5-11" .
 <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/gospels> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Luke 1:13-17, what did the angel tell Zechariah his son would be and do, and whose \"spirit and power\" would he go in?" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What did John tell the crowds, the tax collectors and the soldiers to do in Luke 3:10-14? What do his answers show about the repentance he preached?" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In John 1:19-23 John says who he is not before he says who he is. What does he call himself, and which prophet is he quoting?" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why might John, in prison, have sent to ask Jesus, \"Are you he who comes?\" (Matthew 11:3), and how does Jesus answer from Isaiah's promises rather than with a plain yes?" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "\"He must increase, but I must decrease\" (John 3:30). Where in your church life or service is it hardest to point away from yourself to Christ?" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2000/01/rdf-schema#label> "John the Baptist" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "John son of Zechariah" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "John the Baptizer" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "John the Forerunner" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "Saint John the Baptist" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "Yohanan" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#altLabel> "the Forerunner" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/prophets> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#definition> "The prophet, son of the priest Zechariah and Elizabeth, who preached repentance and baptized in the Jordan wilderness, baptized Jesus and pointed to him as the one coming after him, and was executed by Herod Antipas; the Gospels present him as the messenger and returning \"Elijah\" foretold by Isaiah and Malachi." .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#prefLabel> "John the Baptist" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/essenes> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/herod-antipas> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mary-mother-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-people" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-people/john-the-baptist.md" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#fulfills> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#fulfills> <https://github.com/john1hsu/bible-graph/id/book-of-malachi> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/repentance> .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 19:1-7" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 40:3" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:19-40" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 3:22-30" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:39-45" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:5-25" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:57-80" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 3:1-20" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 3:1" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 4:5-6" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:1-14" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 6:14-29" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 11:2-19" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 3:1-17" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/gospels> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?" .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -7194,6 +7276,120 @@
 <https://github.com/john1hsu/bible-graph/id/source/jesus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/jesus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/jesus/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/philippians/2-5-11> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <http://purl.org/dc/terms/title> "Isaiah 40 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s10> <https://schema.org/url> <https://www.bibliaparalela.com/web/isaiah/40.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <http://purl.org/dc/terms/title> "Malachi 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s11> <https://schema.org/url> <https://bibliaparalela.com/web/malachi/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <http://purl.org/dc/terms/title> "Malachi 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s12> <https://schema.org/url> <https://bibliaparalela.com/web/malachi/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <http://purl.org/dc/terms/publisher> "Lexundria" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 18.109-119 (trans. William Whiston)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s13> <https://schema.org/url> <https://lexundria.com/j_aj/18.109-18.119/wst> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <http://purl.org/dc/terms/title> "St. John the Baptist (Catholic Encyclopedia, 1910)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s14> <https://schema.org/url> <https://www.newadvent.org/cathen/08486b.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <http://purl.org/dc/terms/publisher> "BiblicalTraining.org" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <http://purl.org/dc/terms/title> "John the Baptist (International Standard Bible Encyclopedia and other Bible dictionaries)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s15> <https://schema.org/url> <https://www.biblicaltraining.org/library/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <http://purl.org/dc/terms/title> "Saint John the Baptist — Possible relationship with the Essenes" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s16> <https://schema.org/url> <https://britannica.com/biography/Saint-John-the-Baptist/Possible-relationship-with-the-Essenes> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <http://purl.org/dc/terms/title> "Who was John the Baptist?" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s17> <https://schema.org/url> <https://www.bibleodyssey.org/articles/john-the-baptist/> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 717-720" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s18> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P23.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <http://purl.org/dc/terms/title> "Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John (Lives of the Saints, June 24)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s19> <https://schema.org/url> <https://www.oca.org/saints/lives/2021/06/24/101800-nativity-of-the-holy-glorious-prophet-forerunner-and-baptist-joh> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <http://purl.org/dc/terms/title> "Luke 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s1> <https://schema.org/url> <https://biblehub.com/web/luke/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <http://purl.org/dc/terms/title> "Luke 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s2> <https://schema.org/url> <https://biblehub.com/web/luke/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/mark/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <http://purl.org/dc/terms/title> "Mark 6:14-29 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/6-14-29> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <http://purl.org/dc/terms/title> "Matthew 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s5> <https://schema.org/url> <https://biblehub.com/web/matthew/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <http://purl.org/dc/terms/title> "Matthew 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s6> <https://schema.org/url> <https://biblehub.com/web/matthew/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <http://purl.org/dc/terms/title> "John 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s7> <https://schema.org/url> <https://biblehub.com/web/john/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <http://purl.org/dc/terms/title> "John 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s8> <https://schema.org/url> <https://biblehub.com/web/john/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <http://purl.org/dc/terms/title> "Acts 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <https://schema.org/url> <https://bibliaparalela.com/web/acts/19.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/publisher> "Christianity.com" .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/title> "John 18:36 (World English Bible)" .
