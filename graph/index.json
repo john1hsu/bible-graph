@@ -4589,6 +4589,136 @@
   ]
  },
  {
+  "id": "bg:money-and-generosity",
+  "title": "Money and Generosity",
+  "aliases": [
+   "money in the Bible",
+   "wealth and possessions",
+   "riches and poverty",
+   "generosity",
+   "Christian giving",
+   "almsgiving",
+   "tithing",
+   "stewardship of money",
+   "mammon",
+   "tzedakah"
+  ],
+  "type": "LifeSituation",
+  "domain": "living-the-word",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/living-the-word/money-and-generosity.md",
+  "created": "2026-11-18",
+  "summary": "What Scripture says to Christians about earning, keeping and giving money: the law's open hand to the poor, the tithe, Jesus's warnings that wealth can rival God, the generosity of the first churches and Paul's call to cheerful giving, and the warning that the love of money is a root of all kinds of evil.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:loving-your-neighbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:barnabas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:discipleship"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:sermon-on-the-mount",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:parable-of-the-rich-fool",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:deuteronomy",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:widows-offering",
+    "source": "s3",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Deuteronomy 15:1-11",
+   "Proverbs 30:7-9",
+   "Malachi 3:8-10",
+   "Matthew 6:1-4",
+   "Matthew 6:19-34",
+   "Mark 10:17-22",
+   "Mark 12:41-44",
+   "Luke 12:13-21",
+   "Luke 19:1-10",
+   "Acts 4:32-37",
+   "2 Corinthians 8:1-15",
+   "2 Corinthians 9:6-15",
+   "1 Timothy 6:6-10",
+   "1 Timothy 6:17-19"
+  ],
+  "studyQuestions": [
+   "According to Deuteronomy 15:7-11, what attitude of heart does God forbid toward a poor neighbor, and what does he command instead?",
+   "In Luke 12:13-21, what prompts Jesus to tell the parable of the rich fool, and what does it mean to be \"rich toward God\" (Luke 12:21)?",
+   "Why does Jesus say in Mark 12:43-44 that the widow gave more than all the rich donors?",
+   "Read 1 Timothy 6:10 carefully. Does it say that money is the root of all evil? What exactly does it warn against?",
+   "Paul grounds giving in the grace of Christ, who became poor for our sake (2 Corinthians 8:9). How might that change the way I or my church think about giving?",
+   "Where is my \"treasure\" (Matthew 6:21) at present, and what is one concrete step toward open-handed generosity I could take this month?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/matthew/6.htm",
+   "https://studybible.info/WEB/Luke%2012:13-21",
+   "https://www.christianity.com/bible/web/mark/12-41-44",
+   "https://www.christianity.com/bible/asv/mark/10-17-27",
+   "https://bibliaparalela.com/web/luke/19.htm",
+   "https://biblehub.com/web/acts/4.htm",
+   "https://bibliaparalela.com/web/2_corinthians/8.htm",
+   "https://biblehub.com/web/2_corinthians/9.htm",
+   "https://biblehub.com/web/1_timothy/6.htm",
+   "https://ebible.org/engwebp/DEU15.htm",
+   "https://bibliaparalela.com/web/malachi/3.htm",
+   "https://www.christianity.com/bible/kjv/proverbs/30-7-9",
+   "https://www.biblestudytools.com/dictionary/wealth/",
+   "https://www.biblestudytools.com/encyclopedias/isbe/tithe.html",
+   "https://jewishencyclopedia.com/articles/4248-charity-and-charitable-institutions",
+   "https://www.vatican.va/archive/ENG0015/__P8F.HTM",
+   "https://ccel.org/ccel/wesley/sermons.v.l.html"
+  ]
+ },
+ {
   "id": "bg:mosaic-covenant",
   "title": "Mosaic Covenant",
   "aliases": [
@@ -7298,6 +7428,12 @@
     "predicate": "bgo:quotes",
     "object": "bg:ten-commandments",
     "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:money-and-generosity",
+    "source": "s2",
     "confidence": "high"
    }
   ],

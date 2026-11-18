@@ -440,6 +440,18 @@ Study questions:
 - What does 1 John 4:20-21 say about someone who claims to love God but hates a brother or sister?
 - Who is a "neighbor" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?
 
+### [Money and Generosity](../articles/living-the-word/money-and-generosity.md) — LifeSituation
+
+Read: Deuteronomy 15:1-11; Proverbs 30:7-9; Malachi 3:8-10; Matthew 6:1-4; Matthew 6:19-34; Mark 10:17-22; Mark 12:41-44; Luke 12:13-21; Luke 19:1-10; Acts 4:32-37; 2 Corinthians 8:1-15; 2 Corinthians 9:6-15; 1 Timothy 6:6-10; 1 Timothy 6:17-19
+
+Study questions:
+- According to Deuteronomy 15:7-11, what attitude of heart does God forbid toward a poor neighbor, and what does he command instead?
+- In Luke 12:13-21, what prompts Jesus to tell the parable of the rich fool, and what does it mean to be "rich toward God" (Luke 12:21)?
+- Why does Jesus say in Mark 12:43-44 that the widow gave more than all the rich donors?
+- Read 1 Timothy 6:10 carefully. Does it say that money is the root of all evil? What exactly does it warn against?
+- Paul grounds giving in the grace of Christ, who became poor for our sake (2 Corinthians 8:9). How might that change the way I or my church think about giving?
+- Where is my "treasure" (Matthew 6:21) at present, and what is one concrete step toward open-handed generosity I could take this month?
+
 ### [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) — LifeSituation
 
 Read: Psalm 13; Psalm 22:1-5; Psalm 22:22-24; Psalm 88; Lamentations 3:1-33; Job 2:11-13; Job 42:7-10; Habakkuk 1:2-4; Matthew 27:45-46; Romans 8:18-28; 2 Corinthians 1:3-9; Revelation 21:3-5

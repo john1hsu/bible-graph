@@ -4726,6 +4726,148 @@
    ]
   },
   {
+   "@id": "bg:money-and-generosity",
+   "@type": "bgo:LifeSituation",
+   "bgo:basis": "devotional",
+   "bgo:domain": "living-the-word",
+   "bgo:file": "articles/living-the-word/money-and-generosity.md",
+   "bgo:keyReference": [
+    "1 Timothy 6:17-19",
+    "1 Timothy 6:6-10",
+    "2 Corinthians 8:1-15",
+    "2 Corinthians 9:6-15",
+    "Acts 4:32-37",
+    "Deuteronomy 15:1-11",
+    "Luke 12:13-21",
+    "Luke 19:1-10",
+    "Malachi 3:8-10",
+    "Mark 10:17-22",
+    "Mark 12:41-44",
+    "Matthew 6:1-4",
+    "Matthew 6:19-34",
+    "Proverbs 30:7-9"
+   ],
+   "bgo:level": "introductory",
+   "bgo:supportedBy": [
+    {
+     "@id": "bg:deuteronomy"
+    },
+    {
+     "@id": "bg:parable-of-the-rich-fool"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    },
+    {
+     "@id": "bg:widows-offering"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9"
+    }
+   ],
+   "rdfs:label": "Money and Generosity",
+   "skos:altLabel": [
+    "Christian giving",
+    "almsgiving",
+    "generosity",
+    "mammon",
+    "money in the Bible",
+    "riches and poverty",
+    "stewardship of money",
+    "tithing",
+    "tzedakah",
+    "wealth and possessions"
+   ],
+   "skos:broader": {
+    "@id": "bg:loving-your-neighbor"
+   },
+   "skos:definition": "What Scripture says to Christians about earning, keeping and giving money: the law's open hand to the poor, the tithe, Jesus's warnings that wealth can rival God, the generosity of the first churches and Paul's call to cheerful giving, and the warning that the love of money is a root of all kinds of evil.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/living-the-word"
+   },
+   "skos:prefLabel": "Money and Generosity",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:discipleship"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:mosaic-covenant",
    "@type": "bgo:Covenant",
    "bgo:basis": "varies-by-tradition",
@@ -7496,6 +7638,9 @@
    "bgo:quotes": {
     "@id": "bg:ten-commandments"
    },
+   "bgo:speaksTo": {
+    "@id": "bg:money-and-generosity"
+   },
    "bgo:teaches": {
     "@id": "bg:kingdom-of-god"
    },
@@ -10032,6 +10177,54 @@
     "@id": "bg:masoretic-text"
    },
    "rdfs:label": "How does it shape your trust in the Old Testament to know that much of it reached your Bible through generations of Jewish scribes?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "According to Deuteronomy 15:7-11, what attitude of heart does God forbid toward a poor neighbor, and what does he command instead?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "In Luke 12:13-21, what prompts Jesus to tell the parable of the rich fool, and what does it mean to be \"rich toward God\" (Luke 12:21)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "Why does Jesus say in Mark 12:43-44 that the widow gave more than all the rich donors?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "Read 1 Timothy 6:10 carefully. Does it say that money is the root of all evil? What exactly does it warn against?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "Paul grounds giving in the grace of Christ, who became poor for our sake (2 Corinthians 8:9). How might that change the way I or my church think about giving?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:money-and-generosity"
+   },
+   "rdfs:label": "Where is my \"treasure\" (Matthew 6:21) at present, and what is one concrete step toward open-handed generosity I could take this month?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1",
@@ -18675,6 +18868,244 @@
    "dcterms:title": "A Jewel from the Crown",
    "schema:url": {
     "@id": "https://www.biblicalarchaeology.org/exhibits-events/a-jewel-from-the-crown/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Matthew 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/matthew/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Deuteronomy 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebp/DEU15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Malachi 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/malachi/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Proverbs 30:7-9 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/kjv/proverbs/30-7-9"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Baker Books, via Bible Study Tools",
+   "dcterms:title": "Wealth (Craig L. Blomberg), Baker's Evangelical Dictionary of Biblical Theology",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/wealth/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Tithe, International Standard Bible Encyclopedia (1915)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/encyclopedias/isbe/tithe.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Charity and Charitable Institutions (Joseph Jacobs, Kaufmann Kohler et al.), The Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/4248-charity-and-charitable-institutions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, 2443-2449: Love for the Poor",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P8F.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "John Wesley, Sermon 50: The Use of Money",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/wesley/sermons.v.l.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "StudyBible.info",
+   "dcterms:title": "Luke 12:13-21 (World English Bible)",
+   "schema:url": {
+    "@id": "https://studybible.info/WEB/Luke%2012:13-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 12:41-44 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/12-41-44"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 10:17-27 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/asv/mark/10-17-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Luke 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/luke/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "2 Corinthians 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/2_corinthians/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Corinthians 9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_corinthians/9.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Timothy 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_timothy/6.htm"
    }
   },
   {

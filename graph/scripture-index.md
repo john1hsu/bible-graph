@@ -127,6 +127,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 11:13-21** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 11:18** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Deuteronomy 12:5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
+- **Deuteronomy 15:1-11** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Deuteronomy 16:9-16** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -265,6 +266,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Proverbs 7:3** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Proverbs 11:1-3** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Proverbs 26:4-5** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
+- **Proverbs 30:7-9** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 
 ## Isaiah
 
@@ -361,6 +363,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Malachi
 
+- **Malachi 3:8-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Malachi 4:5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 
 ## Tobit
@@ -391,11 +394,13 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:43-44** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Matthew 5:43-48** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Matthew 6:1-4** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Matthew 6:1-34** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 6:5-15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 6:9-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 6:10** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Matthew 6:12-15** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Matthew 6:19-34** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Matthew 7:1-29** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 7:28-29** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -457,6 +462,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 8:27-38** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 9:7** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 9:31** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 10:17-22** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Mark 10:33-45** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 11:15-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
@@ -468,6 +474,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:28-32** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Mark 12:28-34** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Mark 12:41-44** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 13:9-13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
@@ -523,6 +530,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 10:38-42** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Luke 11:1-13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Luke 11:20** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
+- **Luke 12:13-21** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Luke 13:31** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Luke 15** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 15:1-3** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
@@ -530,6 +538,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 17:3-4** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 17:20-21** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Luke 19:1-10** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 19:1-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Luke 19:41-44** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 20:27-40** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Luke 20:27-40** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
@@ -598,6 +607,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:14-41** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Acts 4:32-37** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 5:17-18** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Acts 5:34-39** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
@@ -705,6 +715,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **2 Corinthians 1:3-9** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **2 Corinthians 3:6-16** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **2 Corinthians 3:14** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
+- **2 Corinthians 8:1-15** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
+- **2 Corinthians 9:6-15** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **2 Corinthians 11:25** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **2 Corinthians 12:9** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 
@@ -747,6 +759,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Colossians 4:16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+
+## 1 Timothy
+
+- **1 Timothy 6:6-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
+- **1 Timothy 6:17-19** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 
 ## 2 Timothy
 

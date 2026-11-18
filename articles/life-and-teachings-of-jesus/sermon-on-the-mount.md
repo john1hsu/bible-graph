@@ -16,6 +16,7 @@ relations:
   - {predicate: teaches, object: bg:kingdom-of-god, source: s5, confidence: high}
   - {predicate: parallels, object: bg:sermon-on-the-plain, source: s5, confidence: high}
   - {predicate: quotes, object: bg:ten-commandments, source: s12, confidence: high}
+  - {predicate: speaksTo, object: bg:money-and-generosity, source: s2, confidence: high}
 references: [Matthew 4:23-25, Matthew 5:1-20, Matthew 5:21-48, Matthew 6:1-34, Matthew 7:1-29, Matthew 8:1, Luke 6:17-49, Exodus 20:13-14]
 studyQuestions:
   - Who is listening when Jesus begins to teach in Matthew 5:1-2, and who is listening when he finishes in Matthew 7:28-29? Why might both groups matter?

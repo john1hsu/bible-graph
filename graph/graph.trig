@@ -587,6 +587,26 @@
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s15> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s16> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s17> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/living-the-word/money-and-generosity.md" .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> .
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/living-the-word/suffering-and-lament.md" .
@@ -6125,6 +6145,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
   <https://github.com/john1hsu/bible-graph/id/source/sermon-on-the-mount/s10> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
@@ -6551,6 +6572,193 @@
   <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
   <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://schema.org/url> <https://biblehub.com/web/1_john/4.htm> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/money-and-generosity#graph> {
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Deuteronomy 15:7-11, what attitude of heart does God forbid toward a poor neighbor, and what does he command instead?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 12:13-21, what prompts Jesus to tell the parable of the rich fool, and what does it mean to be \"rich toward God\" (Luke 12:21)?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Jesus say in Mark 12:43-44 that the widow gave more than all the rich donors?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Read 1 Timothy 6:10 carefully. Does it say that money is the root of all evil? What exactly does it warn against?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Paul grounds giving in the grace of Christ, who became poor for our sake (2 Corinthians 8:9). How might that change the way I or my church think about giving?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Where is my \"treasure\" (Matthew 6:21) at present, and what is one concrete step toward open-handed generosity I could take this month?" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2000/01/rdf-schema#label> "Money and Generosity" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "Christian giving" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "almsgiving" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "generosity" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "mammon" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "money in the Bible" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "riches and poverty" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "stewardship of money" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "tithing" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "tzedakah" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#altLabel> "wealth and possessions" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#definition> "What Scripture says to Christians about earning, keeping and giving money: the law's open hand to the poor, the tithe, Jesus's warnings that wealth can rival God, the generosity of the first churches and Paul's call to cheerful giving, and the warning that the love of money is a root of all kinds of evil." .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/living-the-word> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Money and Generosity" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/discipleship> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#domain> "living-the-word" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/living-the-word/money-and-generosity.md" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Timothy 6:17-19" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Timothy 6:6-10" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Corinthians 8:1-15" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Corinthians 9:6-15" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 4:32-37" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 15:1-11" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 12:13-21" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 19:1-10" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 3:8-10" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 10:17-22" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 12:41-44" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 6:1-4" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 6:19-34" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Proverbs 30:7-9" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-rich-fool> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/widows-offering> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <http://purl.org/dc/terms/title> "Deuteronomy 15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s10> <https://schema.org/url> <https://ebible.org/engwebp/DEU15.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <http://purl.org/dc/terms/title> "Malachi 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s11> <https://schema.org/url> <https://bibliaparalela.com/web/malachi/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <http://purl.org/dc/terms/title> "Proverbs 30:7-9 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s12> <https://schema.org/url> <https://www.christianity.com/bible/kjv/proverbs/30-7-9> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <http://purl.org/dc/terms/publisher> "Baker Books, via Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <http://purl.org/dc/terms/title> "Wealth (Craig L. Blomberg), Baker's Evangelical Dictionary of Biblical Theology" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s13> <https://schema.org/url> <https://www.biblestudytools.com/dictionary/wealth/> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <http://purl.org/dc/terms/title> "Tithe, International Standard Bible Encyclopedia (1915)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s14> <https://schema.org/url> <https://www.biblestudytools.com/encyclopedias/isbe/tithe.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <http://purl.org/dc/terms/title> "Charity and Charitable Institutions (Joseph Jacobs, Kaufmann Kohler et al.), The Jewish Encyclopedia (1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s15> <https://schema.org/url> <https://jewishencyclopedia.com/articles/4248-charity-and-charitable-institutions> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, 2443-2449: Love for the Poor" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s16> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P8F.HTM> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <http://purl.org/dc/terms/title> "John Wesley, Sermon 50: The Use of Money" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s17> <https://schema.org/url> <https://ccel.org/ccel/wesley/sermons.v.l.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <http://purl.org/dc/terms/title> "Matthew 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s1> <https://schema.org/url> <https://bibliaparalela.com/web/matthew/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <http://purl.org/dc/terms/publisher> "StudyBible.info" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <http://purl.org/dc/terms/title> "Luke 12:13-21 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s2> <https://schema.org/url> <https://studybible.info/WEB/Luke%2012:13-21> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <http://purl.org/dc/terms/title> "Mark 12:41-44 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s3> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/12-41-44> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <http://purl.org/dc/terms/title> "Mark 10:17-27 (American Standard Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s4> <https://schema.org/url> <https://www.christianity.com/bible/asv/mark/10-17-27> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <http://purl.org/dc/terms/title> "Luke 19 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s5> <https://schema.org/url> <https://bibliaparalela.com/web/luke/19.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <http://purl.org/dc/terms/title> "Acts 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s6> <https://schema.org/url> <https://biblehub.com/web/acts/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <http://purl.org/dc/terms/title> "2 Corinthians 8 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s7> <https://schema.org/url> <https://bibliaparalela.com/web/2_corinthians/8.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <http://purl.org/dc/terms/title> "2 Corinthians 9 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s8> <https://schema.org/url> <https://biblehub.com/web/2_corinthians/9.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <http://purl.org/dc/terms/title> "1 Timothy 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/money-and-generosity/s9> <https://schema.org/url> <https://biblehub.com/web/1_timothy/6.htm> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> {
@@ -11667,6 +11875,7 @@
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
@@ -11750,6 +11959,7 @@
   <https://github.com/john1hsu/bible-graph/id/barnabas/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/baruch> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/beatitudes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -11959,8 +12169,10 @@
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/shema> .
+  <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/didache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/dionysius-the-areopagite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/discipleship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/discipleship> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -12097,6 +12309,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -12191,6 +12404,7 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/peter> .
@@ -12379,6 +12593,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
@@ -12461,6 +12676,7 @@
   <https://github.com/john1hsu/bible-graph/id/lot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/love> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/love> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/love> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/love> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/love> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -12471,6 +12687,8 @@
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/love> .
+  <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -12516,6 +12734,17 @@
   <https://github.com/john1hsu/bible-graph/id/mishnah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/mishnah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/mishnah> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/love> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/money-and-generosity> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/monotheism> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/moriah> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -12666,6 +12895,7 @@
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-prodigal-son> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/parable-of-the-rich-fool> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-sower> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-unforgiving-servant> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -12717,6 +12947,7 @@
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
@@ -13009,6 +13240,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
@@ -13016,6 +13248,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -13195,6 +13428,7 @@
   <https://github.com/john1hsu/bible-graph/id/transfiguration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/twelve-tribes-of-israel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/widows-offering> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
   <https://github.com/john1hsu/bible-graph/id/wilbert-webster-white> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
