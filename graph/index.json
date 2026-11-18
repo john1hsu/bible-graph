@@ -1363,6 +1363,12 @@
     "confidence": "high"
    },
    {
+    "predicate": "bgo:occurredDuring",
+    "object": "bg:public-ministry-of-jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
     "predicate": "bgo:illustrates",
     "object": "bg:kingdom-of-god",
     "source": "s1",
@@ -5823,6 +5829,166 @@
    "https://www.newadvent.org/fathers/1801022.htm",
    "https://logoslibrary.org/justin/trypho/098.html",
    "https://psalms.scriptura.org/w/The_Text_of_Ps._22:17b"
+  ]
+ },
+ {
+  "id": "bg:public-ministry-of-jesus",
+  "title": "The Public Ministry of Jesus",
+  "aliases": [
+   "ministry of Jesus",
+   "Jesus's public ministry",
+   "public life of Jesus",
+   "public life of Christ",
+   "earthly ministry of Jesus"
+  ],
+  "type": "Period",
+  "domain": "events-and-timeline",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/events-and-timeline/public-ministry-of-jesus.md",
+  "created": "2026-11-18",
+  "summary": "The span of Jesus's life from his baptism by John in the Jordan to his death and resurrection in Jerusalem — roughly AD 27–30 on one common reckoning — in which he proclaimed the kingdom of God, called disciples, taught and healed, chiefly in Galilee, before going up to Jerusalem; the Gospels do not say how long it lasted, and readers have proposed one, two or three years.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:capernaum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-the-baptist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-john"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:passover"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "bgo:occurredDuring",
+    "object": "bg:second-temple-period",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:pentecost",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:apostolic-age",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 3:1-3",
+   "Luke 3:21-23",
+   "Mark 1:9-15",
+   "Mark 1:21",
+   "Mark 1:38-39",
+   "Matthew 4:12-17",
+   "Matthew 4:23",
+   "Luke 4:14-21",
+   "Mark 8:27-31",
+   "Luke 9:51",
+   "John 2:13",
+   "John 5:1",
+   "John 6:4",
+   "John 11:55",
+   "Acts 10:37-39",
+   "Acts 1:1-3",
+   "Acts 1:21-22"
+  ],
+  "studyQuestions": [
+   "Luke 3:1-2 dates John the Baptist's preaching by naming an emperor, a governor, three tetrarchs and two high priests. Why might Luke anchor the story so carefully in public history?",
+   "According to Mark 1:14-15, when and where does Jesus begin preaching, and what are the four parts of his first message?",
+   "In Luke 4:16-21, what passage does Jesus read in the Nazareth synagogue, and what does he claim about it? What does that suggest about the purpose of his whole ministry?",
+   "How does Mark 8:27-31 change the direction of the story? What does Jesus begin to teach \"from that time\" onward?",
+   "Count the Passovers John mentions (John 2:13, 6:4, 11:55). Why do you think the other Gospels never tell us how long the ministry lasted?",
+   "Peter summed up Jesus's ministry as \"doing good and healing\" (Acts 10:38). If someone summed up your church's life in one sentence, what would you hope they said?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibliaparalela.com/web/mark/1.htm",
+   "https://biblehub.com/web/luke/3.htm",
+   "https://www.bible.com/bible/1204/LUK.4.14-21.webbe",
+   "https://bibliaparalela.com/web/matthew/4.htm",
+   "https://biblehub.com/web/mark/8.htm",
+   "https://www.biblestudytools.com/web/luke/9-51.html",
+   "https://www.biblestudytools.com/web/john/2-13.html",
+   "https://bibliaparalela.com/web/john/6.htm",
+   "https://www.christianity.com/bible/web/john/11-55",
+   "https://ebible.org/eng-web/ACT10.htm",
+   "https://biblehub.com/web/acts/1.htm",
+   "https://www.newadvent.org/cathen/08377a.htm",
+   "https://www.biblestudytools.com/dictionary/jesus-christ-2/",
+   "https://ccel.org/ccel/schaff/npnf201.iii.vi.x.html",
+   "https://oyc.yale.edu/node/1761",
+   "https://www.britannica.com/biography/Jesus/The-context-of-Jesus-career",
+   "https://www.esv.org/resources/esv-global-study-bible/map-40-03"
   ]
  },
  {

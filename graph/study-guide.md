@@ -134,6 +134,18 @@ Study questions:
 - Deuteronomy 5:3 tells a later generation that the covenant was made "with us". In what sense does a story that happened long ago become your story too?
 - Hebrews 12:18-24 contrasts Sinai with Mount Zion. How should both the holiness of Sinai and the welcome of Zion shape the way you come to God in worship?
 
+### [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) — Period
+
+Read: Luke 3:1-3; Luke 3:21-23; Mark 1:9-15; Mark 1:21; Mark 1:38-39; Matthew 4:12-17; Matthew 4:23; Luke 4:14-21; Mark 8:27-31; Luke 9:51; John 2:13; John 5:1; John 6:4; John 11:55; Acts 10:37-39; Acts 1:1-3; Acts 1:21-22
+
+Study questions:
+- Luke 3:1-2 dates John the Baptist's preaching by naming an emperor, a governor, three tetrarchs and two high priests. Why might Luke anchor the story so carefully in public history?
+- According to Mark 1:14-15, when and where does Jesus begin preaching, and what are the four parts of his first message?
+- In Luke 4:16-21, what passage does Jesus read in the Nazareth synagogue, and what does he claim about it? What does that suggest about the purpose of his whole ministry?
+- How does Mark 8:27-31 change the direction of the story? What does Jesus begin to teach "from that time" onward?
+- Count the Passovers John mentions (John 2:13, 6:4, 11:55). Why do you think the other Gospels never tell us how long the ministry lasted?
+- Peter summed up Jesus's ministry as "doing good and healing" (Acts 10:38). If someone summed up your church's life in one sentence, what would you hope they said?
+
 ## interpretation
 
 ### [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) — Method

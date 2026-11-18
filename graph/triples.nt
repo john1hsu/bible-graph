@@ -754,6 +754,7 @@
 <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:18-22" .
 <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#occurredAt> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#occurredDuring> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?" .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
@@ -3296,6 +3297,94 @@
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Luke 3:1-2 dates John the Baptist's preaching by naming an emperor, a governor, three tetrarchs and two high priests. Why might Luke anchor the story so carefully in public history?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 1:14-15, when and where does Jesus begin preaching, and what are the four parts of his first message?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 4:16-21, what passage does Jesus read in the Nazareth synagogue, and what does he claim about it? What does that suggest about the purpose of his whole ministry?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "How does Mark 8:27-31 change the direction of the story? What does Jesus begin to teach \"from that time\" onward?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Count the Passovers John mentions (John 2:13, 6:4, 11:55). Why do you think the other Gospels never tell us how long the ministry lasted?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Peter summed up Jesus's ministry as \"doing good and healing\" (Acts 10:38). If someone summed up your church's life in one sentence, what would you hope they said?" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Period> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2000/01/rdf-schema#label> "The Public Ministry of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus's public ministry" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#altLabel> "earthly ministry of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#altLabel> "ministry of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#altLabel> "public life of Christ" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#altLabel> "public life of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#definition> "The span of Jesus's life from his baptism by John in the Jordan to his death and resurrection in Jerusalem — roughly AD 27–30 on one common reckoning — in which he proclaimed the kingdom of God, called disciples, taught and healed, chiefly in Galilee, before going up to Jerusalem; the Gospels do not say how long it lasted, and readers have proposed one, two or three years." .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Public Ministry of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/capernaum> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-john> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/passover> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/resurrection-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#domain> "events-and-timeline" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/events-and-timeline/public-ministry-of-jesus.md" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 10:37-39" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:1-3" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:21-22" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 11:55" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 2:13" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 5:1" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 6:4" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 3:1-3" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 3:21-23" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:14-21" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:51" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:21" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:38-39" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:9-15" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 8:27-31" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:12-17" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:23" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#occurredDuring> <https://github.com/john1hsu/bible-graph/id/second-temple-period> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#precedes> <https://github.com/john1hsu/bible-graph/id/apostolic-age> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#precedes> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/gospels> .
 <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Nehemiah 8:1-8, what do Ezra and the Levites do besides reading the law aloud, and why might that matter for the later Jewish practice of interpreting Torah?" .
 <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
@@ -8213,6 +8302,108 @@
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://schema.org/url> <https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <http://purl.org/dc/terms/title> "Acts 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10> <https://schema.org/url> <https://ebible.org/eng-web/ACT10.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <http://purl.org/dc/terms/title> "Acts 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11> <https://schema.org/url> <https://biblehub.com/web/acts/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <http://purl.org/dc/terms/title> "Chronology of the Life of Jesus Christ (Anthony Maas, Catholic Encyclopedia, 1910)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12> <https://schema.org/url> <https://www.newadvent.org/cathen/08377a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <http://purl.org/dc/terms/title> "Jesus Christ (International Standard Bible Encyclopedia, ed. James Orr)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13> <https://schema.org/url> <https://www.biblestudytools.com/dictionary/jesus-christ-2/> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <http://purl.org/dc/terms/title> "Eusebius, Church History, Book 1, chapter 10 (Nicene and Post-Nicene Fathers, series 2, vol. 1)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14> <https://schema.org/url> <https://ccel.org/ccel/schaff/npnf201.iii.vi.x.html> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <http://purl.org/dc/terms/publisher> "Open Yale Courses" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <http://purl.org/dc/terms/title> "Dale B. Martin, Lecture 13 – The Historical Jesus (RLST 152, Introduction to New Testament History and Literature)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15> <https://schema.org/url> <https://oyc.yale.edu/node/1761> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <http://purl.org/dc/terms/title> "Jaroslav Pelikan, \"Jesus\" – The context of Jesus's career" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16> <https://schema.org/url> <https://www.britannica.com/biography/Jesus/The-context-of-Jesus-career> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <http://purl.org/dc/terms/publisher> "Crossway" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <http://purl.org/dc/terms/title> "Map 40.3, Jesus' Ministry in Galilee (ESV Global Study Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17> <https://schema.org/url> <https://www.esv.org/resources/esv-global-study-bible/map-40-03> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1> <https://schema.org/url> <https://www.bibliaparalela.com/web/mark/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <http://purl.org/dc/terms/title> "Luke 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2> <https://schema.org/url> <https://biblehub.com/web/luke/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <http://purl.org/dc/terms/title> "Luke 4:14-21 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3> <https://schema.org/url> <https://www.bible.com/bible/1204/LUK.4.14-21.webbe> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <http://purl.org/dc/terms/title> "Matthew 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4> <https://schema.org/url> <https://bibliaparalela.com/web/matthew/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <http://purl.org/dc/terms/title> "Mark 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5> <https://schema.org/url> <https://biblehub.com/web/mark/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <http://purl.org/dc/terms/title> "Luke 9:51 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6> <https://schema.org/url> <https://www.biblestudytools.com/web/luke/9-51.html> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <http://purl.org/dc/terms/title> "John 2:13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/john/2-13.html> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <http://purl.org/dc/terms/title> "John 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8> <https://schema.org/url> <https://bibliaparalela.com/web/john/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <http://purl.org/dc/terms/title> "John 11:55 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/john/11-55> .
 <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
 <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/title> "Oral Law (Jewish Encyclopedia, 1906)" .

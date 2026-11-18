@@ -148,10 +148,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 _Which written events have no period and nothing they come before or after?_ — `queries/11-events-without-period.rq`
 
-| node |
-|---|
-| `bg:calling-of-the-first-disciples` |
-| `bg:pentecost` |
+_No results._
 
 ## Family trees
 

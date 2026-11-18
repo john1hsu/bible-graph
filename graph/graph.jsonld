@@ -1357,6 +1357,9 @@
    "bgo:occurredAt": {
     "@id": "bg:galilee"
    },
+   "bgo:occurredDuring": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
    "dcterms:created": {
     "@type": "xsd:date",
     "@value": "2026-11-18"
@@ -6028,6 +6031,172 @@
    ]
   },
   {
+   "@id": "bg:public-ministry-of-jesus",
+   "@type": "bgo:Period",
+   "bgo:basis": "debated",
+   "bgo:domain": "events-and-timeline",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/events-and-timeline/public-ministry-of-jesus.md",
+   "bgo:keyReference": [
+    "Acts 10:37-39",
+    "Acts 1:1-3",
+    "Acts 1:21-22",
+    "John 11:55",
+    "John 2:13",
+    "John 5:1",
+    "John 6:4",
+    "Luke 3:1-3",
+    "Luke 3:21-23",
+    "Luke 4:14-21",
+    "Luke 9:51",
+    "Mark 1:21",
+    "Mark 1:38-39",
+    "Mark 1:9-15",
+    "Mark 8:27-31",
+    "Matthew 4:12-17",
+    "Matthew 4:23"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredDuring": {
+    "@id": "bg:second-temple-period"
+   },
+   "bgo:precedes": [
+    {
+     "@id": "bg:apostolic-age"
+    },
+    {
+     "@id": "bg:pentecost"
+    }
+   ],
+   "bgo:requires": {
+    "@id": "bg:gospels"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9"
+    }
+   ],
+   "rdfs:label": "The Public Ministry of Jesus",
+   "skos:altLabel": [
+    "Jesus's public ministry",
+    "earthly ministry of Jesus",
+    "ministry of Jesus",
+    "public life of Christ",
+    "public life of Jesus"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    }
+   ],
+   "skos:definition": "The span of Jesus's life from his baptism by John in the Jordan to his death and resurrection in Jerusalem — roughly AD 27–30 on one common reckoning — in which he proclaimed the kingdom of God, called disciples, taught and healed, chiefly in Galilee, before going up to Jerusalem; the Gospels do not say how long it lasted, and readers have proposed one, two or three years.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline"
+   },
+   "skos:prefLabel": "The Public Ministry of Jesus",
+   "skos:related": [
+    {
+     "@id": "bg:baptism-of-jesus"
+    },
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
+    {
+     "@id": "bg:capernaum"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospel-of-john"
+    },
+    {
+     "@id": "bg:gospels"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:john-the-baptist"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    },
+    {
+     "@id": "bg:passover"
+    },
+    {
+     "@id": "bg:resurrection-of-jesus"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:rabbinic-judaism",
    "@type": "bgo:Tradition",
    "bgo:basis": "historical",
@@ -9962,6 +10131,54 @@
     "@id": "bg:psalm-22"
    },
    "rdfs:label": "Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "Luke 3:1-2 dates John the Baptist's preaching by naming an emperor, a governor, three tetrarchs and two high priests. Why might Luke anchor the story so carefully in public history?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "According to Mark 1:14-15, when and where does Jesus begin preaching, and what are the four parts of his first message?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "In Luke 4:16-21, what passage does Jesus read in the Nazareth synagogue, and what does he claim about it? What does that suggest about the purpose of his whole ministry?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "How does Mark 8:27-31 change the direction of the story? What does Jesus begin to teach \"from that time\" onward?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "Count the Passovers John mentions (John 2:13, 6:4, 11:55). Why do you think the other Gospels never tell us how long the ministry lasted?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:public-ministry-of-jesus"
+   },
+   "rdfs:label": "Peter summed up Jesus's ministry as \"doing good and healing\" (Acts 10:38). If someone summed up your church's life in one sentence, what would you hope they said?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1",
@@ -20245,6 +20462,244 @@
    "dcterms:title": "Psalm 22: My God, my God, why have you forsaken me?",
    "schema:url": {
     "@id": "https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Mark 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/mark/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Acts 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ACT10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Chronology of the Life of Jesus Christ (Anthony Maas, Catholic Encyclopedia, 1910)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/08377a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Jesus Christ (International Standard Bible Encyclopedia, ed. James Orr)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/jesus-christ-2/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Eusebius, Church History, Book 1, chapter 10 (Nicene and Post-Nicene Fathers, series 2, vol. 1)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/schaff/npnf201.iii.vi.x.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Open Yale Courses",
+   "dcterms:title": "Dale B. Martin, Lecture 13 – The Historical Jesus (RLST 152, Introduction to New Testament History and Literature)",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/node/1761"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Jaroslav Pelikan, \"Jesus\" – The context of Jesus's career",
+   "schema:url": {
+    "@id": "https://www.britannica.com/biography/Jesus/The-context-of-Jesus-career"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Crossway",
+   "dcterms:title": "Map 40.3, Jesus' Ministry in Galilee (ESV Global Study Bible)",
+   "schema:url": {
+    "@id": "https://www.esv.org/resources/esv-global-study-bible/map-40-03"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Luke 4:14-21 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/LUK.4.14-21.webbe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Matthew 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/matthew/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 9:51 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/9-51.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "John 2:13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/john/2-13.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "John 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/john/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/public-ministry-of-jesus/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 11:55 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/john/11-55"
    }
   },
   {

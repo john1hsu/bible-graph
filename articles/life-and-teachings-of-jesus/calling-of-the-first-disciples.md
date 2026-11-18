@@ -19,6 +19,7 @@ relations:
   - {predicate: features, object: bg:john-son-of-zebedee, source: s1, confidence: high}
   - {predicate: features, object: bg:john-the-baptist, source: s4, confidence: high}
   - {predicate: occurredAt, object: bg:galilee, source: s1, confidence: high}
+  - {predicate: occurredDuring, object: bg:public-ministry-of-jesus, source: s1, confidence: high}
   - {predicate: illustrates, object: bg:kingdom-of-god, source: s1, confidence: medium}
   - {predicate: illustrates, object: bg:discipleship, source: s9, confidence: medium}
   - {predicate: explainedBy, object: bg:second-temple-judaism, source: s9, confidence: medium}
