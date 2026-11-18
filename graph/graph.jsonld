@@ -5842,6 +5842,134 @@
    ]
   },
   {
+   "@id": "bg:rabbinic-judaism",
+   "@type": "bgo:Tradition",
+   "bgo:basis": "historical",
+   "bgo:domain": "background-and-culture",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/background-and-culture/rabbinic-judaism.md",
+   "bgo:influencedBy": {
+    "@id": "bg:pharisees"
+   },
+   "bgo:introducedBy": {
+    "@id": "bg:yohanan-ben-zakkai"
+   },
+   "bgo:introducedIn": {
+    "@id": "bg:mishnah"
+   },
+   "bgo:keyReference": [
+    "Acts 15:21",
+    "Exodus 34:27",
+    "Hosea 6:6",
+    "Mark 7:1-13",
+    "Matthew 23:2",
+    "Matthew 9:10-13",
+    "Nehemiah 8:1-8",
+    "Romans 11:1-2",
+    "Romans 11:28-29"
+   ],
+   "bgo:level": "intermediate",
+   "bgo:requires": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9"
+    }
+   ],
+   "rdfs:label": "Rabbinic Judaism",
+   "skos:altLabel": [
+    "Judaism of the sages",
+    "classical rabbinic Judaism",
+    "rabbinic tradition"
+   ],
+   "skos:broader": {
+    "@id": "bg:judaism"
+   },
+   "skos:definition": "The form of Judaism shaped by the sages (rabbis) after the Temple's destruction in AD 70, centred on the written Torah read together with an oral tradition later set down in the Mishnah, the Talmuds and the midrash collections, with Torah study, prayer and deeds of kindness at the heart of religious life.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture"
+   },
+   "skos:prefLabel": "Rabbinic Judaism",
+   "skos:related": [
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:shema"
+    },
+    {
+     "@id": "bg:synagogue"
+    },
+    {
+     "@id": "bg:talmud"
+    },
+    {
+     "@id": "bg:tanakh"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:reading-in-context",
    "@type": "bgo:Method",
    "bgo:addresses": [
@@ -9608,6 +9736,38 @@
     "@id": "bg:psalm-22"
    },
    "rdfs:label": "Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:rabbinic-judaism"
+   },
+   "rdfs:label": "In Nehemiah 8:1-8, what do Ezra and the Levites do besides reading the law aloud, and why might that matter for the later Jewish practice of interpreting Torah?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:rabbinic-judaism"
+   },
+   "rdfs:label": "In Mark 7:1-13, what exactly does Jesus criticise about the \"tradition of the elders\" — the existence of tradition, or tradition that sets aside God's command?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:rabbinic-judaism"
+   },
+   "rdfs:label": "Jesus quotes Hosea 6:6 in Matthew 9:13, and the rabbinic sage Yohanan ben Zakkai is remembered as using the same verse after the Temple fell. What do the two uses have in common?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:rabbinic-judaism"
+   },
+   "rdfs:label": "Paul says in Romans 11:28-29 that God's gifts and calling are irrevocable. How should that shape the way Christians speak about Jewish neighbours and their reading of Scripture?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1",
@@ -19481,6 +19641,216 @@
    "dcterms:title": "Psalm 22: My God, my God, why have you forsaken me?",
    "schema:url": {
     "@id": "https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Nehemiah 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/nehemiah/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Oral Law (Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/11750-oral-law.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Religious Studies Center, Brigham Young University",
+   "dcterms:title": "Jacob Neusner, \"From Cultic Piety to Torah Piety after 70\", in The Glory of God Is Intelligence (1978)",
+   "schema:url": {
+    "@id": "https://rsc.byu.edu/glory-god-intelligence/cultic-piety-torah-piety-after-70-ad"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society (Biblical Archaeology Review)",
+   "dcterms:title": "Steven Fine, \"Entry into Rabbinic Literature\"",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/sidebar/entry-into-rabbinic-literature/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Center for Online Judaic Studies",
+   "dcterms:title": "Overview: The Age of the Rabbis: The Formative Years (circa 70–3rd century CE)",
+   "schema:url": {
+    "@id": "https://cojs.org/?p=7099"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Theodor H. Gaster, \"Judaism — Rabbinic Judaism (2nd–18th century)\"",
+   "schema:url": {
+    "@id": "https://www.britannica.com:443/topic/Judaism/Rabbinic-Judaism-2nd-18th-century"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Pontifical Biblical Commission, The Jewish People and Their Sacred Scriptures in the Christian Bible (2001)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20020212_popolo-ebraico_en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Hosea 6 (World English Bible, American English edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible-verses/206/HOS.6.WEBUS"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/9.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 15:21 (World English Bible and other versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/acts/15-21.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Romans 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ROM11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Exodus 34:27 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/exodus/34-27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 23:2 (World English Bible and other versions)",
+   "schema:url": {
+    "@id": "https://www.biblehub.com/multi/matthew/23-2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Sefaria",
+   "dcterms:title": "Pirkei Avot 1 (Mishnah Yomit translation by Joshua Kulp)",
+   "schema:url": {
+    "@id": "https://www.sefaria.org/api/texts/Pirkei_Avot.1"
    }
   },
   {

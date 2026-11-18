@@ -14,6 +14,16 @@ Study questions:
 - Nicodemus (John 3:1-2) and Gamaliel (Acts 5:34-39) were both Pharisees. How do their stories complicate the picture of the Pharisees as simply Jesus's enemies?
 - Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?
 
+### [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) — Tradition
+
+Read: Nehemiah 8:1-8; Exodus 34:27; Mark 7:1-13; Matthew 23:2; Hosea 6:6; Matthew 9:10-13; Acts 15:21; Romans 11:1-2; Romans 11:28-29
+
+Study questions:
+- In Nehemiah 8:1-8, what do Ezra and the Levites do besides reading the law aloud, and why might that matter for the later Jewish practice of interpreting Torah?
+- In Mark 7:1-13, what exactly does Jesus criticise about the "tradition of the elders" — the existence of tradition, or tradition that sets aside God's command?
+- Jesus quotes Hosea 6:6 in Matthew 9:13, and the rabbinic sage Yohanan ben Zakkai is remembered as using the same verse after the Temple fell. What do the two uses have in common?
+- Paul says in Romans 11:28-29 that God's gifts and calling are irrevocable. How should that shape the way Christians speak about Jewish neighbours and their reading of Scripture?
+
 ### [Sadducees](../articles/background-and-culture/sadducees.md) — Group
 
 Read: Mark 12:18-27; Matthew 22:23-34; Luke 20:27-40; Exodus 3:6; Deuteronomy 25:5-6; Acts 4:1-3; Acts 5:17-18; Acts 23:6-10; Matthew 3:7; Matthew 16:1-12; 1 Kings 2:35

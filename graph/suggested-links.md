@@ -26,6 +26,6 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.23 | `bg:mosaic-covenant` | `bg:the-story-of-the-bible` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:giving-of-the-law-at-sinai`, `bg:grace`, `bg:the-exodus` |
 | 2.21 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
 | 2.15 | `bg:abrahamic-covenant` | `bg:deuteronomy` | `bg:ancient-near-eastern-treaties`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant`, `bg:the-exodus` |
+| 2.10 | `bg:pharisees` | `bg:the-temple` | `bg:antiquities-of-the-jews`, `bg:rabbinic-judaism`, `bg:sadducees`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
 | 2.09 | `bg:scripture-interprets-scripture` | `bg:scripture-memorization` | `bg:catholic-church`, `bg:inductive-bible-study`, `bg:proof-texting`, `bg:reading-in-context` |
 | 2.08 | `bg:genesis` | `bg:israelites` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:deuteronomy`, `bg:moses`, `bg:old-testament` |
-| 1.99 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |

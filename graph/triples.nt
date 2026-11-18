@@ -3207,6 +3207,70 @@
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Nehemiah 8:1-8, what do Ezra and the Levites do besides reading the law aloud, and why might that matter for the later Jewish practice of interpreting Torah?" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Mark 7:1-13, what exactly does Jesus criticise about the \"tradition of the elders\" — the existence of tradition, or tradition that sets aside God's command?" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus quotes Hosea 6:6 in Matthew 9:13, and the rabbinic sage Yohanan ben Zakkai is remembered as using the same verse after the Temple fell. What do the two uses have in common?" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Paul says in Romans 11:28-29 that God's gifts and calling are irrevocable. How should that shape the way Christians speak about Jewish neighbours and their reading of Scripture?" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2000/01/rdf-schema#label> "Rabbinic Judaism" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "Judaism of the sages" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "classical rabbinic Judaism" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#altLabel> "rabbinic tradition" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#definition> "The form of Judaism shaped by the sages (rabbis) after the Temple's destruction in AD 70, centred on the written Torah read together with an oral tradition later set down in the Mishnah, the Talmuds and the midrash collections, with Torah study, prayer and deeds of kindness at the heart of religious life." .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabbinic Judaism" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/synagogue> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/talmud> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/tanakh> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#basis> "historical" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#domain> "background-and-culture" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/background-and-culture/rabbinic-judaism.md" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#influencedBy> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/yohanan-ben-zakkai> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#introducedIn> <https://github.com/john1hsu/bible-graph/id/mishnah> .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 15:21" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 34:27" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hosea 6:6" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 7:1-13" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 23:2" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 9:10-13" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:1-8" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:1-2" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:28-29" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Jeremiah 29:1-10, who first received the letter containing verse 11, where were they, and how long did God say they would wait?" .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
@@ -7898,6 +7962,96 @@
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://schema.org/url> <https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://purl.org/dc/terms/title> "Oral Law (Jewish Encyclopedia, 1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s10> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/11750-oral-law.html> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <http://purl.org/dc/terms/publisher> "Religious Studies Center, Brigham Young University" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <http://purl.org/dc/terms/title> "Jacob Neusner, \"From Cultic Piety to Torah Piety after 70\", in The Glory of God Is Intelligence (1978)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s11> <https://schema.org/url> <https://rsc.byu.edu/glory-god-intelligence/cultic-piety-torah-piety-after-70-ad> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society (Biblical Archaeology Review)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <http://purl.org/dc/terms/title> "Steven Fine, \"Entry into Rabbinic Literature\"" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s12> <https://schema.org/url> <https://library.biblicalarchaeology.org/sidebar/entry-into-rabbinic-literature/> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <http://purl.org/dc/terms/publisher> "Center for Online Judaic Studies" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <http://purl.org/dc/terms/title> "Overview: The Age of the Rabbis: The Formative Years (circa 70–3rd century CE)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s13> <https://schema.org/url> <https://cojs.org/?p=7099> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <http://purl.org/dc/terms/title> "Theodor H. Gaster, \"Judaism — Rabbinic Judaism (2nd–18th century)\"" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s14> <https://schema.org/url> <https://www.britannica.com:443/topic/Judaism/Rabbinic-Judaism-2nd-18th-century> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <http://purl.org/dc/terms/title> "Pontifical Biblical Commission, The Jewish People and Their Sacred Scriptures in the Christian Bible (2001)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s15> <https://schema.org/url> <https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20020212_popolo-ebraico_en.html> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <http://purl.org/dc/terms/title> "Nehemiah 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s1> <https://schema.org/url> <https://biblehub.com/web/nehemiah/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <http://purl.org/dc/terms/title> "Mark 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s2> <https://schema.org/url> <https://biblehub.com/web/mark/7.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <http://purl.org/dc/terms/title> "Hosea 6 (World English Bible, American English edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s3> <https://schema.org/url> <https://www.bible.com/bible-verses/206/HOS.6.WEBUS> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <http://purl.org/dc/terms/title> "Matthew 9 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s4> <https://schema.org/url> <https://biblehub.com/web/matthew/9.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <http://purl.org/dc/terms/title> "Acts 15:21 (World English Bible and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s5> <https://schema.org/url> <https://biblehub.com/multi/acts/15-21.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <http://purl.org/dc/terms/title> "Romans 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s6> <https://schema.org/url> <https://ebible.org/eng-web/ROM11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <http://purl.org/dc/terms/title> "Exodus 34:27 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s7> <https://schema.org/url> <https://www.christianity.com/bible/web/exodus/34-27> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <http://purl.org/dc/terms/title> "Matthew 23:2 (World English Bible and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s8> <https://schema.org/url> <https://www.biblehub.com/multi/matthew/23-2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <http://purl.org/dc/terms/publisher> "Sefaria" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <http://purl.org/dc/terms/title> "Pirkei Avot 1 (Mishnah Yomit translation by Joshua Kulp)" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/rabbinic-judaism/s9> <https://schema.org/url> <https://www.sefaria.org/api/texts/Pirkei_Avot.1> .
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10> <http://purl.org/dc/terms/publisher> "Fortress Press" .
 <https://github.com/john1hsu/bible-graph/id/source/reading-in-context/s10> <http://purl.org/dc/terms/title> "Mary F. Foskett, Interpreting the Bible (Elements of Preaching), introduction" .

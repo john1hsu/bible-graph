@@ -81,6 +81,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 34:1-10** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 34:6** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Exodus 34:6-9** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Exodus 34:27** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Exodus 34:27-35** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 
 ## Leviticus
@@ -211,6 +212,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Nehemiah
 
+- **Nehemiah 8:1-8** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Nehemiah 8:1-12** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Nehemiah 8:8** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
@@ -317,6 +319,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Daniel 2:44** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Daniel 12:2** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
+## Hosea
+
+- **Hosea 6:6** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
+
 ## Amos
 
 - **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
@@ -377,6 +383,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 7:28-29** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 9:9** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 9:10-13** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Matthew 13:1-52** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Matthew 16:1-12** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 16:13-23** — [Peter](../articles/new-testament-people/peter.md) (Person)
@@ -390,6 +397,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 22:34-40** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Matthew 22:37-40** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Matthew 23:2** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 27:35** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Matthew 27:39** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
@@ -420,6 +428,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 4:39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Mark 7:1-13** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Mark 7:3-4** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 8:27-38** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 9:7** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
@@ -575,6 +584,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:7-14** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 15:12** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:17** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+- **Acts 15:21** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Acts 15:25-26** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -615,8 +625,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 9:4** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Romans 11:1** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 11:1-2** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **Romans 11:1-2** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Romans 11:17-29** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 11:28-29** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
+- **Romans 11:28-29** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)

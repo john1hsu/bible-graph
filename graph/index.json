@@ -5661,6 +5661,128 @@
   ]
  },
  {
+  "id": "bg:rabbinic-judaism",
+  "title": "Rabbinic Judaism",
+  "aliases": [
+   "rabbinic tradition",
+   "classical rabbinic Judaism",
+   "Judaism of the sages"
+  ],
+  "type": "Tradition",
+  "domain": "background-and-culture",
+  "level": "intermediate",
+  "basis": "historical",
+  "file": "articles/background-and-culture/rabbinic-judaism.md",
+  "created": "2026-11-18",
+  "summary": "The form of Judaism shaped by the sages (rabbis) after the Temple's destruction in AD 70, centred on the written Torah read together with an oral tradition later set down in the Mishnah, the Talmuds and the midrash collections, with Torah study, prayer and deeds of kindness at the heart of religious life.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:synagogue"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:tanakh"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:talmud"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:influencedBy",
+    "object": "bg:pharisees",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:mishnah",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:yohanan-ben-zakkai",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Nehemiah 8:1-8",
+   "Exodus 34:27",
+   "Mark 7:1-13",
+   "Matthew 23:2",
+   "Hosea 6:6",
+   "Matthew 9:10-13",
+   "Acts 15:21",
+   "Romans 11:1-2",
+   "Romans 11:28-29"
+  ],
+  "studyQuestions": [
+   "In Nehemiah 8:1-8, what do Ezra and the Levites do besides reading the law aloud, and why might that matter for the later Jewish practice of interpreting Torah?",
+   "In Mark 7:1-13, what exactly does Jesus criticise about the \"tradition of the elders\" — the existence of tradition, or tradition that sets aside God's command?",
+   "Jesus quotes Hosea 6:6 in Matthew 9:13, and the rabbinic sage Yohanan ben Zakkai is remembered as using the same verse after the Temple fell. What do the two uses have in common?",
+   "Paul says in Romans 11:28-29 that God's gifts and calling are irrevocable. How should that shape the way Christians speak about Jewish neighbours and their reading of Scripture?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/nehemiah/8.htm",
+   "https://biblehub.com/web/mark/7.htm",
+   "https://www.bible.com/bible-verses/206/HOS.6.WEBUS",
+   "https://biblehub.com/web/matthew/9.htm",
+   "https://biblehub.com/multi/acts/15-21.htm",
+   "https://ebible.org/eng-web/ROM11.htm",
+   "https://www.christianity.com/bible/web/exodus/34-27",
+   "https://www.biblehub.com/multi/matthew/23-2.htm",
+   "https://www.sefaria.org/api/texts/Pirkei_Avot.1",
+   "https://www.jewishencyclopedia.com/articles/11750-oral-law.html",
+   "https://rsc.byu.edu/glory-god-intelligence/cultic-piety-torah-piety-after-70-ad",
+   "https://library.biblicalarchaeology.org/sidebar/entry-into-rabbinic-literature/",
+   "https://cojs.org/?p=7099",
+   "https://www.britannica.com:443/topic/Judaism/Rabbinic-Judaism-2nd-18th-century",
+   "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20020212_popolo-ebraico_en.html"
+  ]
+ },
+ {
   "id": "bg:reading-in-context",
   "title": "Reading in Context",
   "aliases": [
