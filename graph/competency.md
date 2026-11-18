@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:deuteronomy` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -37,9 +35,10 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Song of the Sea |
-| `bg:love` | Parable of the Good Samaritan |
-| `bg:mosaic-covenant` | Deuteronomy, Moses, The Giving of the Law at Sinai |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
+| `bg:love` | Parable of the Good Samaritan, The Shema |
+| `bg:monotheism` | The Shema |
+| `bg:mosaic-covenant` | Deuteronomy, Moses, The Giving of the Law at Sinai, The Shema |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
@@ -84,7 +83,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:giving-of-the-law-at-sinai` | `bg:israelites` |
 | `bg:giving-of-the-law-at-sinai` | `bg:moses` |
 
-…and 25 more.
+…and 26 more.
 
 ## Popular misconceptions and what corrects them
 

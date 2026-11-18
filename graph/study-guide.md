@@ -255,6 +255,18 @@ Study questions:
 - Romans 8:32 says God "didn't spare his own Son". Reading Genesis 22 alongside it, what do you learn about the cost of God's love?
 - Where in your own life is it hardest to trust that "Yahweh will provide", and what helps you keep walking up the mountain?
 
+### [The Shema](../articles/key-passages/shema.md) — Passage
+
+Read: Deuteronomy 6:4-9; Deuteronomy 6:1-3; Deuteronomy 6:10-12; Deuteronomy 6:20-25; Deuteronomy 11:13-21; Numbers 15:37-40; Mark 12:28-32; 1 Corinthians 8:4-6; James 2:19
+
+Study questions:
+- Read Deuteronomy 6:4-5. What does Israel confess about God, and what does God ask for in return? Why do you think the command to love follows straight after the confession?
+- List every place and time of day named in Deuteronomy 6:7-9. Which of them are part of your ordinary week, and how could God's words be "on your heart" there?
+- In Deuteronomy 6:20-23 a child asks what the commandments mean. How do the parents answer, and what does that suggest about why Israel obeys?
+- When the scribe asks Jesus which commandment is first (Mark 12:28-32), how does Jesus answer, and what does the scribe add?
+- Paul writes of "one God, the Father" and "one Lord, Jesus Christ" (1 Corinthians 8:6). How does this echo the Shema, and what does it say about who Jesus is?
+- James 2:19 says even the demons believe that God is one. What is the difference between agreeing with the Shema and living it?
+
 ### [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) — Passage
 
 Read: Exodus 15:1-21; Exodus 14:21-31; Psalm 118:14; Isaiah 12:2; Revelation 15:2-3

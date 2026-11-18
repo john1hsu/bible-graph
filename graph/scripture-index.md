@@ -91,6 +91,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Numbers
 
 - **Numbers 12:1-8** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **Numbers 15:37-40** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Numbers 20:7-13** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
 ## Deuteronomy
@@ -100,14 +101,19 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 5:1-6** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 5:22-27** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 5:22-27** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Deuteronomy 6:1-3** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 6:4-5** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 6:4-5** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Deuteronomy 6:4-9** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
+- **Deuteronomy 6:4-9** — [The Shema](../articles/key-passages/shema.md) (Passage)
+- **Deuteronomy 6:10-12** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Deuteronomy 6:20-25** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 7:6-9** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Deuteronomy 8:3** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **Deuteronomy 11:13-21** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 12:5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -371,6 +377,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:1-12** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 12:18-27** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Mark 12:18-27** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
+- **Mark 12:28-32** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
@@ -528,6 +535,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Corinthians 3:16-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Corinthians 5:7** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 8:4-6** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
@@ -604,6 +612,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **James 2:1-9** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **James 2:19** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **James 2:21-23** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **James 2:21-24** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 

@@ -5310,6 +5310,132 @@
   ]
  },
  {
+  "id": "bg:shema",
+  "title": "The Shema",
+  "aliases": [
+   "Shema Yisrael",
+   "Hear, O Israel",
+   "Keriat Shema",
+   "Deuteronomy 6:4-9"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/key-passages/shema.md",
+  "created": "2026-11-18",
+  "summary": "Deuteronomy 6:4-9, named for its first Hebrew word (\"Hear\"): Israel's confession that the LORD is our God and the LORD is one, joined to the command to love him with all the heart, soul and strength and to keep his words in the heart, the home and daily life. It became the central confession of Jewish prayer, and Jesus quoted it as the first commandment.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:deuteronomy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:great-commandment"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:loving-your-neighbor"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:deuteronomy"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:deuteronomy",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:israelites",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:love",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:monotheism",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:mosaic-covenant",
+    "source": "s8",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Deuteronomy 6:4-9",
+   "Deuteronomy 6:1-3",
+   "Deuteronomy 6:10-12",
+   "Deuteronomy 6:20-25",
+   "Deuteronomy 11:13-21",
+   "Numbers 15:37-40",
+   "Mark 12:28-32",
+   "1 Corinthians 8:4-6",
+   "James 2:19"
+  ],
+  "studyQuestions": [
+   "Read Deuteronomy 6:4-5. What does Israel confess about God, and what does God ask for in return? Why do you think the command to love follows straight after the confession?",
+   "List every place and time of day named in Deuteronomy 6:7-9. Which of them are part of your ordinary week, and how could God's words be \"on your heart\" there?",
+   "In Deuteronomy 6:20-23 a child asks what the commandments mean. How do the parents answer, and what does that suggest about why Israel obeys?",
+   "When the scribe asks Jesus which commandment is first (Mark 12:28-32), how does Jesus answer, and what does the scribe add?",
+   "Paul writes of \"one God, the Father\" and \"one Lord, Jesus Christ\" (1 Corinthians 8:6). How does this echo the Shema, and what does it say about who Jesus is?",
+   "James 2:19 says even the demons believe that God is one. What is the difference between agreeing with the Shema and living it?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/deuteronomy/6.htm",
+   "https://biblehub.com/web/deuteronomy/11.htm",
+   "https://www.christianity.com/bible/web/numbers/15-37-40",
+   "https://www.biblestudytools.com/web/mark/12-29.html",
+   "https://worthy.bible/bible/web/mark/12/32",
+   "https://www.biblestudytools.com/web/1-corinthians/8-6.html",
+   "https://miamisdb.org/bible/web+ylt/james/2/19",
+   "https://www.myjewishlearning.com/article/deuteronomy-64-the-shema/",
+   "https://jewishencyclopedia.com/articles/13548-shema",
+   "https://jewishencyclopedia.com/articles/10774-mezuzah",
+   "https://tyndalebulletin.org/article/29437-1-timothy-2-5-6-as-a-christological-reworking-of-the-shema.pdf",
+   "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_1_i_believe_in_god.index.html"
+  ]
+ },
+ {
   "id": "bg:song-of-the-sea",
   "title": "The Song of the Sea",
   "aliases": [
