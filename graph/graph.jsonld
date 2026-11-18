@@ -1719,6 +1719,147 @@
    ]
   },
   {
+   "@id": "bg:galilee",
+   "@type": "bgo:Place",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:the-jewish-war"
+   },
+   "bgo:domain": "places-and-geography",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/places-and-geography/galilee.md",
+   "bgo:illustrates": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "bgo:keyReference": [
+    "1 Kings 9:11",
+    "2 Kings 15:29",
+    "Acts 9:31",
+    "Isaiah 9:1-2",
+    "John 1:46",
+    "John 7:41-52",
+    "Joshua 20:7",
+    "Luke 3:1",
+    "Mark 14:70",
+    "Mark 1:9-39",
+    "Matthew 28:7-20",
+    "Matthew 4:12-25"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s9"
+    }
+   ],
+   "rdfs:label": "Galilee",
+   "skos:altLabel": [
+    "Galil",
+    "Galilaia",
+    "Galilee of the Gentiles",
+    "Galilee of the nations",
+    "Lower Galilee",
+    "Upper Galilee",
+    "ha-Galil"
+   ],
+   "skos:broader": {
+    "@id": "bg:land-of-israel"
+   },
+   "skos:definition": "The hilly, fertile northern region of the land of Israel, around the lake known as the Sea of Galilee, where Jesus grew up in Nazareth, made Capernaum his base, called his first disciples and carried out most of his public ministry.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography"
+   },
+   "skos:prefLabel": "Galilee",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-isaiah"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:great-commission"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    },
+    {
+     "@id": "bg:synagogue"
+    }
+   ]
+  },
+  {
    "@id": "bg:genesis",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -2358,6 +2499,9 @@
    "skos:related": [
     {
      "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:galilee"
     },
     {
      "@id": "bg:gospel-of-luke"
@@ -5128,6 +5272,9 @@
      "@id": "bg:eastern-orthodoxy"
     },
     {
+     "@id": "bg:galilee"
+    },
+    {
      "@id": "bg:gospel-of-mark"
     },
     {
@@ -7495,6 +7642,46 @@
     "@id": "bg:forgiveness-in-the-bible"
    },
    "rdfs:label": "Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/galilee/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:galilee"
+   },
+   "rdfs:label": "What happened to Galilee in 2 Kings 15:29, and how does Isaiah 9:1-2 answer that memory of loss?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/galilee/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:galilee"
+   },
+   "rdfs:label": "According to Matthew 4:12-16, why did Jesus settle in Capernaum, and which prophecy does Matthew see fulfilled there?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/galilee/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:galilee"
+   },
+   "rdfs:label": "In Mark 1:14-20, what is the first thing Jesus does in Galilee, and whom does he call beside the lake?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/galilee/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:galilee"
+   },
+   "rdfs:label": "John 1:46 and John 7:52 show people doubting that anything good could come from Galilee. Why might God have chosen such an unlikely place, and where do you see him working in \"unlikely\" places today?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/galilee/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:galilee"
+   },
+   "rdfs:label": "After the resurrection, the risen Jesus sends his disciples back to Galilee (Matthew 28:7-10, 16). What might it mean that the mission to \"all nations\" began from the place where they first met him?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/genesis/check/1",
@@ -12213,6 +12400,244 @@
    "dcterms:title": "Colossians 3 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/col/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Open English Bible study edition (eBible.org texts)",
+   "dcterms:title": "Isaiah 9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://openenglishbible.org/oeb/2020.2/study/content/texts/eng_web/IS9.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 9:11 (parallel translations, including the World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/1_kings/9-11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Luke 3:1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/luke/3-1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Acts 9:31 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/acts/9-31.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906)",
+   "dcterms:title": "Galilee (Emil G. Hirsch, Frants Buhl and Solomon Schechter)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/6475-galilee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopedia of the Bible, Bible Gateway",
+   "dcterms:title": "Galilee",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Galilee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "The Wars of the Jews, Book III (Flavius Josephus, trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://www.ccel.org/j/josephus/works/war-3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Bible and Interpretation, University of Arizona",
+   "dcterms:title": "The Myth of a Gentile Galilee (Mark A. Chancey, 2003)",
+   "schema:url": {
+    "@id": "https://bibleinterp.arizona.edu/articles/Myth_Gentile_Galilee"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Bible and Interpretation, University of Arizona",
+   "dcterms:title": "Excavating Jesus (Jonathan L. Reed, 2003)",
+   "schema:url": {
+    "@id": "https://bibleinterp.arizona.edu/articles/excavating_Jesus"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDA Church Bible",
+   "dcterms:title": "Mark 1 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/mark/1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/7.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "John 1:46 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/john/1-46.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 14:70 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/14-70"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 28 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/28.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "2 Kings 15:29 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/2-kings/15-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/galilee/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Joshua 20:7 (parallel translations, including the World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/joshua/20-7.htm"
    }
   },
   {

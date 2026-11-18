@@ -139,6 +139,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Joshua 1:8** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Joshua 15:63** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **Joshua 20:7** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Joshua 24:14-27** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 
 ## 1 Samuel
@@ -158,10 +159,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Kings 8:10-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 8:27-30** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **1 Kings 9:11** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **1 Kings 12:16-20** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 
 ## 2 Kings
 
+- **2 Kings 15:29** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **2 Kings 17:5-18** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Kings 22:8-13** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
@@ -249,6 +252,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Isaiah 2:2-4** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Isaiah 5:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
+- **Isaiah 9:1-2** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Isaiah 12:2** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 40:3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
@@ -344,6 +348,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 3:7** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 4:1-11** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 4:1-11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Matthew 4:12-25** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -380,6 +385,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 27:43** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Matthew 27:45-46** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Matthew 27:46** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Matthew 28:7-20** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Matthew 28:18-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 
 ## Mark
@@ -387,6 +393,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 1:1-3** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:1-3** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Mark 1:2-3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Mark 1:9-39** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Mark 1:11** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:14-15** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -419,6 +426,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 13:9-13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Mark 14:51-52** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 14:70** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Mark 15:34** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 15:34** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
@@ -438,6 +446,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:72-73** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:19** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
+- **Luke 3:1** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Luke 3:38** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-19** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -489,9 +498,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **John 1:40-44** — [Peter](../articles/new-testament-people/peter.md) (Person)
+- **John 1:46** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **John 2:18-22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **John 3:1-2** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **John 7:41-52** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -523,6 +534,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:26-27** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 9:31** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Acts 10** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 11:19-30** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)

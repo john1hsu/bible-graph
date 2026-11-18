@@ -9,7 +9,7 @@ summary: >-
 level: introductory
 basis: varies-by-tradition
 broader: [bg:apostles]
-related: [bg:paul, bg:barnabas, bg:acts-of-the-apostles, bg:gospel-of-mark, bg:gospel-of-matthew, bg:john-mark, bg:council-of-jerusalem, bg:pentecost, bg:jesus, bg:catholic-church, bg:eastern-orthodoxy, bg:lutheranism]
+related: [bg:paul, bg:barnabas, bg:acts-of-the-apostles, bg:gospel-of-mark, bg:gospel-of-matthew, bg:john-mark, bg:council-of-jerusalem, bg:pentecost, bg:jesus, bg:catholic-church, bg:eastern-orthodoxy, bg:lutheranism, bg:galilee]
 requires: [bg:gospels]
 relations:
   - {predicate: memberOf, object: bg:apostles, source: s14, confidence: high}

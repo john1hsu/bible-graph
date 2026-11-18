@@ -786,6 +786,26 @@
 <https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s18> .
 <https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s19> .
 <https://github.com/john1hsu/bible-graph/id/moses#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/moses/s20> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/places-and-geography/galilee.md" .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> .
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/places-and-geography/jerusalem.md" .
@@ -5953,6 +5973,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gospel of Mark" .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-mark> .
@@ -6656,6 +6677,7 @@
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
@@ -8206,6 +8228,187 @@
   <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
   <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/deut/18> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/galilee#graph> {
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What happened to Galilee in 2 Kings 15:29, and how does Isaiah 9:1-2 answer that memory of loss?" .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Matthew 4:12-16, why did Jesus settle in Capernaum, and which prophecy does Matthew see fulfilled there?" .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Mark 1:14-20, what is the first thing Jesus does in Galilee, and whom does he call beside the lake?" .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "John 1:46 and John 7:52 show people doubting that anything good could come from Galilee. Why might God have chosen such an unlikely place, and where do you see him working in \"unlikely\" places today?" .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "After the resurrection, the risen Jesus sends his disciples back to Galilee (Matthew 28:7-10, 16). What might it mean that the mission to \"all nations\" began from the place where they first met him?" .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2000/01/rdf-schema#label> "Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Galil" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Galilaia" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Galilee of the Gentiles" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Galilee of the nations" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Lower Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "Upper Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#altLabel> "ha-Galil" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#definition> "The hilly, fertile northern region of the land of Israel, around the lake known as the Sea of Galilee, where Jesus grew up in Nazareth, made Capernaum his base, called his first disciples and carried out most of his public ministry." .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/great-commission> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/synagogue> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/the-jewish-war> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#domain> "places-and-geography" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/places-and-geography/galilee.md" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 9:11" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 15:29" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 9:31" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 9:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:46" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 7:41-52" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 20:7" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 3:1" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 14:70" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:9-39" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 28:7-20" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:12-25" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <http://purl.org/dc/terms/title> "1 Kings 9:11 (parallel translations, including the World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s10> <https://schema.org/url> <https://biblehub.com/parallel/1_kings/9-11.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <http://purl.org/dc/terms/title> "Luke 3:1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s11> <https://schema.org/url> <https://www.christianity.com/bible/web/luke/3-1> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <http://purl.org/dc/terms/title> "Acts 9:31 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s12> <https://schema.org/url> <https://www.biblestudytools.com/web/acts/9-31.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <http://purl.org/dc/terms/title> "Galilee (Emil G. Hirsch, Frants Buhl and Solomon Schechter)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s13> <https://schema.org/url> <https://jewishencyclopedia.com/articles/6475-galilee> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <http://purl.org/dc/terms/publisher> "Encyclopedia of the Bible, Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <http://purl.org/dc/terms/title> "Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s14> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Galilee> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <http://purl.org/dc/terms/title> "The Wars of the Jews, Book III (Flavius Josephus, trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s15> <https://schema.org/url> <https://www.ccel.org/j/josephus/works/war-3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation, University of Arizona" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <http://purl.org/dc/terms/title> "The Myth of a Gentile Galilee (Mark A. Chancey, 2003)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s16> <https://schema.org/url> <https://bibleinterp.arizona.edu/articles/Myth_Gentile_Galilee> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation, University of Arizona" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <http://purl.org/dc/terms/title> "Excavating Jesus (Jonathan L. Reed, 2003)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s17> <https://schema.org/url> <https://bibleinterp.arizona.edu/articles/excavating_Jesus> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <http://purl.org/dc/terms/publisher> "Open English Bible study edition (eBible.org texts)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <http://purl.org/dc/terms/title> "Isaiah 9 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s1> <https://schema.org/url> <https://openenglishbible.org/oeb/2020.2/study/content/texts/eng_web/IS9.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <http://purl.org/dc/terms/title> "Matthew 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s2> <https://schema.org/url> <https://biblehub.com/web/matthew/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s3> <https://schema.org/url> <https://miamisdb.org/bible/web+kjv/mark/1> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <http://purl.org/dc/terms/title> "John 7 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s4> <https://schema.org/url> <https://biblehub.com/web/john/7.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <http://purl.org/dc/terms/title> "John 1:46 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/john/1-46.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <http://purl.org/dc/terms/title> "Mark 14:70 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s6> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/14-70> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <http://purl.org/dc/terms/title> "Matthew 28 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s7> <https://schema.org/url> <https://biblehub.com/web/matthew/28.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <http://purl.org/dc/terms/title> "2 Kings 15:29 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s8> <https://schema.org/url> <https://www.christianity.com/bible/web/2-kings/15-29> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <http://purl.org/dc/terms/title> "Joshua 20:7 (parallel translations, including the World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/galilee/s9> <https://schema.org/url> <https://biblehub.com/parallel/joshua/20-7.htm> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/jerusalem#graph> {
@@ -9967,6 +10170,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#quotedIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
@@ -10133,6 +10337,13 @@
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
   <https://github.com/john1hsu/bible-graph/id/general-revelation> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/genesis/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/genesis/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10222,6 +10433,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
@@ -10282,6 +10494,7 @@
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/greco-roman-world> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
@@ -10381,10 +10594,12 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
@@ -10430,6 +10645,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
@@ -10443,7 +10659,9 @@
   <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/ladder-of-monks> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/land-of-israel> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10913,6 +11131,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -10922,6 +11141,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
@@ -10964,6 +11184,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
@@ -11012,6 +11233,7 @@
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prayer> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/tabernacle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/tanakh> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/old-testament> .
@@ -11082,6 +11304,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/the-exodus> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+  <https://github.com/john1hsu/bible-graph/id/the-jewish-war> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .

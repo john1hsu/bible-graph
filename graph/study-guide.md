@@ -582,6 +582,17 @@ Study questions:
 
 ## places-and-geography
 
+### [Galilee](../articles/places-and-geography/galilee.md) — Place
+
+Read: Joshua 20:7; 1 Kings 9:11; 2 Kings 15:29; Isaiah 9:1-2; Matthew 4:12-25; Matthew 28:7-20; Mark 1:9-39; Mark 14:70; Luke 3:1; John 1:46; John 7:41-52; Acts 9:31
+
+Study questions:
+- What happened to Galilee in 2 Kings 15:29, and how does Isaiah 9:1-2 answer that memory of loss?
+- According to Matthew 4:12-16, why did Jesus settle in Capernaum, and which prophecy does Matthew see fulfilled there?
+- In Mark 1:14-20, what is the first thing Jesus does in Galilee, and whom does he call beside the lake?
+- John 1:46 and John 7:52 show people doubting that anything good could come from Galilee. Why might God have chosen such an unlikely place, and where do you see him working in "unlikely" places today?
+- After the resurrection, the risen Jesus sends his disciples back to Galilee (Matthew 28:7-10, 16). What might it mean that the mission to "all nations" began from the place where they first met him?
+
 ### [Jerusalem](../articles/places-and-geography/jerusalem.md) — Place
 
 Read: Genesis 14:18-20; Genesis 22:2; Joshua 15:63; 2 Samuel 5:4-9; 2 Kings 20:20; 2 Chronicles 3:1; Psalm 76:2; Psalm 122; Isaiah 2:2-4; Luke 9:51; Luke 19:41-44; Acts 1:8; Galatians 4:25-26; Revelation 21:2; Revelation 21:22

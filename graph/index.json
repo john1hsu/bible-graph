@@ -1642,6 +1642,138 @@
   ]
  },
  {
+  "id": "bg:galilee",
+  "title": "Galilee",
+  "aliases": [
+   "ha-Galil",
+   "Galil",
+   "Galilaia",
+   "Galilee of the nations",
+   "Galilee of the Gentiles",
+   "Upper Galilee",
+   "Lower Galilee"
+  ],
+  "type": "Place",
+  "domain": "places-and-geography",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/places-and-geography/galilee.md",
+  "created": "2026-11-18",
+  "summary": "The hilly, fertile northern region of the land of Israel, around the lake known as the Sea of Galilee, where Jesus grew up in Nazareth, made Capernaum his base, called his first disciples and carried out most of his public ministry.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:land-of-israel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-isaiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:great-commission"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:synagogue"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:kingdom-of-god",
+    "source": "s3",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:the-jewish-war",
+    "source": "s15",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s17",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Joshua 20:7",
+   "1 Kings 9:11",
+   "2 Kings 15:29",
+   "Isaiah 9:1-2",
+   "Matthew 4:12-25",
+   "Matthew 28:7-20",
+   "Mark 1:9-39",
+   "Mark 14:70",
+   "Luke 3:1",
+   "John 1:46",
+   "John 7:41-52",
+   "Acts 9:31"
+  ],
+  "studyQuestions": [
+   "What happened to Galilee in 2 Kings 15:29, and how does Isaiah 9:1-2 answer that memory of loss?",
+   "According to Matthew 4:12-16, why did Jesus settle in Capernaum, and which prophecy does Matthew see fulfilled there?",
+   "In Mark 1:14-20, what is the first thing Jesus does in Galilee, and whom does he call beside the lake?",
+   "John 1:46 and John 7:52 show people doubting that anything good could come from Galilee. Why might God have chosen such an unlikely place, and where do you see him working in \"unlikely\" places today?",
+   "After the resurrection, the risen Jesus sends his disciples back to Galilee (Matthew 28:7-10, 16). What might it mean that the mission to \"all nations\" began from the place where they first met him?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://openenglishbible.org/oeb/2020.2/study/content/texts/eng_web/IS9.html",
+   "https://biblehub.com/web/matthew/4.htm",
+   "https://miamisdb.org/bible/web+kjv/mark/1",
+   "https://biblehub.com/web/john/7.htm",
+   "https://www.biblestudytools.com/web/john/1-46.html",
+   "https://www.christianity.com/bible/web/mark/14-70",
+   "https://biblehub.com/web/matthew/28.htm",
+   "https://www.christianity.com/bible/web/2-kings/15-29",
+   "https://biblehub.com/parallel/joshua/20-7.htm",
+   "https://biblehub.com/parallel/1_kings/9-11.htm",
+   "https://www.christianity.com/bible/web/luke/3-1",
+   "https://www.biblestudytools.com/web/acts/9-31.html",
+   "https://jewishencyclopedia.com/articles/6475-galilee",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Galilee",
+   "https://www.ccel.org/j/josephus/works/war-3.htm",
+   "https://bibleinterp.arizona.edu/articles/Myth_Gentile_Galilee",
+   "https://bibleinterp.arizona.edu/articles/excavating_Jesus"
+  ]
+ },
+ {
   "id": "bg:genesis",
   "title": "Genesis",
   "aliases": [
@@ -2223,6 +2355,10 @@
    {
     "predicate": "skos:related",
     "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
    },
    {
     "predicate": "bgo:partOf",
@@ -4874,6 +5010,10 @@
    {
     "predicate": "skos:related",
     "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
    },
    {
     "predicate": "bgo:requires",

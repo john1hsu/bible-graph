@@ -9,7 +9,7 @@ summary: >-
 level: introductory
 basis: debated
 broader: [bg:gospels]
-related: [bg:gospel-of-matthew, bg:gospel-of-luke, bg:peter, bg:john-mark, bg:kingdom-of-god, bg:shema, bg:sadducees-question-about-the-resurrection, bg:psalm-22, bg:crucifixion-of-jesus]
+related: [bg:gospel-of-matthew, bg:gospel-of-luke, bg:peter, bg:john-mark, bg:kingdom-of-god, bg:shema, bg:sadducees-question-about-the-resurrection, bg:psalm-22, bg:crucifixion-of-jesus, bg:galilee]
 requires: []
 relations:
   - {predicate: partOf, object: bg:gospels, source: s2, confidence: high}
