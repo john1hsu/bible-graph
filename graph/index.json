@@ -450,6 +450,123 @@
   ]
  },
  {
+  "id": "bg:antiquities-of-the-jews",
+  "title": "Antiquities of the Jews",
+  "aliases": [
+   "Jewish Antiquities",
+   "Antiquitates Judaicae",
+   "Ioudaike Archaiologia",
+   "Josephus's Antiquities"
+  ],
+  "type": "Work",
+  "domain": "manuscripts-translations-and-archaeology",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md",
+  "created": "2026-11-18",
+  "summary": "The twenty-book Greek history of the Jewish people from creation to the eve of the revolt against Rome in AD 66, completed by the Jewish historian Flavius Josephus around AD 93–94; it retells the biblical story for Greco-Roman readers and is the richest outside witness to the world of the New Testament, mentioning John the Baptist, James \"the brother of Jesus\", and (in a disputed passage) Jesus himself.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:josephus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jewish-war"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-the-baptist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sadducees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:annals-of-tacitus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:church-history-of-eusebius"
+   },
+   {
+    "predicate": "bgo:authoredBy",
+    "object": "bg:josephus",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:influencedBy",
+    "object": "bg:septuagint",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:jewish-war",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:textual-criticism",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Mark 6:3",
+   "Mark 6:17-29",
+   "Acts 12:20-23",
+   "Galatians 1:18-19"
+  ],
+  "studyQuestions": [
+   "Compare Mark 6:17-29 with Josephus's account of John the Baptist. What do they agree on, and what does each writer stress about why Herod Antipas killed John?",
+   "Read Acts 12:20-23 and then the summary of Josephus's account of Agrippa's death. Which details are shared, and what does Luke add about the reason for Herod's death?",
+   "In Galatians 1:19 Paul meets \"James, the Lord's brother\". How does Josephus's report of James's death help a reader picture the James of Acts and Galatians?",
+   "Why might it matter to Christians that a Jewish historian who did not follow Jesus nonetheless mentions John, James and Jesus? What are the limits of that kind of evidence?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/acts/12.htm",
+   "https://biblehub.com/web/mark/6.htm",
+   "https://www.bibliaparalela.com/web/galatians/1.htm",
+   "https://lexundria.com/j_aj/18.109-136/wst",
+   "https://lexundria.com/j_aj/18.116-18.119/wst",
+   "https://lexundria.com/j_aj/20.197-20.200/wst",
+   "https://lexundria.com/j_aj/19.343-19.351/wst",
+   "https://www.jewishencyclopedia.com/articles/8905-josephus-flavius",
+   "https://www.newadvent.org/cathen/08522a.htm",
+   "https://ccel.org/s/schaff/encyc06/htm/iii.lvii.cxxvi.htm",
+   "https://www.posenlibrary.com/node/9895",
+   "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-histories-of-flavius-josephus/",
+   "https://lexundria.com/j_aj/18.63-18.64/wst",
+   "https://bkv.unifr.ch/works/cpg-3495/versions/the-church-history-of-eusebius/divisions/13"
+  ]
+ },
+ {
   "id": "bg:babylonian-exile",
   "title": "Babylonian Exile",
   "aliases": [

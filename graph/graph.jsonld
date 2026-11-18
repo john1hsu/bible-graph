@@ -483,6 +483,127 @@
    ]
   },
   {
+   "@id": "bg:antiquities-of-the-jews",
+   "@type": "bgo:Work",
+   "bgo:authoredBy": {
+    "@id": "bg:josephus"
+   },
+   "bgo:basis": "debated",
+   "bgo:complements": {
+    "@id": "bg:jewish-war"
+   },
+   "bgo:domain": "manuscripts-translations-and-archaeology",
+   "bgo:file": "articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md",
+   "bgo:influencedBy": {
+    "@id": "bg:septuagint"
+   },
+   "bgo:keyReference": [
+    "Acts 12:20-23",
+    "Galatians 1:18-19",
+    "Mark 6:17-29",
+    "Mark 6:3"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:textual-criticism"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9"
+    }
+   ],
+   "rdfs:label": "Antiquities of the Jews",
+   "skos:altLabel": [
+    "Antiquitates Judaicae",
+    "Ioudaike Archaiologia",
+    "Jewish Antiquities",
+    "Josephus's Antiquities"
+   ],
+   "skos:broader": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "skos:definition": "The twenty-book Greek history of the Jewish people from creation to the eve of the revolt against Rome in AD 66, completed by the Jewish historian Flavius Josephus around AD 93–94; it retells the biblical story for Greco-Roman readers and is the richest outside witness to the world of the New Testament, mentioning John the Baptist, James \"the brother of Jesus\", and (in a disputed passage) Jesus himself.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology"
+   },
+   "skos:prefLabel": "Antiquities of the Jews",
+   "skos:related": [
+    {
+     "@id": "bg:annals-of-tacitus"
+    },
+    {
+     "@id": "bg:church-history-of-eusebius"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:jewish-war"
+    },
+    {
+     "@id": "bg:john-the-baptist"
+    },
+    {
+     "@id": "bg:josephus"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:sadducees"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:babylonian-exile",
    "@type": "bgo:Event",
    "bgo:basis": "debated",
@@ -9045,6 +9166,38 @@
    "rdfs:label": "Acts ends with Paul under guard in Rome yet preaching \"with all boldness, none forbidding him\" (28:31). Why might Luke end there rather than with Paul's trial, and what does that say about the ongoing story the church still lives in?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "rdfs:label": "Compare Mark 6:17-29 with Josephus's account of John the Baptist. What do they agree on, and what does each writer stress about why Herod Antipas killed John?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "rdfs:label": "Read Acts 12:20-23 and then the summary of Josephus's account of Agrippa's death. Which details are shared, and what does Luke add about the reason for Herod's death?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "rdfs:label": "In Galatians 1:19 Paul meets \"James, the Lord's brother\". How does Josephus's report of James's death help a reader picture the James of Acts and Galatians?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:antiquities-of-the-jews"
+   },
+   "rdfs:label": "Why might it matter to Christians that a Jewish historian who did not follow Jesus nonetheless mentions John, James and Jesus? What are the limits of that kind of evidence?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/babylonian-exile/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12700,6 +12853,202 @@
    "dcterms:title": "Colossians 4:14 (World English Bible and King James Version, parallel)",
    "schema:url": {
     "@id": "https://biblehub.com/parallel/colossians/4-14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Josephus, Flavius (New Schaff-Herzog Encyclopedia of Religious Knowledge, vol. 6)",
+   "schema:url": {
+    "@id": "https://ccel.org/s/schaff/encyc06/htm/iii.lvii.cxxvi.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Posen Library",
+   "dcterms:title": "Testimonium Flavianum of Josephus (Posen Library of Jewish Culture and Civilization, vol. 2, Yale University Press)",
+   "schema:url": {
+    "@id": "https://www.posenlibrary.com/node/9895"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "The Histories of Flavius Josephus (Marek Dospěl)",
+   "schema:url": {
+    "@id": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-histories-of-flavius-josephus/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bibliothek der Kirchenväter, University of Fribourg",
+   "dcterms:title": "Eusebius, Church History 1.11, \"Testimonies in Regard to John the Baptist and Christ\"",
+   "schema:url": {
+    "@id": "https://bkv.unifr.ch/works/cpg-3495/versions/the-church-history-of-eusebius/divisions/13"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.63–64 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.63-18.64/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/galatians/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.109–136 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.109-136/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.116–119 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/18.116-18.119/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 20.197–200 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/20.197-20.200/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 19.343–351 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/19.343-19.351/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Josephus, Flavius (Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/8905-josephus-flavius"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Flavius Josephus (Catholic Encyclopedia, Karl Hoeber, 1910)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/08522a.htm"
    }
   },
   {

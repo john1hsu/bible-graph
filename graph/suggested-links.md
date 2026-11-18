@@ -16,7 +16,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.51 | `bg:galilee` | `bg:gospels` | `bg:book-of-isaiah`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus`, `bg:kingdom-of-god` |
 | 2.49 | `bg:parable-of-the-good-samaritan` | `bg:shema` | `bg:great-commandment`, `bg:love`, `bg:loving-your-neighbor`, `bg:second-temple-judaism` |
 | 2.44 | `bg:calling-of-the-first-disciples` | `bg:money-and-generosity` | `bg:discipleship`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
-| 2.44 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:calling-of-the-first-disciples`, `bg:dead-sea-scrolls`, `bg:jerusalem` |
+| 2.43 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:calling-of-the-first-disciples`, `bg:dead-sea-scrolls`, `bg:jerusalem` |
 | 2.41 | `bg:binding-of-isaac` | `bg:grace` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:faith`, `bg:genesis`, `bg:justification` |
 | 2.39 | `bg:abrahamic-covenant` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant` |
 | 2.38 | `bg:gospels` | `bg:psalm-22` | `bg:crucifixion-of-jesus`, `bg:gospel-of-john`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |

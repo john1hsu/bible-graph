@@ -643,6 +643,23 @@
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s15> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s16> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s17> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md" .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> .
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md" .
@@ -7144,6 +7161,152 @@
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews#graph> {
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Mark 6:17-29 with Josephus's account of John the Baptist. What do they agree on, and what does each writer stress about why Herod Antipas killed John?" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Read Acts 12:20-23 and then the summary of Josephus's account of Agrippa's death. Which details are shared, and what does Luke add about the reason for Herod's death?" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Galatians 1:19 Paul meets \"James, the Lord's brother\". How does Josephus's report of James's death help a reader picture the James of Acts and Galatians?" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why might it matter to Christians that a Jewish historian who did not follow Jesus nonetheless mentions John, James and Jesus? What are the limits of that kind of evidence?" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2000/01/rdf-schema#label> "Antiquities of the Jews" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#altLabel> "Antiquitates Judaicae" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#altLabel> "Ioudaike Archaiologia" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#altLabel> "Jewish Antiquities" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#altLabel> "Josephus's Antiquities" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#definition> "The twenty-book Greek history of the Jewish people from creation to the eve of the revolt against Rome in AD 66, completed by the Jewish historian Flavius Josephus around AD 93–94; it retells the biblical story for Greco-Roman readers and is the richest outside witness to the world of the New Testament, mentioning John the Baptist, James \"the brother of Jesus\", and (in a disputed passage) Jesus himself." .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antiquities of the Jews" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/annals-of-tacitus> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jewish-war> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/josephus> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#authoredBy> <https://github.com/john1hsu/bible-graph/id/josephus> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/jewish-war> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#domain> "manuscripts-translations-and-archaeology" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#influencedBy> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 12:20-23" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 1:18-19" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 6:17-29" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 6:3" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <http://purl.org/dc/terms/title> "Josephus, Flavius (New Schaff-Herzog Encyclopedia of Religious Knowledge, vol. 6)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s10> <https://schema.org/url> <https://ccel.org/s/schaff/encyc06/htm/iii.lvii.cxxvi.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <http://purl.org/dc/terms/publisher> "The Posen Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <http://purl.org/dc/terms/title> "Testimonium Flavianum of Josephus (Posen Library of Jewish Culture and Civilization, vol. 2, Yale University Press)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s11> <https://schema.org/url> <https://www.posenlibrary.com/node/9895> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <http://purl.org/dc/terms/title> "The Histories of Flavius Josephus (Marek Dospěl)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s12> <https://schema.org/url> <https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/the-histories-of-flavius-josephus/> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <http://purl.org/dc/terms/publisher> "Bibliothek der Kirchenväter, University of Fribourg" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <http://purl.org/dc/terms/title> "Eusebius, Church History 1.11, \"Testimonies in Regard to John the Baptist and Christ\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s13> <https://schema.org/url> <https://bkv.unifr.ch/works/cpg-3495/versions/the-church-history-of-eusebius/divisions/13> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 18.63–64 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s14> <https://schema.org/url> <https://lexundria.com/j_aj/18.63-18.64/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <http://purl.org/dc/terms/title> "Acts 12 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s1> <https://schema.org/url> <https://biblehub.com/web/acts/12.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <http://purl.org/dc/terms/title> "Mark 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s2> <https://schema.org/url> <https://biblehub.com/web/mark/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <http://purl.org/dc/terms/title> "Galatians 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 18.109–136 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s4> <https://schema.org/url> <https://lexundria.com/j_aj/18.109-136/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 18.116–119 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s5> <https://schema.org/url> <https://lexundria.com/j_aj/18.116-18.119/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 20.197–200 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s6> <https://schema.org/url> <https://lexundria.com/j_aj/20.197-20.200/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <http://purl.org/dc/terms/publisher> "Lexundria" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <http://purl.org/dc/terms/title> "Josephus, Antiquities of the Jews 19.343–351 (trans. William Whiston)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s7> <https://schema.org/url> <https://lexundria.com/j_aj/19.343-19.351/wst> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <http://purl.org/dc/terms/title> "Josephus, Flavius (Jewish Encyclopedia, 1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s8> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/8905-josephus-flavius> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <http://purl.org/dc/terms/title> "Flavius Josephus (Catholic Encyclopedia, Karl Hoeber, 1910)" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <https://schema.org/url> <https://www.newadvent.org/cathen/08522a.htm> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls#graph> {
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Every book of the Hebrew Bible except one is represented among the scrolls. Which book is missing, and why might the absence of a book from a small, damaged collection prove very little?" .
@@ -12466,8 +12629,16 @@
   <https://github.com/john1hsu/bible-graph/id/andrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/andrew> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/andrew> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/annals-of-tacitus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/annals-of-tacitus> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/annals-of-tacitus> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
+  <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
@@ -12688,6 +12859,7 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
@@ -13156,6 +13328,7 @@
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
@@ -13164,6 +13337,8 @@
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jewish-war> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/jewish-war> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
@@ -13178,8 +13353,13 @@
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prophets> .
+  <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/joseph-son-of-jacob> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/genesis> .
+  <https://github.com/john1hsu/bible-graph/id/josephus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/josephus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
+  <https://github.com/john1hsu/bible-graph/id/josephus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/josephus> <https://github.com/john1hsu/bible-graph/ontology#authored> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
@@ -13187,6 +13367,7 @@
   <https://github.com/john1hsu/bible-graph/id/josiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sadducees> .
@@ -13621,6 +13802,7 @@
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/pharisees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
@@ -13758,6 +13940,7 @@
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/sadducees> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -13797,8 +13980,10 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sadducees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
@@ -13843,6 +14028,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
@@ -13851,6 +14037,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#influenced> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
@@ -14051,6 +14238,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .

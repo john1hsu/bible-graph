@@ -476,6 +476,16 @@ Study questions:
 
 ## manuscripts-translations-and-archaeology
 
+### [Antiquities of the Jews](../articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md) — Work
+
+Read: Mark 6:3; Mark 6:17-29; Acts 12:20-23; Galatians 1:18-19
+
+Study questions:
+- Compare Mark 6:17-29 with Josephus's account of John the Baptist. What do they agree on, and what does each writer stress about why Herod Antipas killed John?
+- Read Acts 12:20-23 and then the summary of Josephus's account of Agrippa's death. Which details are shared, and what does Luke add about the reason for Herod's death?
+- In Galatians 1:19 Paul meets "James, the Lord's brother". How does Josephus's report of James's death help a reader picture the James of Acts and Galatians?
+- Why might it matter to Christians that a Jewish historian who did not follow Jesus nonetheless mentions John, James and Jesus? What are the limits of that kind of evidence?
+
 ### [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) — Manuscript
 
 Read: Isaiah 40:3; Isaiah 40:8; Isaiah 53:11; Deuteronomy 32:8; 1 Samuel 10:27; Mark 1:2-3; Matthew 5:43-44
