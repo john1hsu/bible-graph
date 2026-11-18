@@ -1993,6 +1993,100 @@
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/great-commandment> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
 <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Deuteronomy 7:7-8, why did the Lord choose Israel and bring them out of Egypt? What does that order (love first, commandments after) tell you about the covenant?" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What is the sign of this covenant in Exodus 31:13-17, and what two things does keeping it remind Israel of?" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Leviticus 26 and Deuteronomy 28-30 set out blessings and curses. What does God promise in Leviticus 26:44-45 and Deuteronomy 30:6 even after the covenant has been broken?" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Deuteronomy 29:14-15 Moses says the covenant is made also with those \"not here with us this day\". How do Joshua 24 and 2 Kings 23 show later generations taking it up as their own?" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Jeremiah 31:32-33 says the new covenant will be \"not according to\" the one made at the Exodus. What exactly is new, and what stays the same? How does that shape the way you read the laws of Exodus and Leviticus?" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2000/01/rdf-schema#label> "Mosaic Covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "Old Law" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "Sinai covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "Sinaitic covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "covenant at Horeb" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "covenant of Moses" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "first covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#altLabel> "old covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#definition> "The covenant God made with Israel through Moses after the Exodus, sealed at Sinai (Exodus 19-24), renewed on the plains of Moab (Deuteronomy 29) and in later generations, binding the rescued people to the Lord with his law, the Sabbath as its sign, and blessings and curses; the prophets foresaw a new covenant, and Christian traditions differ on how its law applies to believers today." .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/themes-and-theology> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mosaic Covenant" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/josiah> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sabbath> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ten-commandments> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#domain> "themes-and-theology" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/themes-and-theology/mosaic-covenant.md" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#instanceOf> <https://github.com/john1hsu/bible-graph/id/covenant> .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Corinthians 3:6-16" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 23:1-3" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 29:1" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 29:10-15" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 30:1-20" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 7:6-9" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 19:3-8" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 24:3-8" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 31:12-18" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Galatians 3:17-25" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 8:6-13" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 31:31-34" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 24:14-27" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 26:3-15" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 26:40-45" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 5:17-18" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 9:4" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#level> "intermediate" .
+<https://github.com/john1hsu/bible-graph/id/mosaic-covenant> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Exodus 3:7-12, what has God seen and heard, what will he do, and how does he answer Moses' question \"Who am I\"?" .
 <https://github.com/john1hsu/bible-graph/id/moses/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -5549,6 +5643,144 @@
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/loving-your-neighbor/s9> <https://schema.org/url> <https://biblehub.com/web/1_john/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://purl.org/dc/terms/title> "Jeremiah 31 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s10> <https://schema.org/url> <https://bibliaparalela.com/web/jeremiah/31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <http://purl.org/dc/terms/title> "Matthew 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s11> <https://schema.org/url> <https://biblehub.com/web/matthew/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <http://purl.org/dc/terms/title> "Romans 9 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s12> <https://schema.org/url> <https://bibliaparalela.com/web/romans/9.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <http://purl.org/dc/terms/title> "2 Corinthians 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s13> <https://schema.org/url> <https://biblehub.com/web/2_corinthians/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <http://purl.org/dc/terms/title> "Galatians 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s14> <https://schema.org/url> <https://www.bibliaparalela.com/web/galatians/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <http://purl.org/dc/terms/title> "Hebrews 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s15> <https://schema.org/url> <https://biblehub.com/web/hebrews/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <http://purl.org/dc/terms/publisher> "Lexham Press, via Biblia" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <http://purl.org/dc/terms/title> "Mosaic Covenant (The Lexham Bible Dictionary, 2016)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s16> <https://schema.org/url> <https://biblia.com/books/lbd/word/Mosaic_Covenant> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <http://purl.org/dc/terms/title> "Covenant (in the Old Testament) (Zondervan Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s17> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Covenant-Old-Testament> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Gale)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <http://purl.org/dc/terms/title> "Covenant (Encyclopaedia Judaica, Moshe Weinfeld)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s18> <https://schema.org/url> <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/covenant> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <http://purl.org/dc/terms/title> "Covenant (Jewish Encyclopedia, 1906; Kaufmann Kohler, Emil G. Hirsch et al.)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s19> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/4714> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <http://purl.org/dc/terms/title> "Exodus 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s1> <https://schema.org/url> <https://bibliaparalela.com/web/exodus/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 1961-1964, \"The Old Law\"" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s20> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/ii_the_old_law.html> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <http://purl.org/dc/terms/publisher> "Azbyka.ru" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <http://purl.org/dc/terms/title> "The Longer Catechism of the Orthodox, Catholic, Eastern Church (St Philaret of Moscow), questions 485-493" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s21> <https://schema.org/url> <https://azbyka.ru/otechnik/Filaret_Moskovskij/the-longer-catechism-of-the-orthodox-catholic-eastern-church/> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome, Article VI, \"The Third Use of God's Law\"" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s22> <https://schema.org/url> <https://bookofconcord.cph.org/en/formula-of-concord-epitome/vi_the_third_use_of_gods_law> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <http://purl.org/dc/terms/publisher> "Bible Presbyterian Church" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, chapter 19, \"Of the Law of God\"" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s23> <https://schema.org/url> <https://bpc.org/wcf-ch-19> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <http://purl.org/dc/terms/title> "Exodus 24 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s2> <https://schema.org/url> <https://biblehub.com/web/exodus/24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <http://purl.org/dc/terms/title> "Exodus 31 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s3> <https://schema.org/url> <https://biblehub.com/web/exodus/31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <http://purl.org/dc/terms/title> "Leviticus 26 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s4> <https://schema.org/url> <https://www.bibliaparalela.com/web/leviticus/26.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <http://purl.org/dc/terms/title> "Deuteronomy 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s5> <https://schema.org/url> <https://www.bibliaparalela.com/web/deuteronomy/7.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <http://purl.org/dc/terms/title> "Deuteronomy 29 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s6> <https://schema.org/url> <https://www.bibliaparalela.com/web/deuteronomy/29.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <http://purl.org/dc/terms/title> "Deuteronomy 30 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s7> <https://schema.org/url> <https://biblehub.com/web/deuteronomy/30.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <http://purl.org/dc/terms/title> "Joshua 24 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s8> <https://schema.org/url> <https://biblehub.com/web/joshua/24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <http://purl.org/dc/terms/title> "2 Kings 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/mosaic-covenant/s9> <https://schema.org/url> <https://bibliaparalela.com/web/2_kings/23.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s10> <http://purl.org/dc/terms/title> "Deuteronomy 34 (World English Bible)" .

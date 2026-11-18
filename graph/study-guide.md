@@ -614,3 +614,14 @@ Study questions:
 - Psalm 145:13 calls God's Kingdom everlasting, yet Jesus teaches us to pray "Let your Kingdom come" (Matthew 6:10). How can both be true?
 - When you pray the Lord's Prayer, where in your own life, family or church do you most long to see God's will done "as in heaven, so on earth"?
 
+### [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) — Covenant
+
+Read: Exodus 19:3-8; Exodus 24:3-8; Exodus 31:12-18; Leviticus 26:3-15; Leviticus 26:40-45; Deuteronomy 7:6-9; Deuteronomy 29:1; Deuteronomy 29:10-15; Deuteronomy 30:1-20; Joshua 24:14-27; 2 Kings 23:1-3; Jeremiah 31:31-34; Matthew 5:17-18; Romans 9:4; 2 Corinthians 3:6-16; Galatians 3:17-25; Hebrews 8:6-13
+
+Study questions:
+- According to Deuteronomy 7:7-8, why did the Lord choose Israel and bring them out of Egypt? What does that order (love first, commandments after) tell you about the covenant?
+- What is the sign of this covenant in Exodus 31:13-17, and what two things does keeping it remind Israel of?
+- Leviticus 26 and Deuteronomy 28-30 set out blessings and curses. What does God promise in Leviticus 26:44-45 and Deuteronomy 30:6 even after the covenant has been broken?
+- In Deuteronomy 29:14-15 Moses says the covenant is made also with those "not here with us this day". How do Joshua 24 and 2 Kings 23 show later generations taking it up as their own?
+- Jeremiah 31:32-33 says the new covenant will be "not according to" the one made at the Exodus. What exactly is new, and what stays the same? How does that shape the way you read the laws of Exodus and Leviticus?
+

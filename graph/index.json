@@ -3427,6 +3427,175 @@
   ]
  },
  {
+  "id": "bg:mosaic-covenant",
+  "title": "Mosaic Covenant",
+  "aliases": [
+   "Sinai covenant",
+   "Sinaitic covenant",
+   "covenant at Horeb",
+   "covenant of Moses",
+   "old covenant",
+   "first covenant",
+   "Old Law"
+  ],
+  "type": "Covenant",
+  "domain": "themes-and-theology",
+  "level": "intermediate",
+  "basis": "varies-by-tradition",
+  "file": "articles/themes-and-theology/mosaic-covenant.md",
+  "created": "2026-11-18",
+  "summary": "The covenant God made with Israel through Moses after the Exodus, sealed at Sinai (Exodus 19-24), renewed on the plains of Moab (Deuteronomy 29) and in later generations, binding the rescued people to the Lord with his law, the Sabbath as its sign, and blessings and curses; the prophets foresaw a new covenant, and Christian traditions differ on how its law applies to believers today.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:ten-commandments"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abrahamic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:israelites"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sabbath"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:joshua-son-of-nun"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:josiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-jeremiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reformed-tradition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "bgo:instanceOf",
+    "object": "bg:covenant",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:new-covenant",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:ancient-near-eastern-treaties",
+    "source": "s18",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Exodus 19:3-8",
+   "Exodus 24:3-8",
+   "Exodus 31:12-18",
+   "Leviticus 26:3-15",
+   "Leviticus 26:40-45",
+   "Deuteronomy 7:6-9",
+   "Deuteronomy 29:1",
+   "Deuteronomy 29:10-15",
+   "Deuteronomy 30:1-20",
+   "Joshua 24:14-27",
+   "2 Kings 23:1-3",
+   "Jeremiah 31:31-34",
+   "Matthew 5:17-18",
+   "Romans 9:4",
+   "2 Corinthians 3:6-16",
+   "Galatians 3:17-25",
+   "Hebrews 8:6-13"
+  ],
+  "studyQuestions": [
+   "According to Deuteronomy 7:7-8, why did the Lord choose Israel and bring them out of Egypt? What does that order (love first, commandments after) tell you about the covenant?",
+   "What is the sign of this covenant in Exodus 31:13-17, and what two things does keeping it remind Israel of?",
+   "Leviticus 26 and Deuteronomy 28-30 set out blessings and curses. What does God promise in Leviticus 26:44-45 and Deuteronomy 30:6 even after the covenant has been broken?",
+   "In Deuteronomy 29:14-15 Moses says the covenant is made also with those \"not here with us this day\". How do Joshua 24 and 2 Kings 23 show later generations taking it up as their own?",
+   "Jeremiah 31:32-33 says the new covenant will be \"not according to\" the one made at the Exodus. What exactly is new, and what stays the same? How does that shape the way you read the laws of Exodus and Leviticus?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/exodus/19.htm",
+   "https://biblehub.com/web/exodus/24.htm",
+   "https://biblehub.com/web/exodus/31.htm",
+   "https://www.bibliaparalela.com/web/leviticus/26.htm",
+   "https://www.bibliaparalela.com/web/deuteronomy/7.htm",
+   "https://www.bibliaparalela.com/web/deuteronomy/29.htm",
+   "https://biblehub.com/web/deuteronomy/30.htm",
+   "https://biblehub.com/web/joshua/24.htm",
+   "https://bibliaparalela.com/web/2_kings/23.htm",
+   "https://bibliaparalela.com/web/jeremiah/31.htm",
+   "https://biblehub.com/web/matthew/5.htm",
+   "https://bibliaparalela.com/web/romans/9.htm",
+   "https://biblehub.com/web/2_corinthians/3.htm",
+   "https://www.bibliaparalela.com/web/galatians/3.htm",
+   "https://biblehub.com/web/hebrews/8.htm",
+   "https://biblia.com/books/lbd/word/Mosaic_Covenant",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Covenant-Old-Testament",
+   "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/covenant",
+   "https://www.jewishencyclopedia.com/articles/4714",
+   "https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_1/ii_the_old_law.html",
+   "https://azbyka.ru/otechnik/Filaret_Moskovskij/the-longer-catechism-of-the-orthodox-catholic-eastern-church/",
+   "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vi_the_third_use_of_gods_law",
+   "https://bpc.org/wcf-ch-19"
+  ]
+ },
+ {
   "id": "bg:moses",
   "title": "Moses",
   "aliases": [
