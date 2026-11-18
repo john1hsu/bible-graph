@@ -3187,6 +3187,131 @@
    ]
   },
   {
+   "@id": "bg:hebrew-poetry",
+   "@type": "bgo:Genre",
+   "bgo:basis": "debated",
+   "bgo:contrastsWith": {
+    "@id": "bg:biblical-narrative"
+   },
+   "bgo:domain": "interpretation",
+   "bgo:file": "articles/interpretation/hebrew-poetry.md",
+   "bgo:introducedBy": {
+    "@id": "bg:robert-lowth"
+   },
+   "bgo:introducedIn": {
+    "@id": "bg:lectures-on-the-sacred-poetry-of-the-hebrews"
+   },
+   "bgo:keyReference": [
+    "Amos 5:21-24",
+    "Lamentations 1",
+    "Luke 1:46-55",
+    "Proverbs 11:1-3",
+    "Psalm 1",
+    "Psalm 119",
+    "Psalm 19:1-4",
+    "Psalm 23:1-4"
+   ],
+   "bgo:level": "introductory",
+   "bgo:requires": {
+    "@id": "bg:genre-in-the-bible"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9"
+    }
+   ],
+   "rdfs:label": "Hebrew Poetry",
+   "skos:altLabel": [
+    "biblical poetry",
+    "old testament poetry",
+    "parallelism",
+    "parallelismus membrorum",
+    "poetic books",
+    "poetry of the bible",
+    "poetry of the hebrews"
+   ],
+   "skos:broader": {
+    "@id": "bg:old-testament"
+   },
+   "skos:definition": "The poetic writing of the Hebrew Bible (by one estimate about a third of the Bible, including Psalms, Proverbs, Job, Lamentations, the Song of Songs and much of the prophets), built from short paired lines that echo and develop each other, rich imagery and occasional patterns such as alphabetic acrostics.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Hebrew Poetry",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-job"
+    },
+    {
+     "@id": "bg:book-of-lamentations"
+    },
+    {
+     "@id": "bg:book-of-psalms"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:psalm-22"
+    },
+    {
+     "@id": "bg:reading-proverbs-as-promises"
+    },
+    {
+     "@id": "bg:song-of-the-sea"
+    },
+    {
+     "@id": "bg:suffering-and-lament"
+    },
+    {
+     "@id": "bg:wisdom-literature"
+    }
+   ]
+  },
+  {
    "@id": "bg:inductive-bible-study",
    "@type": "bgo:Practice",
    "bgo:addresses": [
@@ -9256,6 +9381,54 @@
     "@id": "bg:grace"
    },
    "rdfs:label": "Each Christian tradition says that salvation begins with God's grace. How might that shared conviction change the way you talk with Christians of another tradition?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "Read Psalm 1:1 slowly. What three verbs describe the person's movement, and what does the sequence suggest about how we drift into the company of scoffers?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "In Psalm 19:1-2, how does the second line of each verse repeat the first, and what does it add?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "Proverbs 11:1-3 sets up contrasts with \"but\". What two ways of life are being compared, and which one are you invited to choose?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "Psalm 23 pictures God as a shepherd. Which details of the image speak most to you, and what would be lost if the psalm simply said \"God takes care of me\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "Psalm 119 and Lamentations 1 are both arranged by the letters of the Hebrew alphabet. Why might a poet use such a pattern for a love of God's law and for grief over a fallen city?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:hebrew-poetry"
+   },
+   "rdfs:label": "How does Mary's song in Luke 1:46-55 continue the way Israel's psalms pray and praise?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1",
@@ -15982,6 +16155,202 @@
    "dcterms:title": "2 Corinthians 12:9-10 (World English Bible)",
    "schema:url": {
     "@id": "https://www.christianity.com/bible/web/2-corinthians/12-9-10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Psalm 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/psalms/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "International Standard Bible Encyclopedia",
+   "dcterms:title": "Poetry, Hebrew",
+   "schema:url": {
+    "@id": "https://www.internationalstandardbible.com/P/poetry-hebrew.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Saint Meinrad Archabbey / PALNI Open Press",
+   "dcterms:title": "Harry Hagan, Elements of Biblical Poetry, chapter 5: Parallel Lines: Similarity and Sequence",
+   "schema:url": {
+    "@id": "https://pressbooks.palni.org/elementsofbiblicalpoetry/?p=45"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Johns Hopkins University Press",
+   "dcterms:title": "James L. Kugel, The Idea of Biblical Poetry: Parallelism and Its History",
+   "schema:url": {
+    "@id": "https://www.press.jhu.edu/books/title/2659/idea-biblical-poetry"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Open Yale Courses",
+   "dcterms:title": "Christine Hayes, Introduction to the Old Testament, Lecture 21: Biblical Poetry: Psalms and Song of Songs",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "BibleProject",
+   "dcterms:title": "Poetry: How to Read Biblical Poetry",
+   "schema:url": {
+    "@id": "https://bibleproject.com/explore/video/art-biblical-poetry/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Proverbs 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/proverbs/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Psalm 119 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/PSA119.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Lamentations 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/lamentations/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Amos 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/amos/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906)",
+   "dcterms:title": "Parallelism in Hebrew Poetry",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/11902-parallelism-in-hebrew-poetry"
    }
   },
   {

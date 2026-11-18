@@ -228,8 +228,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Psalms
 
+- **Psalm 1** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Psalm 13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Psalm 19:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 22** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 22:1** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
 - **Psalm 22:1** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
@@ -239,6 +241,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 22:18** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
 - **Psalm 22:22-24** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 22:22-31** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Psalm 23:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
@@ -249,6 +252,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 118:14** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
+- **Psalm 119** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 119:11** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 122** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
@@ -259,6 +263,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Proverbs
 
 - **Proverbs 7:3** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
+- **Proverbs 11:1-3** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Proverbs 26:4-5** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 
 ## Isaiah
@@ -308,6 +313,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Lamentations
 
+- **Lamentations 1** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Lamentations 3:1-33** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 
 ## Ezekiel
@@ -332,6 +338,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Amos
 
+- **Amos 5:21-24** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 
 ## Micah
@@ -483,6 +490,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:1-4** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 1:46-55** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Luke 1:72-73** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Luke 2:1-7** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)

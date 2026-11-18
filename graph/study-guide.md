@@ -174,6 +174,18 @@ Study questions:
 - Revelation 1:1-4 calls the book a revelation, a prophecy and (by its greeting) a letter. How might each of these shape the way you read it?
 - Which part of the Bible do you find hardest to read, and could knowing more about its kind of writing help?
 
+### [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) — Genre
+
+Read: Psalm 1; Psalm 19:1-4; Proverbs 11:1-3; Psalm 23:1-4; Psalm 119; Lamentations 1; Amos 5:21-24; Luke 1:46-55
+
+Study questions:
+- Read Psalm 1:1 slowly. What three verbs describe the person's movement, and what does the sequence suggest about how we drift into the company of scoffers?
+- In Psalm 19:1-2, how does the second line of each verse repeat the first, and what does it add?
+- Proverbs 11:1-3 sets up contrasts with "but". What two ways of life are being compared, and which one are you invited to choose?
+- Psalm 23 pictures God as a shepherd. Which details of the image speak most to you, and what would be lost if the psalm simply said "God takes care of me"?
+- Psalm 119 and Lamentations 1 are both arranged by the letters of the Hebrew alphabet. Why might a poet use such a pattern for a love of God's law and for grief over a fallen city?
+- How does Mary's song in Luke 1:46-55 continue the way Israel's psalms pray and praise?
+
 ### [Reading in Context](../articles/interpretation/reading-in-context.md) — Method
 
 Read: Jeremiah 29:1-14; Philippians 4:10-14; Revelation 3:14-22; Nehemiah 8:8

@@ -3125,6 +3125,126 @@
   ]
  },
  {
+  "id": "bg:hebrew-poetry",
+  "title": "Hebrew Poetry",
+  "aliases": [
+   "biblical poetry",
+   "poetry of the bible",
+   "poetry of the hebrews",
+   "old testament poetry",
+   "poetic books",
+   "parallelism",
+   "parallelismus membrorum"
+  ],
+  "type": "Genre",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/interpretation/hebrew-poetry.md",
+  "created": "2026-11-18",
+  "summary": "The poetic writing of the Hebrew Bible (by one estimate about a third of the Bible, including Psalms, Proverbs, Job, Lamentations, the Song of Songs and much of the prophets), built from short paired lines that echo and develop each other, rich imagery and occasional patterns such as alphabetic acrostics.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-psalms"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:psalm-22"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:song-of-the-sea"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:suffering-and-lament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-lamentations"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-job"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-proverbs-as-promises"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:genre-in-the-bible"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:robert-lowth",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:lectures-on-the-sacred-poetry-of-the-hebrews",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:biblical-narrative",
+    "source": "s10",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 1",
+   "Psalm 19:1-4",
+   "Proverbs 11:1-3",
+   "Psalm 23:1-4",
+   "Psalm 119",
+   "Lamentations 1",
+   "Amos 5:21-24",
+   "Luke 1:46-55"
+  ],
+  "studyQuestions": [
+   "Read Psalm 1:1 slowly. What three verbs describe the person's movement, and what does the sequence suggest about how we drift into the company of scoffers?",
+   "In Psalm 19:1-2, how does the second line of each verse repeat the first, and what does it add?",
+   "Proverbs 11:1-3 sets up contrasts with \"but\". What two ways of life are being compared, and which one are you invited to choose?",
+   "Psalm 23 pictures God as a shepherd. Which details of the image speak most to you, and what would be lost if the psalm simply said \"God takes care of me\"?",
+   "Psalm 119 and Lamentations 1 are both arranged by the letters of the Hebrew alphabet. Why might a poet use such a pattern for a love of God's law and for grief over a fallen city?",
+   "How does Mary's song in Luke 1:46-55 continue the way Israel's psalms pray and praise?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/psalms/1.htm",
+   "https://biblehub.com/web/psalms/19.htm",
+   "https://www.bibliaparalela.com/web/proverbs/11.htm",
+   "https://biblehub.com/web/psalms/23.htm",
+   "https://ebible.org/eng-web/PSA119.htm",
+   "https://biblehub.com/web/lamentations/1.htm",
+   "https://www.bibliaparalela.com/web/amos/5.htm",
+   "https://biblehub.com/web/luke/1.htm",
+   "https://www.jewishencyclopedia.com/articles/11902-parallelism-in-hebrew-poetry",
+   "https://www.internationalstandardbible.com/P/poetry-hebrew.html",
+   "https://pressbooks.palni.org/elementsofbiblicalpoetry/?p=45",
+   "https://www.press.jhu.edu/books/title/2659/idea-biblical-poetry",
+   "https://oyc.yale.edu/religious-studies/rlst-145/lecture-21",
+   "https://bibleproject.com/explore/video/art-biblical-poetry/"
+  ]
+ },
+ {
   "id": "bg:inductive-bible-study",
   "title": "Inductive Bible Study",
   "aliases": [

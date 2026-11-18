@@ -1703,6 +1703,77 @@
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Titus 2:11-14" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Psalm 1:1 slowly. What three verbs describe the person's movement, and what does the sequence suggest about how we drift into the company of scoffers?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Psalm 19:1-2, how does the second line of each verse repeat the first, and what does it add?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Proverbs 11:1-3 sets up contrasts with \"but\". What two ways of life are being compared, and which one are you invited to choose?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 23 pictures God as a shepherd. Which details of the image speak most to you, and what would be lost if the psalm simply said \"God takes care of me\"?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Psalm 119 and Lamentations 1 are both arranged by the letters of the Hebrew alphabet. Why might a poet use such a pattern for a love of God's law and for grief over a fallen city?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "How does Mary's song in Luke 1:46-55 continue the way Israel's psalms pray and praise?" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2000/01/rdf-schema#label> "Hebrew Poetry" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical poetry" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "old testament poetry" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "parallelism" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "parallelismus membrorum" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "poetic books" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "poetry of the bible" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#altLabel> "poetry of the hebrews" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#definition> "The poetic writing of the Hebrew Bible (by one estimate about a third of the Bible, including Psalms, Proverbs, Job, Lamentations, the Song of Songs and much of the prophets), built from short paired lines that echo and develop each other, rich imagery and occasional patterns such as alphabetic acrostics." .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/interpretation> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hebrew Poetry" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-job> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-psalms> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/wisdom-literature> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/biblical-narrative> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#domain> "interpretation" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/interpretation/hebrew-poetry.md" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/robert-lowth> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#introducedIn> <https://github.com/john1hsu/bible-graph/id/lectures-on-the-sacred-poetry-of-the-hebrews> .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Amos 5:21-24" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Lamentations 1" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 1:46-55" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Proverbs 11:1-3" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 1" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 119" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 19:1-4" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 23:1-4" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 17:10-12, what did the Jews of Beroea do with Paul's message, and how often?" .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
@@ -6377,6 +6448,90 @@
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/2-corinthians/12-9-10> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/publisher> "International Standard Bible Encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/title> "Poetry, Hebrew" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <https://schema.org/url> <https://www.internationalstandardbible.com/P/poetry-hebrew.html> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <http://purl.org/dc/terms/publisher> "Saint Meinrad Archabbey / PALNI Open Press" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <http://purl.org/dc/terms/title> "Harry Hagan, Elements of Biblical Poetry, chapter 5: Parallel Lines: Similarity and Sequence" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s11> <https://schema.org/url> <https://pressbooks.palni.org/elementsofbiblicalpoetry/?p=45> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <http://purl.org/dc/terms/publisher> "Johns Hopkins University Press" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <http://purl.org/dc/terms/title> "James L. Kugel, The Idea of Biblical Poetry: Parallelism and Its History" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> <https://schema.org/url> <https://www.press.jhu.edu/books/title/2659/idea-biblical-poetry> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <http://purl.org/dc/terms/publisher> "Open Yale Courses" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <http://purl.org/dc/terms/title> "Christine Hayes, Introduction to the Old Testament, Lecture 21: Biblical Poetry: Psalms and Song of Songs" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> <https://schema.org/url> <https://oyc.yale.edu/religious-studies/rlst-145/lecture-21> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <http://purl.org/dc/terms/publisher> "BibleProject" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <http://purl.org/dc/terms/title> "Poetry: How to Read Biblical Poetry" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> <https://schema.org/url> <https://bibleproject.com/explore/video/art-biblical-poetry/> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <http://purl.org/dc/terms/title> "Psalm 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s1> <https://schema.org/url> <https://bibliaparalela.com/web/psalms/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <http://purl.org/dc/terms/title> "Psalm 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s2> <https://schema.org/url> <https://biblehub.com/web/psalms/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <http://purl.org/dc/terms/title> "Proverbs 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s3> <https://schema.org/url> <https://www.bibliaparalela.com/web/proverbs/11.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <http://purl.org/dc/terms/title> "Psalm 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s4> <https://schema.org/url> <https://biblehub.com/web/psalms/23.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <http://purl.org/dc/terms/title> "Psalm 119 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s5> <https://schema.org/url> <https://ebible.org/eng-web/PSA119.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <http://purl.org/dc/terms/title> "Lamentations 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s6> <https://schema.org/url> <https://biblehub.com/web/lamentations/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <http://purl.org/dc/terms/title> "Amos 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s7> <https://schema.org/url> <https://www.bibliaparalela.com/web/amos/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <http://purl.org/dc/terms/title> "Luke 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s8> <https://schema.org/url> <https://biblehub.com/web/luke/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <http://purl.org/dc/terms/title> "Parallelism in Hebrew Poetry" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/11902-parallelism-in-hebrew-poetry> .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/publisher> "DTS Voice, Dallas Theological Seminary" .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s10> <http://purl.org/dc/terms/title> "Living by the Book, Part 2 (Howard G. Hendricks)" .
