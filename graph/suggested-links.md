@@ -5,27 +5,27 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
 | 3.35 | `bg:gospels` | `bg:psalm-22` | `bg:crucifixion-of-jesus`, `bg:gospel-of-john`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
-| 2.84 | `bg:mosaic-covenant` | `bg:peter` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:lutheranism`, `bg:paul` |
+| 2.80 | `bg:mosaic-covenant` | `bg:peter` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:lutheranism`, `bg:paul` |
 | 2.78 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer`, `bg:loving-your-neighbor` |
-| 2.62 | `bg:abrahamic-covenant` | `bg:the-story-of-the-bible` | `bg:abraham`, `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:genesis`, `bg:grace` |
-| 2.52 | `bg:parable-of-the-good-samaritan` | `bg:shema` | `bg:great-commandment`, `bg:love`, `bg:loving-your-neighbor`, `bg:second-temple-judaism` |
+| 2.57 | `bg:abrahamic-covenant` | `bg:the-story-of-the-bible` | `bg:abraham`, `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:genesis`, `bg:grace` |
 | 2.52 | `bg:galilee` | `bg:gospels` | `bg:book-of-isaiah`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus`, `bg:kingdom-of-god` |
+| 2.52 | `bg:parable-of-the-good-samaritan` | `bg:shema` | `bg:great-commandment`, `bg:love`, `bg:loving-your-neighbor`, `bg:second-temple-judaism` |
 | 2.41 | `bg:binding-of-isaac` | `bg:grace` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:faith`, `bg:genesis`, `bg:justification` |
 | 2.39 | `bg:abrahamic-covenant` | `bg:moses` | `bg:abraham`, `bg:faith`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant` |
-| 2.38 | `bg:mosaic-covenant` | `bg:scripture-interprets-scripture` | `bg:catholic-church`, `bg:lutheranism`, `bg:reformed-tradition` |
 | 2.36 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 2.33 | `bg:mosaic-covenant` | `bg:scripture-interprets-scripture` | `bg:catholic-church`, `bg:lutheranism`, `bg:reformed-tradition` |
 | 2.33 | `bg:abrahamic-covenant` | `bg:giving-of-the-law-at-sinai` | `bg:ancient-near-eastern-treaties`, `bg:israelites`, `bg:mosaic-covenant`, `bg:new-covenant`, `bg:the-exodus` |
-| 2.27 | `bg:mosaic-covenant` | `bg:the-story-of-the-bible` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:giving-of-the-law-at-sinai`, `bg:grace`, `bg:the-exodus` |
 | 2.27 | `bg:kingdom-of-god` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
 | 2.26 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:psalm-22`, `bg:suffering-and-lament` |
 | 2.26 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:gospels` |
 | 2.24 | `bg:loving-your-neighbor` | `bg:parables-of-jesus` | `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:grace`, `bg:kingdom-of-god`, `bg:parable-of-the-good-samaritan` |
+| 2.23 | `bg:mosaic-covenant` | `bg:the-story-of-the-bible` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:giving-of-the-law-at-sinai`, `bg:grace`, `bg:the-exodus` |
 | 2.15 | `bg:abrahamic-covenant` | `bg:deuteronomy` | `bg:ancient-near-eastern-treaties`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant`, `bg:the-exodus` |
 | 2.14 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:jerusalem`, `bg:septuagint` |
+| 2.09 | `bg:scripture-interprets-scripture` | `bg:scripture-memorization` | `bg:catholic-church`, `bg:inductive-bible-study`, `bg:proof-texting`, `bg:reading-in-context` |
 | 2.08 | `bg:genesis` | `bg:israelites` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:deuteronomy`, `bg:moses`, `bg:old-testament` |
-| 2.07 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |
 | 2.03 | `bg:galilee` | `bg:gospel-of-luke` | `bg:book-of-isaiah`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jerusalem`, `bg:kingdom-of-god` |
+| 1.99 | `bg:lectio-divina` | `bg:scripture-interprets-scripture` | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:inductive-bible-study`, `bg:reading-in-context` |
 | 1.97 | `bg:paul-at-the-areopagus` | `bg:sadducees` | `bg:acts-of-the-apostles`, `bg:resurrection-of-the-dead`, `bg:sadducees-question-about-the-resurrection`, `bg:second-temple-judaism` |
 | 1.96 | `bg:old-testament` | `bg:second-temple-judaism` | `bg:book-of-ezra`, `bg:dead-sea-scrolls`, `bg:israelites`, `bg:masoretic-text`, `bg:septuagint` |
-| 1.93 | `bg:abrahamic-covenant` | `bg:peter` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:paul` |
 | 1.93 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:galilee`, `bg:kingdom-of-god`, `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan`, `bg:pharisees` |

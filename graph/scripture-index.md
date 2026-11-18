@@ -112,6 +112,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 6:4-5** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Deuteronomy 6:4-9** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 6:4-9** — [The Shema](../articles/key-passages/shema.md) (Passage)
+- **Deuteronomy 6:6-9** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Deuteronomy 6:10-12** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 6:20-25** — [The Shema](../articles/key-passages/shema.md) (Passage)
@@ -121,6 +122,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 10:17-19** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Deuteronomy 11:13-21** — [The Shema](../articles/key-passages/shema.md) (Passage)
+- **Deuteronomy 11:18** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Deuteronomy 12:5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -241,6 +243,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 103:8-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Psalm 107:23-30** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 118:14** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
+- **Psalm 119:11** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Psalm 122** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
@@ -249,6 +252,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Proverbs
 
+- **Proverbs 7:3** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Proverbs 26:4-5** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 
 ## Isaiah
@@ -351,6 +355,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 3:7** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Matthew 4:1-11** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 4:1-11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
+- **Matthew 4:1-11** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Matthew 4:12-25** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -511,6 +516,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 7:41-52** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **John 14:26** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **John 19:16-42** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
 - **John 19:23-24** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
@@ -662,6 +668,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Colossians
 
 - **Colossians 3:12-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Colossians 3:16** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Colossians 4:10** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)

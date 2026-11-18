@@ -5987,6 +5987,121 @@
   ]
  },
  {
+  "id": "bg:scripture-memorization",
+  "title": "Scripture Memorization",
+  "aliases": [
+   "Bible memorization",
+   "memorizing Scripture",
+   "Scripture memory",
+   "Bible memory",
+   "learning Scripture by heart",
+   "hiding God's word in your heart"
+  ],
+  "type": "Practice",
+  "domain": "study-practices",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/study-practices/scripture-memorization.md",
+  "created": "2026-11-18",
+  "summary": "The practice of learning passages of the Bible by heart, through repetition, recitation and regular review, so that Scripture is carried in the mind and heart for prayer, meditation, worship, teaching and resisting temptation.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:spiritual-disciplines"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lectio-divina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inductive-bible-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:addresses",
+    "object": "bg:proof-texting",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:supportedBy",
+    "object": "bg:shema",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:temptation",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 119:11",
+   "Deuteronomy 6:6-9",
+   "Deuteronomy 11:18",
+   "Proverbs 7:3",
+   "Colossians 3:16",
+   "Matthew 4:1-11",
+   "John 14:26"
+  ],
+  "studyQuestions": [
+   "According to Psalm 119:11, where does the psalmist keep God's word, and for what purpose?",
+   "In Deuteronomy 6:6-9 and 11:18, where are God's words to be kept, and in which everyday settings are they to be talked about?",
+   "In Matthew 4:1-11, how does Jesus answer each temptation, and what does the devil's own use of Scripture show about the difference between knowing words and understanding them?",
+   "What does Colossians 3:16 suggest about memorizing Scripture together as a church rather than only alone?",
+   "What passage would you most like to carry with you in a hard season, and how could your small group help you learn it?"
+  ],
+  "steps": [
+   "Choose a passage that is a whole unit, such as a psalm, a parable or a paragraph of a letter, and read it in its chapter first so you know what it means.",
+   "Learn a small portion at a time, a verse or a sentence, saying it aloud and repeating it until you can recite it without looking.",
+   "Add the next portion only when the earlier ones come easily, then recite the whole section from the beginning each day.",
+   "Review what you have already learned on a regular schedule, daily at first and then less often, so that it moves into long-term memory.",
+   "Pray the words back to God and ask how they shape what you believe and do, so that memorizing leads to meditation and obedience.",
+   "Learn with others, for example by reciting a passage together in a small group or with your family."
+  ],
+  "example": {
+   "situation": "A new believer wants to start memorizing Scripture and plans to work through a box of single \"promise\" verses printed on cards.",
+   "before": "I'll learn fifty unrelated verses this year and quote whichever one fits my mood that day.",
+   "after": "I'll learn Colossians 3 a few verses at a time, recite it aloud each day, review what I've learned, and ask what each part means in Paul's letter.",
+   "why": "Learning a passage within its setting, with daily review and understanding, guards against treating verses as detached slogans or formulas repeated without being understood."
+  },
+  "source_urls": [
+   "https://biblehub.com/parallel/psalms/119-11.htm",
+   "https://miamisdb.org/bible/web+bbe/deut/6",
+   "https://www.christianity.com/bible/web/deuteronomy/11-18",
+   "https://biblehub.com/parallel/proverbs/7-3.htm",
+   "https://www.christianity.com/bible/web/colossians/3-16",
+   "https://www.christianity.com/bible/kjv/matthew/4-1-11",
+   "https://biblehub.com/kjv/john/14-26.htm",
+   "https://bkv.unifr.ch/works/cpl-263-1/versions/contents-of-christian-doctrine/divisions/55",
+   "https://www.gospelstudies.org.uk/biblicalstudies/pdf/midwestern-journal-theology/03-1_069.pdf",
+   "https://cojs.org/mishnah_avot_5-21-_stages_of_life/",
+   "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html",
+   "https://www.navigators.org/?p=71471"
+  ]
+ },
+ {
   "id": "bg:second-temple-judaism",
   "title": "Second Temple Judaism",
   "aliases": [

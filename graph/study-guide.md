@@ -680,6 +680,32 @@ Study questions:
 - In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?
 - Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?
 
+### [Scripture Memorization](../articles/study-practices/scripture-memorization.md) — Practice
+
+Read: Psalm 119:11; Deuteronomy 6:6-9; Deuteronomy 11:18; Proverbs 7:3; Colossians 3:16; Matthew 4:1-11; John 14:26
+
+1. Choose a passage that is a whole unit, such as a psalm, a parable or a paragraph of a letter, and read it in its chapter first so you know what it means.
+2. Learn a small portion at a time, a verse or a sentence, saying it aloud and repeating it until you can recite it without looking.
+3. Add the next portion only when the earlier ones come easily, then recite the whole section from the beginning each day.
+4. Review what you have already learned on a regular schedule, daily at first and then less often, so that it moves into long-term memory.
+5. Pray the words back to God and ask how they shape what you believe and do, so that memorizing leads to meditation and obedience.
+6. Learn with others, for example by reciting a passage together in a small group or with your family.
+
+*A new believer wants to start memorizing Scripture and plans to work through a box of single "promise" verses printed on cards.*
+
+| Before | After |
+|---|---|
+| I'll learn fifty unrelated verses this year and quote whichever one fits my mood that day. | I'll learn Colossians 3 a few verses at a time, recite it aloud each day, review what I've learned, and ask what each part means in Paul's letter. |
+
+**Why:** Learning a passage within its setting, with daily review and understanding, guards against treating verses as detached slogans or formulas repeated without being understood.
+
+Study questions:
+- According to Psalm 119:11, where does the psalmist keep God's word, and for what purpose?
+- In Deuteronomy 6:6-9 and 11:18, where are God's words to be kept, and in which everyday settings are they to be talked about?
+- In Matthew 4:1-11, how does Jesus answer each temptation, and what does the devil's own use of Scripture show about the difference between knowing words and understanding them?
+- What does Colossians 3:16 suggest about memorizing Scripture together as a church rather than only alone?
+- What passage would you most like to carry with you in a hard season, and how could your small group help you learn it?
+
 ## themes-and-theology
 
 ### [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) — Covenant

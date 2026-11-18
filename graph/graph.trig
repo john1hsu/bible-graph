@@ -903,6 +903,21 @@
 <https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s13> .
 <https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s14> .
 <https://github.com/john1hsu/bible-graph/id/lectio-divina#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s15> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/study-practices/scripture-memorization.md" .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> .
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> .
 <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
 <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/themes-and-theology/abrahamic-covenant.md" .
@@ -9366,6 +9381,174 @@
   <https://github.com/john1hsu/bible-graph/id/source/lectio-divina/s9> <https://schema.org/url> <https://digitalcommons.csbsju.edu/sot_pubs/129> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/scripture-memorization#graph> {
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Psalm 119:11, where does the psalmist keep God's word, and for what purpose?" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Deuteronomy 6:6-9 and 11:18, where are God's words to be kept, and in which everyday settings are they to be talked about?" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 4:1-11, how does Jesus answer each temptation, and what does the devil's own use of Scripture show about the difference between knowing words and understanding them?" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What does Colossians 3:16 suggest about memorizing Scripture together as a church rather than only alone?" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "What passage would you most like to carry with you in a hard season, and how could your small group help you learn it?" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Rewrite> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <https://github.com/john1hsu/bible-graph/ontology#after> "I'll learn Colossians 3 a few verses at a time, recite it aloud each day, review what I've learned, and ask what each part means in Paul's letter." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <https://github.com/john1hsu/bible-graph/ontology#before> "I'll learn fifty unrelated verses this year and quote whichever one fits my mood that day." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <https://github.com/john1hsu/bible-graph/ontology#situation> "A new believer wants to start memorizing Scripture and plans to work through a box of single \"promise\" verses printed on cards." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <https://github.com/john1hsu/bible-graph/ontology#why> "Learning a passage within its setting, with daily review and understanding, guards against treating verses as detached slogans or formulas repeated without being understood." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/1> <https://schema.org/text> "Choose a passage that is a whole unit, such as a psalm, a parable or a paragraph of a letter, and read it in its chapter first so you know what it means." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/2> <https://schema.org/text> "Learn a small portion at a time, a verse or a sentence, saying it aloud and repeating it until you can recite it without looking." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/3> <https://schema.org/text> "Add the next portion only when the earlier ones come easily, then recite the whole section from the beginning each day." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/4> <https://schema.org/text> "Review what you have already learned on a regular schedule, daily at first and then less often, so that it moves into long-term memory." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/5> <https://schema.org/text> "Pray the words back to God and ask how they shape what you believe and do, so that memorizing leads to meditation and obedience." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/6> <https://schema.org/text> "Learn with others, for example by reciting a passage together in a small group or with your family." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/name> "Scripture Memorization" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/1> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/2> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/3> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/4> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/5> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto/6> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Practice> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2000/01/rdf-schema#label> "Scripture Memorization" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "Bible memorization" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "Bible memory" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "Scripture memory" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "hiding God's word in your heart" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "learning Scripture by heart" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#altLabel> "memorizing Scripture" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/spiritual-disciplines> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#definition> "The practice of learning passages of the Bible by heart, through repetition, recitation and regular review, so that Scripture is carried in the mind and heart for prayer, meditation, worship, teaching and resisting temptation." .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/study-practices> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scripture Memorization" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/proof-texting> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#domain> "study-practices" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#example> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/study-practices/scripture-memorization.md" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#howTo> <https://github.com/john1hsu/bible-graph/id/scripture-memorization/howto> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Colossians 3:16" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 11:18" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 6:6-9" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 14:26" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:1-11" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Proverbs 7:3" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 119:11" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/temptation> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/shema> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <http://purl.org/dc/terms/publisher> "Center for Online Judaic Studies" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <http://purl.org/dc/terms/title> "Mishnah Avot 5:21: Stages of Life (trans. Herbert Danby)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s10> <https://schema.org/url> <https://cojs.org/mishnah_avot_5-21-_stages_of_life/> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <http://purl.org/dc/terms/publisher> "The Holy See" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <http://purl.org/dc/terms/title> "John Paul II, Catechesi Tradendae (Apostolic Exhortation, 1979), no. 55: Memorization" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s11> <https://schema.org/url> <https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <http://purl.org/dc/terms/publisher> "The Navigators" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <http://purl.org/dc/terms/title> "The Art of Bible Memory (excerpted from Michael Frost and Graham Joseph Hill, Hide This in Your Heart, NavPress, 2020)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s12> <https://schema.org/url> <https://www.navigators.org/?p=71471> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <http://purl.org/dc/terms/title> "Psalm 119:11 (World English Bible and King James Version, parallel)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s1> <https://schema.org/url> <https://biblehub.com/parallel/psalms/119-11.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <http://purl.org/dc/terms/publisher> "Miami Seventh-day Baptist Church online Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <http://purl.org/dc/terms/title> "Deuteronomy 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s2> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/deut/6> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <http://purl.org/dc/terms/title> "Deuteronomy 11:18 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s3> <https://schema.org/url> <https://www.christianity.com/bible/web/deuteronomy/11-18> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <http://purl.org/dc/terms/title> "Proverbs 7:3 (World English Bible and King James Version, parallel)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s4> <https://schema.org/url> <https://biblehub.com/parallel/proverbs/7-3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <http://purl.org/dc/terms/title> "Colossians 3:16 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s5> <https://schema.org/url> <https://www.christianity.com/bible/web/colossians/3-16> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <http://purl.org/dc/terms/title> "Matthew 4:1-11 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s6> <https://schema.org/url> <https://www.christianity.com/bible/kjv/matthew/4-1-11> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <http://purl.org/dc/terms/title> "John 14:26 (King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s7> <https://schema.org/url> <https://biblehub.com/kjv/john/14-26.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <http://purl.org/dc/terms/publisher> "Bibliothek der Kirchenväter, University of Fribourg (English text from CCEL)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <http://purl.org/dc/terms/title> "Augustine, On Christian Doctrine, book II, chapter 9 (section 14): How we should proceed in studying Scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s8> <https://schema.org/url> <https://bkv.unifr.ch/works/cpl-263-1/versions/contents-of-christian-doctrine/divisions/55> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <http://purl.org/dc/terms/publisher> "Midwestern Journal of Theology 3/1 (2004), 69-95 (via BiblicalStudies.org.uk)" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <http://purl.org/dc/terms/title> "Radu Gheorghiță, Ad Fontes Purissimi: Is There a Place for Scripture Memorization in Biblical Studies?" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/scripture-memorization/s9> <https://schema.org/url> <https://www.gospelstudies.org.uk/biblicalstudies/pdf/midwestern-journal-theology/03-1_069.pdf> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant#graph> {
   <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What three things does God promise Abram in Genesis 12:1-3 and 12:7, and who, in the end, is meant to be blessed?" .
@@ -10421,6 +10604,7 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -10749,6 +10933,7 @@
   <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/inspiration-of-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/isaac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/isaac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
@@ -10912,6 +11097,7 @@
   <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prayer> .
+  <https://github.com/john1hsu/bible-graph/id/lectio-divina> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/leningrad-codex> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/levirate-marriage> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -11234,6 +11420,7 @@
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/proof-texting> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
@@ -11279,6 +11466,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/reading-in-context> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
@@ -11348,6 +11536,15 @@
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-memorization> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/spiritual-disciplines> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11378,6 +11575,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pharisees> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/sadducees> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11440,8 +11638,10 @@
   <https://github.com/john1hsu/bible-graph/id/shema> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/shema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/shema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/shema> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
   <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/shiloh> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/solomon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11453,6 +11653,8 @@
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/exodus> .
+  <https://github.com/john1hsu/bible-graph/id/spiritual-disciplines> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+  <https://github.com/john1hsu/bible-graph/id/spiritual-disciplines> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11467,6 +11669,10 @@
   <https://github.com/john1hsu/bible-graph/id/synagogue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/tabernacle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/tanakh> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/temptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/temptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/temptation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+  <https://github.com/john1hsu/bible-graph/id/temptation> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/ten-commandments> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
