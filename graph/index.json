@@ -7978,6 +7978,99 @@
   ]
  },
  {
+  "id": "bg:textual-criticism",
+  "title": "Textual Criticism",
+  "aliases": [
+   "biblical textual criticism",
+   "text criticism",
+   "lower criticism"
+  ],
+  "type": "Field",
+  "domain": "manuscripts-translations-and-archaeology",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/manuscripts-translations-and-archaeology/textual-criticism.md",
+  "created": "2026-11-18",
+  "summary": "The scholarly discipline that compares the surviving handwritten copies, ancient translations and early quotations of the Bible in order to recover, as nearly as possible, the earliest wording of its text, and that explains the \"some manuscripts\" footnotes in modern Bibles.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-criticism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:dead-sea-scrolls"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:codex-sinaiticus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:vulgate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:higher-criticism",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s11",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Mark 16:8-20",
+   "John 7:53–8:11",
+   "1 John 5:7",
+   "Deuteronomy 32:8",
+   "Jeremiah 36"
+  ],
+  "studyQuestions": [
+   "Read Jeremiah 36. What happened to the first scroll of Jeremiah's prophecies, and how were its words preserved?",
+   "Find a footnote in your Bible at Mark 16:8 or John 7:53. What does it say, and why do you think the translators kept the passage in the text while flagging it?",
+   "Compare Deuteronomy 32:8 in the King James Version with a translation that reads \"sons of God\". What ancient evidence lies behind each wording?",
+   "Does knowing that the Bible was copied by hand for centuries make you more or less confident in it? What in this article affects your answer?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.britannica.com/topic/textual-criticism",
+   "https://www.britannica.com/topic/biblical-literature/Texts-and-versions",
+   "https://www.newadvent.org/cathen/04497a.htm",
+   "https://uni-muenster.de/INTF/en/forschung/cbgm/index.html",
+   "https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/multivalence-of-the-term-original-text-in-new-testament-textual-criticism/F07B117F5314047B07F11BFF29209F1F",
+   "https://www.tyndalebulletin.org/article/27734-the-critical-edition-of-the-greek-ot-and-nt-stability-change-and-implications.pdf",
+   "https://tyndale.cam.ac.uk/research/the-greek-new-testament/text-edition-manuscript/",
+   "https://thegospelcoalition.org/article/was-mark-16-9-20-originally-mark-gospel",
+   "https://zondervanacademic.com/blog/do-modern-bibles-omit-the-trinity-1-john-57b-8a-mondays-with-mounce",
+   "https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/",
+   "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html",
+   "https://ebible.org/eng-web/MRK16.htm",
+   "https://ebible.org/eng-web/JHN08.htm",
+   "https://biblia.com/bible/john-7-53--8-11",
+   "https://www.biblegateway.com/verse/en/Deuteronomy%2032:8",
+   "https://www.biblegateway.com/verse/en/1%20John%205:7",
+   "https://saintebible.com/web/jeremiah/36.htm",
+   "https://confessionalbibliology.com/?p=2068"
+  ]
+ },
+ {
   "id": "bg:the-exodus",
   "title": "The Exodus",
   "aliases": [

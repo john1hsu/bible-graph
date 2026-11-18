@@ -140,6 +140,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 30:1-20** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Deuteronomy 30:11-20** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 32:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Deuteronomy 32:8** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **Deuteronomy 34:1-12** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 34:1-12** — [Moses](../articles/old-testament-people/moses.md) (Person)
 
@@ -310,6 +311,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Jeremiah 32:6-15** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 34:18** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Jeremiah 36** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
+- **Jeremiah 36** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **Jeremiah 43:1-7** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 52:28-30** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 
@@ -486,6 +488,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 15:39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 16:1-8** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 16:8-20** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **Mark 16:9-20** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 
 ## Luke
@@ -580,6 +583,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 5:1** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 6:4** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 7:41-52** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
+- **John 7:53–8:11** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **John 11:55** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
@@ -821,6 +825,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 1 John
 
 - **1 John 4:19-21** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
+- **1 John 5:7** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 
 ## Revelation
 

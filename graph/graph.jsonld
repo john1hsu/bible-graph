@@ -8229,6 +8229,121 @@
    ]
   },
   {
+   "@id": "bg:textual-criticism",
+   "@type": "bgo:Field",
+   "bgo:basis": "debated",
+   "bgo:contrastsWith": {
+    "@id": "bg:higher-criticism"
+   },
+   "bgo:domain": "manuscripts-translations-and-archaeology",
+   "bgo:file": "articles/manuscripts-translations-and-archaeology/textual-criticism.md",
+   "bgo:heldBy": {
+    "@id": "bg:catholic-church"
+   },
+   "bgo:keyReference": [
+    "1 John 5:7",
+    "Deuteronomy 32:8",
+    "Jeremiah 36",
+    "John 7:53–8:11",
+    "Mark 16:8-20"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9"
+    }
+   ],
+   "rdfs:label": "Textual Criticism",
+   "skos:altLabel": [
+    "biblical textual criticism",
+    "lower criticism",
+    "text criticism"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-criticism"
+   },
+   "skos:definition": "The scholarly discipline that compares the surviving handwritten copies, ancient translations and early quotations of the Bible in order to recover, as nearly as possible, the earliest wording of its text, and that explains the \"some manuscripts\" footnotes in modern Bibles.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology"
+   },
+   "skos:prefLabel": "Textual Criticism",
+   "skos:related": [
+    {
+     "@id": "bg:codex-sinaiticus"
+    },
+    {
+     "@id": "bg:dead-sea-scrolls"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:vulgate"
+    }
+   ]
+  },
+  {
    "@id": "bg:the-exodus",
    "@type": "bgo:Event",
    "bgo:basis": "debated",
@@ -24583,6 +24698,258 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Textual criticism",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/textual-criticism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society Library",
+   "dcterms:title": "Deuteronomy 32:8 (sidebar to \"Combine the Best from Each Tradition\")",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Divino Afflante Spiritu, encyclical of Pope Pius XII (1943)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Mark 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/MRK16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "John 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JHN08.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia (Faithlife)",
+   "dcterms:title": "John 7:53–8:11 (English Standard Version, with note)",
+   "schema:url": {
+    "@id": "https://biblia.com/bible/john-7-53--8-11"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Deuteronomy 32:8 (WEB, KJV, ASV, RSV, ESV and other versions)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/verse/en/Deuteronomy%2032:8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "1 John 5:7 (KJV, WEB and other versions)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/verse/en/1%20John%205:7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Sainte Bible",
+   "dcterms:title": "Jeremiah 36 (World English Bible)",
+   "schema:url": {
+    "@id": "https://saintebible.com/web/jeremiah/36.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Confessional Bibliology (Chris Thomas)",
+   "dcterms:title": "Scripture Alone, Preserved by Providence",
+   "schema:url": {
+    "@id": "https://confessionalbibliology.com/?p=2068"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Biblical literature: Texts and versions",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/biblical-literature/Texts-and-versions"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Biblical Criticism (Textual) (Catholic Encyclopedia, Ferdinand Prat)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/04497a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Institute for New Testament Textual Research (INTF), University of Münster",
+   "dcterms:title": "The Coherence-Based Genealogical Method",
+   "schema:url": {
+    "@id": "https://uni-muenster.de/INTF/en/forschung/cbgm/index.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Harvard Theological Review 92.3 (1999), Cambridge University Press",
+   "dcterms:title": "The Multivalence of the Term \"Original Text\" in New Testament Textual Criticism (Eldon Jay Epp)",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/multivalence-of-the-term-original-text-in-new-testament-textual-criticism/F07B117F5314047B07F11BFF29209F1F"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Tyndale Bulletin 71.1 (2020)",
+   "dcterms:title": "The Critical Editions of the Greek NT and OT: Stability, Change, and Implications (Gregory R. Lanier)",
+   "schema:url": {
+    "@id": "https://www.tyndalebulletin.org/article/27734-the-critical-edition-of-the-greek-ot-and-nt-stability-change-and-implications.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Tyndale House, Cambridge",
+   "dcterms:title": "The Text of the New Testament, of an Edition, and of a Manuscript (Dirk Jongkind)",
+   "schema:url": {
+    "@id": "https://tyndale.cam.ac.uk/research/the-greek-new-testament/text-edition-manuscript/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Gospel Coalition",
+   "dcterms:title": "Was Mark 16:9-20 Originally Part of Mark's Gospel? (Elijah Hixson)",
+   "schema:url": {
+    "@id": "https://thegospelcoalition.org/article/was-mark-16-9-20-originally-mark-gospel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Zondervan Academic",
+   "dcterms:title": "Do Modern Bibles Omit the Trinity? 1 John 5:7b-8a (Bill Mounce)",
+   "schema:url": {
+    "@id": "https://zondervanacademic.com/blog/do-modern-bibles-omit-the-trinity-1-john-57b-8a-mondays-with-mounce"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/the-exodus/s1",
    "@type": "bgo:Source",
    "bgo:sourceType": "scripture",
@@ -25321,6 +25688,38 @@
     "@id": "bg:suffering-and-lament"
    },
    "rdfs:label": "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/textual-criticism/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:textual-criticism"
+   },
+   "rdfs:label": "Read Jeremiah 36. What happened to the first scroll of Jeremiah's prophecies, and how were its words preserved?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/textual-criticism/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:textual-criticism"
+   },
+   "rdfs:label": "Find a footnote in your Bible at Mark 16:8 or John 7:53. What does it say, and why do you think the translators kept the passage in the text while flagging it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/textual-criticism/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:textual-criticism"
+   },
+   "rdfs:label": "Compare Deuteronomy 32:8 in the King James Version with a translation that reads \"sons of God\". What ancient evidence lies behind each wording?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/textual-criticism/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:textual-criticism"
+   },
+   "rdfs:label": "Does knowing that the Bible was copied by hand for centuries make you more or less confident in it? What in this article affects your answer?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/the-exodus/check/1",

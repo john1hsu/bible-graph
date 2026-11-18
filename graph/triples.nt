@@ -10050,6 +10050,114 @@
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/romans/8.html> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society Library" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <http://purl.org/dc/terms/title> "Deuteronomy 32:8 (sidebar to \"Combine the Best from Each Tradition\")" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> <https://schema.org/url> <https://library.biblicalarchaeology.org/sidebar/deuteronomy-328/> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <http://purl.org/dc/terms/title> "Divino Afflante Spiritu, encyclical of Pope Pius XII (1943)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> <https://schema.org/url> <https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <http://purl.org/dc/terms/title> "Mark 16 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> <https://schema.org/url> <https://ebible.org/eng-web/MRK16.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <http://purl.org/dc/terms/title> "John 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> <https://schema.org/url> <https://ebible.org/eng-web/JHN08.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <http://purl.org/dc/terms/publisher> "Biblia (Faithlife)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <http://purl.org/dc/terms/title> "John 7:53–8:11 (English Standard Version, with note)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> <https://schema.org/url> <https://biblia.com/bible/john-7-53--8-11> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <http://purl.org/dc/terms/title> "Deuteronomy 32:8 (WEB, KJV, ASV, RSV, ESV and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> <https://schema.org/url> <https://www.biblegateway.com/verse/en/Deuteronomy%2032:8> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <http://purl.org/dc/terms/title> "1 John 5:7 (KJV, WEB and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> <https://schema.org/url> <https://www.biblegateway.com/verse/en/1%20John%205:7> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <http://purl.org/dc/terms/publisher> "Sainte Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <http://purl.org/dc/terms/title> "Jeremiah 36 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> <https://schema.org/url> <https://saintebible.com/web/jeremiah/36.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <http://purl.org/dc/terms/publisher> "Confessional Bibliology (Chris Thomas)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <http://purl.org/dc/terms/title> "Scripture Alone, Preserved by Providence" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> <https://schema.org/url> <https://confessionalbibliology.com/?p=2068> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <http://purl.org/dc/terms/title> "Textual criticism" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> <https://schema.org/url> <https://www.britannica.com/topic/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <http://purl.org/dc/terms/title> "Biblical literature: Texts and versions" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> <https://schema.org/url> <https://www.britannica.com/topic/biblical-literature/Texts-and-versions> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <http://purl.org/dc/terms/title> "Biblical Criticism (Textual) (Catholic Encyclopedia, Ferdinand Prat)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> <https://schema.org/url> <https://www.newadvent.org/cathen/04497a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <http://purl.org/dc/terms/publisher> "Institute for New Testament Textual Research (INTF), University of Münster" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <http://purl.org/dc/terms/title> "The Coherence-Based Genealogical Method" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> <https://schema.org/url> <https://uni-muenster.de/INTF/en/forschung/cbgm/index.html> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <http://purl.org/dc/terms/publisher> "Harvard Theological Review 92.3 (1999), Cambridge University Press" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <http://purl.org/dc/terms/title> "The Multivalence of the Term \"Original Text\" in New Testament Textual Criticism (Eldon Jay Epp)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> <https://schema.org/url> <https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/multivalence-of-the-term-original-text-in-new-testament-textual-criticism/F07B117F5314047B07F11BFF29209F1F> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <http://purl.org/dc/terms/publisher> "Tyndale Bulletin 71.1 (2020)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <http://purl.org/dc/terms/title> "The Critical Editions of the Greek NT and OT: Stability, Change, and Implications (Gregory R. Lanier)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> <https://schema.org/url> <https://www.tyndalebulletin.org/article/27734-the-critical-edition-of-the-greek-ot-and-nt-stability-change-and-implications.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <http://purl.org/dc/terms/title> "The Text of the New Testament, of an Edition, and of a Manuscript (Dirk Jongkind)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> <https://schema.org/url> <https://tyndale.cam.ac.uk/research/the-greek-new-testament/text-edition-manuscript/> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <http://purl.org/dc/terms/publisher> "The Gospel Coalition" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <http://purl.org/dc/terms/title> "Was Mark 16:9-20 Originally Part of Mark's Gospel? (Elijah Hixson)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> <https://schema.org/url> <https://thegospelcoalition.org/article/was-mark-16-9-20-originally-mark-gospel> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <http://purl.org/dc/terms/publisher> "Zondervan Academic" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <http://purl.org/dc/terms/title> "Do Modern Bibles Omit the Trinity? 1 John 5:7b-8a (Bill Mounce)" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> <https://schema.org/url> <https://zondervanacademic.com/blog/do-modern-bibles-omit-the-trinity-1-john-57b-8a-mondays-with-mounce> .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
 <https://github.com/john1hsu/bible-graph/id/source/the-exodus/s10> <http://purl.org/dc/terms/title> "Luke 9:31 (World English Bible)" .
@@ -10425,6 +10533,63 @@
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-job> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Jeremiah 36. What happened to the first scroll of Jeremiah's prophecies, and how were its words preserved?" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Find a footnote in your Bible at Mark 16:8 or John 7:53. What does it say, and why do you think the translators kept the passage in the text while flagging it?" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Deuteronomy 32:8 in the King James Version with a translation that reads \"sons of God\". What ancient evidence lies behind each wording?" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Does knowing that the Bible was copied by hand for centuries make you more or less confident in it? What in this article affects your answer?" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2000/01/rdf-schema#label> "Textual Criticism" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical textual criticism" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#altLabel> "lower criticism" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#altLabel> "text criticism" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#definition> "The scholarly discipline that compares the surviving handwritten copies, ancient translations and early quotations of the Bible in order to recover, as nearly as possible, the earliest wording of its text, and that explains the \"some manuscripts\" footnotes in modern Bibles." .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/manuscripts-translations-and-archaeology> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Textual Criticism" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/codex-sinaiticus> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/vulgate> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s10> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s11> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s12> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s13> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s14> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s15> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s16> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s17> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s18> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s2> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s3> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s4> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s5> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s6> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s7> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s8> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s9> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/higher-criticism> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#domain> "manuscripts-translations-and-archaeology" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/manuscripts-translations-and-archaeology/textual-criticism.md" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 John 5:7" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 32:8" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 36" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 7:53–8:11" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 16:8-20" .
+<https://github.com/john1hsu/bible-graph/id/textual-criticism> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Exodus 3:7-8, what four things does God say he has seen, heard, known and come down to do for his people?" .
 <https://github.com/john1hsu/bible-graph/id/the-exodus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/the-exodus> .

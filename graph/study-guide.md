@@ -507,6 +507,16 @@ Study questions:
 - Why do you think the apostles were content to quote Scripture in a translation their hearers could understand?
 - How might knowing about the Septuagint help you talk graciously with a Christian whose Old Testament has more books than yours?
 
+### [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) — Field
+
+Read: Mark 16:8-20; John 7:53–8:11; 1 John 5:7; Deuteronomy 32:8; Jeremiah 36
+
+Study questions:
+- Read Jeremiah 36. What happened to the first scroll of Jeremiah's prophecies, and how were its words preserved?
+- Find a footnote in your Bible at Mark 16:8 or John 7:53. What does it say, and why do you think the translators kept the passage in the text while flagging it?
+- Compare Deuteronomy 32:8 in the King James Version with a translation that reads "sons of God". What ancient evidence lies behind each wording?
+- Does knowing that the Bible was copied by hand for centuries make you more or less confident in it? What in this article affects your answer?
+
 ## new-testament-books
 
 ### [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) — Book
