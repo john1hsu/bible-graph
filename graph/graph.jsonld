@@ -1307,6 +1307,169 @@
    ]
   },
   {
+   "@id": "bg:crucifixion-of-jesus",
+   "@type": "bgo:Event",
+   "bgo:basis": "scriptural",
+   "bgo:corroboratedBy": [
+    {
+     "@id": "bg:annals-of-tacitus"
+    },
+    {
+     "@id": "bg:antiquities-of-the-jews"
+    }
+   ],
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:explainedBy": {
+    "@id": "bg:passover"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:pontius-pilate"
+    }
+   ],
+   "bgo:file": "articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md",
+   "bgo:fulfills": {
+    "@id": "bg:psalm-22"
+   },
+   "bgo:illustrates": {
+    "@id": "bg:atonement"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 15:3-4",
+    "1 Corinthians 1:23-24",
+    "Deuteronomy 21:23",
+    "Galatians 3:13",
+    "John 19:16-42",
+    "Luke 23:26-49",
+    "Luke 23:7-11",
+    "Mark 15:1-47",
+    "Philippians 2:8",
+    "Psalm 22:1",
+    "Psalm 22:18"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredAt": {
+    "@id": "bg:jerusalem"
+   },
+   "bgo:precedes": {
+    "@id": "bg:resurrection-of-jesus"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s9"
+    }
+   ],
+   "rdfs:label": "Crucifixion of Jesus",
+   "skos:altLabel": [
+    "death of Jesus on the cross",
+    "the Crucifixion",
+    "the death of Christ"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    }
+   ],
+   "skos:definition": "The execution of Jesus of Nazareth by Roman crucifixion outside Jerusalem under the governor Pontius Pilate, told in all four Gospels, attested by Tacitus and Josephus, and confessed by Christians of every tradition as his death \"for our sins according to the Scriptures\".",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "Crucifixion of Jesus",
+   "skos:related": [
+    {
+     "@id": "bg:atonement"
+    },
+    {
+     "@id": "bg:binding-of-isaac"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospels"
+    },
+    {
+     "@id": "bg:last-supper"
+    },
+    {
+     "@id": "bg:psalm-22"
+    },
+    {
+     "@id": "bg:resurrection-of-jesus"
+    },
+    {
+     "@id": "bg:suffering-and-lament"
+    },
+    {
+     "@id": "bg:the-exodus"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:dead-sea-scrolls",
    "@type": "bgo:Manuscript",
    "bgo:basis": "debated",
@@ -7524,6 +7687,46 @@
    "rdfs:label": "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "rdfs:label": "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "rdfs:label": "In John 19:24 the soldiers divide Jesus's clothes \"that the Scripture might be fulfilled\". Read Psalm 22 to the end. How does knowing the whole psalm change the way you hear Jesus's cry in Mark 15:34?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "rdfs:label": "Compare what the centurion says in Mark 15:39 with Luke 23:47. What does each Gospel want its readers to notice?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "rdfs:label": "Paul calls Christ crucified \"a stumbling block\" and \"foolishness\" (1 Corinthians 1:23). Why might the cross have seemed so, and where does it still cut against what we expect of God?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "rdfs:label": "The Catholic Church teaches that sinners, not one people, bear the blame for the Passion. How should that shape the way we tell this story in church and at home?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -11714,6 +11917,258 @@
    "dcterms:title": "Jeremiah 43 (World English Bible)",
    "schema:url": {
     "@id": "https://ebible.org/eng-web/JER43.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Livius.org",
+   "dcterms:title": "Tacitus, Annals 15.44 (Tacitus on the Christians)",
+   "schema:url": {
+    "@id": "https://livius.org/sources/content/tacitus/tacitus-on-the-christians"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 18.55-84, trans. William Whiston",
+   "schema:url": {
+    "@id": "https://www.lexundria.com/j_aj/18.55-18.84/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Tyndale House",
+   "dcterms:title": "The Jewish Calendar, a Lunar Eclipse and the Date of Christ's Crucifixion (Tyndale Bulletin 43.2, 1992)",
+   "schema:url": {
+    "@id": "https://tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Archaeology of the Cross and Crucifix (Catholic Encyclopedia)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/04517a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Crucifixion (capital punishment), summary",
+   "schema:url": {
+    "@id": "https://britannica.com/summary/crucifixion-capital-punishment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Center for Online Judaic Studies",
+   "dcterms:title": "Crucifixion Bone Fragment, 21 CE",
+   "schema:url": {
+    "@id": "https://cojs.org/crucifixion_bone_fragment-_21_ce/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "English Language Liturgical Consultation",
+   "dcterms:title": "The Nicene Creed (common English text)",
+   "schema:url": {
+    "@id": "https://www.englishtexts.org/the-nicene-creed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Dicastery for Promoting Christian Unity",
+   "dcterms:title": "Nostra Aetate 4 (Second Vatican Council)",
+   "schema:url": {
+    "@id": "https://www.christianunity.va/content/unitacristiani/en/commissione-per-i-rapporti-religiosi-con-l-ebraismo/nostra-aetate-n--4/en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church 595-618: Jesus Died Crucified",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "1 Corinthians 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/1-corinthians-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Galatians 3:13 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/multi/galatians/3-13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Philippians 2:8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/philippians/2-8"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Corinthians 1:23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-corinthians/1-23.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Deuteronomy 21:23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/deuteronomy/21-23"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Sainte Bible",
+   "dcterms:title": "Psalm 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.saintebible.com/web/psalms/22.htm"
    }
   },
   {

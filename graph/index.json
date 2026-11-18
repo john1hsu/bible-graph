@@ -1251,6 +1251,168 @@
   ]
  },
  {
+  "id": "bg:crucifixion-of-jesus",
+  "title": "Crucifixion of Jesus",
+  "aliases": [
+   "the Crucifixion",
+   "death of Jesus on the cross",
+   "the death of Christ"
+  ],
+  "type": "Event",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md",
+  "created": "2026-11-18",
+  "summary": "The execution of Jesus of Nazareth by Roman crucifixion outside Jerusalem under the governor Pontius Pilate, told in all four Gospels, attested by Tacitus and Josephus, and confessed by Christians of every tradition as his death \"for our sins according to the Scriptures\".",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:psalm-22"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:binding-of-isaac"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:suffering-and-lament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:last-supper"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:atonement"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:pontius-pilate",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:jerusalem",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:precedes",
+    "object": "bg:resurrection-of-jesus",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:fulfills",
+    "object": "bg:psalm-22",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:atonement",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:annals-of-tacitus",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:passover",
+    "source": "s12",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Mark 15:1-47",
+   "Luke 23:7-11",
+   "Luke 23:26-49",
+   "John 19:16-42",
+   "Psalm 22:1",
+   "Psalm 22:18",
+   "Deuteronomy 21:23",
+   "1 Corinthians 1:23-24",
+   "1 Corinthians 15:3-4",
+   "Galatians 3:13",
+   "Philippians 2:8"
+  ],
+  "studyQuestions": [
+   "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?",
+   "In John 19:24 the soldiers divide Jesus's clothes \"that the Scripture might be fulfilled\". Read Psalm 22 to the end. How does knowing the whole psalm change the way you hear Jesus's cry in Mark 15:34?",
+   "Compare what the centurion says in Mark 15:39 with Luke 23:47. What does each Gospel want its readers to notice?",
+   "Paul calls Christ crucified \"a stumbling block\" and \"foolishness\" (1 Corinthians 1:23). Why might the cross have seemed so, and where does it still cut against what we expect of God?",
+   "The Catholic Church teaches that sinners, not one people, bear the blame for the Passion. How should that shape the way we tell this story in church and at home?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/mark/15.htm",
+   "https://biblehub.com/web/john/19.htm",
+   "https://biblehub.com/web/luke/23.htm",
+   "https://coursebible.com/world-english-bible-web/1-corinthians-15",
+   "https://bibliaparalela.com/multi/galatians/3-13.htm",
+   "https://www.christianity.com/bible/web/philippians/2-8",
+   "https://www.biblestudytools.com/web/1-corinthians/1-23.html",
+   "https://www.christianity.com/bible/web/deuteronomy/21-23",
+   "https://www.saintebible.com/web/psalms/22.htm",
+   "https://livius.org/sources/content/tacitus/tacitus-on-the-christians",
+   "https://www.lexundria.com/j_aj/18.55-18.84/wst",
+   "https://tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf",
+   "https://www.newadvent.org/cathen/04517a.htm",
+   "https://britannica.com/summary/crucifixion-capital-punishment",
+   "https://cojs.org/crucifixion_bone_fragment-_21_ce/",
+   "https://www.englishtexts.org/the-nicene-creed",
+   "https://www.christianunity.va/content/unitacristiani/en/commissione-per-i-rapporti-religiosi-con-l-ebraismo/nostra-aetate-n--4/en.html",
+   "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html"
+  ]
+ },
+ {
   "id": "bg:dead-sea-scrolls",
   "title": "Dead Sea Scrolls",
   "aliases": [

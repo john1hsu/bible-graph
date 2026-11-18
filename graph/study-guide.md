@@ -293,6 +293,17 @@ Study questions:
 
 ## life-and-teachings-of-jesus
 
+### [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) — Event
+
+Read: Mark 15:1-47; Luke 23:7-11; Luke 23:26-49; John 19:16-42; Psalm 22:1; Psalm 22:18; Deuteronomy 21:23; 1 Corinthians 1:23-24; 1 Corinthians 15:3-4; Galatians 3:13; Philippians 2:8
+
+Study questions:
+- Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?
+- In John 19:24 the soldiers divide Jesus's clothes "that the Scripture might be fulfilled". Read Psalm 22 to the end. How does knowing the whole psalm change the way you hear Jesus's cry in Mark 15:34?
+- Compare what the centurion says in Mark 15:39 with Luke 23:47. What does each Gospel want its readers to notice?
+- Paul calls Christ crucified "a stumbling block" and "foolishness" (1 Corinthians 1:23). Why might the cross have seemed so, and where does it still cut against what we expect of God?
+- The Catholic Church teaches that sinners, not one people, bear the blame for the Passion. How should that shape the way we tell this story in church and at home?
+
 ### [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) — Genre
 
 Read: Mark 4:1-34; Matthew 13:1-52; Luke 15:1-3; Luke 15:11-32; 2 Samuel 12:1-7; Isaiah 5:1-7; Mark 12:1-12

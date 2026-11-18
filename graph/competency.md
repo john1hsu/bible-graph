@@ -27,6 +27,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | theme | texts |
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
+| `bg:atonement` | Crucifixion of Jesus |
 | `bg:davidic-covenant` | The Temple |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
@@ -70,6 +71,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
+| `bg:crucifixion-of-jesus` | `bg:jesus` |
+| `bg:crucifixion-of-jesus` | `bg:pontius-pilate` |
 | `bg:deuteronomy` | `bg:giving-of-the-law-at-sinai` |
 | `bg:deuteronomy` | `bg:israelites` |
 | `bg:deuteronomy` | `bg:joshua-son-of-nun` |
@@ -78,10 +81,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:genesis` | `bg:isaac` |
 | `bg:genesis` | `bg:joseph-son-of-jacob` |
 | `bg:giving-of-the-law-at-sinai` | `bg:aaron` |
-| `bg:giving-of-the-law-at-sinai` | `bg:israelites` |
-| `bg:giving-of-the-law-at-sinai` | `bg:moses` |
 
-…and 28 more.
+…and 30 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -133,6 +134,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
+| `bg:psalm-22` | fulfils | `bg:crucifixion-of-jesus` |
 | `bg:psalm-22` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:psalm-22` | quotes | `bg:gospel-of-mark` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
