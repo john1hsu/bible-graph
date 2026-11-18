@@ -13,6 +13,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Genesis 3:15** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 6:8** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Genesis 11:1-9** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Genesis 11:26-32** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 12:1-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 12:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
@@ -92,6 +93,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Leviticus 19:33-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Leviticus 19:33-34** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 21:1-3** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Leviticus 23:15-21** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Leviticus 26:3-15** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Leviticus 26:40-45** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 
@@ -125,6 +127,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 11:13-21** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 11:18** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Deuteronomy 12:5** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
+- **Deuteronomy 16:9-16** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 21:23** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
@@ -323,6 +326,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Hosea 6:6** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 
+## Joel
+
+- **Joel 2:28-32** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+
 ## Amos
 
 - **Amos 9:12** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
@@ -519,6 +526,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 24:44-45** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44-47** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Luke 24:44-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 24:49** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 
 ## John
 
@@ -545,11 +553,13 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Acts
 
 - **Acts 1:1-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 1:3-15** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 1:8** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 1:8** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Acts 1:9-11** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:1-4** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Acts 2:1-47** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 2:14-41** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
@@ -561,12 +571,14 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 7:58** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 8:14-17** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:26-27** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 9:31** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Acts 10** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 10:44-48** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 11:19-30** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 11:26** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 12:1-17** — [Peter](../articles/new-testament-people/peter.md) (Person)
@@ -598,6 +610,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 17:28** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 17:30-31** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Acts 18:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
+- **Acts 19:1-7** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **Acts 20:16** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 22:3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 22:25-28** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 23:6-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
@@ -642,6 +656,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 8:4-6** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 12:13** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **1 Corinthians 15:3-4** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
 - **1 Corinthians 15:5** — [Peter](../articles/new-testament-people/peter.md) (Person)

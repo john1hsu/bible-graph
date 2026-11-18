@@ -34,12 +34,13 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul, Peter |
+| `bg:holy-spirit` | Pentecost |
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
-| `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
+| `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon |
@@ -83,7 +84,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:deuteronomy` | `bg:giving-of-the-law-at-sinai` |
 | `bg:deuteronomy` | `bg:israelites` |
 
-…and 37 more.
+…and 39 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -129,6 +130,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-mark` |
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
+| `bg:book-of-joel` | fulfils | `bg:pentecost` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
@@ -149,6 +151,7 @@ _Which written events have no period and nothing they come before or after?_ —
 | node |
 |---|
 | `bg:calling-of-the-first-disciples` |
+| `bg:pentecost` |
 
 ## Family trees
 

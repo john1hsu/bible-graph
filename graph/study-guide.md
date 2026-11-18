@@ -102,6 +102,17 @@ Study questions:
 - Matthew 1:17 divides Jesus's family tree at the exile. What does that tell you about how the first Christians understood where Jesus fits in Israel's story?
 - 1 Peter 1:1 and 1:17 call Christians foreigners and exiles. Where do you feel "away from home" in your own life or church, and what would it look like to seek the peace of the place where God has put you?
 
+### [Pentecost](../articles/events-and-timeline/pentecost.md) — Event
+
+Read: Acts 2:1-47; Acts 1:3-15; Luke 24:49; Joel 2:28-32; Leviticus 23:15-21; Deuteronomy 16:9-16; Genesis 11:1-9; Acts 8:14-17; Acts 10:44-48; Acts 19:1-7; 1 Corinthians 12:13; Acts 20:16
+
+Study questions:
+- In Acts 2:5-11, who makes up the crowd in Jerusalem, and what do they hear the disciples speaking about?
+- How does Peter explain what is happening in Acts 2:16-21, and which kinds of people does Joel's promise name?
+- According to Acts 2:37-41, what does Peter tell his hearers to do, and to whom does he say the promise belongs?
+- Leviticus 23 and Deuteronomy 16 make the Feast of Weeks a harvest festival shared with servants, foreigners, orphans and widows. How might that background shape the way you read Acts 2:42-47?
+- At Babel people stopped understanding one another; at Pentecost each heard God's works in their own language. Where does your church need the Spirit's gift of understanding across differences?
+
 ### [The Exodus](../articles/events-and-timeline/the-exodus.md) — Event
 
 Read: Exodus 1:8-14; Exodus 3:7-15; Exodus 12:1-14; Exodus 12:26-27; Exodus 12:37-42; Exodus 12:51; Exodus 14:21-31; Exodus 15:1-21; Exodus 20:2; 1 Kings 6:1; Luke 9:30-31; 1 Corinthians 5:7; 1 Corinthians 10:1-11

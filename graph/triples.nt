@@ -2994,6 +2994,95 @@
 <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Philippians 3:4-14" .
 <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/paul> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/pharisees> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Acts 2:5-11, who makes up the crowd in Jerusalem, and what do they hear the disciples speaking about?" .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "How does Peter explain what is happening in Acts 2:16-21, and which kinds of people does Joel's promise name?" .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 2:37-41, what does Peter tell his hearers to do, and to whom does he say the promise belongs?" .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Leviticus 23 and Deuteronomy 16 make the Feast of Weeks a harvest festival shared with servants, foreigners, orphans and widows. How might that background shape the way you read Acts 2:42-47?" .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "At Babel people stopped understanding one another; at Pentecost each heard God's works in their own language. Where does your church need the Spirit's gift of understanding across differences?" .
+<https://github.com/john1hsu/bible-graph/id/pentecost/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Event> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2000/01/rdf-schema#label> "Pentecost" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "Whitsun" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "Whitsunday" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "the Day of Pentecost" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "the coming of the Holy Spirit" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "the descent of the Holy Spirit" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#altLabel> "the outpouring of the Holy Spirit" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#definition> "The Jewish Feast of Weeks, fifty days after Passover, on which (Acts 2) the Holy Spirit came on Jesus's followers in Jerusalem with a sound like wind and tongues like fire, they spoke in other languages, Peter preached the risen Christ, and about three thousand were baptized; Christians keep it fifty days after Easter." .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentecost" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/resurrection-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/tower-of-babel> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#domain> "events-and-timeline" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/shavuot> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/events-and-timeline/pentecost.md" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#fulfills> <https://github.com/john1hsu/bible-graph/id/book-of-joel> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/holy-spirit> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/new-covenant> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 12:13" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 10:44-48" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 19:1-7" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:3-15" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 20:16" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:1-47" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:14-17" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 16:9-16" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 11:1-9" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joel 2:28-32" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 23:15-21" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:49" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#occurredAt> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/pentecost> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
 <https://github.com/john1hsu/bible-graph/id/peter/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/peter/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 16:13-20, what does Peter confess about Jesus, and where does Jesus say that insight came from?" .
 <https://github.com/john1hsu/bible-graph/id/peter/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/peter> .
@@ -7704,6 +7793,168 @@
 <https://github.com/john1hsu/bible-graph/id/source/paul/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/paul/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/paul/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/acts/18-3> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <http://purl.org/dc/terms/title> "Acts 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s10> <https://schema.org/url> <https://bibliaparalela.com/web/acts/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <http://purl.org/dc/terms/title> "1 Corinthians 12:13-18 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s11> <https://schema.org/url> <https://www.christianity.com/bible/web/1-corinthians/12-13-18> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <http://purl.org/dc/terms/title> "Acts 20 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s12> <https://schema.org/url> <https://bibliaparalela.com/web/acts/20.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <http://purl.org/dc/terms/title> "Pentecost (Jewish Encyclopedia, 1906; Kaufmann Kohler, J. L. Magnus, J. D. Eisenstein)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s13> <https://schema.org/url> <https://jewishencyclopedia.com/articles/12012-pentecost> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <http://purl.org/dc/terms/title> "Pentecost (Whitsunday) (Catholic Encyclopedia, vol. 15, 1912; Frederick Holweck)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s14> <https://schema.org/url> <https://www.newadvent.org/cathen/15614b.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <http://purl.org/dc/terms/title> "Pentecost (Christianity)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s15> <https://schema.org/url> <https://www.britannica.com/topic/Pentecost-Christianity> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <http://purl.org/dc/terms/publisher> "Holy See (vatican.va)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 731-741 (Pentecost; the Spirit and the Church)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s16> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P24.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <http://purl.org/dc/terms/publisher> "Holy See (vatican.va)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraphs 1286-1292 (Confirmation in the economy of salvation)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s17> <https://schema.org/url> <https://www.vatican.va/archive/ENG0015/__P3Q.HTM> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <http://purl.org/dc/terms/title> "Pentecost: The Descent of the Holy Spirit (The Orthodox Faith, vol. II: Worship, The Church Year)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s18> <https://schema.org/url> <https://oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <http://purl.org/dc/terms/publisher> "Assemblies of God (USA)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <http://purl.org/dc/terms/title> "Baptism in the Holy Spirit (Our Core Doctrines)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s19> <https://schema.org/url> <https://ag.org/en/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <http://purl.org/dc/terms/title> "Acts 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s1> <https://schema.org/url> <https://bibliaparalela.com/web/acts/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <http://purl.org/dc/terms/publisher> "Assemblies of God (USA)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <http://purl.org/dc/terms/title> "Speaking in Tongues: The Initial Physical Evidence of the Baptism in the Holy Spirit (A. Reuben Hartwick, reprinted from Enrichment)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s20> <https://schema.org/url> <https://ag.org/-/media/AGORG/Beliefs/Resources/SpeakinginTongues.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <http://purl.org/dc/terms/title> "Luther's Small Catechism: The Creed, Third Article" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s21> <https://schema.org/url> <https://catechism.cph.org/en/creed-third-article-part-one.html> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <http://purl.org/dc/terms/title> "John Calvin, Commentary upon the Acts of the Apostles, vol. 1, chapter 2" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s22> <https://schema.org/url> <https://ccel.org/ccel/calvin/comment3/comm_vol36/htm/ix.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <http://purl.org/dc/terms/publisher> "The Lutterworth Press" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <http://purl.org/dc/terms/title> "William P. Atkinson, Baptism in the Spirit: Luke-Acts and the Dunn Debate (publisher's description)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s23> <https://schema.org/url> <https://lutterworth.com/?p=3190> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <http://purl.org/dc/terms/publisher> "The Lutterworth Press" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <http://purl.org/dc/terms/title> "William P. Atkinson, Baptism in the Spirit: Luke-Acts and the Dunn Debate, chapter 1 (extract)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s24> <https://schema.org/url> <https://www.lutterworth.com/wp-content/uploads/extracts/baptism-in-the-spirit-ch1.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <http://purl.org/dc/terms/publisher> "DOAJ" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <http://purl.org/dc/terms/title> "The reversal of Babel: Questioning the early church's understanding of the gift of the Holy Spirit in Acts as a reversal of the curse of Babel (Verbum et Ecclesia, 2018)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s25> <https://schema.org/url> <https://doaj.org/article/1d0d937b5ef646a9948f6f74e00c8024> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <http://purl.org/dc/terms/publisher> "Craig Keener, Bible Backgrounds" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <http://purl.org/dc/terms/title> "Pentecost as a Reversal of Babel (Craig Keener)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s26> <https://schema.org/url> <https://craigkeener.com/pentecost-as-a-reversal-of-babel/> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <http://purl.org/dc/terms/title> "Biblical Views: Speaking in the Tongues of Men or Angels (Ben Witherington III), Biblical Archaeology Review, July/August 2015" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s27> <https://schema.org/url> <https://library.biblicalarchaeology.org/department/biblical-views-speaking-in-the-tongues-of-men-or-angels/> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <http://purl.org/dc/terms/title> "Acts 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s2> <https://schema.org/url> <https://ebible.org/eng-web/ACT01.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <http://purl.org/dc/terms/title> "Luke 24 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s3> <https://schema.org/url> <https://bibliaparalela.com/web/luke/24.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <http://purl.org/dc/terms/title> "Joel 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s4> <https://schema.org/url> <https://biblehub.com/web/joel/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <http://purl.org/dc/terms/title> "Leviticus 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s5> <https://schema.org/url> <https://biblehub.com/web/leviticus/23.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <http://purl.org/dc/terms/title> "Deuteronomy 16 (World English Bible, Catholic edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s6> <https://schema.org/url> <https://ebible.org/eng-web-c/DEU16.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <http://purl.org/dc/terms/title> "Genesis 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/genesis/11.html> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <http://purl.org/dc/terms/title> "Acts 8:14-17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s8> <https://schema.org/url> <https://www.christianity.com/bible/web/acts/8-14-17> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <http://purl.org/dc/terms/title> "Acts 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/pentecost/s9> <https://schema.org/url> <https://bibliaparalela.com/web/acts/10.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/peter/s10> <http://purl.org/dc/terms/title> "Acts 12 (World English Bible)" .

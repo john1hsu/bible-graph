@@ -5446,6 +5446,192 @@
    ]
   },
   {
+   "@id": "bg:pentecost",
+   "@type": "bgo:Event",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:contrastsWith": {
+    "@id": "bg:tower-of-babel"
+   },
+   "bgo:domain": "events-and-timeline",
+   "bgo:explainedBy": {
+    "@id": "bg:shavuot"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:apostles"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ],
+   "bgo:file": "articles/events-and-timeline/pentecost.md",
+   "bgo:fulfills": {
+    "@id": "bg:book-of-joel"
+   },
+   "bgo:illustrates": [
+    {
+     "@id": "bg:holy-spirit"
+    },
+    {
+     "@id": "bg:new-covenant"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Corinthians 12:13",
+    "Acts 10:44-48",
+    "Acts 19:1-7",
+    "Acts 1:3-15",
+    "Acts 20:16",
+    "Acts 2:1-47",
+    "Acts 8:14-17",
+    "Deuteronomy 16:9-16",
+    "Genesis 11:1-9",
+    "Joel 2:28-32",
+    "Leviticus 23:15-21",
+    "Luke 24:49"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredAt": {
+    "@id": "bg:jerusalem"
+   },
+   "bgo:requires": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s22"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s23"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s24"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s25"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s26"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s27"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s9"
+    }
+   ],
+   "rdfs:label": "Pentecost",
+   "skos:altLabel": [
+    "Whitsun",
+    "Whitsunday",
+    "the Day of Pentecost",
+    "the coming of the Holy Spirit",
+    "the descent of the Holy Spirit",
+    "the outpouring of the Holy Spirit"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "skos:definition": "The Jewish Feast of Weeks, fifty days after Passover, on which (Acts 2) the Holy Spirit came on Jesus's followers in Jerusalem with a sound like wind and tongues like fire, they spoke in other languages, Peter preached the risen Christ, and about three thousand were baptized; Christians keep it fifty days after Easter.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/events-and-timeline"
+   },
+   "skos:prefLabel": "Pentecost",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:giving-of-the-law-at-sinai"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:resurrection-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:peter",
    "@type": "bgo:Person",
    "bgo:basis": "varies-by-tradition",
@@ -9616,6 +9802,46 @@
     "@id": "bg:paul"
    },
    "rdfs:label": "Paul calls himself \"the least of the apostles\" yet says God's grace was not in vain (1 Corinthians 15:9-10). How might his story shape the way we see people who have done harm, or our own past?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pentecost/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pentecost"
+   },
+   "rdfs:label": "In Acts 2:5-11, who makes up the crowd in Jerusalem, and what do they hear the disciples speaking about?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pentecost/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pentecost"
+   },
+   "rdfs:label": "How does Peter explain what is happening in Acts 2:16-21, and which kinds of people does Joel's promise name?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pentecost/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pentecost"
+   },
+   "rdfs:label": "According to Acts 2:37-41, what does Peter tell his hearers to do, and to whom does he say the promise belongs?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pentecost/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pentecost"
+   },
+   "rdfs:label": "Leviticus 23 and Deuteronomy 16 make the Feast of Weeks a harvest festival shared with servants, foreigners, orphans and widows. How might that background shape the way you read Acts 2:42-47?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/pentecost/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:pentecost"
+   },
+   "rdfs:label": "At Babel people stopped understanding one another; at Pentecost each heard God's works in their own language. Where does your church need the Spirit's gift of understanding across differences?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/peter/check/1",
@@ -19039,6 +19265,384 @@
    "dcterms:title": "Acts 18:3 (World English Bible)",
    "schema:url": {
     "@id": "https://www.christianity.com/bible/web/acts/18-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "1 Corinthians 12:13-18 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/1-corinthians/12-13-18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/20.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Pentecost (Jewish Encyclopedia, 1906; Kaufmann Kohler, J. L. Magnus, J. D. Eisenstein)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/12012-pentecost"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Pentecost (Whitsunday) (Catholic Encyclopedia, vol. 15, 1912; Frederick Holweck)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/15614b.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Pentecost (Christianity)",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Pentecost-Christianity"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Holy See (vatican.va)",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 731-741 (Pentecost; the Spirit and the Church)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P24.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Holy See (vatican.va)",
+   "dcterms:title": "Catechism of the Catholic Church, paragraphs 1286-1292 (Confirmation in the economy of salvation)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/ENG0015/__P3Q.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Pentecost: The Descent of the Holy Spirit (The Orthodox Faith, vol. II: Worship, The Church Year)",
+   "schema:url": {
+    "@id": "https://oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Assemblies of God (USA)",
+   "dcterms:title": "Baptism in the Holy Spirit (Our Core Doctrines)",
+   "schema:url": {
+    "@id": "https://ag.org/en/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Acts 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ACT01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Assemblies of God (USA)",
+   "dcterms:title": "Speaking in Tongues: The Initial Physical Evidence of the Baptism in the Holy Spirit (A. Reuben Hartwick, reprinted from Enrichment)",
+   "schema:url": {
+    "@id": "https://ag.org/-/media/AGORG/Beliefs/Resources/SpeakinginTongues.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s21",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Luther's Small Catechism: The Creed, Third Article",
+   "schema:url": {
+    "@id": "https://catechism.cph.org/en/creed-third-article-part-one.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s22",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "John Calvin, Commentary upon the Acts of the Apostles, vol. 1, chapter 2",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/calvin/comment3/comm_vol36/htm/ix.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s23",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Lutterworth Press",
+   "dcterms:title": "William P. Atkinson, Baptism in the Spirit: Luke-Acts and the Dunn Debate (publisher's description)",
+   "schema:url": {
+    "@id": "https://lutterworth.com/?p=3190"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s24",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "The Lutterworth Press",
+   "dcterms:title": "William P. Atkinson, Baptism in the Spirit: Luke-Acts and the Dunn Debate, chapter 1 (extract)",
+   "schema:url": {
+    "@id": "https://www.lutterworth.com/wp-content/uploads/extracts/baptism-in-the-spirit-ch1.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s25",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "DOAJ",
+   "dcterms:title": "The reversal of Babel: Questioning the early church's understanding of the gift of the Holy Spirit in Acts as a reversal of the curse of Babel (Verbum et Ecclesia, 2018)",
+   "schema:url": {
+    "@id": "https://doaj.org/article/1d0d937b5ef646a9948f6f74e00c8024"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s26",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Craig Keener, Bible Backgrounds",
+   "dcterms:title": "Pentecost as a Reversal of Babel (Craig Keener)",
+   "schema:url": {
+    "@id": "https://craigkeener.com/pentecost-as-a-reversal-of-babel/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s27",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "Biblical Views: Speaking in the Tongues of Men or Angels (Ben Witherington III), Biblical Archaeology Review, July/August 2015",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/department/biblical-views-speaking-in-the-tongues-of-men-or-angels/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Joel 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/joel/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Leviticus 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/leviticus/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Deuteronomy 16 (World English Bible, Catholic edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web-c/DEU16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Genesis 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/genesis/11.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Acts 8:14-17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/acts/8-14-17"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/pentecost/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/10.htm"
    }
   },
   {

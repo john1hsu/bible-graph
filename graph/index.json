@@ -5271,6 +5271,171 @@
   ]
  },
  {
+  "id": "bg:pentecost",
+  "title": "Pentecost",
+  "aliases": [
+   "the Day of Pentecost",
+   "the coming of the Holy Spirit",
+   "the descent of the Holy Spirit",
+   "the outpouring of the Holy Spirit",
+   "Whitsunday",
+   "Whitsun"
+  ],
+  "type": "Event",
+  "domain": "events-and-timeline",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/events-and-timeline/pentecost.md",
+  "created": "2026-11-18",
+  "summary": "The Jewish Feast of Weeks, fifty days after Passover, on which (Acts 2) the Holy Spirit came on Jesus's followers in Jerusalem with a sound like wind and tongues like fire, they spoke in other languages, Peter preached the risen Christ, and about three thousand were baptized; Christians keep it fifty days after Easter.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:peter",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:apostles",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:jerusalem",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:fulfills",
+    "object": "bg:book-of-joel",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:shavuot",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:holy-spirit",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:new-covenant",
+    "source": "s15",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:tower-of-babel",
+    "source": "s22",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Acts 2:1-47",
+   "Acts 1:3-15",
+   "Luke 24:49",
+   "Joel 2:28-32",
+   "Leviticus 23:15-21",
+   "Deuteronomy 16:9-16",
+   "Genesis 11:1-9",
+   "Acts 8:14-17",
+   "Acts 10:44-48",
+   "Acts 19:1-7",
+   "1 Corinthians 12:13",
+   "Acts 20:16"
+  ],
+  "studyQuestions": [
+   "In Acts 2:5-11, who makes up the crowd in Jerusalem, and what do they hear the disciples speaking about?",
+   "How does Peter explain what is happening in Acts 2:16-21, and which kinds of people does Joel's promise name?",
+   "According to Acts 2:37-41, what does Peter tell his hearers to do, and to whom does he say the promise belongs?",
+   "Leviticus 23 and Deuteronomy 16 make the Feast of Weeks a harvest festival shared with servants, foreigners, orphans and widows. How might that background shape the way you read Acts 2:42-47?",
+   "At Babel people stopped understanding one another; at Pentecost each heard God's works in their own language. Where does your church need the Spirit's gift of understanding across differences?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/acts/2.htm",
+   "https://ebible.org/eng-web/ACT01.htm",
+   "https://bibliaparalela.com/web/luke/24.htm",
+   "https://biblehub.com/web/joel/2.htm",
+   "https://biblehub.com/web/leviticus/23.htm",
+   "https://ebible.org/eng-web-c/DEU16.htm",
+   "https://www.biblestudytools.com/web/genesis/11.html",
+   "https://www.christianity.com/bible/web/acts/8-14-17",
+   "https://bibliaparalela.com/web/acts/10.htm",
+   "https://bibliaparalela.com/web/acts/19.htm",
+   "https://www.christianity.com/bible/web/1-corinthians/12-13-18",
+   "https://bibliaparalela.com/web/acts/20.htm",
+   "https://jewishencyclopedia.com/articles/12012-pentecost",
+   "https://www.newadvent.org/cathen/15614b.htm",
+   "https://www.britannica.com/topic/Pentecost-Christianity",
+   "https://www.vatican.va/archive/ENG0015/__P24.HTM",
+   "https://www.vatican.va/archive/ENG0015/__P3Q.HTM",
+   "https://oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit",
+   "https://ag.org/en/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit",
+   "https://ag.org/-/media/AGORG/Beliefs/Resources/SpeakinginTongues.pdf",
+   "https://catechism.cph.org/en/creed-third-article-part-one.html",
+   "https://ccel.org/ccel/calvin/comment3/comm_vol36/htm/ix.htm",
+   "https://lutterworth.com/?p=3190",
+   "https://www.lutterworth.com/wp-content/uploads/extracts/baptism-in-the-spirit-ch1.pdf",
+   "https://doaj.org/article/1d0d937b5ef646a9948f6f74e00c8024",
+   "https://craigkeener.com/pentecost-as-a-reversal-of-babel/",
+   "https://library.biblicalarchaeology.org/department/biblical-views-speaking-in-the-tongues-of-men-or-angels/"
+  ]
+ },
+ {
   "id": "bg:peter",
   "title": "Peter",
   "aliases": [
