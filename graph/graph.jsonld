@@ -3694,6 +3694,190 @@
    ]
   },
   {
+   "@id": "bg:jesus",
+   "@type": "bgo:Person",
+   "bgo:basis": "ecumenical",
+   "bgo:corroboratedBy": [
+    {
+     "@id": "bg:annals-of-tacitus"
+    },
+    {
+     "@id": "bg:antiquities-of-the-jews"
+    }
+   ],
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/life-and-teachings-of-jesus/jesus.md",
+   "bgo:fulfills": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:illustrates": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "bgo:keyReference": [
+    "1 Corinthians 15:3-8",
+    "John 1:1-5",
+    "John 1:14-18",
+    "Luke 24:25-27",
+    "Luke 24:44-47",
+    "Luke 2:1-7",
+    "Luke 2:39-52",
+    "Luke 4:16-21",
+    "Mark 1:9-15",
+    "Mark 6:3",
+    "Matthew 16:13-21",
+    "Matthew 1:21-25",
+    "Philippians 2:5-11"
+   ],
+   "bgo:level": "introductory",
+   "bgo:requires": {
+    "@id": "bg:gospels"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s9"
+    }
+   ],
+   "rdfs:label": "Jesus",
+   "skos:altLabel": [
+    "Christ Jesus",
+    "Iesous",
+    "Jesus Christ",
+    "Jesus of Nazareth",
+    "Jesus son of Joseph",
+    "Jesus the Christ",
+    "Yeshua",
+    "the Lord Jesus"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-story-of-the-bible"
+   },
+   "skos:definition": "Jesus of Nazareth, a first-century Jew from Galilee who was baptized by John, proclaimed the kingdom of God, was crucified under Pontius Pilate around AD 30 and, his followers testified, was raised from the dead; Christians confess him as the Christ (Messiah), the Son of God made flesh, and the centre to which the whole Bible points.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "Jesus",
+   "skos:related": [
+    {
+     "@id": "bg:baptism-of-jesus"
+    },
+    {
+     "@id": "bg:birth-of-jesus"
+    },
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospels"
+    },
+    {
+     "@id": "bg:incarnation"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:john-the-baptist"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:mary-mother-of-jesus"
+    },
+    {
+     "@id": "bg:messiah"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:new-covenant"
+    },
+    {
+     "@id": "bg:nicene-creed"
+    },
+    {
+     "@id": "bg:parables-of-jesus"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:public-ministry-of-jesus"
+    },
+    {
+     "@id": "bg:resurrection-of-jesus"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:kingdom-of-god",
    "@type": "bgo:Theme",
    "bgo:basis": "scriptural",
@@ -9326,6 +9510,46 @@
     "@id": "bg:jerusalem"
    },
    "rdfs:label": "Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jesus/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jesus"
+   },
+   "rdfs:label": "According to Matthew 1:21, why is the child to be named Jesus? What does that tell you about what he came to do?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jesus/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jesus"
+   },
+   "rdfs:label": "What does Jesus announce when he begins preaching in Mark 1:14-15, and what does he ask his hearers to do?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jesus/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jesus"
+   },
+   "rdfs:label": "In Matthew 16:13-16, Jesus asks \"But who do you say that I am?\" How does Peter answer, and how would you answer in your own words?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jesus/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jesus"
+   },
+   "rdfs:label": "In Luke 24:27 and 24:44, which parts of the Scriptures does Jesus say speak about him? Which Old Testament passage you know might point to him, and how?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jesus/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jesus"
+   },
+   "rdfs:label": "Philippians 2:5-11 begins \"Have this in your mind.\" What attitude of Jesus does Paul want his readers to share, and where could you practise it this week?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1",
@@ -16542,6 +16766,244 @@
    "dcterms:title": "Isaiah 2 (World English Bible Classic)",
    "schema:url": {
     "@id": "https://ebible.org/eng-web/ISA02.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Matthew 1:21-25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/matthew/1-21-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 6:3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/6-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Jesus",
+   "schema:url": {
+    "@id": "https://britannica.com/biography/Jesus/Introduction"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Open Yale Courses, Yale University",
+   "dcterms:title": "RLST 152: Introduction to New Testament History and Literature, Lecture 13: The Historical Jesus (Dale B. Martin)",
+   "schema:url": {
+    "@id": "https://oyc.yale.edu/node/1761"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Jesus Christ (Smith's Bible Dictionary; Baker's Evangelical Dictionary of Biblical Theology)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/dictionary/jesus-christ"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Livius.org",
+   "dcterms:title": "Tacitus, Annals 15.44 (\"Tacitus on the Christians\")",
+   "schema:url": {
+    "@id": "https://livius.org/sources/content/tacitus/tacitus-on-the-christians"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Antiquities of the Jews 20.200 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_aj/20.200/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "English Language Liturgical Consultation",
+   "dcterms:title": "The Nicene Creed (ecumenical English text)",
+   "schema:url": {
+    "@id": "https://www.englishtexts.org/the-nicene-creed"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "The Symbol of Chalcedon (451), in Philip Schaff, The Creeds of Christendom, vol. 2",
+   "schema:url": {
+    "@id": "https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Mark 1 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-webbe/MRK01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Matthew 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/matt/16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Corinthians 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/1_corinthians/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "John 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JHN01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jesus/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Philippians 2:5-11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/philippians/2-5-11"
    }
   },
   {

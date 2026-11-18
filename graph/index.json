@@ -3616,6 +3616,194 @@
   ]
  },
  {
+  "id": "bg:jesus",
+  "title": "Jesus",
+  "aliases": [
+   "Jesus of Nazareth",
+   "Jesus Christ",
+   "Christ Jesus",
+   "Jesus the Christ",
+   "Yeshua",
+   "Iesous",
+   "Jesus son of Joseph",
+   "the Lord Jesus"
+  ],
+  "type": "Person",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "ecumenical",
+  "file": "articles/life-and-teachings-of-jesus/jesus.md",
+  "created": "2026-11-18",
+  "summary": "Jesus of Nazareth, a first-century Jew from Galilee who was baptized by John, proclaimed the kingdom of God, was crucified under Pontius Pilate around AD 30 and, his followers testified, was raised from the dead; Christians confess him as the Christ (Messiah), the Son of God made flesh, and the centre to which the whole Bible points.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:public-ministry-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:parables-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mary-mother-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-the-baptist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:birth-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:incarnation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:messiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:nicene-creed"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:new-covenant"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:gospels"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:kingdom-of-god",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:fulfills",
+    "object": "bg:book-of-isaiah",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:annals-of-tacitus",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:antiquities-of-the-jews",
+    "source": "s15",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Matthew 1:21-25",
+   "Luke 2:1-7",
+   "Luke 2:39-52",
+   "Mark 1:9-15",
+   "Mark 6:3",
+   "Luke 4:16-21",
+   "Matthew 16:13-21",
+   "1 Corinthians 15:3-8",
+   "Luke 24:25-27",
+   "Luke 24:44-47",
+   "John 1:1-5",
+   "John 1:14-18",
+   "Philippians 2:5-11"
+  ],
+  "studyQuestions": [
+   "According to Matthew 1:21, why is the child to be named Jesus? What does that tell you about what he came to do?",
+   "What does Jesus announce when he begins preaching in Mark 1:14-15, and what does he ask his hearers to do?",
+   "In Matthew 16:13-16, Jesus asks \"But who do you say that I am?\" How does Peter answer, and how would you answer in your own words?",
+   "In Luke 24:27 and 24:44, which parts of the Scriptures does Jesus say speak about him? Which Old Testament passage you know might point to him, and how?",
+   "Philippians 2:5-11 begins \"Have this in your mind.\" What attitude of Jesus does Paul want his readers to share, and where could you practise it this week?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.christianity.com/bible/web/matthew/1-21-25",
+   "https://biblehub.com/web/luke/2.htm",
+   "https://ebible.org/eng-webbe/MRK01.htm",
+   "https://biblehub.com/web/luke/4.htm",
+   "https://miamisdb.org/bible/web+kjv/matt/16",
+   "https://www.bibliaparalela.com/web/1_corinthians/15.htm",
+   "https://biblehub.com/web/luke/24.htm",
+   "https://ebible.org/eng-web/JHN01.htm",
+   "https://www.christianity.com/bible/web/philippians/2-5-11",
+   "https://www.christianity.com/bible/web/mark/6-3",
+   "https://britannica.com/biography/Jesus/Introduction",
+   "https://oyc.yale.edu/node/1761",
+   "https://www.biblestudytools.com/dictionary/jesus-christ",
+   "https://livius.org/sources/content/tacitus/tacitus-on-the-christians",
+   "https://lexundria.com/j_aj/20.200/wst",
+   "https://www.englishtexts.org/the-nicene-creed",
+   "https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html"
+  ]
+ },
+ {
   "id": "bg:kingdom-of-god",
   "title": "Kingdom of God",
   "aliases": [

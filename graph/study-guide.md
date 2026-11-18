@@ -349,6 +349,17 @@ Study questions:
 - Paul calls Christ crucified "a stumbling block" and "foolishness" (1 Corinthians 1:23). Why might the cross have seemed so, and where does it still cut against what we expect of God?
 - The Catholic Church teaches that sinners, not one people, bear the blame for the Passion. How should that shape the way we tell this story in church and at home?
 
+### [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) — Person
+
+Read: Matthew 1:21-25; Luke 2:1-7; Luke 2:39-52; Mark 1:9-15; Mark 6:3; Luke 4:16-21; Matthew 16:13-21; 1 Corinthians 15:3-8; Luke 24:25-27; Luke 24:44-47; John 1:1-5; John 1:14-18; Philippians 2:5-11
+
+Study questions:
+- According to Matthew 1:21, why is the child to be named Jesus? What does that tell you about what he came to do?
+- What does Jesus announce when he begins preaching in Mark 1:14-15, and what does he ask his hearers to do?
+- In Matthew 16:13-16, Jesus asks "But who do you say that I am?" How does Peter answer, and how would you answer in your own words?
+- In Luke 24:27 and 24:44, which parts of the Scriptures does Jesus say speak about him? Which Old Testament passage you know might point to him, and how?
+- Philippians 2:5-11 begins "Have this in your mind." What attitude of Jesus does Paul want his readers to share, and where could you practise it this week?
+
 ### [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) — Genre
 
 Read: Mark 4:1-34; Matthew 13:1-52; Luke 15:1-3; Luke 15:11-32; 2 Samuel 12:1-7; Isaiah 5:1-7; Mark 12:1-12
