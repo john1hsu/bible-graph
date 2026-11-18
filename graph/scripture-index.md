@@ -34,12 +34,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 25:1-10** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 26:2-5** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Genesis 28:13-15** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
+- **Genesis 32:28** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **Genesis 35:9-12** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **Genesis 35:23-26** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Genesis 37:2-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Genesis 50:20** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 
 ## Exodus
 
+- **Exodus 1:1-9** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Exodus 1:8-14** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 2:1-10** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Exodus 2:11-22** — [Moses](../articles/old-testament-people/moses.md) (Person)
@@ -61,6 +65,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Exodus 15:1-21** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **Exodus 15:1-21** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Exodus 19:1-25** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Exodus 19:3-8** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Exodus 19:3-8** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Exodus 20:1-21** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Exodus 20:2** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
@@ -109,6 +114,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 6:10-12** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Deuteronomy 6:16** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Deuteronomy 6:20-25** — [The Shema](../articles/key-passages/shema.md) (Passage)
+- **Deuteronomy 7:6-9** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Deuteronomy 7:6-9** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Deuteronomy 8:3** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 8:3** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
@@ -151,9 +157,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Kings 8:10-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 8:27-30** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **1 Kings 12:16-20** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 
 ## 2 Kings
 
+- **2 Kings 17:5-18** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Kings 22:8-13** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **2 Kings 23:1-3** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
@@ -523,8 +531,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Romans 8:18-28** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Romans 8:32** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
+- **Romans 9:3-8** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 9:4** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Romans 11:1** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
+- **Romans 11:1-2** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **Romans 11:17-29** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 11:28-29** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)

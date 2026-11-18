@@ -28,7 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 
 | theme | texts |
 |---|---|
-| `bg:abrahamic-covenant` | Abraham, Genesis, The Binding of Isaac |
+| `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:davidic-covenant` | The Temple |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
@@ -38,7 +38,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | The Shema |
-| `bg:mosaic-covenant` | Deuteronomy, Moses, The Giving of the Law at Sinai, The Shema |
+| `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament |
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | The Exodus, The Song of the Sea |

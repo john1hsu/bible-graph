@@ -1481,6 +1481,76 @@
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 107:23-30" .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 119:18" .
 <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Jacob receive the new name \"Israel\" in Genesis 32:28, and what does God promise him when he confirms the name in Genesis 35:9-12?" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Deuteronomy 7:6-9, why did God choose Israel, and what was not the reason?" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does God ask of Israel in Exodus 19:5-6, and what does he say Israel will become?" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Romans 9:4-5 Paul lists the gifts that belong to the Israelites. Which of these gifts have reached you, and how might that shape the way you speak about the Jewish people?" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Israel was not chosen for being large or impressive (Deuteronomy 7:7). How does it change your sense of belonging to God to know that his choice rests on love rather than merit?" .
+<https://github.com/john1hsu/bible-graph/id/israelites/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2000/01/rdf-schema#label> "Israelites" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "Bene Israel" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "Israelite" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "children of Israel" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "house of Jacob" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "people of Israel" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#altLabel> "sons of Israel" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#definition> "The people descended, in the biblical account, from Jacob (renamed Israel) through his twelve sons; brought out of Egypt and bound to God by covenant at Sinai, they are the chosen people whose story fills the Old Testament and whose heritage Paul treasures in Romans 9–11." .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#prefLabel> "Israelites" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jacob> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/twelve-tribes-of-israel> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s10> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s11> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s12> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s13> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s14> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s15> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s1> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s2> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s3> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s4> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s5> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s6> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s7> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s8> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/israelites/s9> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/merneptah-stele> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-people" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-people/israelites.md" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 12:16-20" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 17:5-18" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 7:6-9" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 19:3-8" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Exodus 1:1-9" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 32:28" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 35:23-26" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 35:9-12" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:1-2" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 11:17-29" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 9:3-8" .
+<https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Where does God tell Jeremiah to stand in Jeremiah 7:2, and who would be passing by as he spoke?" .
 <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -5069,6 +5139,96 @@
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/bible-graph/id/source/inductive-bible-study/s9> <https://schema.org/url> <https://core.ac.uk/download/155820339.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <http://purl.org/dc/terms/title> "Tribe (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s10> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Tribe> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <http://purl.org/dc/terms/publisher> "Society of Biblical Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <http://purl.org/dc/terms/title> "Richard D. Nelson, Historical Roots of the Old Testament (1200–63 BCE), ch. 1 \"The Emergence of Israel\" (Biblical Encyclopedia 13, SBL Press, 2014)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s11> <https://schema.org/url> <https://www.sbl-site.org/wp-content/uploads/2024/12/Historical-Roots_SBL_Nelson.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <http://purl.org/dc/terms/publisher> "Associates for Biblical Research" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <http://purl.org/dc/terms/title> "Gary Byers, Great Discoveries in Biblical Archaeology — The Merenptah Stela (Bible and Spade, 2004)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s12> <https://schema.org/url> <https://biblearchaeology.org/research-articles/great-discoveries-in-biblical-archaeology-the-merenptah-stela/> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <http://purl.org/dc/terms/publisher> "Posen Library of Jewish Culture and Civilization" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <http://purl.org/dc/terms/title> "The History of Ancient Israel according to the Hebrew Bible (guide)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s13> <https://schema.org/url> <https://www.posenlibrary.com/node/9412> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <http://purl.org/dc/terms/publisher> "Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <http://purl.org/dc/terms/title> "Nostra Aetate — Declaration on the Relation of the Church to Non-Christian Religions (Second Vatican Council, 1965), §4" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s14> <https://schema.org/url> <https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <http://purl.org/dc/terms/publisher> "Biblical Archaeology Society" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <http://purl.org/dc/terms/title> "Where Did the Early Israelites Come From? (collection)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s15> <https://schema.org/url> <https://library.biblicalarchaeology.org/collections/where-did-early-israelites-come/> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <http://purl.org/dc/terms/title> "Genesis 32:28 (World English Bible and King James Version, parallel)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s1> <https://schema.org/url> <https://mail.biblehub.com/parallel/genesis/32-28.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <http://purl.org/dc/terms/title> "Genesis 35 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s2> <https://schema.org/url> <https://ebible.org/study/content/texts/eng-web/GN35.html> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <http://purl.org/dc/terms/title> "Exodus 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s3> <https://schema.org/url> <https://biblehub.com/web/exodus/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <http://purl.org/dc/terms/title> "Exodus 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s4> <https://schema.org/url> <https://ebible.org/eng-web/EXO19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <http://purl.org/dc/terms/title> "Deuteronomy 7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/deuteronomy/7.html> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <http://purl.org/dc/terms/title> "1 Kings 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s6> <https://schema.org/url> <https://biblestudytools.com/web/1-kings/12.html> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <http://purl.org/dc/terms/title> "2 Kings 17 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s7> <https://schema.org/url> <https://www.biblestudytools.com/web/2-kings/17.html> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <http://purl.org/dc/terms/title> "Romans 9 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s8> <https://schema.org/url> <https://ebible.org/eng-web/ROM09.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <http://purl.org/dc/terms/title> "Romans 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/israelites/s9> <https://schema.org/url> <https://ebible.org/eng-web/ROM11.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
 <https://github.com/john1hsu/bible-graph/id/source/jeremiahs-temple-sermon/s10> <http://purl.org/dc/terms/title> "Isaiah 56:7 (King James Version)" .

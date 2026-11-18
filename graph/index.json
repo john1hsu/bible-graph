@@ -2601,6 +2601,124 @@
   ]
  },
  {
+  "id": "bg:israelites",
+  "title": "Israelites",
+  "aliases": [
+   "Israelite",
+   "children of Israel",
+   "people of Israel",
+   "sons of Israel",
+   "house of Jacob",
+   "Bene Israel"
+  ],
+  "type": "Group",
+  "domain": "old-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-people/israelites.md",
+  "created": "2026-11-18",
+  "summary": "The people descended, in the biblical account, from Jacob (renamed Israel) through his twelve sons; brought out of Egypt and bound to God by covenant at Sinai, they are the chosen people whose story fills the Old Testament and whose heritage Paul treasures in Romans 9–11.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jacob"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:moses"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:giving-of-the-law-at-sinai"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:twelve-tribes-of-israel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:mosaic-covenant",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:abrahamic-covenant",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:merneptah-stele",
+    "source": "s11",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Genesis 32:28",
+   "Genesis 35:9-12",
+   "Genesis 35:23-26",
+   "Exodus 1:1-9",
+   "Exodus 19:3-8",
+   "Deuteronomy 7:6-9",
+   "1 Kings 12:16-20",
+   "2 Kings 17:5-18",
+   "Romans 9:3-8",
+   "Romans 11:1-2",
+   "Romans 11:17-29"
+  ],
+  "studyQuestions": [
+   "Why does Jacob receive the new name \"Israel\" in Genesis 32:28, and what does God promise him when he confirms the name in Genesis 35:9-12?",
+   "According to Deuteronomy 7:6-9, why did God choose Israel, and what was not the reason?",
+   "What does God ask of Israel in Exodus 19:5-6, and what does he say Israel will become?",
+   "In Romans 9:4-5 Paul lists the gifts that belong to the Israelites. Which of these gifts have reached you, and how might that shape the way you speak about the Jewish people?",
+   "Israel was not chosen for being large or impressive (Deuteronomy 7:7). How does it change your sense of belonging to God to know that his choice rests on love rather than merit?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://mail.biblehub.com/parallel/genesis/32-28.htm",
+   "https://ebible.org/study/content/texts/eng-web/GN35.html",
+   "https://biblehub.com/web/exodus/1.htm",
+   "https://ebible.org/eng-web/EXO19.htm",
+   "https://www.biblestudytools.com/web/deuteronomy/7.html",
+   "https://biblestudytools.com/web/1-kings/12.html",
+   "https://www.biblestudytools.com/web/2-kings/17.html",
+   "https://ebible.org/eng-web/ROM09.htm",
+   "https://ebible.org/eng-web/ROM11.htm",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Tribe",
+   "https://www.sbl-site.org/wp-content/uploads/2024/12/Historical-Roots_SBL_Nelson.pdf",
+   "https://biblearchaeology.org/research-articles/great-discoveries-in-biblical-archaeology-the-merenptah-stela/",
+   "https://www.posenlibrary.com/node/9412",
+   "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+   "https://library.biblicalarchaeology.org/collections/where-did-early-israelites-come/"
+  ]
+ },
+ {
   "id": "bg:jeremiahs-temple-sermon",
   "title": "Jeremiah's Temple Sermon",
   "aliases": [

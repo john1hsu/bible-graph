@@ -512,6 +512,17 @@ Study questions:
 - Paul (Romans 4) and James (James 2:21-24) both use Abraham. Which episodes does each one point to, and how can both be true at once?
 - Hebrews 11:8 says Abraham "went out, not knowing where he went." Where is God asking you to take a next step before you can see the whole road?
 
+### [Israelites](../articles/old-testament-people/israelites.md) — Group
+
+Read: Genesis 32:28; Genesis 35:9-12; Genesis 35:23-26; Exodus 1:1-9; Exodus 19:3-8; Deuteronomy 7:6-9; 1 Kings 12:16-20; 2 Kings 17:5-18; Romans 9:3-8; Romans 11:1-2; Romans 11:17-29
+
+Study questions:
+- Why does Jacob receive the new name "Israel" in Genesis 32:28, and what does God promise him when he confirms the name in Genesis 35:9-12?
+- According to Deuteronomy 7:6-9, why did God choose Israel, and what was not the reason?
+- What does God ask of Israel in Exodus 19:5-6, and what does he say Israel will become?
+- In Romans 9:4-5 Paul lists the gifts that belong to the Israelites. Which of these gifts have reached you, and how might that shape the way you speak about the Jewish people?
+- Israel was not chosen for being large or impressive (Deuteronomy 7:7). How does it change your sense of belonging to God to know that his choice rests on love rather than merit?
+
 ### [Moses](../articles/old-testament-people/moses.md) — Person
 
 Read: Exodus 2:1-10; Exodus 2:11-22; Exodus 3:1-15; Exodus 4:10-20; Exodus 6:20; Exodus 32:1-32; Exodus 33:11-23; Numbers 12:1-8; Numbers 20:7-13; Deuteronomy 18:15-18; Deuteronomy 34:1-12; Matthew 17:1-8; John 1:17; Acts 7:20-24; Hebrews 3:1-6; Hebrews 11:23-29

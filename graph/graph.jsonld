@@ -2688,6 +2688,135 @@
    ]
   },
   {
+   "@id": "bg:israelites",
+   "@type": "bgo:Group",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:merneptah-stele"
+   },
+   "bgo:domain": "old-testament-people",
+   "bgo:file": "articles/old-testament-people/israelites.md",
+   "bgo:illustrates": [
+    {
+     "@id": "bg:abrahamic-covenant"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Kings 12:16-20",
+    "2 Kings 17:5-18",
+    "Deuteronomy 7:6-9",
+    "Exodus 19:3-8",
+    "Exodus 1:1-9",
+    "Genesis 32:28",
+    "Genesis 35:23-26",
+    "Genesis 35:9-12",
+    "Romans 11:1-2",
+    "Romans 11:17-29",
+    "Romans 9:3-8"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s9"
+    }
+   ],
+   "rdfs:label": "Israelites",
+   "skos:altLabel": [
+    "Bene Israel",
+    "Israelite",
+    "children of Israel",
+    "house of Jacob",
+    "people of Israel",
+    "sons of Israel"
+   ],
+   "skos:broader": {
+    "@id": "bg:old-testament"
+   },
+   "skos:definition": "The people descended, in the biblical account, from Jacob (renamed Israel) through his twelve sons; brought out of Egypt and bound to God by covenant at Sinai, they are the chosen people whose story fills the Old Testament and whose heritage Paul treasures in Romans 9–11.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-people"
+   },
+   "skos:prefLabel": "Israelites",
+   "skos:related": [
+    {
+     "@id": "bg:abraham"
+    },
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:giving-of-the-law-at-sinai"
+    },
+    {
+     "@id": "bg:jacob"
+    },
+    {
+     "@id": "bg:moses"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:shema"
+    },
+    {
+     "@id": "bg:the-exodus"
+    },
+    {
+     "@id": "bg:twelve-tribes-of-israel"
+    }
+   ]
+  },
+  {
    "@id": "bg:jeremiahs-temple-sermon",
    "@type": "bgo:Passage",
    "bgo:basis": "scriptural",
@@ -7272,6 +7401,46 @@
    "@type": "schema:HowToStep",
    "schema:position": 7,
    "schema:text": "Share what you found with others, ideally in a small group, so that your reading can be tested and enriched."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/israelites/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:israelites"
+   },
+   "rdfs:label": "Why does Jacob receive the new name \"Israel\" in Genesis 32:28, and what does God promise him when he confirms the name in Genesis 35:9-12?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/israelites/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:israelites"
+   },
+   "rdfs:label": "According to Deuteronomy 7:6-9, why did God choose Israel, and what was not the reason?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/israelites/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:israelites"
+   },
+   "rdfs:label": "What does God ask of Israel in Exodus 19:5-6, and what does he say Israel will become?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/israelites/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:israelites"
+   },
+   "rdfs:label": "In Romans 9:4-5 Paul lists the gifts that belong to the Israelites. Which of these gifts have reached you, and how might that shape the way you speak about the Jewish people?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/israelites/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:israelites"
+   },
+   "rdfs:label": "Israel was not chosen for being large or impressive (Deuteronomy 7:7). How does it change your sense of belonging to God to know that his choice rests on love rather than merit?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon/check/1",
@@ -12799,6 +12968,216 @@
    "dcterms:title": "David L. Thompson, My Pilgrimage in Inductive Bible Study",
    "schema:url": {
     "@id": "https://core.ac.uk/download/155820339.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 32:28 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://mail.biblehub.com/parallel/genesis/32-28.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Tribe (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Tribe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Society of Biblical Literature",
+   "dcterms:title": "Richard D. Nelson, Historical Roots of the Old Testament (1200–63 BCE), ch. 1 \"The Emergence of Israel\" (Biblical Encyclopedia 13, SBL Press, 2014)",
+   "schema:url": {
+    "@id": "https://www.sbl-site.org/wp-content/uploads/2024/12/Historical-Roots_SBL_Nelson.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Associates for Biblical Research",
+   "dcterms:title": "Gary Byers, Great Discoveries in Biblical Archaeology — The Merenptah Stela (Bible and Spade, 2004)",
+   "schema:url": {
+    "@id": "https://biblearchaeology.org/research-articles/great-discoveries-in-biblical-archaeology-the-merenptah-stela/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Posen Library of Jewish Culture and Civilization",
+   "dcterms:title": "The History of Ancient Israel according to the Hebrew Bible (guide)",
+   "schema:url": {
+    "@id": "https://www.posenlibrary.com/node/9412"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Holy See",
+   "dcterms:title": "Nostra Aetate — Declaration on the Relation of the Church to Non-Christian Religions (Second Vatican Council, 1965), §4",
+   "schema:url": {
+    "@id": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "magazine",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "Where Did the Early Israelites Come From? (collection)",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/collections/where-did-early-israelites-come/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Genesis 35 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/study/content/texts/eng-web/GN35.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Exodus 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/exodus/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Exodus 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/EXO19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Deuteronomy 7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/deuteronomy/7.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Kings 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblestudytools.com/web/1-kings/12.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "2 Kings 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/2-kings/17.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Romans 9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ROM09.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/israelites/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Romans 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ROM11.htm"
    }
   },
   {
