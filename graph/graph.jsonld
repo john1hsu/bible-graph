@@ -2238,6 +2238,154 @@
    ]
   },
   {
+   "@id": "bg:gospel-of-mark",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:john-mark"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "new-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ],
+   "bgo:file": "articles/new-testament-books/gospel-of-mark.md",
+   "bgo:keyReference": [
+    "1 Peter 5:13",
+    "Acts 12:12",
+    "Acts 15:37-39",
+    "Colossians 4:10",
+    "Isaiah 40:3",
+    "Mark 10:33-45",
+    "Mark 12:28-34",
+    "Mark 13:9-13",
+    "Mark 14:51-52",
+    "Mark 15:34",
+    "Mark 15:39",
+    "Mark 16:1-8",
+    "Mark 16:9-20",
+    "Mark 1:1-3",
+    "Mark 1:11",
+    "Mark 1:14-15",
+    "Mark 2:5",
+    "Mark 4:11",
+    "Mark 4:39",
+    "Mark 7:3-4",
+    "Mark 8:27-38",
+    "Mark 9:31",
+    "Mark 9:7",
+    "Psalm 22:1"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": [
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    }
+   ],
+   "bgo:partOf": {
+    "@id": "bg:gospels"
+   },
+   "bgo:preservedIn": {
+    "@id": "bg:codex-sinaiticus"
+   },
+   "bgo:quotes": [
+    {
+     "@id": "bg:book-of-isaiah"
+    },
+    {
+     "@id": "bg:psalm-22"
+    }
+   ],
+   "bgo:teaches": {
+    "@id": "bg:kingdom-of-god"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s9"
+    }
+   ],
+   "rdfs:label": "Gospel of Mark",
+   "skos:altLabel": [
+    "Book of Mark",
+    "Gospel According to Mark",
+    "Gospel According to Saint Mark",
+    "Mark",
+    "the Second Gospel"
+   ],
+   "skos:broader": {
+    "@id": "bg:gospels"
+   },
+   "skos:definition": "The second and shortest of the four Gospels, and by wide agreement the earliest: a fast-moving account of \"the gospel of Jesus Christ, the Son of God\" that follows his ministry of authority in Galilee, his road to Jerusalem and his death and empty tomb, and calls readers to take up the cross and follow him; tradition links it to John Mark and the preaching of Peter.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-books"
+   },
+   "skos:prefLabel": "Gospel of Mark",
+   "skos:related": [
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:john-mark"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:psalm-22"
+    },
+    {
+     "@id": "bg:sadducees-question-about-the-resurrection"
+    },
+    {
+     "@id": "bg:shema"
+    }
+   ]
+  },
+  {
    "@id": "bg:gospel-of-matthew",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -7418,6 +7566,46 @@
    "rdfs:label": "Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament \"concerning himself\" shape the way you read it this week?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-mark/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "rdfs:label": "Mark calls Jesus \"the Son of God\" in his first verse (1:1). Who else says so, or something like it, at 1:11, 9:7 and 15:39, and why might it matter that the last voice is a Roman centurion at the cross?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-mark/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "rdfs:label": "In Mark 8:29-31 Peter confesses \"Thou art the Christ,\" and Jesus at once begins to teach that the Son of Man must suffer. Why do you think the two belong together, and what did Peter get wrong?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-mark/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "rdfs:label": "Read Mark 10:45. What does it say the Son of Man came to do, and how does it explain the request of James and John just before it (10:35-44)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-mark/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "rdfs:label": "The oldest manuscripts end at 16:8 with the women saying \"nothing to any one; for they were afraid\" (ASV). What is the young man's message in 16:7, and what might an ending like this ask of the reader?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-mark/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:gospel-of-mark"
+   },
+   "rdfs:label": "Mark shows the disciples misunderstanding, failing and running away, yet Jesus sends word to \"his disciples and Peter\" (16:7). What encouragement does that give to people who follow Jesus imperfectly?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/gospel-of-matthew/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12587,6 +12775,132 @@
    "dcterms:title": "Colossians 4 (World English Bible)",
    "schema:url": {
     "@id": "https://biblehub.com/webc/colossians/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "The Gospel According to Mark (American Standard Version)",
+   "schema:url": {
+    "@id": "https://ebible.org/asv/Mark.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Mark, Gospel of (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Gospel-Mark"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "The Gospel According to Mark — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/mark/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Fragments of Papias VI, from Eusebius, Church History III.39 (Ante-Nicene Fathers vol. 1, ed. Philip Schaff)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/schaff/anf01.vii.ii.vi.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Crossway / ESV.org",
+   "dcterms:title": "Introduction to Mark (ESV Global Study Bible)",
+   "schema:url": {
+    "@id": "https://www.esv.org/resources/esv-global-study-bible/introduction-to-mark"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Irenaeus, Against Heresies III.1, trans. Alexander Roberts and William Rambaut (Ante-Nicene Fathers vol. 1)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/0103301.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Crossway / ESV.org",
+   "dcterms:title": "Acts 12:12; 12:25; 13:13; 15:37-39; Colossians 4:10; 2 Timothy 4:11; Philemon 24; 1 Peter 5:13 (English Standard Version)",
+   "schema:url": {
+    "@id": "https://www.esv.org/Acts+12:12;Acts+12:25;Acts+13:13;Acts+15:37%E2%80%9339;Colossians+4:10;2+Timothy+4:11;Philemon+24;1+Peter+5:13/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Isaiah 40 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/ISA40.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/gospel-of-mark/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Psalm 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/PSA022.htm"
    }
   },
   {

@@ -33,7 +33,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
+| `bg:kingdom-of-god` | Acts of the Apostles, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
@@ -81,7 +81,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:giving-of-the-law-at-sinai` | `bg:israelites` |
 | `bg:giving-of-the-law-at-sinai` | `bg:moses` |
 
-…and 26 more.
+…and 28 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -124,6 +124,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 |---|---|---|
 | `bg:binding-of-isaac` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
+| `bg:book-of-isaiah` | quotes | `bg:gospel-of-mark` |
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
@@ -131,6 +132,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:moses` | prefigures | `bg:jesus` |
 | `bg:old-testament` | quotes | `bg:new-testament` |
 | `bg:psalm-22` | prefigures | `bg:crucifixion-of-jesus` |
+| `bg:psalm-22` | quotes | `bg:gospel-of-mark` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |

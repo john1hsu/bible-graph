@@ -428,6 +428,17 @@ Study questions:
 - In Luke 10:29 the lawyer asks "who is my neighbor?", but in 10:36 Jesus asks which man "proved neighbor". How does that change of question change the way you read the parable?
 - Luke 24 ends with the risen Jesus opening the Scriptures to his disciples (24:27, 44-45). How might reading the Old Testament "concerning himself" shape the way you read it this week?
 
+### [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) — Book
+
+Read: Mark 1:1-3; Mark 1:11; Mark 2:5; Mark 4:39; Mark 1:14-15; Mark 4:11; Mark 7:3-4; Mark 8:27-38; Mark 9:7; Mark 9:31; Mark 10:33-45; Mark 12:28-34; Mark 13:9-13; Mark 14:51-52; Mark 15:34; Mark 15:39; Mark 16:1-8; Mark 16:9-20; Isaiah 40:3; Psalm 22:1; Acts 12:12; Acts 15:37-39; Colossians 4:10; 1 Peter 5:13
+
+Study questions:
+- Mark calls Jesus "the Son of God" in his first verse (1:1). Who else says so, or something like it, at 1:11, 9:7 and 15:39, and why might it matter that the last voice is a Roman centurion at the cross?
+- In Mark 8:29-31 Peter confesses "Thou art the Christ," and Jesus at once begins to teach that the Son of Man must suffer. Why do you think the two belong together, and what did Peter get wrong?
+- Read Mark 10:45. What does it say the Son of Man came to do, and how does it explain the request of James and John just before it (10:35-44)?
+- The oldest manuscripts end at 16:8 with the women saying "nothing to any one; for they were afraid" (ASV). What is the young man's message in 16:7, and what might an ending like this ask of the reader?
+- Mark shows the disciples misunderstanding, failing and running away, yet Jesus sends word to "his disciples and Peter" (16:7). What encouragement does that give to people who follow Jesus imperfectly?
+
 ### [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) — Book
 
 Read: Matthew 1:1; Matthew 1:22-23; Matthew 4:17; Matthew 5:17-20; Matthew 7:28-29; Matthew 9:9; Matthew 16:16-18; Matthew 18:17-20; Matthew 28:18-20

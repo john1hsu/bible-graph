@@ -219,6 +219,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Psalm 13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 22** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
+- **Psalm 22:1** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Psalm 22:1-5** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 22:1-11** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 22:12-21** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
@@ -251,6 +252,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 12:2** — [The Song of the Sea](../articles/key-passages/song-of-the-sea.md) (Passage)
 - **Isaiah 40:1-2** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Isaiah 40:3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Isaiah 40:3** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Isaiah 40:3** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Isaiah 40:8** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 40:9** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
@@ -381,14 +383,25 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Mark
 
+- **Mark 1:1-3** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:1-3** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Mark 1:2-3** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **Mark 1:11** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 1:14-15** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 1:14-15** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
+- **Mark 2:5** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
+- **Mark 4:11** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 4:26-32** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
+- **Mark 4:39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 7:1-13** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
+- **Mark 7:3-4** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 8:27-38** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 9:7** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 9:31** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 10:33-45** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 11:15-17** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 11:15-18** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Mark 11:17** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
@@ -397,11 +410,18 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:18-27** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Mark 12:18-27** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Mark 12:28-32** — [The Shema](../articles/key-passages/shema.md) (Passage)
+- **Mark 12:28-34** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **Mark 13:9-13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Mark 14:51-52** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 15:34** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 15:34** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Mark 15:38** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **Mark 15:39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 16:1-8** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
+- **Mark 16:9-20** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 
 ## Luke
 
@@ -498,6 +518,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 10:44-45** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 11:19-30** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 11:26** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
+- **Acts 12:12** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Acts 13:1-4** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:1-4** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 13:2-3** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -513,6 +534,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 15:25-26** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 15:28** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 15:36-40** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Acts 15:37-39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Acts 16:9-10** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 17:10-12** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Acts 17:11** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
@@ -605,6 +627,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Colossians 3:12-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
+- **Colossians 4:10** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Colossians 4:16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
@@ -646,6 +669,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Peter 1:1** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **1 Peter 1:17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **1 Peter 5:13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 
 ## 2 Peter
 
