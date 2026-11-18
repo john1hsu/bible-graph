@@ -1307,6 +1307,159 @@
    ]
   },
   {
+   "@id": "bg:calling-of-the-first-disciples",
+   "@type": "bgo:Event",
+   "bgo:basis": "scriptural",
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:andrew"
+    },
+    {
+     "@id": "bg:james-son-of-zebedee"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:john-son-of-zebedee"
+    },
+    {
+     "@id": "bg:john-the-baptist"
+    },
+    {
+     "@id": "bg:peter"
+    }
+   ],
+   "bgo:file": "articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md",
+   "bgo:illustrates": [
+    {
+     "@id": "bg:discipleship"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Kings 19:19-21",
+    "Jeremiah 16:14-18",
+    "John 1:35-51",
+    "Luke 5:1-11",
+    "Luke 9:61-62",
+    "Mark 1:14-21",
+    "Mark 1:29",
+    "Matthew 4:18-22"
+   ],
+   "bgo:level": "introductory",
+   "bgo:occurredAt": {
+    "@id": "bg:galilee"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9"
+    }
+   ],
+   "rdfs:label": "Calling of the First Disciples",
+   "skos:altLabel": [
+    "Jesus calls four fishermen",
+    "Jesus calls the first disciples",
+    "call of the first disciples",
+    "calling of the fishermen",
+    "fishers of men"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:apostles"
+    },
+    {
+     "@id": "bg:jesus"
+    }
+   ],
+   "skos:definition": "Jesus's summons of the fishermen Simon Peter and Andrew, and James and John the sons of Zebedee, beside the Sea of Galilee at the start of his ministry — \"Come after me, and I will make you into fishers for men\" — told in Mark, Matthew and Luke, with John recording an earlier first meeting near the Jordan.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "Calling of the First Disciples",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-jeremiah"
+    },
+    {
+     "@id": "bg:capernaum"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospel-of-john"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:great-commission"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    }
+   ]
+  },
+  {
    "@id": "bg:crucifixion-of-jesus",
    "@type": "bgo:Event",
    "bgo:basis": "scriptural",
@@ -2550,6 +2703,9 @@
    "bgo:basis": "debated",
    "bgo:domain": "new-testament-books",
    "bgo:features": [
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
     {
      "@id": "bg:crucifixion-of-jesus"
     },
@@ -7798,6 +7954,54 @@
    "rdfs:label": "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "In Mark 1:14-20, what does Jesus announce just before he calls the four fishermen, and how does that announcement explain why they are called?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "What exactly do Simon and Andrew leave in Mark 1:18, and what do James and John leave in Mark 1:20? Why might Mark mention Zebedee and the hired servants?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "In Luke 5:1-11, what happens between Jesus's request to use Simon's boat and Simon's words \"Depart from me, for I am a sinful man, Lord\"? What changes Simon's mind about who Jesus is?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "In John 1:35-42 and 1:45-46, how does each person come to Jesus? What do \"Come, and see\" and \"We have found the Messiah\" suggest about the way faith spreads?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "Compare Elisha's call in 1 Kings 19:19-21 with the fishermen's call. What is similar, what is different, and what does that suggest about who Jesus is?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:calling-of-the-first-disciples"
+   },
+   "rdfs:label": "The first disciples were ordinary working people called in the middle of their work. What \"nets\" might Jesus be asking you to leave, and what might he be asking you to bring with you?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12137,6 +12341,188 @@
    "dcterms:title": "Jeremiah 43 (World English Bible)",
    "schema:url": {
     "@id": "https://ebible.org/eng-web/JER43.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Mark 1 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebpb/MRK01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Joseph MacRory, St. Andrew, The Catholic Encyclopedia (1907)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/01471a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "Charles W. F. Smith, Fishers of Men: Footnotes on a Gospel Figure, Harvard Theological Review (1959)",
+   "schema:url": {
+    "@id": "https://core-prod.cambridgecore.org/core/journals/harvard-theological-review/article/fishers-of-men-footnotes-on-a-gospel-figure/D2F9B01474C7664586080CA50A72298B"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Apostle Andrew, the Holy and All-Praised First-Called",
+   "schema:url": {
+    "@id": "https://www.oca.org/saints/lives/2018/11/30/103450-apostle-andrew-the-holy-and-all-praised-first-called"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Odyssey",
+   "dcterms:title": "Fishing Economy in the Sea of Galilee",
+   "schema:url": {
+    "@id": "https://bibleodyssey.com/articles/fishing-economy-in-the-sea-of-galilee/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Matthew 4:18-22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/matthew/4-18-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDA Church Bible",
+   "dcterms:title": "Luke 5:1-12 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/luke/5/1-12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "John 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/john/1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDA Church Bible",
+   "dcterms:title": "1 Kings 19 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/1kings/19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Miami SDA Church Bible",
+   "dcterms:title": "Luke 9:61-62 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/luke/9/61-63"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Jeremiah 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/JER16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "John Chrysostom, Homily 14 on Matthew (trans. George Prevost, rev. M. B. Riddle, Nicene and Post-Nicene Fathers, First Series, vol. 10)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/200114.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-18"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "G. H. Trever, Disciple, International Standard Bible Encyclopedia (1915)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/encyclopedias/isbe/disciple.html"
    }
   },
   {

@@ -337,6 +337,22 @@
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> .
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s11> .
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s12> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md" .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> .
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md" .
@@ -4165,6 +4181,164 @@
   <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s9> <https://schema.org/url> <https://www.vatican.va/content/john-paul-ii/en/audiences/2001/documents/hf_jp-ii_aud_20011121.html> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples#graph> {
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Mark 1:14-20, what does Jesus announce just before he calls the four fishermen, and how does that announcement explain why they are called?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What exactly do Simon and Andrew leave in Mark 1:18, and what do James and John leave in Mark 1:20? Why might Mark mention Zebedee and the hired servants?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 5:1-11, what happens between Jesus's request to use Simon's boat and Simon's words \"Depart from me, for I am a sinful man, Lord\"? What changes Simon's mind about who Jesus is?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In John 1:35-42 and 1:45-46, how does each person come to Jesus? What do \"Come, and see\" and \"We have found the Messiah\" suggest about the way faith spreads?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Elisha's call in 1 Kings 19:19-21 with the fishermen's call. What is similar, what is different, and what does that suggest about who Jesus is?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "The first disciples were ordinary working people called in the middle of their work. What \"nets\" might Jesus be asking you to leave, and what might he be asking you to bring with you?" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://purl.org/dc/terms/created> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Event> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2000/01/rdf-schema#label> "Calling of the First Disciples" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus calls four fishermen" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus calls the first disciples" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#altLabel> "call of the first disciples" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#altLabel> "calling of the fishermen" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#altLabel> "fishers of men" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#definition> "Jesus's summons of the fishermen Simon Peter and Andrew, and James and John the sons of Zebedee, beside the Sea of Galilee at the start of his ministry — \"Come after me, and I will make you into fishers for men\" — told in Mark, Matthew and Luke, with John recording an earlier first meeting near the Jordan." .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calling of the First Disciples" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/capernaum> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-john> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/great-commission> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#domain> "life-and-teachings-of-jesus" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/andrew> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/james-son-of-zebedee> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/john-son-of-zebedee> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/discipleship> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 19:19-21" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Jeremiah 16:14-18" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:35-51" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 5:1-11" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 9:61-62" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:14-21" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:29" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 4:18-22" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#occurredAt> <https://github.com/john1hsu/bible-graph/id/galilee> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <http://purl.org/dc/terms/title> "Joseph MacRory, St. Andrew, The Catholic Encyclopedia (1907)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s10> <https://schema.org/url> <https://www.newadvent.org/cathen/01471a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <http://purl.org/dc/terms/title> "Charles W. F. Smith, Fishers of Men: Footnotes on a Gospel Figure, Harvard Theological Review (1959)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s11> <https://schema.org/url> <https://core-prod.cambridgecore.org/core/journals/harvard-theological-review/article/fishers-of-men-footnotes-on-a-gospel-figure/D2F9B01474C7664586080CA50A72298B> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <http://purl.org/dc/terms/title> "Apostle Andrew, the Holy and All-Praised First-Called" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s12> <https://schema.org/url> <https://www.oca.org/saints/lives/2018/11/30/103450-apostle-andrew-the-holy-and-all-praised-first-called> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <http://purl.org/dc/terms/publisher> "Bible Odyssey" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <http://purl.org/dc/terms/title> "Fishing Economy in the Sea of Galilee" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s13> <https://schema.org/url> <https://bibleodyssey.com/articles/fishing-economy-in-the-sea-of-galilee/> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible, British Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s1> <https://schema.org/url> <https://ebible.org/engwebpb/MRK01.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <http://purl.org/dc/terms/title> "Matthew 4:18-22 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s2> <https://schema.org/url> <https://www.christianity.com/bible/web/matthew/4-18-22> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <http://purl.org/dc/terms/title> "Luke 5:1-12 (World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s3> <https://schema.org/url> <https://miamisdb.org/bible/web+kjv/luke/5/1-12> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <http://purl.org/dc/terms/title> "John 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/john/1> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <http://purl.org/dc/terms/title> "1 Kings 19 (World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s5> <https://schema.org/url> <https://miamisdb.org/bible/web+kjv/1kings/19> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <http://purl.org/dc/terms/title> "Luke 9:61-62 (World English Bible and King James Version)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s6> <https://schema.org/url> <https://miamisdb.org/bible/web+kjv/luke/9/61-63> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <http://purl.org/dc/terms/title> "Jeremiah 16 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s7> <https://schema.org/url> <https://ebible.org/eng-web/JER16.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <http://purl.org/dc/terms/title> "John Chrysostom, Homily 14 on Matthew (trans. George Prevost, rev. M. B. Riddle, Nicene and Post-Nicene Fathers, First Series, vol. 10)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s8> <https://schema.org/url> <https://www.newadvent.org/fathers/200114.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <http://purl.org/dc/terms/title> "G. H. Trever, Disciple, International Standard Bible Encyclopedia (1915)" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/calling-of-the-first-disciples/s9> <https://schema.org/url> <https://www.biblestudytools.com/encyclopedias/isbe/disciple.html> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus#graph> {
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?" .
@@ -6219,6 +6393,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/john-mark> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-books" .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-books/gospel-of-mark.md" .
@@ -10445,6 +10620,7 @@
   <https://github.com/john1hsu/bible-graph/id/ancient-near-eastern-treaties> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/andrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/andrew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/andrew> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/andrew> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/annals-of-tacitus> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
@@ -10456,9 +10632,11 @@
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/barnabas> .
@@ -10584,6 +10762,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -10596,6 +10775,17 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/capernaum> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
@@ -10680,6 +10870,7 @@
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/didache> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/dionysius-the-areopagite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
+  <https://github.com/john1hsu/bible-graph/id/discipleship> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
@@ -10695,6 +10886,7 @@
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
   <https://github.com/john1hsu/bible-graph/id/eisegesis> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/elijah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/epistle-of-barnabas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/essenes> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
@@ -10747,6 +10939,8 @@
   <https://github.com/john1hsu/bible-graph/id/galilee/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/galilee> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/general-revelation> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/genesis/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/genesis/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10789,6 +10983,7 @@
   <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/golden-calf> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
   <https://github.com/john1hsu/bible-graph/id/golden-calf> <https://github.com/john1hsu/bible-graph/ontology#follows> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-john> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-john> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-john> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -10801,6 +10996,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
@@ -10818,6 +11014,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -10835,6 +11032,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
@@ -10898,6 +11096,7 @@
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/great-commandment> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/great-commission> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/greco-roman-world> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
@@ -10965,6 +11164,7 @@
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/israelites> <https://github.com/john1hsu/bible-graph/ontology#hasMember> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/jacob> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/james-son-of-zebedee> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/jehoiachin> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/jehoiakim> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/jeremiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11005,11 +11205,14 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/jeshua-son-of-jozadak> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
@@ -11021,6 +11224,8 @@
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/john-mark> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/john-son-of-zebedee> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+  <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/joseph-son-of-jacob> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
@@ -11054,6 +11259,7 @@
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
@@ -11391,7 +11597,9 @@
   <https://github.com/john1hsu/bible-graph/id/peter/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/peter> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/phaenomena-of-aratus> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/pharisees/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -11568,6 +11776,7 @@
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+  <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
@@ -11611,6 +11820,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
+  <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .

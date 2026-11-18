@@ -29,12 +29,13 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:atonement` | Crucifixion of Jesus |
 | `bg:davidic-covenant` | The Temple |
+| `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul, Peter |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
+| `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
@@ -71,18 +72,18 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
+| `bg:calling-of-the-first-disciples` | `bg:andrew` |
+| `bg:calling-of-the-first-disciples` | `bg:james-son-of-zebedee` |
+| `bg:calling-of-the-first-disciples` | `bg:jesus` |
+| `bg:calling-of-the-first-disciples` | `bg:john-son-of-zebedee` |
+| `bg:calling-of-the-first-disciples` | `bg:john-the-baptist` |
+| `bg:calling-of-the-first-disciples` | `bg:peter` |
 | `bg:crucifixion-of-jesus` | `bg:jesus` |
 | `bg:crucifixion-of-jesus` | `bg:pontius-pilate` |
 | `bg:deuteronomy` | `bg:giving-of-the-law-at-sinai` |
 | `bg:deuteronomy` | `bg:israelites` |
-| `bg:deuteronomy` | `bg:joshua-son-of-nun` |
-| `bg:deuteronomy` | `bg:moses` |
-| `bg:genesis` | `bg:abraham` |
-| `bg:genesis` | `bg:isaac` |
-| `bg:genesis` | `bg:joseph-son-of-jacob` |
-| `bg:giving-of-the-law-at-sinai` | `bg:aaron` |
 
-…and 30 more.
+…and 37 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -94,9 +95,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:galilee` | bgo:Place |
+_No results._
 
 ## Orphan articles (gap)
 
@@ -147,7 +146,9 @@ _Which people, events and passages does the New Testament present as fulfilling 
 
 _Which written events have no period and nothing they come before or after?_ — `queries/11-events-without-period.rq`
 
-_No results._
+| node |
+|---|
+| `bg:calling-of-the-first-disciples` |
 
 ## Family trees
 

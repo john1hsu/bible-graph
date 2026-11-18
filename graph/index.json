@@ -1251,6 +1251,173 @@
   ]
  },
  {
+  "id": "bg:calling-of-the-first-disciples",
+  "title": "Calling of the First Disciples",
+  "aliases": [
+   "call of the first disciples",
+   "Jesus calls the first disciples",
+   "Jesus calls four fishermen",
+   "calling of the fishermen",
+   "fishers of men"
+  ],
+  "type": "Event",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md",
+  "created": "2026-11-18",
+  "summary": "Jesus's summons of the fishermen Simon Peter and Andrew, and James and John the sons of Zebedee, beside the Sea of Galilee at the start of his ministry — \"Come after me, and I will make you into fishers for men\" — told in Mark, Matthew and Luke, with John recording an earlier first meeting near the Jordan.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-john"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:capernaum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-jeremiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:great-commission"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:peter",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:andrew",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:james-son-of-zebedee",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:john-son-of-zebedee",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:john-the-baptist",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:occurredAt",
+    "object": "bg:galilee",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:kingdom-of-god",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:discipleship",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s9",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Mark 1:14-21",
+   "Mark 1:29",
+   "Matthew 4:18-22",
+   "Luke 5:1-11",
+   "John 1:35-51",
+   "1 Kings 19:19-21",
+   "Luke 9:61-62",
+   "Jeremiah 16:14-18"
+  ],
+  "studyQuestions": [
+   "In Mark 1:14-20, what does Jesus announce just before he calls the four fishermen, and how does that announcement explain why they are called?",
+   "What exactly do Simon and Andrew leave in Mark 1:18, and what do James and John leave in Mark 1:20? Why might Mark mention Zebedee and the hired servants?",
+   "In Luke 5:1-11, what happens between Jesus's request to use Simon's boat and Simon's words \"Depart from me, for I am a sinful man, Lord\"? What changes Simon's mind about who Jesus is?",
+   "In John 1:35-42 and 1:45-46, how does each person come to Jesus? What do \"Come, and see\" and \"We have found the Messiah\" suggest about the way faith spreads?",
+   "Compare Elisha's call in 1 Kings 19:19-21 with the fishermen's call. What is similar, what is different, and what does that suggest about who Jesus is?",
+   "The first disciples were ordinary working people called in the middle of their work. What \"nets\" might Jesus be asking you to leave, and what might he be asking you to bring with you?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/engwebpb/MRK01.htm",
+   "https://www.christianity.com/bible/web/matthew/4-18-22",
+   "https://miamisdb.org/bible/web+kjv/luke/5/1-12",
+   "https://www.christianity.com/bible/web/john/1",
+   "https://miamisdb.org/bible/web+kjv/1kings/19",
+   "https://miamisdb.org/bible/web+kjv/luke/9/61-63",
+   "https://ebible.org/eng-web/JER16.htm",
+   "https://www.newadvent.org/fathers/200114.htm",
+   "https://www.biblestudytools.com/encyclopedias/isbe/disciple.html",
+   "https://www.newadvent.org/cathen/01471a.htm",
+   "https://core-prod.cambridgecore.org/core/journals/harvard-theological-review/article/fishers-of-men-footnotes-on-a-gospel-figure/D2F9B01474C7664586080CA50A72298B",
+   "https://www.oca.org/saints/lives/2018/11/30/103450-apostle-andrew-the-holy-and-all-praised-first-called",
+   "https://bibleodyssey.com/articles/fishing-economy-in-the-sea-of-galilee/"
+  ]
+ },
+ {
   "id": "bg:crucifixion-of-jesus",
   "title": "Crucifixion of Jesus",
   "aliases": [
@@ -2573,6 +2740,12 @@
    {
     "predicate": "bgo:features",
     "object": "bg:crucifixion-of-jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:calling-of-the-first-disciples",
     "source": "s1",
     "confidence": "high"
    },

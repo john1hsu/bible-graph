@@ -293,6 +293,18 @@ Study questions:
 
 ## life-and-teachings-of-jesus
 
+### [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) — Event
+
+Read: Mark 1:14-21; Mark 1:29; Matthew 4:18-22; Luke 5:1-11; John 1:35-51; 1 Kings 19:19-21; Luke 9:61-62; Jeremiah 16:14-18
+
+Study questions:
+- In Mark 1:14-20, what does Jesus announce just before he calls the four fishermen, and how does that announcement explain why they are called?
+- What exactly do Simon and Andrew leave in Mark 1:18, and what do James and John leave in Mark 1:20? Why might Mark mention Zebedee and the hired servants?
+- In Luke 5:1-11, what happens between Jesus's request to use Simon's boat and Simon's words "Depart from me, for I am a sinful man, Lord"? What changes Simon's mind about who Jesus is?
+- In John 1:35-42 and 1:45-46, how does each person come to Jesus? What do "Come, and see" and "We have found the Messiah" suggest about the way faith spreads?
+- Compare Elisha's call in 1 Kings 19:19-21 with the fishermen's call. What is similar, what is different, and what does that suggest about who Jesus is?
+- The first disciples were ordinary working people called in the middle of their work. What "nets" might Jesus be asking you to leave, and what might he be asking you to bring with you?
+
 ### [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) — Event
 
 Read: Mark 15:1-47; Luke 23:7-11; Luke 23:26-49; John 19:16-42; Psalm 22:1; Psalm 22:18; Deuteronomy 21:23; 1 Corinthians 1:23-24; 1 Corinthians 15:3-4; Galatians 3:13; Philippians 2:8

@@ -164,6 +164,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 8:27-30** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 9:11** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **1 Kings 12:16-20** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **1 Kings 19:19-21** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 
 ## 2 Kings
 
@@ -281,6 +282,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Jeremiah 7:1-15** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Jeremiah 7:16** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Jeremiah 7:21-23** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Jeremiah 16:14-18** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Jeremiah 20:7-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 25:1-13** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Jeremiah 25:11-12** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -358,6 +360,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 4:1-11** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Matthew 4:12-25** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Matthew 4:17** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 4:18-22** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:17-18** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
@@ -406,7 +409,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 1:14-15** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 1:14-15** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Mark 1:14-15** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
+- **Mark 1:14-21** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Mark 1:16-18** — [Peter](../articles/new-testament-people/peter.md) (Person)
+- **Mark 1:29** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Mark 1:29-31** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **Mark 2:5** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 4:1-34** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
@@ -461,6 +466,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 5:1-11** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Luke 6:17-49** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 6:17-49** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Luke 7:36** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
@@ -468,6 +474,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 9:51** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 9:51** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Luke 9:51-56** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
+- **Luke 9:61-62** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **Luke 10:25-37** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 10:25-37** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Luke 10:25-37** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
@@ -508,6 +515,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **John 1:17** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **John 1:17** — [Moses](../articles/old-testament-people/moses.md) (Person)
+- **John 1:35-51** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
 - **John 1:40-44** — [Peter](../articles/new-testament-people/peter.md) (Person)
 - **John 1:46** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **John 2:18-22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)

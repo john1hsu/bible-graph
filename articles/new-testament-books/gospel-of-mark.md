@@ -21,6 +21,7 @@ relations:
   - {predicate: quotes, object: bg:psalm-22, source: s9, confidence: high}
   - {predicate: features, object: bg:peter, source: s1, confidence: high}
   - {predicate: features, object: bg:crucifixion-of-jesus, source: s1, confidence: high}
+  - {predicate: features, object: bg:calling-of-the-first-disciples, source: s1, confidence: high}
   - {predicate: preservedIn, object: bg:codex-sinaiticus, source: s2, confidence: medium}
 references: [Mark 1:1-3, Mark 1:11, Mark 2:5, Mark 4:39, Mark 1:14-15, Mark 4:11, Mark 7:3-4, Mark 8:27-38, Mark 9:7, Mark 9:31, Mark 10:33-45, Mark 12:28-34, Mark 13:9-13, Mark 14:51-52, Mark 15:34, Mark 15:39, Mark 16:1-8, Mark 16:9-20, Isaiah 40:3, Psalm 22:1, Acts 12:12, Acts 15:37-39, Colossians 4:10, 1 Peter 5:13]
 studyQuestions:
