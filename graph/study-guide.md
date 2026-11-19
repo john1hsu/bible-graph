@@ -322,6 +322,18 @@ Study questions:
 - Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?
 - Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?
 
+### [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) — Passage
+
+Read: 1 Kings 3:1-15; 1 Kings 3:16-28; 1 Kings 4:29-34; 1 Kings 11:9; 2 Chronicles 1:3-13; Wisdom 9; Matthew 6:28-33; James 1:5
+
+Study questions:
+- What does God say to Solomon in 1 Kings 3:5, and how does Solomon describe himself in 3:7-8 before he makes his request?
+- What exactly does Solomon ask for in 3:9, and what three things does God note in 3:11 that he did not ask for?
+- Which gifts in 3:12-14 are unconditional, and which one depends on Solomon walking in God's ways? How does 1 Kings 11:9 look back on this night?
+- How does the story of the two mothers in 3:16-28 show the "wisdom of God" at work "to do justice" (3:28)?
+- Solomon called himself "a little child" who did not know how to go out or come in. Where do you feel out of your depth, and what would it mean to ask God for a hearing heart there?
+- Jesus said to seek first God's Kingdom and "all these things" would be added (Matthew 6:33), and James says to ask God for wisdom (James 1:5). How do these passages echo Solomon's choice, and how do they differ from it?
+
 ### [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) — Passage
 
 Read: Genesis 22:1-19; Hebrews 11:17-19; James 2:21-23; Romans 8:32; 2 Chronicles 3:1

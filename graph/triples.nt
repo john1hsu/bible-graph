@@ -4916,6 +4916,83 @@
 <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/love> .
 <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/monotheism> .
 <https://github.com/john1hsu/bible-graph/id/shema> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What does God say to Solomon in 1 Kings 3:5, and how does Solomon describe himself in 3:7-8 before he makes his request?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What exactly does Solomon ask for in 3:9, and what three things does God note in 3:11 that he did not ask for?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Which gifts in 3:12-14 are unconditional, and which one depends on Solomon walking in God's ways? How does 1 Kings 11:9 look back on this night?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "How does the story of the two mothers in 3:16-28 show the \"wisdom of God\" at work \"to do justice\" (3:28)?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Solomon called himself \"a little child\" who did not know how to go out or come in. Where do you feel out of your depth, and what would it mean to ask God for a hearing heart there?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus said to seek first God's Kingdom and \"all these things\" would be added (Matthew 6:33), and James says to ask God for wisdom (James 1:5). How do these passages echo Solomon's choice, and how do they differ from it?" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2000/01/rdf-schema#label> "Solomon's Dream at Gibeon" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "Gibeon dream" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "Solomon asks for wisdom" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "Solomon's prayer for wisdom" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "Solomon's request for wisdom" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "lev shomea" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "the dream at Gibeon" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "the hearing heart" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#altLabel> "the listening heart" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#definition> "1 Kings 3:1-15, where God appears to the young King Solomon in a dream at Gibeon and says \"Ask what I shall give you\"; Solomon asks not for long life, riches or victory but for \"an understanding heart\" (literally a hearing heart) to judge God's people, and God gives him wisdom and the riches and honour he did not ask for, a gift shown at once in the judgement between two mothers (3:16-28)." .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Solomon's Dream at Gibeon" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-wisdom> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomistic-history> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/prayer> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/wisdom-literature> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/ancient-near-east> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/gibeon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/solomon> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/solomons-dream-at-gibeon.md" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 11:9" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 3:1-15" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 3:16-28" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 4:29-34" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Chronicles 1:3-13" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "James 1:5" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 6:28-33" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Wisdom 9" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/2-chronicles> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/davidic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/wisdom> .
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Exodus 14:31 says the people \"feared Yahweh\" and believed. How does the song that follows in Exodus 15:1 turn that fear and faith into worship?" .
 <https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
@@ -11000,6 +11077,90 @@
 <https://github.com/john1hsu/bible-graph/id/source/shema/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/shema/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
 <https://github.com/john1hsu/bible-graph/id/source/shema/s9> <https://schema.org/url> <https://jewishencyclopedia.com/articles/13548-shema> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <http://purl.org/dc/terms/title> "Solomon (Emil G. Hirsch, Ira Maurice Price, Wilhelm Bacher, M. Seligsohn, Mary W. Montgomery, Crawford Howell Toy, Jewish Encyclopedia, 1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/13842-solomon.html> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <http://purl.org/dc/terms/title> "Solomon (Gabriel Oussani, Catholic Encyclopedia, 1912)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11> <https://schema.org/url> <https://newadvent.org/cathen/14135b.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <http://purl.org/dc/terms/title> "Solomon (Encyclopedia of The Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Solomon> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <http://purl.org/dc/terms/publisher> "TheTorah.com (Project TABS)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <http://purl.org/dc/terms/title> "Solomon's Divine Wisdom: Legitimizing His Kingship (Ruth Fidler)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13> <https://schema.org/url> <https://thetorah.com/article/solomons-divine-wisdom-legitimizing-his-kingship> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <http://purl.org/dc/terms/publisher> "Catholic Answers" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <http://purl.org/dc/terms/title> "Book of Wisdom (Francis E. Gigot, Catholic Encyclopedia, 1912)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14> <https://schema.org/url> <https://www.catholic.com/encyclopedia/book-of-wisdom> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <http://purl.org/dc/terms/title> "1 Kings 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1> <https://schema.org/url> <https://bibliaparalela.com/web/1_kings/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <http://purl.org/dc/terms/title> "1 Kings 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2> <https://schema.org/url> <https://bibliaparalela.com/web/1_kings/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <http://purl.org/dc/terms/title> "2 Chronicles 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3> <https://schema.org/url> <https://bibliaparalela.com/web/2_chronicles/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <http://purl.org/dc/terms/title> "1 Kings 11:9 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/1-kings/11-9> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <http://purl.org/dc/terms/publisher> "MiamiSDB.org" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <http://purl.org/dc/terms/title> "Matthew 6 (World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5> <https://schema.org/url> <https://miamisdb.org/bible/web+kjv/matt/6> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <http://purl.org/dc/terms/title> "James 1:5-7 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6> <https://schema.org/url> <https://www.christianity.com/bible/web/james/1-5-7> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <http://purl.org/dc/terms/title> "Wisdom 9 (New American Bible, Revised Edition, with notes)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7> <https://schema.org/url> <https://bible.usccb.org/bible/wisdom/9> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <http://purl.org/dc/terms/title> "1 Kings 3:9 (Hebrew text analysis)" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8> <https://schema.org/url> <https://biblehub.com/text/1_kings/3-9.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <http://purl.org/dc/terms/publisher> "United Bible Societies" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <http://purl.org/dc/terms/title> "Translations with a Hebraic voice (1 Kings 3:9), Translation Insights and Perspectives" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9> <https://schema.org/url> <https://tips.translation.bible/tip_verse/1kgs-39/> .
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/publisher> "Saint Louis University, Liturgy" .
 <https://github.com/john1hsu/bible-graph/id/source/song-of-the-sea/s10> <http://purl.org/dc/terms/title> "Easter Vigil: Scripture in Depth (Reginald H. Fuller, from Preaching the Lectionary, Liturgical Press)" .

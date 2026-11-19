@@ -8896,6 +8896,151 @@
    ]
   },
   {
+   "@id": "bg:solomons-dream-at-gibeon",
+   "@type": "bgo:Passage",
+   "bgo:basis": "scriptural",
+   "bgo:domain": "key-passages",
+   "bgo:explainedBy": {
+    "@id": "bg:ancient-near-east"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:gibeon"
+    },
+    {
+     "@id": "bg:solomon"
+    }
+   ],
+   "bgo:file": "articles/key-passages/solomons-dream-at-gibeon.md",
+   "bgo:keyReference": [
+    "1 Kings 11:9",
+    "1 Kings 3:1-15",
+    "1 Kings 3:16-28",
+    "1 Kings 4:29-34",
+    "2 Chronicles 1:3-13",
+    "James 1:5",
+    "Matthew 6:28-33",
+    "Wisdom 9"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:2-chronicles"
+   },
+   "bgo:partOf": {
+    "@id": "bg:1-kings"
+   },
+   "bgo:requires": {
+    "@id": "bg:1-kings"
+   },
+   "bgo:teaches": [
+    {
+     "@id": "bg:davidic-covenant"
+    },
+    {
+     "@id": "bg:wisdom"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9"
+    }
+   ],
+   "rdfs:label": "Solomon's Dream at Gibeon",
+   "skos:altLabel": [
+    "Gibeon dream",
+    "Solomon asks for wisdom",
+    "Solomon's prayer for wisdom",
+    "Solomon's request for wisdom",
+    "lev shomea",
+    "the dream at Gibeon",
+    "the hearing heart",
+    "the listening heart"
+   ],
+   "skos:broader": {
+    "@id": "bg:1-kings"
+   },
+   "skos:definition": "1 Kings 3:1-15, where God appears to the young King Solomon in a dream at Gibeon and says \"Ask what I shall give you\"; Solomon asks not for long life, riches or victory but for \"an understanding heart\" (literally a hearing heart) to judge God's people, and God gives him wisdom and the riches and honour he did not ask for, a gift shown at once in the judgement between two mothers (3:16-28).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages"
+   },
+   "skos:prefLabel": "Solomon's Dream at Gibeon",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-wisdom"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:deuteronomistic-history"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    },
+    {
+     "@id": "bg:prayer"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    },
+    {
+     "@id": "bg:solomon"
+    },
+    {
+     "@id": "bg:the-temple"
+    },
+    {
+     "@id": "bg:wisdom-literature"
+    }
+   ]
+  },
+  {
    "@id": "bg:song-of-the-sea",
    "@type": "bgo:Passage",
    "bgo:basis": "debated",
@@ -12887,6 +13032,54 @@
     "@id": "bg:shema"
    },
    "rdfs:label": "James 2:19 says even the demons believe that God is one. What is the difference between agreeing with the Shema and living it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "What does God say to Solomon in 1 Kings 3:5, and how does Solomon describe himself in 3:7-8 before he makes his request?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "What exactly does Solomon ask for in 3:9, and what three things does God note in 3:11 that he did not ask for?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "Which gifts in 3:12-14 are unconditional, and which one depends on Solomon walking in God's ways? How does 1 Kings 11:9 look back on this night?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "How does the story of the two mothers in 3:16-28 show the \"wisdom of God\" at work \"to do justice\" (3:28)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "Solomon called himself \"a little child\" who did not know how to go out or come in. Where do you feel out of your depth, and what would it mean to ask God for a hearing heart there?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:solomons-dream-at-gibeon"
+   },
+   "rdfs:label": "Jesus said to seek first God's Kingdom and \"all these things\" would be added (Matthew 6:33), and James says to ask God for wisdom (James 1:5). How do these passages echo Solomon's choice, and how do they differ from it?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/song-of-the-sea/check/1",
@@ -26976,6 +27169,202 @@
    "dcterms:title": "Shema (Kaufmann Kohler and Judah David Eisenstein), Jewish Encyclopedia (1906)",
    "schema:url": {
     "@id": "https://jewishencyclopedia.com/articles/13548-shema"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Kings 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/1_kings/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Solomon (Emil G. Hirsch, Ira Maurice Price, Wilhelm Bacher, M. Seligsohn, Mary W. Montgomery, Crawford Howell Toy, Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/13842-solomon.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Solomon (Gabriel Oussani, Catholic Encyclopedia, 1912)",
+   "schema:url": {
+    "@id": "https://newadvent.org/cathen/14135b.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Solomon (Encyclopedia of The Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Solomon"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "TheTorah.com (Project TABS)",
+   "dcterms:title": "Solomon's Divine Wisdom: Legitimizing His Kingship (Ruth Fidler)",
+   "schema:url": {
+    "@id": "https://thetorah.com/article/solomons-divine-wisdom-legitimizing-his-kingship"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Catholic Answers",
+   "dcterms:title": "Book of Wisdom (Francis E. Gigot, Catholic Encyclopedia, 1912)",
+   "schema:url": {
+    "@id": "https://www.catholic.com/encyclopedia/book-of-wisdom"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Kings 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/1_kings/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "2 Chronicles 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/2_chronicles/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "1 Kings 11:9 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/1-kings/11-9"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "MiamiSDB.org",
+   "dcterms:title": "Matthew 6 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/web+kjv/matt/6"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "James 1:5-7 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/james/1-5-7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Wisdom 9 (New American Bible, Revised Edition, with notes)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/wisdom/9"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 3:9 (Hebrew text analysis)",
+   "schema:url": {
+    "@id": "https://biblehub.com/text/1_kings/3-9.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/solomons-dream-at-gibeon/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United Bible Societies",
+   "dcterms:title": "Translations with a Hebraic voice (1 Kings 3:9), Translation Insights and Perspectives",
+   "schema:url": {
+    "@id": "https://tips.translation.bible/tip_verse/1kgs-39/"
    }
   },
   {

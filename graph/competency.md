@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:1-kings` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -30,7 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:atonement` | Crucifixion of Jesus |
-| `bg:davidic-covenant` | 1 Kings, Bethlehem, The Temple |
+| `bg:davidic-covenant` | 1 Kings, Bethlehem, Solomon's Dream at Gibeon, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
@@ -48,6 +46,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:redemption` | The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
+| `bg:wisdom` | Solomon's Dream at Gibeon |
 | `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
 
 ## Who and what appears where
@@ -87,7 +86,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:calling-of-the-first-disciples` | `bg:john-son-of-zebedee` |
 | `bg:calling-of-the-first-disciples` | `bg:john-the-baptist` |
 
-…and 44 more.
+…and 46 more.
 
 ## Popular misconceptions and what corrects them
 

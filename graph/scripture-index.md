@@ -173,8 +173,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **1 Kings 1:38-40** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 2:35** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **1 Kings 3:1-15** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **1 Kings 3:5-14** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 3:16-28** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
+- **1 Kings 3:16-28** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
+- **1 Kings 4:29-34** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **1 Kings 6** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **1 Kings 6:1** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Kings 6:11-13** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
@@ -185,6 +188,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 9:11** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **1 Kings 10:1-10** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 11:1-13** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
+- **1 Kings 11:9** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **1 Kings 11:29-31** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 12:1-20** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 12:16-20** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
@@ -215,6 +219,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Chronicles
 
+- **2 Chronicles 1:3-13** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Chronicles 3:1** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **2 Chronicles 3:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
@@ -407,6 +412,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Tobit 3:8** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 
+## Wisdom of Solomon
+
+- **Wisdom 9** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
+
 ## Matthew
 
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
@@ -441,6 +450,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 6:12-15** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Matthew 6:19-34** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Matthew 6:28-29** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
+- **Matthew 6:28-33** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **Matthew 7:1-29** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 7:28-29** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 8:1** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -869,6 +879,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## James
 
+- **James 1:5** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **James 1:13** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **James 1:22-25** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **James 2:1-9** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)

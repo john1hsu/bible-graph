@@ -8604,6 +8604,155 @@
   ]
  },
  {
+  "id": "bg:solomons-dream-at-gibeon",
+  "title": "Solomon's Dream at Gibeon",
+  "aliases": [
+   "Solomon's prayer for wisdom",
+   "Solomon asks for wisdom",
+   "Solomon's request for wisdom",
+   "the dream at Gibeon",
+   "Gibeon dream",
+   "the hearing heart",
+   "the listening heart",
+   "lev shomea"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/key-passages/solomons-dream-at-gibeon.md",
+  "created": "2026-11-19",
+  "summary": "1 Kings 3:1-15, where God appears to the young King Solomon in a dream at Gibeon and says \"Ask what I shall give you\"; Solomon asks not for long life, riches or victory but for \"an understanding heart\" (literally a hearing heart) to judge God's people, and God gives him wisdom and the riches and honour he did not ask for, a gift shown at once in the judgement between two mothers (3:16-28).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:1-kings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:solomon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:david"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:wisdom-literature"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:kingdom-of-god"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomistic-history"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:1-kings"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:1-kings",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:solomon",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:gibeon",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:2-chronicles",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:wisdom",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:davidic-covenant",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:ancient-near-east",
+    "source": "s13",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "1 Kings 3:1-15",
+   "1 Kings 3:16-28",
+   "1 Kings 4:29-34",
+   "1 Kings 11:9",
+   "2 Chronicles 1:3-13",
+   "Wisdom 9",
+   "Matthew 6:28-33",
+   "James 1:5"
+  ],
+  "studyQuestions": [
+   "What does God say to Solomon in 1 Kings 3:5, and how does Solomon describe himself in 3:7-8 before he makes his request?",
+   "What exactly does Solomon ask for in 3:9, and what three things does God note in 3:11 that he did not ask for?",
+   "Which gifts in 3:12-14 are unconditional, and which one depends on Solomon walking in God's ways? How does 1 Kings 11:9 look back on this night?",
+   "How does the story of the two mothers in 3:16-28 show the \"wisdom of God\" at work \"to do justice\" (3:28)?",
+   "Solomon called himself \"a little child\" who did not know how to go out or come in. Where do you feel out of your depth, and what would it mean to ask God for a hearing heart there?",
+   "Jesus said to seek first God's Kingdom and \"all these things\" would be added (Matthew 6:33), and James says to ask God for wisdom (James 1:5). How do these passages echo Solomon's choice, and how do they differ from it?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/1_kings/3.htm",
+   "https://bibliaparalela.com/web/1_kings/4.htm",
+   "https://bibliaparalela.com/web/2_chronicles/1.htm",
+   "https://www.christianity.com/bible/web/1-kings/11-9",
+   "https://miamisdb.org/bible/web+kjv/matt/6",
+   "https://www.christianity.com/bible/web/james/1-5-7",
+   "https://bible.usccb.org/bible/wisdom/9",
+   "https://biblehub.com/text/1_kings/3-9.htm",
+   "https://tips.translation.bible/tip_verse/1kgs-39/",
+   "https://www.jewishencyclopedia.com/articles/13842-solomon.html",
+   "https://newadvent.org/cathen/14135b.htm",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Solomon",
+   "https://thetorah.com/article/solomons-divine-wisdom-legitimizing-his-kingship",
+   "https://www.catholic.com/encyclopedia/book-of-wisdom"
+  ]
+ },
+ {
   "id": "bg:song-of-the-sea",
   "title": "The Song of the Sea",
   "aliases": [
