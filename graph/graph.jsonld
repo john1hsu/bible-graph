@@ -9881,6 +9881,169 @@
    ]
   },
   {
+   "@id": "bg:synagogue",
+   "@type": "bgo:Place",
+   "bgo:basis": "debated",
+   "bgo:complements": {
+    "@id": "bg:the-temple"
+   },
+   "bgo:corroboratedBy": [
+    {
+     "@id": "bg:against-apion"
+    },
+    {
+     "@id": "bg:theodotus-inscription"
+    }
+   ],
+   "bgo:domain": "background-and-culture",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/background-and-culture/synagogue.md",
+   "bgo:illustrates": {
+    "@id": "bg:worship"
+   },
+   "bgo:keyReference": [
+    "Acts 13:14-16",
+    "Acts 15:21",
+    "Acts 17:1-3",
+    "James 2:2",
+    "Luke 4:16-21",
+    "Luke 4:31-33",
+    "Luke 7:5",
+    "Mark 1:21-22",
+    "Mark 1:39",
+    "Mark 5:22",
+    "Nehemiah 8:1-8"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s9"
+    }
+   ],
+   "rdfs:label": "Synagogue",
+   "skos:altLabel": [
+    "beit knesset",
+    "bet knesset",
+    "house of prayer and study",
+    "prayer house",
+    "proseuche",
+    "synagoge",
+    "synagogues"
+   ],
+   "skos:broader": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "skos:definition": "The Jewish local assembly, and the building it met in, where in Jesus's day the Law and the Prophets were read and taught each Sabbath; found in villages of Galilee and Judea and in cities across the Diaspora, it is where Jesus first announced his mission and where Paul usually began preaching.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/background-and-culture"
+   },
+   "skos:prefLabel": "Synagogue",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-nehemiah"
+    },
+    {
+     "@id": "bg:capernaum"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:pharisees"
+    },
+    {
+     "@id": "bg:prayer"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:sabbath"
+    },
+    {
+     "@id": "bg:shema"
+    }
+   ]
+  },
+  {
    "@id": "bg:textual-criticism",
    "@type": "bgo:Field",
    "bgo:basis": "debated",
@@ -29627,6 +29790,272 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "James 2:2 (parallel translations, WEB, KJV, ASV, with Greek note)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/james/2-2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Cambridge University Press",
+   "dcterms:title": "The Temple and the Synagogue (Shaye J. D. Cohen), in The Cambridge History of Judaism",
+   "schema:url": {
+    "@id": "https://www.cambridge.org/core/books/abs/cambridge-history-of-judaism/temple-and-the-synagogue/AFA83581E6314B2CB8AAA104802B7EC7"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Associations in the Greco-Roman World (Philip A. Harland)",
+   "dcterms:title": "Dedication of a Synagogue by Theodotos (CIJ II 1404), trans. John S. Kloppenborg",
+   "schema:url": {
+    "@id": "https://philipharland.com/greco-roman-associations/270-dedication-of-a-synagogue-by-theodotos/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Inscriptions of Israel/Palestine",
+   "dcterms:title": "The Synagogue as a Waypoint for Travellers",
+   "schema:url": {
+    "@id": "https://www.inscriptionsisraelpalestine.org/?p=74"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society",
+   "dcterms:title": "The First Synagogues (Yonatan Adler)",
+   "schema:url": {
+    "@id": "https://library.biblicalarchaeology.org/sidebar/the-first-synagogues/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblical Archaeology Society, Bible History Daily",
+   "dcterms:title": "Archaeologists Discover New First-Century Synagogue in Magdala, Israel (Nathan Steinmeyer)",
+   "schema:url": {
+    "@id": "https://www.biblicalarchaeology.org/daily/new-first-century-synagogue/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "My Jewish Learning",
+   "dcterms:title": "The Synagogue and the Study House (Jeffrey Spitzer)",
+   "schema:url": {
+    "@id": "https://www.myjewishlearning.com/article/the-synagogue-and-the-study-house/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Lexundria",
+   "dcterms:title": "Josephus, Against Apion 2.175 (trans. William Whiston)",
+   "schema:url": {
+    "@id": "https://lexundria.com/j_ap/2.175/wst"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bibliothek der Kirchenväter, University of Fribourg",
+   "dcterms:title": "Justin Martyr, First Apology 67",
+   "schema:url": {
+    "@id": "https://bkv.unifr.ch/works/cpg-1073a/compare/apologia-prima/68/the-first-apology-of-justin"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Center for Online Judaic Studies",
+   "dcterms:title": "Theodotus Inscription, 1st century CE",
+   "schema:url": {
+    "@id": "https://cojs.org/?p=8282"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 4:16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/4-16.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Mark 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/mark/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 5:22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/5-22"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 7:5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/7-5.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/acts/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Acts 15:21 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/acts/15-21"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Acts 17:2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/acts/17-2.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Nehemiah 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/nehemiah/8.htm"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/textual-criticism/s1",
    "@type": "bgo:Source",
    "bgo:sourceType": "encyclopedia",
@@ -30617,6 +31046,38 @@
     "@id": "bg:suffering-and-lament"
    },
    "rdfs:label": "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/synagogue/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:synagogue"
+   },
+   "rdfs:label": "In Luke 4:16-21, what does Jesus do in the Nazareth synagogue, step by step, and what does he say has happened \"today\"?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/synagogue/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:synagogue"
+   },
+   "rdfs:label": "According to Acts 13:15 and Acts 15:21, what was read in the synagogue every Sabbath, and how did that give Paul an opening to speak?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/synagogue/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:synagogue"
+   },
+   "rdfs:label": "Compare Nehemiah 8:1-8 with Luke 4:16-21. What do the two scenes share in how Scripture is read and explained to God's people?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/synagogue/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:synagogue"
+   },
+   "rdfs:label": "Luke says Jesus went to the synagogue \"as was his custom\" (Luke 4:16). What would it look like for regular, shared hearing of Scripture to become a custom in your own life or small group?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/textual-criticism/check/1",

@@ -49,7 +49,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:wisdom` | Solomon's Dream at Gibeon |
-| `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple |
+| `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple, Synagogue |
 
 ## Who and what appears where
 
@@ -100,7 +100,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:synagogue` | bgo:Place |
 
 ## Orphan articles (gap)
 

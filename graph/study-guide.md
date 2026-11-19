@@ -44,6 +44,16 @@ Study questions:
 - Acts 23:6-8 shows Pharisees and Sadducees disagreeing about the resurrection. What does that suggest about how varied Jewish belief was in Paul's day?
 - Which familiar Gospel scenes (a synagogue reading, a Temple feast, a debate with Pharisees) do you now picture differently, and why might knowing Jesus's Jewish world deepen your reading of him?
 
+### [Synagogue](../articles/background-and-culture/synagogue.md) — Place
+
+Read: Luke 4:16-21; Luke 4:31-33; Mark 1:21-22; Mark 1:39; Mark 5:22; Luke 7:5; Acts 13:14-16; Acts 15:21; Acts 17:1-3; Nehemiah 8:1-8; James 2:2
+
+Study questions:
+- In Luke 4:16-21, what does Jesus do in the Nazareth synagogue, step by step, and what does he say has happened "today"?
+- According to Acts 13:15 and Acts 15:21, what was read in the synagogue every Sabbath, and how did that give Paul an opening to speak?
+- Compare Nehemiah 8:1-8 with Luke 4:16-21. What do the two scenes share in how Scripture is read and explained to God's people?
+- Luke says Jesus went to the synagogue "as was his custom" (Luke 4:16). What would it look like for regular, shared hearing of Scripture to become a custom in your own life or small group?
+
 ## bible-basics
 
 ### [Biblical Canon](../articles/bible-basics/biblical-canon.md) — Concept

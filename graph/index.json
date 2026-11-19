@@ -9552,6 +9552,162 @@
   ]
  },
  {
+  "id": "bg:synagogue",
+  "title": "Synagogue",
+  "aliases": [
+   "synagogues",
+   "synagoge",
+   "proseuche",
+   "prayer house",
+   "house of prayer and study",
+   "beit knesset",
+   "bet knesset"
+  ],
+  "type": "Place",
+  "domain": "background-and-culture",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/background-and-culture/synagogue.md",
+  "created": "2026-11-19",
+  "summary": "The Jewish local assembly, and the building it met in, where in Jesus's day the Law and the Prophets were read and taught each Sabbath; found in villages of Galilee and Judea and in cities across the Diaspora, it is where Jesus first announced his mission and where Paul usually began preaching.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:capernaum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sabbath"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pharisees"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shema"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-nehemiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:the-temple",
+    "source": "s11",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:theodotus-inscription",
+    "source": "s12",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:against-apion",
+    "source": "s17",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:worship",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s14",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Luke 4:16-21",
+   "Luke 4:31-33",
+   "Mark 1:21-22",
+   "Mark 1:39",
+   "Mark 5:22",
+   "Luke 7:5",
+   "Acts 13:14-16",
+   "Acts 15:21",
+   "Acts 17:1-3",
+   "Nehemiah 8:1-8",
+   "James 2:2"
+  ],
+  "studyQuestions": [
+   "In Luke 4:16-21, what does Jesus do in the Nazareth synagogue, step by step, and what does he say has happened \"today\"?",
+   "According to Acts 13:15 and Acts 15:21, what was read in the synagogue every Sabbath, and how did that give Paul an opening to speak?",
+   "Compare Nehemiah 8:1-8 with Luke 4:16-21. What do the two scenes share in how Scripture is read and explained to God's people?",
+   "Luke says Jesus went to the synagogue \"as was his custom\" (Luke 4:16). What would it look like for regular, shared hearing of Scripture to become a custom in your own life or small group?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/luke/4.htm",
+   "https://www.biblestudytools.com/web/luke/4-16.html",
+   "https://www.bibliaparalela.com/web/mark/1.htm",
+   "https://www.christianity.com/bible/web/mark/5-22",
+   "https://www.biblestudytools.com/web/luke/7-5.html",
+   "https://biblehub.com/web/acts/13.htm",
+   "https://www.christianity.com/bible/web/acts/15-21",
+   "https://www.biblestudytools.com/web/acts/17-2.html",
+   "https://biblehub.com/web/nehemiah/8.htm",
+   "https://biblehub.com/parallel/james/2-2.htm",
+   "https://www.cambridge.org/core/books/abs/cambridge-history-of-judaism/temple-and-the-synagogue/AFA83581E6314B2CB8AAA104802B7EC7",
+   "https://philipharland.com/greco-roman-associations/270-dedication-of-a-synagogue-by-theodotos/",
+   "https://www.inscriptionsisraelpalestine.org/?p=74",
+   "https://library.biblicalarchaeology.org/sidebar/the-first-synagogues/",
+   "https://www.biblicalarchaeology.org/daily/new-first-century-synagogue/",
+   "https://www.myjewishlearning.com/article/the-synagogue-and-the-study-house/",
+   "https://lexundria.com/j_ap/2.175/wst",
+   "https://bkv.unifr.ch/works/cpg-1073a/compare/apologia-prima/68/the-first-apology-of-justin",
+   "https://cojs.org/?p=8282"
+  ]
+ },
+ {
   "id": "bg:textual-criticism",
   "title": "Textual Criticism",
   "aliases": [
