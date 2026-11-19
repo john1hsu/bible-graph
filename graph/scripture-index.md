@@ -28,6 +28,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 16:1-16** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 17:1-19** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 17:1-27** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
+- **Genesis 17:7** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **Genesis 18:1-33** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 21:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Genesis 22:1-18** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
@@ -709,6 +710,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:1-4** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
 - **Acts 2:1-47** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **Acts 2:14-41** — [Peter](../articles/new-testament-people/peter.md) (Person)
+- **Acts 2:39** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:42** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
@@ -807,6 +809,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 11:17-29** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Romans 11:28-29** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 11:28-29** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
+- **Romans 11:36** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -821,6 +824,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 9:6** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **1 Corinthians 10:1-11** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
+- **1 Corinthians 10:16** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **1 Corinthians 12:13** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **1 Corinthians 15:3-4** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
@@ -859,7 +863,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Ephesians
 
+- **Ephesians 1:4-6** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **Ephesians 2:8-10** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Ephesians 2:20** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **Ephesians 4:31-32** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 
 ## Philippians
@@ -898,6 +904,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **2 Timothy 2:15** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **2 Timothy 3:14-17** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **2 Timothy 3:14-17** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
+- **2 Timothy 3:14-17** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **2 Timothy 3:15** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 

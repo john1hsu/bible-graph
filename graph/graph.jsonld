@@ -8512,6 +8512,165 @@
    ]
   },
   {
+   "@id": "bg:reformed-tradition",
+   "@type": "bgo:Tradition",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:domain": "interpretation",
+   "bgo:file": "articles/interpretation/reformed-tradition.md",
+   "bgo:introducedBy": [
+    {
+     "@id": "bg:huldrych-zwingli"
+    },
+    {
+     "@id": "bg:john-calvin"
+    }
+   ],
+   "bgo:introducedIn": [
+    {
+     "@id": "bg:heidelberg-catechism"
+    },
+    {
+     "@id": "bg:westminster-confession-of-faith"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Corinthians 10:16",
+    "2 Timothy 3:14-17",
+    "Acts 2:39",
+    "Ephesians 1:4-6",
+    "Ephesians 2:20",
+    "Genesis 17:7",
+    "Romans 11:36"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s9"
+    }
+   ],
+   "rdfs:label": "Reformed Tradition",
+   "skos:altLabel": [
+    "Calvinism",
+    "Calvinist tradition",
+    "Presbyterian tradition",
+    "Reformed Christianity",
+    "Reformed and Presbyterian churches",
+    "Reformed churches"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:biblical-interpretation"
+    },
+    {
+     "@id": "bg:protestantism"
+    }
+   ],
+   "skos:definition": "The family of Protestant churches, Reformed on the European continent and Presbyterian in much of the English-speaking world, that grew from the sixteenth-century Swiss Reformation of Zwingli and Calvin: it confesses Scripture as the rule of faith and life, attested by the Holy Spirit and interpreted by Scripture itself, reads the whole Bible as one covenant of grace in Christ, and seeks to give the glory to God alone.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Reformed Tradition",
+   "skos:related": [
+    {
+     "@id": "bg:abrahamic-covenant"
+    },
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:covenant"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ]
+  },
+  {
    "@id": "bg:ruths-vow-to-naomi",
    "@type": "bgo:Passage",
    "bgo:basis": "scriptural",
@@ -13638,6 +13797,46 @@
    "@type": "schema:HowToStep",
    "schema:position": 7,
    "schema:text": "Only then ask what the passage means for you or your church, applying it in a way its first readers would recognise as faithful to it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reformed-tradition/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reformed-tradition"
+   },
+   "rdfs:label": "Read 2 Timothy 3:14-17. What does Paul say the sacred writings are able to do for Timothy, and what is every Scripture useful for?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reformed-tradition/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reformed-tradition"
+   },
+   "rdfs:label": "In Ephesians 1:4-6, what did God do \"before the foundation of the world\", and to what end? Why might the Westminster Confession ask that this teaching be handled with special care?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reformed-tradition/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reformed-tradition"
+   },
+   "rdfs:label": "Compare Genesis 17:7 with Acts 2:39. What does each promise say about children? How does the Heidelberg Catechism use the two verses, and what questions would you want to ask about how far the comparison goes?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reformed-tradition/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reformed-tradition"
+   },
+   "rdfs:label": "Paul asks in 1 Corinthians 10:16 whether the bread is a \"communion\" of Christ's body. How do Reformed and Lutheran Christians each try to do justice to that verse?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/reformed-tradition/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:reformed-tradition"
+   },
+   "rdfs:label": "Calvin prized \"lucid brevity\" in an interpreter. For a passage you are studying, can you state its author's main point in one or two plain sentences?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/1",
@@ -27865,6 +28064,286 @@
    "dcterms:title": "What Does Jeremiah 29:11 Mean? (\"For I Know the Plans I Have for You\")",
    "schema:url": {
     "@id": "https://bibleproject.com/blog/what-does-jeremiah-2911-mean-i-know-plans-i-have-you"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Timothy 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_timothy/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "American Scientific Affiliation (Westminster Standards collection)",
+   "dcterms:title": "Westminster Confession of Faith (full text, chapters 1-32)",
+   "schema:url": {
+    "@id": "https://www.asa3.org/gray/westminster_standards/WCF.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "heidelberg-catechism.com (text of the Canadian Reformed Churches' Book of Praise)",
+   "dcterms:title": "Heidelberg Catechism, Lord's Day 27 (Questions 72-74)",
+   "schema:url": {
+    "@id": "https://www.heidelberg-catechism.com/en/lords-days/27.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "heidelberg-catechism.com (text of the Canadian Reformed Churches' Book of Praise)",
+   "dcterms:title": "Heidelberg Catechism, Lord's Day 29 (Questions 78-79)",
+   "schema:url": {
+    "@id": "https://www.heidelberg-catechism.com/en/lords-days/29.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "John Calvin, Institutes of the Christian Religion, book 1, chapter 7 (tr. Henry Beveridge)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/calvin/institutes.iii.viii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "John Calvin, Commentary on Romans, dedicatory epistle to Simon Grynaeus (1539)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/calvin/calcom38.iii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "AOSIS",
+   "dcterms:title": "V. E. d'Assonville, \"Calvin as an exegete of Scripture: a few remarks with reference to Calvin research in general\", In die Skriflig 44 (2010), doi:10.4102/ids.v44i0.185",
+   "schema:url": {
+    "@id": "https://library.aosis.co.za/index.php/record/view/14260"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Westminster Seminary California",
+   "dcterms:title": "Calvin as Biblical Interpreter",
+   "schema:url": {
+    "@id": "https://www.wscal.edu/resources/article/calvin-as-biblical-interpreter/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Philip Schaff, History of the Christian Church, vol. 8, chapter 3, section 11, \"Zwingli's Public Labors and Private Studies\"",
+   "schema:url": {
+    "@id": "https://ccel.org/s/schaff/history/8_ch03.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "EWTN",
+   "dcterms:title": "Pope Leo XIV, general audience catechesis on Dei Verbum, \"A Single Deposit\" (28 January 2026)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/dogmatic-constitution-dei-verbum-a-single-deposit-28453"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Scripture and Tradition (pamphlet, 2021)",
+   "schema:url": {
+    "@id": "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ephesians 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ephesians/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Formula of Concord, Epitome, Article VII, \"The Holy Supper of Christ\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Genesis 17 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/genesis/17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Acts 2:39 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/acts/2-39"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Corinthians 10:16 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/asv/1_corinthians/10-16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Romans 11:36 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/romans/11-36.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Ephesians 2:20 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/ephesians/2-20.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Reformed and Presbyterian churches",
+   "schema:url": {
+    "@id": "https://www.britannica.com/print/article/475062"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/reformed-tradition/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "creeds.net",
+   "dcterms:title": "Westminster Confession of Faith, chapter 1, \"Of the Holy Scripture\"",
+   "schema:url": {
+    "@id": "https://www.creeds.net/reformed/Westminster/c01.htm"
    }
   },
   {

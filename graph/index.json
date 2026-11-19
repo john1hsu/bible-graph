@@ -8204,6 +8204,147 @@
   ]
  },
  {
+  "id": "bg:reformed-tradition",
+  "title": "Reformed Tradition",
+  "aliases": [
+   "Reformed Christianity",
+   "Reformed churches",
+   "Calvinism",
+   "Calvinist tradition",
+   "Presbyterian tradition",
+   "Reformed and Presbyterian churches"
+  ],
+  "type": "Tradition",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/reformed-tradition.md",
+  "created": "2026-11-19",
+  "summary": "The family of Protestant churches, Reformed on the European continent and Presbyterian in much of the English-speaking world, that grew from the sixteenth-century Swiss Reformation of Zwingli and Calvin: it confesses Scripture as the rule of faith and life, attested by the Holy Spirit and interpreted by Scripture itself, reads the whole Bible as one covenant of grace in Christ, and seeks to give the glory to God alone.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:protestantism"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-interprets-scripture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abrahamic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:john-calvin",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:huldrych-zwingli",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:westminster-confession-of-faith",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:heidelberg-catechism",
+    "source": "s8",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "2 Timothy 3:14-17",
+   "Ephesians 1:4-6",
+   "Ephesians 2:20",
+   "Romans 11:36",
+   "Genesis 17:7",
+   "Acts 2:39",
+   "1 Corinthians 10:16"
+  ],
+  "studyQuestions": [
+   "Read 2 Timothy 3:14-17. What does Paul say the sacred writings are able to do for Timothy, and what is every Scripture useful for?",
+   "In Ephesians 1:4-6, what did God do \"before the foundation of the world\", and to what end? Why might the Westminster Confession ask that this teaching be handled with special care?",
+   "Compare Genesis 17:7 with Acts 2:39. What does each promise say about children? How does the Heidelberg Catechism use the two verses, and what questions would you want to ask about how far the comparison goes?",
+   "Paul asks in 1 Corinthians 10:16 whether the bread is a \"communion\" of Christ's body. How do Reformed and Lutheran Christians each try to do justice to that verse?",
+   "Calvin prized \"lucid brevity\" in an interpreter. For a passage you are studying, can you state its author's main point in one or two plain sentences?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/2_timothy/3.htm",
+   "https://biblehub.com/web/ephesians/1.htm",
+   "https://www.bibliaparalela.com/web/genesis/17.htm",
+   "https://www.christianity.com/bible/web/acts/2-39",
+   "https://biblehub.com/asv/1_corinthians/10-16.htm",
+   "https://www.biblestudytools.com/web/romans/11-36.html",
+   "https://www.biblestudytools.com/web/ephesians/2-20.html",
+   "https://www.britannica.com/print/article/475062",
+   "https://www.creeds.net/reformed/Westminster/c01.htm",
+   "https://www.asa3.org/gray/westminster_standards/WCF.html",
+   "https://www.heidelberg-catechism.com/en/lords-days/27.html",
+   "https://www.heidelberg-catechism.com/en/lords-days/29.html",
+   "https://ccel.org/ccel/calvin/institutes.iii.viii.html",
+   "https://ccel.org/ccel/calvin/calcom38.iii.html",
+   "https://library.aosis.co.za/index.php/record/view/14260",
+   "https://www.wscal.edu/resources/article/calvin-as-biblical-interpreter/",
+   "https://ccel.org/s/schaff/history/8_ch03.htm",
+   "https://www.ewtn.com/catholicism/library/dogmatic-constitution-dei-verbum-a-single-deposit-28453",
+   "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf",
+   "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ"
+  ]
+ },
+ {
   "id": "bg:ruths-vow-to-naomi",
   "title": "Ruth's Vow to Naomi",
   "aliases": [

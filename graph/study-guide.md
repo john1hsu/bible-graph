@@ -266,6 +266,17 @@ Study questions:
 - Revelation 3:20 is often used in evangelism. To whom is it first addressed (Revelation 3:14-22), and what does that add to its meaning?
 - Which verse do you hold dear but have never read in its surrounding chapter, and what do you notice when you read the whole chapter this week?
 
+### [Reformed Tradition](../articles/interpretation/reformed-tradition.md) — Tradition
+
+Read: 2 Timothy 3:14-17; Ephesians 1:4-6; Ephesians 2:20; Romans 11:36; Genesis 17:7; Acts 2:39; 1 Corinthians 10:16
+
+Study questions:
+- Read 2 Timothy 3:14-17. What does Paul say the sacred writings are able to do for Timothy, and what is every Scripture useful for?
+- In Ephesians 1:4-6, what did God do "before the foundation of the world", and to what end? Why might the Westminster Confession ask that this teaching be handled with special care?
+- Compare Genesis 17:7 with Acts 2:39. What does each promise say about children? How does the Heidelberg Catechism use the two verses, and what questions would you want to ask about how far the comparison goes?
+- Paul asks in 1 Corinthians 10:16 whether the bread is a "communion" of Christ's body. How do Reformed and Lutheran Christians each try to do justice to that verse?
+- Calvin prized "lucid brevity" in an interpreter. For a passage you are studying, can you state its author's main point in one or two plain sentences?
+
 ### [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) — Method
 
 Read: Matthew 4:1-11; Psalm 91:11-12; Deuteronomy 6:16; Deuteronomy 8:3; Luke 24:27; Luke 24:44-45; Acts 17:11
