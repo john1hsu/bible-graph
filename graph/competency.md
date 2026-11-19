@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:1-kings` |
 
 ## Life situations with no Scripture (gap)
 
@@ -28,7 +30,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:atonement` | Crucifixion of Jesus |
-| `bg:davidic-covenant` | The Temple |
+| `bg:davidic-covenant` | 1 Kings, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, The Binding of Isaac |
@@ -38,7 +40,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
-| `bg:monotheism` | Elijah, The Shema |
+| `bg:monotheism` | 1 Kings, Elijah, The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
 | `bg:prayer` | Elijah |
@@ -54,6 +56,11 @@ _Which people, groups, places and events appear in each book, passage or event?_
 
 | text | appears |
 |---|---|
+| `bg:1-kings` | `bg:ahab` |
+| `bg:1-kings` | `bg:david` |
+| `bg:1-kings` | `bg:elijah` |
+| `bg:1-kings` | `bg:solomon` |
+| `bg:1-kings` | `bg:the-temple` |
 | `bg:acts-of-the-apostles` | `bg:barnabas` |
 | `bg:acts-of-the-apostles` | `bg:paul` |
 | `bg:acts-of-the-apostles` | `bg:pentecost` |
@@ -79,13 +86,8 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:calling-of-the-first-disciples` | `bg:jesus` |
 | `bg:calling-of-the-first-disciples` | `bg:john-son-of-zebedee` |
 | `bg:calling-of-the-first-disciples` | `bg:john-the-baptist` |
-| `bg:calling-of-the-first-disciples` | `bg:peter` |
-| `bg:crucifixion-of-jesus` | `bg:jesus` |
-| `bg:crucifixion-of-jesus` | `bg:pontius-pilate` |
-| `bg:deuteronomy` | `bg:giving-of-the-law-at-sinai` |
-| `bg:deuteronomy` | `bg:israelites` |
 
-…and 39 more.
+…and 44 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -97,9 +99,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:elijah` | bgo:Person |
+_No results._
 
 ## Orphan articles (gap)
 

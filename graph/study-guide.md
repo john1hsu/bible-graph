@@ -629,6 +629,18 @@ Study questions:
 
 ## old-testament-books
 
+### [1 Kings](../articles/old-testament-books/1-kings.md) — Book
+
+Read: 1 Kings 1:38-40; 1 Kings 3:5-14; 1 Kings 3:16-28; 1 Kings 6:11-13; 1 Kings 8:22-30; 1 Kings 8:41-50; 1 Kings 10:1-10; 1 Kings 11:1-13; 1 Kings 11:29-31; 1 Kings 12:1-20; 1 Kings 12:25-30; 1 Kings 16:29-33; 1 Kings 18:20-39; 1 Kings 22:13-17; Matthew 6:28-29; Matthew 12:42; Acts 7:47-50
+
+Study questions:
+- What does Solomon ask God for at Gibeon in 1 Kings 3:5-9, and what does God give him besides (3:12-13)?
+- In his prayer at the Temple's dedication, Solomon admits that heaven cannot contain God (1 Kings 8:27). Why build a house at all? How does Stephen use the same idea in Acts 7:47-50?
+- Read 1 Kings 8:46-50. Whom does Solomon expect to pray toward the Temple, and from where? How would these verses have sounded to Israelites in exile?
+- According to 1 Kings 11:1-13, what turned Solomon's heart, and why is the kingdom not torn away in his own lifetime?
+- Compare the advice Rehoboam rejects and the advice he follows in 1 Kings 12:6-15. What does this chapter teach about power and listening?
+- Micaiah says he will speak only what the LORD tells him, though four hundred prophets say otherwise (1 Kings 22:6-17). Where is it hard for you to hear, or to say, an unwelcome truth?
+
 ### [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) — Book
 
 Read: Ezra 1:1-4; Ezra 3:10-13; Ezra 4:1-5; Ezra 4:24; Ezra 6:14-22; Ezra 7:6-10; Ezra 9:5-15; Ezra 10:1-5; 2 Chronicles 36:22-23; Nehemiah 8:1-12

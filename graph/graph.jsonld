@@ -14,6 +14,196 @@
  },
  "@graph": [
   {
+   "@id": "bg:1-kings",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:jeremiah"
+   },
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": {
+    "@id": "bg:kurkh-stele"
+   },
+   "bgo:domain": "old-testament-books",
+   "bgo:features": [
+    {
+     "@id": "bg:ahab"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:solomon"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ],
+   "bgo:file": "articles/old-testament-books/1-kings.md",
+   "bgo:keyReference": [
+    "1 Kings 10:1-10",
+    "1 Kings 11:1-13",
+    "1 Kings 11:29-31",
+    "1 Kings 12:1-20",
+    "1 Kings 12:25-30",
+    "1 Kings 16:29-33",
+    "1 Kings 18:20-39",
+    "1 Kings 1:38-40",
+    "1 Kings 22:13-17",
+    "1 Kings 3:16-28",
+    "1 Kings 3:5-14",
+    "1 Kings 6:11-13",
+    "1 Kings 8:22-30",
+    "1 Kings 8:41-50",
+    "Acts 7:47-50",
+    "Matthew 12:42",
+    "Matthew 6:28-29"
+   ],
+   "bgo:level": "introductory",
+   "bgo:parallels": {
+    "@id": "bg:2-chronicles"
+   },
+   "bgo:requires": {
+    "@id": "bg:old-testament"
+   },
+   "bgo:teaches": [
+    {
+     "@id": "bg:davidic-covenant"
+    },
+    {
+     "@id": "bg:monotheism"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s9"
+    }
+   ],
+   "rdfs:label": "1 Kings",
+   "skos:altLabel": [
+    "1 Kgs",
+    "3 Kingdoms",
+    "3 Kings",
+    "First Book of Kings",
+    "First Kings",
+    "III Kings",
+    "Melakhim Aleph",
+    "Third Book of Kingdoms",
+    "Third Book of Kings"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:historical-books"
+    },
+    {
+     "@id": "bg:old-testament"
+    }
+   ],
+   "skos:definition": "The Old Testament book that tells how Solomon succeeded David, built the Temple in Jerusalem and then turned to other gods, how the kingdom split into Israel and Judah under Jeroboam and Rehoboam, and how prophets such as Ahijah, Elijah and Micaiah held the kings to account down to the death of Ahab; with 2 Kings it was originally one book, Kings.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books"
+   },
+   "skos:prefLabel": "1 Kings",
+   "skos:related": [
+    {
+     "@id": "bg:2-chronicles"
+    },
+    {
+     "@id": "bg:2-kings"
+    },
+    {
+     "@id": "bg:baal"
+    },
+    {
+     "@id": "bg:babylonian-exile"
+    },
+    {
+     "@id": "bg:book-of-jeremiah"
+    },
+    {
+     "@id": "bg:deuteronomistic-history"
+    },
+    {
+     "@id": "bg:deuteronomy"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:jezebel"
+    },
+    {
+     "@id": "bg:prophets"
+    },
+    {
+     "@id": "bg:the-temple"
+    }
+   ]
+  },
+  {
    "@id": "bg:abraham",
    "@type": "bgo:Person",
    "bgo:basis": "debated",
@@ -9208,6 +9398,54 @@
    ]
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "What does Solomon ask God for at Gibeon in 1 Kings 3:5-9, and what does God give him besides (3:12-13)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "In his prayer at the Temple's dedication, Solomon admits that heaven cannot contain God (1 Kings 8:27). Why build a house at all? How does Stephen use the same idea in Acts 7:47-50?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "Read 1 Kings 8:46-50. Whom does Solomon expect to pray toward the Temple, and from where? How would these verses have sounded to Israelites in exile?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "According to 1 Kings 11:1-13, what turned Solomon's heart, and why is the kingdom not torn away in his own lifetime?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "Compare the advice Rehoboam rejects and the advice he follows in 1 Kings 12:6-15. What does this chapter teach about power and listening?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/1-kings/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:1-kings"
+   },
+   "rdfs:label": "Micaiah says he will speak only what the LORD tells him, though four hundred prophets say otherwise (1 Kings 22:6-17). Where is it hard for you to hear, or to say, an unwelcome truth?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/abraham/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -12322,6 +12560,272 @@
     "@id": "bg:song-of-the-sea"
    },
    "rdfs:label": "In Revelation 15:3 the redeemed sing \"the song of Moses ... and the song of the Lamb\". What rescue in your own life or your church's story would you put into words of praise?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "1 Kings 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/1KI01.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Kings 22 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/1_kings/22.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia (Faithlife)",
+   "dcterms:title": "Matthew 6:25-29 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://biblia.com/bible/asv/matthew/6/25-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Miami SDB Bible",
+   "dcterms:title": "Acts 7:44-51 (King James Version and World English Bible)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/kjv+web/acts/7/44-51"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Third and Fourth Books of Kings (Joseph Schets, Catholic Encyclopedia, 1910)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/08652a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Kings, Books of (Isidore Singer, M. Seligsohn, Emil G. Hirsch and George A. Barton, Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/9329-kings-books-of"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Introduction to the Books of Kings (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/1kings/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Luther Seminary",
+   "dcterms:title": "Introductory Issues in 1 Kings (Mark Throntveit, Enter the Bible)",
+   "schema:url": {
+    "@id": "https://enterthebible.org/courses/1-kings/lessons/introductory-issues-in-1-kings"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Books of Kings",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/books-of-Kings"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Center for Online Judaic Studies",
+   "dcterms:title": "Kurkh Stele, 853 BCE",
+   "schema:url": {
+    "@id": "https://cojs.org/?p=6525"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "CourseBible",
+   "dcterms:title": "1 Kings 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://coursebible.com/world-english-bible-web/1-kings-6"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Kings 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_kings/10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Kings 11 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/1_kings/11.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "1 Kings 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/1KI12.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Kings 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/1_kings/16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/1-kings/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "1 Kings 18 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/1KI18.htm"
+   }
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/abraham/s1",

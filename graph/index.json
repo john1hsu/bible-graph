@@ -1,5 +1,199 @@
 [
  {
+  "id": "bg:1-kings",
+  "title": "1 Kings",
+  "aliases": [
+   "First Kings",
+   "First Book of Kings",
+   "1 Kgs",
+   "3 Kings",
+   "III Kings",
+   "Third Book of Kings",
+   "3 Kingdoms",
+   "Third Book of Kingdoms",
+   "Melakhim Aleph"
+  ],
+  "type": "Book",
+  "domain": "old-testament-books",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/old-testament-books/1-kings.md",
+  "created": "2026-11-19",
+  "summary": "The Old Testament book that tells how Solomon succeeded David, built the Temple in Jerusalem and then turned to other gods, how the kingdom split into Israel and Judah under Jeroboam and Rehoboam, and how prophets such as Ahijah, Elijah and Micaiah held the kings to account down to the death of Ahab; with 2 Kings it was originally one book, Kings.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:historical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:2-kings"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomistic-history"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-temple"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuteronomy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:2-chronicles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jezebel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baal"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:prophets"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-jeremiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:babylonian-exile"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:solomon",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:david",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:the-temple",
+    "source": "s4",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:elijah",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:ahab",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:davidic-covenant",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:monotheism",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:parallels",
+    "object": "bg:2-chronicles",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:attributedTo",
+    "object": "bg:jeremiah",
+    "source": "s14",
+    "confidence": "low"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:kurkh-stele",
+    "source": "s19",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "1 Kings 1:38-40",
+   "1 Kings 3:5-14",
+   "1 Kings 3:16-28",
+   "1 Kings 6:11-13",
+   "1 Kings 8:22-30",
+   "1 Kings 8:41-50",
+   "1 Kings 10:1-10",
+   "1 Kings 11:1-13",
+   "1 Kings 11:29-31",
+   "1 Kings 12:1-20",
+   "1 Kings 12:25-30",
+   "1 Kings 16:29-33",
+   "1 Kings 18:20-39",
+   "1 Kings 22:13-17",
+   "Matthew 6:28-29",
+   "Matthew 12:42",
+   "Acts 7:47-50"
+  ],
+  "studyQuestions": [
+   "What does Solomon ask God for at Gibeon in 1 Kings 3:5-9, and what does God give him besides (3:12-13)?",
+   "In his prayer at the Temple's dedication, Solomon admits that heaven cannot contain God (1 Kings 8:27). Why build a house at all? How does Stephen use the same idea in Acts 7:47-50?",
+   "Read 1 Kings 8:46-50. Whom does Solomon expect to pray toward the Temple, and from where? How would these verses have sounded to Israelites in exile?",
+   "According to 1 Kings 11:1-13, what turned Solomon's heart, and why is the kingdom not torn away in his own lifetime?",
+   "Compare the advice Rehoboam rejects and the advice he follows in 1 Kings 12:6-15. What does this chapter teach about power and listening?",
+   "Micaiah says he will speak only what the LORD tells him, though four hundred prophets say otherwise (1 Kings 22:6-17). Where is it hard for you to hear, or to say, an unwelcome truth?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-web/1KI01.htm",
+   "https://biblehub.com/web/1_kings/3.htm",
+   "https://coursebible.com/world-english-bible-web/1-kings-6",
+   "https://biblehub.com/web/1_kings/8.htm",
+   "https://biblehub.com/web/1_kings/10.htm",
+   "https://bibliaparalela.com/web/1_kings/11.htm",
+   "https://ebible.org/eng-web/1KI12.htm",
+   "https://www.bibliaparalela.com/web/1_kings/16.htm",
+   "https://ebible.org/eng-web/1KI18.htm",
+   "https://www.bibliaparalela.com/web/1_kings/22.htm",
+   "https://biblia.com/bible/asv/matthew/6/25-29",
+   "https://biblehub.com/web/matthew/12.htm",
+   "https://miamisdb.org/bible/kjv+web/acts/7/44-51",
+   "https://www.newadvent.org/cathen/08652a.htm",
+   "https://jewishencyclopedia.com/articles/9329-kings-books-of",
+   "https://bible.usccb.org/bible/1kings/0",
+   "https://enterthebible.org/courses/1-kings/lessons/introductory-issues-in-1-kings",
+   "https://www.britannica.com/topic/books-of-Kings",
+   "https://cojs.org/?p=6525"
+  ]
+ },
+ {
   "id": "bg:abraham",
   "title": "Abraham",
   "aliases": [
