@@ -1192,6 +1192,65 @@
 <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Timothy 3:14-17" .
 <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:42" .
 <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Mark 12:26 and Hebrews 2:6, how do Jesus and the writer to the Hebrews point their hearers to a passage of Scripture without chapter or verse numbers?" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "The poem about the Lord's servant begins at Isaiah 52:13, not at 53:1. How does reading those first three verses change the way you hear Isaiah 53?" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why does a Catholic Bible such as the NABRE number the promise of Elijah as Malachi 3:23, while the King James Version numbers it Malachi 4:5?" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Think of a verse you know by heart. What do the paragraph before it and the paragraph after it add to its meaning?" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2000/01/rdf-schema#label> "Chapters and Verses" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "Bible references" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "chapter and verse" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "chapter divisions" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "verse divisions" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "verse numbers" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#altLabel> "versification" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#definition> "The numbered chapters and verses that let readers find any passage of the Bible quickly: a reference system added long after the books were written, with chapters dating from early thirteenth-century Latin Bibles and today's New Testament verses from Robert Estienne's Greek New Testament of 1551." .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/bible-basics> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chapters and Verses" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/geneva-bible> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-memorization> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/vulgate> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#basis> "historical" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#domain> "bible-basics" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/vulgate> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/bible-basics/chapters-and-verses.md" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/robert-estienne> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/stephen-langton> .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 12:31–13:1" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 2:6" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 52:13" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:17" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 3:23" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 4:5" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 12:26" .
+<https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?" .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
@@ -7077,6 +7136,90 @@
 <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
 <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <https://schema.org/url> <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/divino-afflante-spiritu> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <http://purl.org/dc/terms/publisher> "Enter the Bible (Luther Seminary)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <http://purl.org/dc/terms/title> "Isaiah 52:13-53:12, Wounded for Our Transgressions" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10> <https://schema.org/url> <https://enterthebible.org/passage/isaiah-5213-5312-wounded-for-our-transgressions/> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <http://purl.org/dc/terms/title> "1 Corinthians 12:31 (World English Bible and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11> <https://schema.org/url> <https://biblehub.com/multi/1_corinthians/12-31.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <http://purl.org/dc/terms/title> "1 Corinthians 13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12> <https://schema.org/url> <https://mail.biblehub.com/web/1_corinthians/13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <http://purl.org/dc/terms/title> "Malachi 4:5 (World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13> <https://schema.org/url> <https://biblehub.com/parallel/malachi/4-5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <http://purl.org/dc/terms/title> "Malachi 3 (New American Bible, Revised Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14> <https://schema.org/url> <https://bible.usccb.org/bible/malachi/3> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <http://purl.org/dc/terms/publisher> "Bible Odyssey (Society of Biblical Literature)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <http://purl.org/dc/terms/title> "Why Are Bible Chapters and Verses Numbered?" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1> <https://schema.org/url> <https://www.bibleodyssey.org/articles/why-are-bible-chapters-and-verses-numbered/> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <http://purl.org/dc/terms/title> "Verse Division (Jewish Encyclopedia, C. H. Toy and M. L. Margolis)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2> <https://schema.org/url> <https://jewishencyclopedia.com/articles/14682-verse-division> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <http://purl.org/dc/terms/publisher> "Bible Research (Michael Marlowe)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <http://purl.org/dc/terms/title> "Chapter and Verse Divisions (New Schaff-Herzog Encyclopedia of Religious Knowledge, vol. 2)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3> <https://schema.org/url> <https://www.bible-researcher.com/chapter-verse.html> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <http://purl.org/dc/terms/publisher> "University of Birmingham Research Portal" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <http://purl.org/dc/terms/title> "Chapter Divisions, Capitula Lists, and the Old Latin Versions of John (H. A. G. Houghton, Revue Bénédictine)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4> <https://schema.org/url> <https://research.birmingham.ac.uk/files/20700360/Houghton_Chapter_divisions_capitula_lists_Revue_B_n_dictine_2015.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <http://purl.org/dc/terms/publisher> "The Tyndale Society" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <http://purl.org/dc/terms/title> "The Geneva English Bible - The Shocking Truth (David Daniell, Tyndale Society Journal)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5> <https://schema.org/url> <https://www.tyndale.org/journals/tsj21/daniell.html> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <http://purl.org/dc/terms/publisher> "SermonIndex.net" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <http://purl.org/dc/terms/title> "Mark 12:26 (World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6> <https://schema.org/url> <https://sermonindex.net/bible/parallel/MRK/12/26> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <http://purl.org/dc/terms/title> "Luke 4:17 (World English Bible and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7> <https://schema.org/url> <https://biblehub.com/multi/luke/4-17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <http://purl.org/dc/terms/title> "Hebrews 2:6 (World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8> <https://schema.org/url> <https://biblehub.com/hebrews/2-6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <http://purl.org/dc/terms/title> "Isaiah 52:13 (World English Bible and parallel versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <https://schema.org/url> <https://mail.biblehub.com/multi/isaiah/52-13.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/publisher> "Livius.org" .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/title> "Tacitus, Annals 15.44 (Tacitus on the Christians)" .

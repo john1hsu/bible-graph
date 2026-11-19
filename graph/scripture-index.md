@@ -339,6 +339,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 41:8** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Isaiah 52:7** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
 - **Isaiah 52:7** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
+- **Isaiah 52:13** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Isaiah 53:11** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Isaiah 61:1-2** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -423,6 +424,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Malachi 3:1** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Malachi 3:8-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
+- **Malachi 3:23** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
+- **Malachi 4:5** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Malachi 4:5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Malachi 4:5-6** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Malachi 4:5-6** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
@@ -554,6 +557,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 12:1-12** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **Mark 12:18-27** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **Mark 12:18-27** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
+- **Mark 12:26** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Mark 12:28-32** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **Mark 12:28-34** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 12:28-34** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
@@ -604,6 +608,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 4:16-21** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 4:16-21** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
 - **Luke 4:16-21** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
+- **Luke 4:17** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Luke 4:25-26** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **Luke 4:31-33** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
 - **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -826,6 +831,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Corinthians 10:1-11** — [The Exodus](../articles/events-and-timeline/the-exodus.md) (Event)
 - **1 Corinthians 10:16** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
 - **1 Corinthians 12:13** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **1 Corinthians 12:31–13:1** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **1 Corinthians 15:1-5** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **1 Corinthians 15:3-4** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
 - **1 Corinthians 15:3-8** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
@@ -915,6 +921,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Hebrews
 
 - **Hebrews 1:1-2** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Hebrews 2:6** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Hebrews 2:10-12** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Hebrews 3:1-6** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Hebrews 6:13-18** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)

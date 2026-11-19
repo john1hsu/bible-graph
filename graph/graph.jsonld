@@ -2330,6 +2330,121 @@
    ]
   },
   {
+   "@id": "bg:chapters-and-verses",
+   "@type": "bgo:Concept",
+   "bgo:basis": "historical",
+   "bgo:domain": "bible-basics",
+   "bgo:explainedBy": [
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:vulgate"
+    }
+   ],
+   "bgo:file": "articles/bible-basics/chapters-and-verses.md",
+   "bgo:introducedBy": [
+    {
+     "@id": "bg:robert-estienne"
+    },
+    {
+     "@id": "bg:stephen-langton"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Corinthians 12:31–13:1",
+    "Hebrews 2:6",
+    "Isaiah 52:13",
+    "Luke 4:17",
+    "Malachi 3:23",
+    "Malachi 4:5",
+    "Mark 12:26"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9"
+    }
+   ],
+   "rdfs:label": "Chapters and Verses",
+   "skos:altLabel": [
+    "Bible references",
+    "chapter and verse",
+    "chapter divisions",
+    "verse divisions",
+    "verse numbers",
+    "versification"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The numbered chapters and verses that let readers find any passage of the Bible quickly: a reference system added long after the books were written, with chapters dating from early thirteenth-century Latin Bibles and today's New Testament verses from Robert Estienne's Greek New Testament of 1551.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "Chapters and Verses",
+   "skos:related": [
+    {
+     "@id": "bg:geneva-bible"
+    },
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:reading-in-context"
+    },
+    {
+     "@id": "bg:scripture-memorization"
+    },
+    {
+     "@id": "bg:vulgate"
+    }
+   ]
+  },
+  {
    "@id": "bg:crucifixion-of-jesus",
    "@type": "bgo:Event",
    "bgo:basis": "scriptural",
@@ -11540,6 +11655,38 @@
    "rdfs:label": "What would help you describe the Catholic way of reading Scripture accurately to a friend from another tradition, or describe another tradition's way accurately to a Catholic friend?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:chapters-and-verses"
+   },
+   "rdfs:label": "In Mark 12:26 and Hebrews 2:6, how do Jesus and the writer to the Hebrews point their hearers to a passage of Scripture without chapter or verse numbers?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:chapters-and-verses"
+   },
+   "rdfs:label": "The poem about the Lord's servant begins at Isaiah 52:13, not at 53:1. How does reading those first three verses change the way you hear Isaiah 53?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:chapters-and-verses"
+   },
+   "rdfs:label": "Why does a Catholic Bible such as the NABRE number the promise of Elijah as Malachi 3:23, while the King James Version numbers it Malachi 4:5?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/chapters-and-verses/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:chapters-and-verses"
+   },
+   "rdfs:label": "Think of a verse you know by heart. What do the paragraph before it and the paragraph after it add to its meaning?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -18110,6 +18257,202 @@
    "dcterms:title": "J. F. Whealon, \"Divino Afflante Spiritu\", New Catholic Encyclopedia",
    "schema:url": {
     "@id": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/divino-afflante-spiritu"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Odyssey (Society of Biblical Literature)",
+   "dcterms:title": "Why Are Bible Chapters and Verses Numbered?",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.org/articles/why-are-bible-chapters-and-verses-numbered/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Enter the Bible (Luther Seminary)",
+   "dcterms:title": "Isaiah 52:13-53:12, Wounded for Our Transgressions",
+   "schema:url": {
+    "@id": "https://enterthebible.org/passage/isaiah-5213-5312-wounded-for-our-transgressions/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Corinthians 12:31 (World English Bible and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/1_corinthians/12-31.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Corinthians 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://mail.biblehub.com/web/1_corinthians/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Malachi 4:5 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/malachi/4-5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Malachi 3 (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/malachi/3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Verse Division (Jewish Encyclopedia, C. H. Toy and M. L. Margolis)",
+   "schema:url": {
+    "@id": "https://jewishencyclopedia.com/articles/14682-verse-division"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Research (Michael Marlowe)",
+   "dcterms:title": "Chapter and Verse Divisions (New Schaff-Herzog Encyclopedia of Religious Knowledge, vol. 2)",
+   "schema:url": {
+    "@id": "https://www.bible-researcher.com/chapter-verse.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "University of Birmingham Research Portal",
+   "dcterms:title": "Chapter Divisions, Capitula Lists, and the Old Latin Versions of John (H. A. G. Houghton, Revue Bénédictine)",
+   "schema:url": {
+    "@id": "https://research.birmingham.ac.uk/files/20700360/Houghton_Chapter_divisions_capitula_lists_Revue_B_n_dictine_2015.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "The Tyndale Society",
+   "dcterms:title": "The Geneva English Bible - The Shocking Truth (David Daniell, Tyndale Society Journal)",
+   "schema:url": {
+    "@id": "https://www.tyndale.org/journals/tsj21/daniell.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "SermonIndex.net",
+   "dcterms:title": "Mark 12:26 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://sermonindex.net/bible/parallel/MRK/12/26"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 4:17 (World English Bible and parallel versions)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/luke/4-17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Hebrews 2:6 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/hebrews/2-6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 52:13 (World English Bible and parallel versions)",
+   "schema:url": {
+    "@id": "https://mail.biblehub.com/multi/isaiah/52-13.htm"
    }
   },
   {

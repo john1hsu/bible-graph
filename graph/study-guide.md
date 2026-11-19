@@ -66,6 +66,16 @@ Study questions:
 - Why might it matter that the canon was recognised gradually by the whole church, rather than chosen in a single meeting?
 - If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?
 
+### [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) — Concept
+
+Read: Mark 12:26; Luke 4:17; Hebrews 2:6; Isaiah 52:13; 1 Corinthians 12:31–13:1; Malachi 4:5; Malachi 3:23
+
+Study questions:
+- In Mark 12:26 and Hebrews 2:6, how do Jesus and the writer to the Hebrews point their hearers to a passage of Scripture without chapter or verse numbers?
+- The poem about the Lord's servant begins at Isaiah 52:13, not at 53:1. How does reading those first three verses change the way you hear Isaiah 53?
+- Why does a Catholic Bible such as the NABRE number the promise of Elijah as Malachi 3:23, while the King James Version numbers it Malachi 4:5?
+- Think of a verse you know by heart. What do the paragraph before it and the paragraph after it add to its meaning?
+
 ### [New Testament](../articles/bible-basics/new-testament.md) — Collection
 
 Read: Luke 22:20; Hebrews 8:6-13; Luke 1:1-4; Colossians 4:16; 2 Peter 3:15-16; John 20:31

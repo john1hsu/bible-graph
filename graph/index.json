@@ -2264,6 +2264,108 @@
   ]
  },
  {
+  "id": "bg:chapters-and-verses",
+  "title": "Chapters and Verses",
+  "aliases": [
+   "chapter and verse",
+   "chapter divisions",
+   "verse divisions",
+   "verse numbers",
+   "versification",
+   "Bible references"
+  ],
+  "type": "Concept",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "historical",
+  "file": "articles/bible-basics/chapters-and-verses.md",
+  "created": "2026-11-19",
+  "summary": "The numbered chapters and verses that let readers find any passage of the Bible quickly: a reference system added long after the books were written, with chapters dating from early thirteenth-century Latin Bibles and today's New Testament verses from Robert Estienne's Greek New Testament of 1551.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:vulgate"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:geneva-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-memorization"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:stephen-langton",
+    "source": "s1",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:robert-estienne",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:masoretic-text",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:vulgate",
+    "source": "s2",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Mark 12:26",
+   "Luke 4:17",
+   "Hebrews 2:6",
+   "Isaiah 52:13",
+   "1 Corinthians 12:31–13:1",
+   "Malachi 4:5",
+   "Malachi 3:23"
+  ],
+  "studyQuestions": [
+   "In Mark 12:26 and Hebrews 2:6, how do Jesus and the writer to the Hebrews point their hearers to a passage of Scripture without chapter or verse numbers?",
+   "The poem about the Lord's servant begins at Isaiah 52:13, not at 53:1. How does reading those first three verses change the way you hear Isaiah 53?",
+   "Why does a Catholic Bible such as the NABRE number the promise of Elijah as Malachi 3:23, while the King James Version numbers it Malachi 4:5?",
+   "Think of a verse you know by heart. What do the paragraph before it and the paragraph after it add to its meaning?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bibleodyssey.org/articles/why-are-bible-chapters-and-verses-numbered/",
+   "https://jewishencyclopedia.com/articles/14682-verse-division",
+   "https://www.bible-researcher.com/chapter-verse.html",
+   "https://research.birmingham.ac.uk/files/20700360/Houghton_Chapter_divisions_capitula_lists_Revue_B_n_dictine_2015.pdf",
+   "https://www.tyndale.org/journals/tsj21/daniell.html",
+   "https://sermonindex.net/bible/parallel/MRK/12/26",
+   "https://biblehub.com/multi/luke/4-17.htm",
+   "https://biblehub.com/hebrews/2-6.htm",
+   "https://mail.biblehub.com/multi/isaiah/52-13.htm",
+   "https://enterthebible.org/passage/isaiah-5213-5312-wounded-for-our-transgressions/",
+   "https://biblehub.com/multi/1_corinthians/12-31.htm",
+   "https://mail.biblehub.com/web/1_corinthians/13.htm",
+   "https://biblehub.com/parallel/malachi/4-5.htm",
+   "https://bible.usccb.org/bible/malachi/3"
+  ]
+ },
+ {
   "id": "bg:crucifixion-of-jesus",
   "title": "Crucifixion of Jesus",
   "aliases": [
