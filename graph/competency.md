@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:book-of-ruth` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -33,9 +31,10 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:davidic-covenant` | 1 Kings, Bethlehem, Solomon's Dream at Gibeon, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
-| `bg:faith` | Abraham, Moses, The Binding of Isaac |
+| `bg:faith` | Abraham, Moses, Ruth's Vow to Naomi, The Binding of Isaac |
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul, Peter |
+| `bg:hesed` | Ruth's Vow to Naomi |
 | `bg:holy-spirit` | Pentecost |
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
@@ -88,7 +87,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-ruth` | `bg:naomi` |
 | `bg:book-of-ruth` | `bg:ruth-the-moabite` |
 
-…and 51 more.
+…and 55 more.
 
 ## Popular misconceptions and what corrects them
 

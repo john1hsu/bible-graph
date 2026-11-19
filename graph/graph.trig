@@ -495,6 +495,22 @@
 <https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s12> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s13> .
 <https://github.com/john1hsu/bible-graph/id/psalm-22#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s14> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/ruths-vow-to-naomi.md" .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> .
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/shema> .
 <https://github.com/john1hsu/bible-graph/id/shema#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/key-passages/shema.md" .
@@ -5967,6 +5983,161 @@
   <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
   <https://github.com/john1hsu/bible-graph/id/source/psalm-22/s9> <https://schema.org/url> <https://enterthebible.org/passage/psalm-22-my-god-my-god-why-have-you-forsaken-me/> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi#graph> {
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Why does Naomi urge her daughters-in-law three times to go back (Ruth 1:8, 11, 12), and what does she think they would find in Moab?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What is the difference between what Orpah does and what Ruth does in Ruth 1:14? Is Orpah blamed anywhere in the text?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "List the six things Ruth promises in Ruth 1:16-17. Which of them could not be undone, and what does she call on the LORD to do if she breaks her word?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Ruth says \"your God my God\" while Naomi says the LORD's hand has gone out against her (Ruth 1:13, 20-21). What might it mean to cling to someone whose faith is battered?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Boaz later praises Ruth for leaving her father, mother and native land (Ruth 2:11). Whose story in Genesis 12:1 does that recall, and what does it suggest about Ruth?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Who in your life has shown you this kind of loyal love, and where might God be asking you to show it?" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2000/01/rdf-schema#label> "Ruth's Vow to Naomi" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Entreat me not to leave thee" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruth 1:16-17" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruth's oath of loyalty" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruth's pledge to Naomi" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Where you go, I will go" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Whither thou goest, I will go" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#altLabel> "Your people will be my people, and your God my God" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#definition> "Ruth 1:6-18, the turning point of the Book of Ruth, where the widowed Moabite Ruth refuses to go home as her sister-in-law Orpah does and binds herself by oath to her mother-in-law Naomi: \"where you go, I will go ... your people will be my people, and your God my God\" (Ruth 1:16, WEB), until death itself." .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruth's Vow to Naomi" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/boaz> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/covenant> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/redemption> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shavuot> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/orpah> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/ruth-the-moabite> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/ruths-vow-to-naomi.md" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#hasGenre> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 12:1" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 1:5" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 1:1-22" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 1:16-17" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 2:11-12" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#speaksTo> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/faith> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/hesed> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <http://purl.org/dc/terms/publisher> "Jewish Review of Books" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <http://purl.org/dc/terms/title> "Leon R. Kass with Hannah Mandelbaum, 'Wherever You Go, I Will Go': Reading Ruth 1:16-17" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "magazine" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s10> <https://schema.org/url> <https://jewishreviewofbooks.com/torah/10724/wherever-you-go-i-will-go-reading-ruth-116-17/> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <http://purl.org/dc/terms/publisher> "BJU Seminary" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <http://purl.org/dc/terms/title> "Joshua Jensen, 'Ruth and the Covenant Heir: Reading Ruth in Light of Isaac's Famine and Sojourn', Journal of Biblical Theology and Worldview 3.1 (2022)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s11> <https://schema.org/url> <https://seminary.bju.edu/files/2022/10/JBTW3.1_Article03_RuthandtheCovenantHeir-1.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <http://purl.org/dc/terms/title> "Ruth (Encyclopedia of The Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s12> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Ruth> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <http://purl.org/dc/terms/publisher> "MiamiSDB.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <http://purl.org/dc/terms/title> "Ruth 1 (Young's Literal Translation and World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s13> <https://schema.org/url> <https://miamisdb.org/bible/ylt+web/ruth/1> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <http://purl.org/dc/terms/title> "Ruth 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s1> <https://schema.org/url> <https://ebible.org/eng-web/RUT01.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <http://purl.org/dc/terms/title> "Ruth 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s2> <https://schema.org/url> <https://ebible.org/eng-web/RUT02.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <http://purl.org/dc/terms/title> "Ruth 1 (New American Bible, Revised Edition, with notes)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s3> <https://schema.org/url> <https://bible.usccb.org/bible/ruth/1?1> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <http://purl.org/dc/terms/title> "Genesis 12:1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/genesis/12-1> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <http://purl.org/dc/terms/title> "Matthew 1:5 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/matthew/1-5.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <http://purl.org/dc/terms/publisher> "MDPI" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <http://purl.org/dc/terms/title> "Erin Martine Hutton, 'Where You Go I Will Go and Where You Stay I Will Stay': How Exegetical Poetry Enriches Our Understanding of Ruth 1:16–17 and 1:20–21, Religions 15.11 (2024), 1403" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s6> <https://schema.org/url> <https://mdpi.com/2077-1444/15/11/1403> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <http://purl.org/dc/terms/publisher> "Jewish Women's Archive Encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <http://purl.org/dc/terms/title> "Ruth: Midrash and Aggadah" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s7> <https://schema.org/url> <https://jwa.org/encyclopedia/article/Ruth-midrash-and-aggadah> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <http://purl.org/dc/terms/title> "Ruth 1:16 commentaries (Keil and Delitzsch, Pulpit Commentary, Matthew Henry, Benson)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s8> <https://schema.org/url> <https://mail.biblehub.com/commentaries/ruth/1-16.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <http://purl.org/dc/terms/publisher> "Concordia Seminary, Concordia Theology" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <http://purl.org/dc/terms/title> "William W. Schumacher, Proper 23: Ruth 1:1-19a (October 10, 2010)" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/ruths-vow-to-naomi/s9> <https://schema.org/url> <https://concordiatheology.org/?p=326> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/shema#graph> {
@@ -14743,6 +14914,7 @@
   <https://github.com/john1hsu/bible-graph/id/abraham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/abraham> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/patriarchs> .
   <https://github.com/john1hsu/bible-graph/id/abraham> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
+  <https://github.com/john1hsu/bible-graph/id/abraham> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/abraham> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/abraham> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/abraham> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/genesis> .
@@ -14897,6 +15069,7 @@
   <https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
   <https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
@@ -14964,6 +15137,7 @@
   <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/boaz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/boaz> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
@@ -15049,6 +15223,10 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/historical-books> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/book-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15113,6 +15291,7 @@
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <https://github.com/john1hsu/bible-graph/ontology#hasInstance> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/covenant> <https://github.com/john1hsu/bible-graph/ontology#hasInstance> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15143,6 +15322,7 @@
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/david> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
@@ -15265,6 +15445,7 @@
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
@@ -15311,6 +15492,7 @@
   <https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+  <https://github.com/john1hsu/bible-graph/id/genesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/genesis> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15407,6 +15589,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
@@ -15499,10 +15682,12 @@
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/praying-the-psalms> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+  <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/praying-the-psalms> .
   <https://github.com/john1hsu/bible-graph/id/herod-antipas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+  <https://github.com/john1hsu/bible-graph/id/hesed> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/higher-criticism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
@@ -15511,6 +15696,7 @@
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/holy-spirit> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/incarnation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
@@ -15797,6 +15983,7 @@
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+  <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
@@ -15917,6 +16104,7 @@
   <https://github.com/john1hsu/bible-graph/id/mount-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
   <https://github.com/john1hsu/bible-graph/id/mount-sinai> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
   <https://github.com/john1hsu/bible-graph/id/naomi> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/naomi> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/new-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
@@ -15990,6 +16178,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
@@ -16008,6 +16197,7 @@
   <https://github.com/john1hsu/bible-graph/id/origen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
   <https://github.com/john1hsu/bible-graph/id/origen> <https://github.com/john1hsu/bible-graph/ontology#influenced> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/origen> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/orpah> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16226,6 +16416,7 @@
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/parables-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/reading-in-context/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16248,6 +16439,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/reconciliation> <https://github.com/john1hsu/bible-graph/ontology#confusedWith> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/redemption> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
@@ -16284,6 +16476,19 @@
   <https://github.com/john1hsu/bible-graph/id/robert-lowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
   <https://github.com/john1hsu/bible-graph/id/robert-lowth> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
   <https://github.com/john1hsu/bible-graph/id/ruth-the-moabite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/ruth-the-moabite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/historical-books> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/sabbath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/sabbath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/synagogue> .
   <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16449,6 +16654,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/shavuot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/shavuot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/shavuot> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/shema/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/shema/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16510,6 +16716,7 @@
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/praying-the-psalms> .
   <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+  <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#drawsOn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/synagogue/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/synagogue/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/synagogue/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16590,6 +16797,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+  <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/septuagint> .

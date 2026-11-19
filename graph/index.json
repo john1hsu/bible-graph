@@ -8204,6 +8204,162 @@
   ]
  },
  {
+  "id": "bg:ruths-vow-to-naomi",
+  "title": "Ruth's Vow to Naomi",
+  "aliases": [
+   "Where you go, I will go",
+   "Whither thou goest, I will go",
+   "Entreat me not to leave thee",
+   "Ruth's pledge to Naomi",
+   "Ruth's oath of loyalty",
+   "Your people will be my people, and your God my God",
+   "Ruth 1:16-17"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/key-passages/ruths-vow-to-naomi.md",
+  "created": "2026-11-19",
+  "summary": "Ruth 1:6-18, the turning point of the Book of Ruth, where the widowed Moabite Ruth refuses to go home as her sister-in-law Orpah does and binds herself by oath to her mother-in-law Naomi: \"where you go, I will go ... your people will be my people, and your God my God\" (Ruth 1:16, WEB), until death itself.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:book-of-ruth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:boaz"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:abraham"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:genesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:loving-your-neighbor"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:redemption"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:shavuot"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:david"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:book-of-ruth"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:book-of-ruth",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:ruth-the-moabite",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:naomi",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:orpah",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:bethlehem",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:hesed",
+    "source": "s3",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:faith",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:hasGenre",
+    "object": "bg:hebrew-poetry",
+    "source": "s6",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:suffering-and-lament",
+    "source": "s3",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Ruth 1:1-22",
+   "Ruth 1:16-17",
+   "Ruth 2:11-12",
+   "Genesis 12:1",
+   "Matthew 1:5"
+  ],
+  "studyQuestions": [
+   "Why does Naomi urge her daughters-in-law three times to go back (Ruth 1:8, 11, 12), and what does she think they would find in Moab?",
+   "What is the difference between what Orpah does and what Ruth does in Ruth 1:14? Is Orpah blamed anywhere in the text?",
+   "List the six things Ruth promises in Ruth 1:16-17. Which of them could not be undone, and what does she call on the LORD to do if she breaks her word?",
+   "Ruth says \"your God my God\" while Naomi says the LORD's hand has gone out against her (Ruth 1:13, 20-21). What might it mean to cling to someone whose faith is battered?",
+   "Boaz later praises Ruth for leaving her father, mother and native land (Ruth 2:11). Whose story in Genesis 12:1 does that recall, and what does it suggest about Ruth?",
+   "Who in your life has shown you this kind of loyal love, and where might God be asking you to show it?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-web/RUT01.htm",
+   "https://ebible.org/eng-web/RUT02.htm",
+   "https://bible.usccb.org/bible/ruth/1?1",
+   "https://www.christianity.com/bible/web/genesis/12-1",
+   "https://www.biblestudytools.com/web/matthew/1-5.html",
+   "https://mdpi.com/2077-1444/15/11/1403",
+   "https://jwa.org/encyclopedia/article/Ruth-midrash-and-aggadah",
+   "https://mail.biblehub.com/commentaries/ruth/1-16.htm",
+   "https://concordiatheology.org/?p=326",
+   "https://jewishreviewofbooks.com/torah/10724/wherever-you-go-i-will-go-reading-ruth-116-17/",
+   "https://seminary.bju.edu/files/2022/10/JBTW3.1_Article03_RuthandtheCovenantHeir-1.pdf",
+   "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Ruth",
+   "https://miamisdb.org/bible/ylt+web/ruth/1"
+  ]
+ },
+ {
   "id": "bg:sadducees",
   "title": "Sadducees",
   "aliases": [

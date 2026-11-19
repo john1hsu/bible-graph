@@ -354,6 +354,18 @@ Study questions:
 - Jesus prays the first line of this psalm from the cross (Mark 15:34). How does knowing the whole psalm shape the way you hear his cry?
 - Is there a time when you felt God was far away? What would it look like to pray that honestly, as this psalm does?
 
+### [Ruth's Vow to Naomi](../articles/key-passages/ruths-vow-to-naomi.md) — Passage
+
+Read: Ruth 1:1-22; Ruth 1:16-17; Ruth 2:11-12; Genesis 12:1; Matthew 1:5
+
+Study questions:
+- Why does Naomi urge her daughters-in-law three times to go back (Ruth 1:8, 11, 12), and what does she think they would find in Moab?
+- What is the difference between what Orpah does and what Ruth does in Ruth 1:14? Is Orpah blamed anywhere in the text?
+- List the six things Ruth promises in Ruth 1:16-17. Which of them could not be undone, and what does she call on the LORD to do if she breaks her word?
+- Ruth says "your God my God" while Naomi says the LORD's hand has gone out against her (Ruth 1:13, 20-21). What might it mean to cling to someone whose faith is battered?
+- Boaz later praises Ruth for leaving her father, mother and native land (Ruth 2:11). Whose story in Genesis 12:1 does that recall, and what does it suggest about Ruth?
+- Who in your life has shown you this kind of loyal love, and where might God be asking you to show it?
+
 ### [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) — Passage
 
 Read: 1 Kings 3:1-15; 1 Kings 3:16-28; 1 Kings 4:29-34; 1 Kings 11:9; 2 Chronicles 1:3-13; Wisdom 9; Matthew 6:28-33; James 1:5
