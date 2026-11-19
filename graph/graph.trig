@@ -998,6 +998,25 @@
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s17> .
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s18> .
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s19> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-books/book-of-ruth.md" .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> .
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-books/deuteronomy.md" .
@@ -10551,6 +10570,177 @@
   <https://github.com/john1hsu/bible-graph/id/source/book-of-jeremiah/s9> <https://schema.org/url> <https://ebible.org/eng-web/JER43.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/book-of-ruth#graph> {
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Ruth 1:16-17. What exactly does Ruth promise Naomi, and what does she give up by saying it?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Ruth 2:3 Ruth \"happened\" to glean in Boaz's field. Where else in the book does God seem to work quietly through ordinary choices rather than through miracles?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "The words \"kindly\" and \"kindness\" (Ruth 1:8; 2:20; 3:10) and \"redeem\" (Ruth 4:4-6) keep returning. Who shows kindness to whom, and who redeems what?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Deuteronomy 23:3 with Ruth's welcome in Bethlehem and her place in Matthew 1:5. What does the story suggest about how God's people should receive the outsider who seeks refuge with God (Ruth 2:12)?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Naomi asks to be called Mara, \"bitter\" (Ruth 1:20), yet the women later say a son has been born to her (Ruth 4:17). How might the book speak to someone in a season of grief?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2000/01/rdf-schema#label> "Book of Ruth" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#altLabel> "Megillat Ruth" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruth (book)" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#altLabel> "Scroll of Ruth" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/historical-books> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#definition> "A four-chapter Old Testament story, set \"in the days when the judges judged\", of the widow Naomi, her Moabite daughter-in-law Ruth and their kinsman Boaz of Bethlehem, in which loyal kindness turns famine and loss into a harvest, a marriage and a son whose grandson is King David; Christian Bibles place it after Judges, while the Hebrew Bible counts it among the Writings and Jews read it at the feast of Weeks." .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#prefLabel> "Book of Ruth" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-judges> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/levirate-marriage> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shavuot> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/samuel> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-books" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/levirate-marriage> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/boaz> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/david> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/naomi> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/ruth-the-moabite> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-books/book-of-ruth.md" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#hasGenre> <https://github.com/john1hsu/bible-graph/id/biblical-narrative> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 23:3" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Deuteronomy 25:5-10" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 19:9-10" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 25:25" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 1:5" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 1:1-22" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 2:1-23" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 3:1-18" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 4:1-22" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/redemption> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <http://purl.org/dc/terms/title> "Ruth, Book of (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10> <https://schema.org/url> <https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ruth> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <http://purl.org/dc/terms/title> "Ruth — Introduction (New American Bible, Revised Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11> <https://schema.org/url> <https://bible.usccb.org/bible/ruth/0> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <http://purl.org/dc/terms/title> "Ruth, Book of (Jewish Encyclopedia, 1906)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/12947-ruth-book-of> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <http://purl.org/dc/terms/title> "Book of Ruth (F. Gigot, Catholic Encyclopedia, 1912)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13> <https://schema.org/url> <https://www.newadvent.org/cathen/13276a.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <http://purl.org/dc/terms/publisher> "Verbum et Ecclesia" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <http://purl.org/dc/terms/title> "Damian O. Odo and Collins I. Ugwu, 'I will marry Ruth so that the name of the dead will not be blotted out: Exploring hesed in Ruth 4:1–13', Verbum et Ecclesia 43.1 (2022)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14> <https://schema.org/url> <https://verbumetecclesia.org.za/index.php/ve/article/view/2471/0> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <http://purl.org/dc/terms/publisher> "New Advent" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <http://purl.org/dc/terms/title> "Jerome, Letter 53 (to Paulinus), section 8" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15> <https://schema.org/url> <https://www.newadvent.org/fathers/3001053.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <http://purl.org/dc/terms/publisher> "My Jewish Learning" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <http://purl.org/dc/terms/title> "Ronald H. Isaacs, \"Why We Read the Book of Ruth on Shavuot\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16> <https://schema.org/url> <https://www.myjewishlearning.com/article/why-do-we-read-the-book-of-ruth-on-shavuot/> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <http://purl.org/dc/terms/title> "Ruth 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1> <https://schema.org/url> <https://biblehub.com/web/ruth/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <http://purl.org/dc/terms/title> "Ruth 2 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2> <https://schema.org/url> <https://bibliaparalela.com/web/ruth/2.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <http://purl.org/dc/terms/title> "Ruth 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3> <https://schema.org/url> <https://bibliaparalela.com/web/ruth/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <http://purl.org/dc/terms/title> "Ruth 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4> <https://schema.org/url> <https://biblehub.com/web/ruth/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <http://purl.org/dc/terms/title> "Deuteronomy 23:3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5> <https://schema.org/url> <https://www.christianity.com/bible/web/deuteronomy/23-3> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <http://purl.org/dc/terms/title> "Deuteronomy 25 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6> <https://schema.org/url> <https://ebible.org/study/content/texts/eng-web/DT25.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <http://purl.org/dc/terms/title> "Leviticus 19:9-10 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7> <https://schema.org/url> <https://worthy.bible/bible/parallel/leviticus/19/9/10> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <http://purl.org/dc/terms/title> "Leviticus 25:25 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8> <https://schema.org/url> <https://www.christianity.com/bible/web/leviticus/25-25> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <http://purl.org/dc/terms/title> "Matthew 1:3-6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/matthew/1-3-6> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/deuteronomy#graph> {
   <https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Where and when does Moses speak, according to Deuteronomy 1:1-5? Why might it matter that the people are standing on the edge of the land rather than at Sinai?" .
@@ -14301,6 +14491,7 @@
   <https://github.com/john1hsu/bible-graph/id/bethlehem/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+  <https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
@@ -14336,7 +14527,11 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-narrative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-narrative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-narrative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
   <https://github.com/john1hsu/bible-graph/id/biblical-narrative> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-narrative> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/biblical-theology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
@@ -14356,6 +14551,7 @@
   <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/boaz> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/book-of-concord> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
@@ -14411,6 +14607,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-joel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-joel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/book-of-joel> <https://github.com/john1hsu/bible-graph/ontology#fulfilledIn> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-judges> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
   <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/book-of-malachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -14428,7 +14625,16 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/praying-the-psalms> .
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/book-of-psalms> <https://github.com/john1hsu/bible-graph/ontology#readWith> <https://github.com/john1hsu/bible-graph/id/praying-the-psalms> .
-  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/historical-books> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-ruth> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/book-of-wisdom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -14518,12 +14724,14 @@
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/david> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/david> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/david> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+  <https://github.com/john1hsu/bible-graph/id/david> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/davidic-covenant> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
   <https://github.com/john1hsu/bible-graph/id/davidic-covenant> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/davidic-covenant> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/1-kings> .
@@ -14569,6 +14777,7 @@
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+  <https://github.com/john1hsu/bible-graph/id/deuteronomy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/deuteronomy> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/shema> .
@@ -14770,6 +14979,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
@@ -14876,8 +15086,10 @@
   <https://github.com/john1hsu/bible-graph/id/higher-criticism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
   <https://github.com/john1hsu/bible-graph/id/holy-spirit> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/pentecost> .
@@ -15119,6 +15331,8 @@
   <https://github.com/john1hsu/bible-graph/id/lectures-on-the-sacred-poetry-of-the-hebrews> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
   <https://github.com/john1hsu/bible-graph/id/leningrad-codex> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/letter-of-aristeas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/levirate-marriage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+  <https://github.com/john1hsu/bible-graph/id/levirate-marriage> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/levirate-marriage> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/levites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
@@ -15158,6 +15372,7 @@
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/love> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
+  <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/shema> .
   <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
@@ -15277,6 +15492,7 @@
   <https://github.com/john1hsu/bible-graph/id/mount-sinai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
   <https://github.com/john1hsu/bible-graph/id/mount-sinai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
   <https://github.com/john1hsu/bible-graph/id/mount-sinai> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/giving-of-the-law-at-sinai> .
+  <https://github.com/john1hsu/bible-graph/id/naomi> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/nebuchadnezzar-ii> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/new-covenant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
@@ -15330,6 +15546,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
@@ -15340,6 +15557,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
@@ -15598,6 +15816,7 @@
   <https://github.com/john1hsu/bible-graph/id/reading-proverbs-as-promises> <https://github.com/john1hsu/bible-graph/ontology#addressedBy> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/reconciliation> <https://github.com/john1hsu/bible-graph/ontology#confusedWith> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/redemption> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15630,6 +15849,7 @@
   <https://github.com/john1hsu/bible-graph/id/robert-lowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/robert-lowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
   <https://github.com/john1hsu/bible-graph/id/robert-lowth> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
+  <https://github.com/john1hsu/bible-graph/id/ruth-the-moabite> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/sabbath> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15659,6 +15879,9 @@
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/samaritans> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/parable-of-the-good-samaritan> .
+  <https://github.com/john1hsu/bible-graph/id/samuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/samuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/samuel> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/sarah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sarah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/sarah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
@@ -15786,6 +16009,7 @@
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
   <https://github.com/john1hsu/bible-graph/id/sermon-on-the-plain> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+  <https://github.com/john1hsu/bible-graph/id/shavuot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/shavuot> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/shema/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/shema/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15884,6 +16108,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .

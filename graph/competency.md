@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:book-of-ruth` |
 
 ## Life situations with no Scripture (gap)
 
@@ -43,7 +45,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
 | `bg:prayer` | Elijah |
 | `bg:presence-of-god` | The Temple |
-| `bg:redemption` | The Exodus, The Song of the Sea |
+| `bg:redemption` | Book of Ruth, The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
 | `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:wisdom` | Solomon's Dream at Gibeon |
@@ -80,13 +82,13 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
-| `bg:calling-of-the-first-disciples` | `bg:andrew` |
-| `bg:calling-of-the-first-disciples` | `bg:james-son-of-zebedee` |
-| `bg:calling-of-the-first-disciples` | `bg:jesus` |
-| `bg:calling-of-the-first-disciples` | `bg:john-son-of-zebedee` |
-| `bg:calling-of-the-first-disciples` | `bg:john-the-baptist` |
+| `bg:book-of-ruth` | `bg:bethlehem` |
+| `bg:book-of-ruth` | `bg:boaz` |
+| `bg:book-of-ruth` | `bg:david` |
+| `bg:book-of-ruth` | `bg:naomi` |
+| `bg:book-of-ruth` | `bg:ruth-the-moabite` |
 
-…and 46 more.
+…and 51 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -98,9 +100,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:bethlehem` | bgo:Place |
+_No results._
 
 ## Orphan articles (gap)
 

@@ -88,6 +88,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Leviticus
 
+- **Leviticus 19:9-10** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Leviticus 19:9-18** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Leviticus 19:17-18** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Leviticus 19:18** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
@@ -95,6 +96,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Leviticus 19:33-34** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 21:1-3** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 23:15-21** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **Leviticus 25:25** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Leviticus 26:3-15** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Leviticus 26:40-45** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 
@@ -133,7 +135,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Deuteronomy 17:18** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Deuteronomy 18:15-18** — [Moses](../articles/old-testament-people/moses.md) (Person)
 - **Deuteronomy 21:23** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
+- **Deuteronomy 23:3** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Deuteronomy 25:5-6** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Deuteronomy 25:5-10** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Deuteronomy 25:5-10** — [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) (Passage)
 - **Deuteronomy 28:64** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Deuteronomy 29:1** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
@@ -155,6 +159,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Ruth
 
 - **Ruth 1:1-22** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
+- **Ruth 1:1-22** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
+- **Ruth 2:1-23** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
+- **Ruth 3:1-18** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
+- **Ruth 4:1-22** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Ruth 4:11-22** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## 1 Samuel
@@ -424,6 +432,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 1:1-2** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **Matthew 1:5** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:21-25** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)

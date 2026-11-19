@@ -1771,6 +1771,153 @@
    ]
   },
   {
+   "@id": "bg:book-of-ruth",
+   "@type": "bgo:Book",
+   "bgo:attributedTo": {
+    "@id": "bg:samuel"
+   },
+   "bgo:basis": "debated",
+   "bgo:domain": "old-testament-books",
+   "bgo:explainedBy": {
+    "@id": "bg:levirate-marriage"
+   },
+   "bgo:features": [
+    {
+     "@id": "bg:bethlehem"
+    },
+    {
+     "@id": "bg:boaz"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:naomi"
+    },
+    {
+     "@id": "bg:ruth-the-moabite"
+    }
+   ],
+   "bgo:file": "articles/old-testament-books/book-of-ruth.md",
+   "bgo:hasGenre": {
+    "@id": "bg:biblical-narrative"
+   },
+   "bgo:keyReference": [
+    "Deuteronomy 23:3",
+    "Deuteronomy 25:5-10",
+    "Leviticus 19:9-10",
+    "Leviticus 25:25",
+    "Matthew 1:5",
+    "Ruth 1:1-22",
+    "Ruth 2:1-23",
+    "Ruth 3:1-18",
+    "Ruth 4:1-22"
+   ],
+   "bgo:level": "introductory",
+   "bgo:teaches": {
+    "@id": "bg:redemption"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9"
+    }
+   ],
+   "rdfs:label": "Book of Ruth",
+   "skos:altLabel": [
+    "Megillat Ruth",
+    "Ruth (book)",
+    "Scroll of Ruth"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:historical-books"
+    },
+    {
+     "@id": "bg:old-testament"
+    }
+   ],
+   "skos:definition": "A four-chapter Old Testament story, set \"in the days when the judges judged\", of the widow Naomi, her Moabite daughter-in-law Ruth and their kinsman Boaz of Bethlehem, in which loyal kindness turns famine and loss into a harvest, a marriage and a son whose grandson is King David; Christian Bibles place it after Judges, while the Hebrew Bible counts it among the Writings and Jews read it at the feast of Weeks.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books"
+   },
+   "skos:prefLabel": "Book of Ruth",
+   "skos:related": [
+    {
+     "@id": "bg:bethlehem"
+    },
+    {
+     "@id": "bg:book-of-judges"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:deuteronomy"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:levirate-marriage"
+    },
+    {
+     "@id": "bg:loving-your-neighbor"
+    },
+    {
+     "@id": "bg:shavuot"
+    }
+   ]
+  },
+  {
    "@id": "bg:calling-of-the-first-disciples",
    "@type": "bgo:Event",
    "bgo:basis": "scriptural",
@@ -10631,6 +10778,46 @@
    "rdfs:label": "Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-ruth"
+   },
+   "rdfs:label": "Read Ruth 1:16-17. What exactly does Ruth promise Naomi, and what does she give up by saying it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-ruth"
+   },
+   "rdfs:label": "In Ruth 2:3 Ruth \"happened\" to glean in Boaz's field. Where else in the book does God seem to work quietly through ordinary choices rather than through miracles?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-ruth"
+   },
+   "rdfs:label": "The words \"kindly\" and \"kindness\" (Ruth 1:8; 2:20; 3:10) and \"redeem\" (Ruth 4:4-6) keep returning. Who shows kindness to whom, and who redeems what?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-ruth"
+   },
+   "rdfs:label": "Compare Deuteronomy 23:3 with Ruth's welcome in Bethlehem and her place in Matthew 1:5. What does the story suggest about how God's people should receive the outsider who seeks refuge with God (Ruth 2:12)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/book-of-ruth/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:book-of-ruth"
+   },
+   "rdfs:label": "Naomi asks to be called Mara, \"bitter\" (Ruth 1:20), yet the women later say a son has been born to her (Ruth 4:17). How might the book speak to someone in a season of grief?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -16389,6 +16576,230 @@
    "dcterms:title": "Jeremiah 43 (World English Bible)",
    "schema:url": {
     "@id": "https://ebible.org/eng-web/JER43.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ruth 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ruth/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Ruth, Book of (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://search.biblegateway.com/resources/encyclopedia-of-the-bible/Book-Ruth"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "Ruth — Introduction (New American Bible, Revised Edition)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/ruth/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Ruth, Book of (Jewish Encyclopedia, 1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/12947-ruth-book-of"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Book of Ruth (F. Gigot, Catholic Encyclopedia, 1912)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/13276a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Verbum et Ecclesia",
+   "dcterms:title": "Damian O. Odo and Collins I. Ugwu, 'I will marry Ruth so that the name of the dead will not be blotted out: Exploring hesed in Ruth 4:1–13', Verbum et Ecclesia 43.1 (2022)",
+   "schema:url": {
+    "@id": "https://verbumetecclesia.org.za/index.php/ve/article/view/2471/0"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Jerome, Letter 53 (to Paulinus), section 8",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/3001053.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "My Jewish Learning",
+   "dcterms:title": "Ronald H. Isaacs, \"Why We Read the Book of Ruth on Shavuot\"",
+   "schema:url": {
+    "@id": "https://www.myjewishlearning.com/article/why-do-we-read-the-book-of-ruth-on-shavuot/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Ruth 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/ruth/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Ruth 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/ruth/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ruth 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ruth/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Deuteronomy 23:3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/deuteronomy/23-3"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Deuteronomy 25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ebible.org/study/content/texts/eng-web/DT25.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Leviticus 19:9-10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://worthy.bible/bible/parallel/leviticus/19/9/10"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Leviticus 25:25 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/leviticus/25-25"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/book-of-ruth/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Matthew 1:3-6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/matthew/1-3-6"
    }
   },
   {

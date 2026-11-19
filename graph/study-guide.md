@@ -698,6 +698,17 @@ Study questions:
 - In Jeremiah 20:7-18 the prophet both praises God and curses the day he was born. What does it mean to you that such honest prayers are part of Scripture?
 - Jeremiah buys a field in a city under siege (Jeremiah 32:6-15). Where might God be asking you or your church to act in hope when circumstances look bleak?
 
+### [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) — Book
+
+Read: Ruth 1:1-22; Ruth 2:1-23; Ruth 3:1-18; Ruth 4:1-22; Deuteronomy 23:3; Deuteronomy 25:5-10; Leviticus 19:9-10; Leviticus 25:25; Matthew 1:5
+
+Study questions:
+- Read Ruth 1:16-17. What exactly does Ruth promise Naomi, and what does she give up by saying it?
+- In Ruth 2:3 Ruth "happened" to glean in Boaz's field. Where else in the book does God seem to work quietly through ordinary choices rather than through miracles?
+- The words "kindly" and "kindness" (Ruth 1:8; 2:20; 3:10) and "redeem" (Ruth 4:4-6) keep returning. Who shows kindness to whom, and who redeems what?
+- Compare Deuteronomy 23:3 with Ruth's welcome in Bethlehem and her place in Matthew 1:5. What does the story suggest about how God's people should receive the outsider who seeks refuge with God (Ruth 2:12)?
+- Naomi asks to be called Mara, "bitter" (Ruth 1:20), yet the women later say a son has been born to her (Ruth 4:17). How might the book speak to someone in a season of grief?
+
 ### [Deuteronomy](../articles/old-testament-books/deuteronomy.md) — Book
 
 Read: Deuteronomy 1:1-5; Deuteronomy 5:1-6; Deuteronomy 5:22-27; Deuteronomy 6:4-9; Deuteronomy 8:3; Deuteronomy 12:5; Deuteronomy 17:18; Deuteronomy 30:11-20; Deuteronomy 34:1-12; 2 Kings 22:8-13; Matthew 4:1-11; Matthew 22:37-40
