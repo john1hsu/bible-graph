@@ -208,6 +208,17 @@ Study questions:
 - Psalm 119 and Lamentations 1 are both arranged by the letters of the Hebrew alphabet. Why might a poet use such a pattern for a love of God's law and for grief over a fallen city?
 - How does Mary's song in Luke 1:46-55 continue the way Israel's psalms pray and praise?
 
+### [Lutheranism](../articles/interpretation/lutheranism.md) — Tradition
+
+Read: Romans 1:16-17; Romans 3:21-28; John 5:39; 2 Timothy 2:15; 2 Timothy 3:14-17; Matthew 26:26-28; Romans 6:3-4
+
+Study questions:
+- Read Romans 1:16-17. What does Paul say the Good News reveals, and why did this verse change from a terror into a comfort for Luther?
+- According to Romans 3:21-28, how is a person "justified", and what happens to boasting (3:27)?
+- In John 5:39 Jesus says the Scriptures "testify about me". How would reading every part of the Bible with that question in mind change the way you read the Old Testament?
+- Lutherans speak of "rightly dividing" Law and Gospel (2 Timothy 2:15). Pick a passage you know well. Where does it show you your need, and where does it give you God's promise?
+- At the Lord's Supper, Lutherans take "this is my body" (Matthew 26:26) at its plain word, while Reformed Christians read it as a sacramental sign. What concern for honouring Scripture drives each reading?
+
 ### [Reading in Context](../articles/interpretation/reading-in-context.md) — Method
 
 Read: Jeremiah 29:1-14; Philippians 4:10-14; Revelation 3:14-22; Nehemiah 8:8

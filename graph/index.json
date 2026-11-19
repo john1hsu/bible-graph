@@ -5502,6 +5502,139 @@
   ]
  },
  {
+  "id": "bg:lutheranism",
+  "title": "Lutheranism",
+  "aliases": [
+   "Lutheran Church",
+   "Lutheran tradition",
+   "Lutherans",
+   "Evangelical Lutheran tradition",
+   "Churches of the Augsburg Confession"
+  ],
+  "type": "Tradition",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/lutheranism.md",
+  "created": "2026-11-19",
+  "summary": "The Protestant tradition that traces its reading of Scripture to Martin Luther and the Book of Concord: the prophetic and apostolic Scriptures are the only rule and norm of teaching, sinners are justified freely by grace through faith for Christ's sake, the whole Bible is read with Christ at its centre and with the distinction between Law and Gospel, and God's Word is joined to Baptism and the Lord's Supper.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:protestantism"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reformed-tradition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-interprets-scripture"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:justification"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:mosaic-covenant"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "bgo:introducedBy",
+    "object": "bg:martin-luther",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:book-of-concord",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:reformed-tradition",
+    "source": "s20",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Romans 1:16-17",
+   "Romans 3:21-28",
+   "John 5:39",
+   "2 Timothy 2:15",
+   "2 Timothy 3:14-17",
+   "Matthew 26:26-28",
+   "Romans 6:3-4"
+  ],
+  "studyQuestions": [
+   "Read Romans 1:16-17. What does Paul say the Good News reveals, and why did this verse change from a terror into a comfort for Luther?",
+   "According to Romans 3:21-28, how is a person \"justified\", and what happens to boasting (3:27)?",
+   "In John 5:39 Jesus says the Scriptures \"testify about me\". How would reading every part of the Bible with that question in mind change the way you read the Old Testament?",
+   "Lutherans speak of \"rightly dividing\" Law and Gospel (2 Timothy 2:15). Pick a passage you know well. Where does it show you your need, and where does it give you God's promise?",
+   "At the Lord's Supper, Lutherans take \"this is my body\" (Matthew 26:26) at its plain word, while Reformed Christians read it as a sacramental sign. What concern for honouring Scripture drives each reading?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/romans/1.htm",
+   "https://biblehub.com/web/romans/3.htm",
+   "https://biblehub.com/web/2_timothy/3.htm",
+   "https://www.christianity.com/bible/web/2-timothy/2-15",
+   "https://worthy.bible/bible/web/john/5/39",
+   "https://www.christianity.com/bible/web/matthew/26-26-29",
+   "https://bibliaparalela.com/web/romans/6.htm",
+   "https://www.britannica.com/topic/Lutheranism",
+   "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv",
+   "https://bookofconcord.cph.org/en/formula-of-concord-epitome/summary",
+   "https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel",
+   "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ",
+   "https://ctsfw.edu/etext/boc/sc/SC04.txt",
+   "https://gruber.lstc.edu/luthers_bible/1522.php",
+   "https://gruber.lstc.edu/luthers_bible/1534.php",
+   "https://www.bible-researcher.com/antilegomena.html",
+   "https://sourcebooks.web.fordham.edu/mod/1519luther-tower.asp",
+   "https://media.ctsfw.edu/Item/GetFullText/1952",
+   "https://media.ctsfw.edu/Item/GetFullText/250",
+   "https://www.britannica.com:443/print/article/364040",
+   "https://www.prca.org/heidelberg-catechism/lords-day-29",
+   "https://www.ewtn.com/catholicism/library/joint-declaration-on-the-doctrine-of-justification-28863",
+   "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+  ]
+ },
+ {
   "id": "bg:masoretic-text",
   "title": "Masoretic Text",
   "aliases": [

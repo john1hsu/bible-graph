@@ -5673,6 +5673,163 @@
    ]
   },
   {
+   "@id": "bg:lutheranism",
+   "@type": "bgo:Tradition",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:contrastsWith": {
+    "@id": "bg:reformed-tradition"
+   },
+   "bgo:domain": "interpretation",
+   "bgo:file": "articles/interpretation/lutheranism.md",
+   "bgo:introducedBy": {
+    "@id": "bg:martin-luther"
+   },
+   "bgo:introducedIn": {
+    "@id": "bg:book-of-concord"
+   },
+   "bgo:keyReference": [
+    "2 Timothy 2:15",
+    "2 Timothy 3:14-17",
+    "John 5:39",
+    "Matthew 26:26-28",
+    "Romans 1:16-17",
+    "Romans 3:21-28",
+    "Romans 6:3-4"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9"
+    }
+   ],
+   "rdfs:label": "Lutheranism",
+   "skos:altLabel": [
+    "Churches of the Augsburg Confession",
+    "Evangelical Lutheran tradition",
+    "Lutheran Church",
+    "Lutheran tradition",
+    "Lutherans"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:biblical-interpretation"
+    },
+    {
+     "@id": "bg:protestantism"
+    }
+   ],
+   "skos:definition": "The Protestant tradition that traces its reading of Scripture to Martin Luther and the Book of Concord: the prophetic and apostolic Scriptures are the only rule and norm of teaching, sinners are justified freely by grace through faith for Christ's sake, the whole Bible is read with Christ at its centre and with the distinction between Law and Gospel, and God's Word is joined to Baptism and the Lord's Supper.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Lutheranism",
+   "skos:related": [
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:justification"
+    },
+    {
+     "@id": "bg:mosaic-covenant"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    },
+    {
+     "@id": "bg:scripture-interprets-scripture"
+    }
+   ]
+  },
+  {
    "@id": "bg:masoretic-text",
    "@type": "bgo:Manuscript",
    "bgo:basis": "historical",
@@ -11740,6 +11897,46 @@
     "@id": "bg:loving-your-neighbor"
    },
    "rdfs:label": "Who is a \"neighbor\" I find easy to pass by, at church, at work or on my street, and what is one act of mercy I could offer this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lutheranism/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lutheranism"
+   },
+   "rdfs:label": "Read Romans 1:16-17. What does Paul say the Good News reveals, and why did this verse change from a terror into a comfort for Luther?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lutheranism/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lutheranism"
+   },
+   "rdfs:label": "According to Romans 3:21-28, how is a person \"justified\", and what happens to boasting (3:27)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lutheranism/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lutheranism"
+   },
+   "rdfs:label": "In John 5:39 Jesus says the Scriptures \"testify about me\". How would reading every part of the Bible with that question in mind change the way you read the Old Testament?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lutheranism/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lutheranism"
+   },
+   "rdfs:label": "Lutherans speak of \"rightly dividing\" Law and Gospel (2 Timothy 2:15). Pick a passage you know well. Where does it show you your need, and where does it give you God's promise?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/lutheranism/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:lutheranism"
+   },
+   "rdfs:label": "At the Lord's Supper, Lutherans take \"this is my body\" (Matthew 26:26) at its plain word, while Reformed Christians read it as a sacramental sign. What concern for honouring Scripture drives each reading?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/masoretic-text/check/1",
@@ -21989,6 +22186,328 @@
    "dcterms:title": "1 John 4 (World English Bible)",
    "schema:url": {
     "@id": "https://biblehub.com/web/1_john/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/romans/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Formula of Concord, Epitome, \"The Summary Content, Rule, and Norm\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/summary"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Formula of Concord, Epitome, Article V, \"The Law and the Gospel\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Formula of Concord, Epitome, Article VII, \"The Holy Supper of Christ\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Theological Seminary, Fort Wayne",
+   "dcterms:title": "Luther's Small Catechism, Part IV, \"The Sacrament of Holy Baptism\" (tr. Robert E. Smith, Project Wittenberg)",
+   "schema:url": {
+    "@id": "https://ctsfw.edu/etext/boc/sc/SC04.txt"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Lutheran School of Theology at Chicago",
+   "dcterms:title": "Luther's September Testament, 1522 (Gruber Rare Books Collection)",
+   "schema:url": {
+    "@id": "https://gruber.lstc.edu/luthers_bible/1522.php"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Lutheran School of Theology at Chicago",
+   "dcterms:title": "Luther's Complete Bible, 1534 (Gruber Rare Books Collection)",
+   "schema:url": {
+    "@id": "https://gruber.lstc.edu/luthers_bible/1534.php"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Research (Michael Marlowe)",
+   "dcterms:title": "Martin Luther, prefaces to Hebrews and to James and Jude (1522), from Luther's Works vol. 35 (Concordia, 1963)",
+   "schema:url": {
+    "@id": "https://www.bible-researcher.com/antilegomena.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Internet History Sourcebooks Project, Fordham University",
+   "dcterms:title": "Martin Luther, Preface to the Complete Edition of his Latin Writings (1545), \"The Tower Experience\" (tr. Andrew Thornton, OSB)",
+   "schema:url": {
+    "@id": "https://sourcebooks.web.fordham.edu/mod/1519luther-tower.asp"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Theological Seminary, Fort Wayne",
+   "dcterms:title": "Erling T. Teigen, \"The Clarity of Scripture and Hermeneutical Principles in the Lutheran Confessions\", Concordia Theological Quarterly 46:2-3 (1982)",
+   "schema:url": {
+    "@id": "https://media.ctsfw.edu/Item/GetFullText/1952"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Theological Seminary, Fort Wayne",
+   "dcterms:title": "Horace Hummel, \"Are Law and Gospel a Valid Hermeneutical Principle?\", Concordia Theological Quarterly 46:2-3 (1982)",
+   "schema:url": {
+    "@id": "https://media.ctsfw.edu/Item/GetFullText/250"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Romans 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/romans/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Marburg Colloquy",
+   "schema:url": {
+    "@id": "https://www.britannica.com:443/print/article/364040"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Protestant Reformed Churches in America",
+   "dcterms:title": "Heidelberg Catechism, Lord's Day 29 (Questions 78-79)",
+   "schema:url": {
+    "@id": "https://www.prca.org/heidelberg-catechism/lords-day-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "EWTN",
+   "dcterms:title": "Joint Declaration on the Doctrine of Justification (Lutheran World Federation and the Catholic Church, 1999)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/joint-declaration-on-the-doctrine-of-justification-28863"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Scripture and Tradition (pamphlet, 2021)",
+   "schema:url": {
+    "@id": "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Timothy 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_timothy/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "2 Timothy 2:15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/2-timothy/2-15"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "John 5:39 (World English Bible)",
+   "schema:url": {
+    "@id": "https://worthy.bible/bible/web/john/5/39"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Matthew 26:26-29 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/matthew/26-26-29"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Romans 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/romans/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Lutheranism",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Lutheranism"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Concordia Publishing House",
+   "dcterms:title": "Augsburg Confession, Article IV, \"Justification\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv"
    }
   },
   {

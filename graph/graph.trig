@@ -311,6 +311,32 @@
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s12> .
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s13> .
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s14> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/interpretation/lutheranism.md" .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> .
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/interpretation/reading-in-context.md" .
@@ -4114,6 +4140,223 @@
   <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
   <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s9> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/11902-parallelism-in-hebrew-poetry> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/lutheranism#graph> {
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Romans 1:16-17. What does Paul say the Good News reveals, and why did this verse change from a terror into a comfort for Luther?" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Romans 3:21-28, how is a person \"justified\", and what happens to boasting (3:27)?" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In John 5:39 Jesus says the Scriptures \"testify about me\". How would reading every part of the Bible with that question in mind change the way you read the Old Testament?" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Lutherans speak of \"rightly dividing\" Law and Gospel (2 Timothy 2:15). Pick a passage you know well. Where does it show you your need, and where does it give you God's promise?" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "At the Lord's Supper, Lutherans take \"this is my body\" (Matthew 26:26) at its plain word, while Reformed Christians read it as a sacramental sign. What concern for honouring Scripture drives each reading?" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2000/01/rdf-schema#label> "Lutheranism" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#altLabel> "Churches of the Augsburg Confession" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#altLabel> "Evangelical Lutheran tradition" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutheran Church" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutheran tradition" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutherans" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/protestantism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#definition> "The Protestant tradition that traces its reading of Scripture to Martin Luther and the Book of Concord: the prophetic and apostolic Scriptures are the only rule and norm of teaching, sinners are justified freely by grace through faith for Christ's sake, the whole Bible is read with Christ at its centre and with the distinction between Law and Gospel, and God's Word is joined to Baptism and the Lord's Supper." .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheranism" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/justification> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#domain> "interpretation" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/interpretation/lutheranism.md" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#introducedBy> <https://github.com/john1hsu/bible-graph/id/martin-luther> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#introducedIn> <https://github.com/john1hsu/bible-graph/id/book-of-concord> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Timothy 2:15" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Timothy 3:14-17" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 5:39" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 26:26-28" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 1:16-17" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 3:21-28" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 6:3-4" .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome, \"The Summary Content, Rule, and Norm\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s10> <https://schema.org/url> <https://bookofconcord.cph.org/en/formula-of-concord-epitome/summary> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome, Article V, \"The Law and the Gospel\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s11> <https://schema.org/url> <https://bookofconcord.cph.org/en/formula-of-concord-epitome/v_the_law_and_the_gospel> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome, Article VII, \"The Holy Supper of Christ\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s12> <https://schema.org/url> <https://bookofconcord.cph.org/en/formula-of-concord-epitome/vii_the_holy_supper_of_christ> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <http://purl.org/dc/terms/publisher> "Concordia Theological Seminary, Fort Wayne" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <http://purl.org/dc/terms/title> "Luther's Small Catechism, Part IV, \"The Sacrament of Holy Baptism\" (tr. Robert E. Smith, Project Wittenberg)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s13> <https://schema.org/url> <https://ctsfw.edu/etext/boc/sc/SC04.txt> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <http://purl.org/dc/terms/publisher> "Lutheran School of Theology at Chicago" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <http://purl.org/dc/terms/title> "Luther's September Testament, 1522 (Gruber Rare Books Collection)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s14> <https://schema.org/url> <https://gruber.lstc.edu/luthers_bible/1522.php> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <http://purl.org/dc/terms/publisher> "Lutheran School of Theology at Chicago" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <http://purl.org/dc/terms/title> "Luther's Complete Bible, 1534 (Gruber Rare Books Collection)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s15> <https://schema.org/url> <https://gruber.lstc.edu/luthers_bible/1534.php> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <http://purl.org/dc/terms/publisher> "Bible Research (Michael Marlowe)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <http://purl.org/dc/terms/title> "Martin Luther, prefaces to Hebrews and to James and Jude (1522), from Luther's Works vol. 35 (Concordia, 1963)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s16> <https://schema.org/url> <https://www.bible-researcher.com/antilegomena.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <http://purl.org/dc/terms/publisher> "Internet History Sourcebooks Project, Fordham University" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <http://purl.org/dc/terms/title> "Martin Luther, Preface to the Complete Edition of his Latin Writings (1545), \"The Tower Experience\" (tr. Andrew Thornton, OSB)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s17> <https://schema.org/url> <https://sourcebooks.web.fordham.edu/mod/1519luther-tower.asp> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <http://purl.org/dc/terms/publisher> "Concordia Theological Seminary, Fort Wayne" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <http://purl.org/dc/terms/title> "Erling T. Teigen, \"The Clarity of Scripture and Hermeneutical Principles in the Lutheran Confessions\", Concordia Theological Quarterly 46:2-3 (1982)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s18> <https://schema.org/url> <https://media.ctsfw.edu/Item/GetFullText/1952> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <http://purl.org/dc/terms/publisher> "Concordia Theological Seminary, Fort Wayne" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <http://purl.org/dc/terms/title> "Horace Hummel, \"Are Law and Gospel a Valid Hermeneutical Principle?\", Concordia Theological Quarterly 46:2-3 (1982)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s19> <https://schema.org/url> <https://media.ctsfw.edu/Item/GetFullText/250> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <http://purl.org/dc/terms/title> "Romans 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s1> <https://schema.org/url> <https://biblehub.com/web/romans/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <http://purl.org/dc/terms/title> "Marburg Colloquy" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s20> <https://schema.org/url> <https://www.britannica.com:443/print/article/364040> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <http://purl.org/dc/terms/publisher> "Protestant Reformed Churches in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <http://purl.org/dc/terms/title> "Heidelberg Catechism, Lord's Day 29 (Questions 78-79)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s21> <https://schema.org/url> <https://www.prca.org/heidelberg-catechism/lords-day-29> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <http://purl.org/dc/terms/publisher> "EWTN" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <http://purl.org/dc/terms/title> "Joint Declaration on the Doctrine of Justification (Lutheran World Federation and the Catholic Church, 1999)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s22> <https://schema.org/url> <https://www.ewtn.com/catholicism/library/joint-declaration-on-the-doctrine-of-justification-28863> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <http://purl.org/dc/terms/title> "Scripture and Tradition (pamphlet, 2021)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s23> <https://schema.org/url> <https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <http://purl.org/dc/terms/title> "Romans 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s2> <https://schema.org/url> <https://biblehub.com/web/romans/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <http://purl.org/dc/terms/title> "2 Timothy 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s3> <https://schema.org/url> <https://biblehub.com/web/2_timothy/3.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <http://purl.org/dc/terms/title> "2 Timothy 2:15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s4> <https://schema.org/url> <https://www.christianity.com/bible/web/2-timothy/2-15> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <http://purl.org/dc/terms/title> "John 5:39 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s5> <https://schema.org/url> <https://worthy.bible/bible/web/john/5/39> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <http://purl.org/dc/terms/title> "Matthew 26:26-29 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s6> <https://schema.org/url> <https://www.christianity.com/bible/web/matthew/26-26-29> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <http://purl.org/dc/terms/title> "Romans 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s7> <https://schema.org/url> <https://bibliaparalela.com/web/romans/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <http://purl.org/dc/terms/title> "Lutheranism" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s8> <https://schema.org/url> <https://www.britannica.com/topic/Lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <http://purl.org/dc/terms/publisher> "Concordia Publishing House" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <http://purl.org/dc/terms/title> "Augsburg Confession, Article IV, \"Justification\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/lutheranism/s9> <https://schema.org/url> <https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_iv> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/reading-in-context#graph> {
@@ -13785,6 +14028,7 @@
   <https://github.com/john1hsu/bible-graph/id/baptism-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
   <https://github.com/john1hsu/bible-graph/id/baptism-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+  <https://github.com/john1hsu/bible-graph/id/baptism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/song-of-the-sea> .
   <https://github.com/john1hsu/bible-graph/id/baptism> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
@@ -13821,6 +14065,7 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
@@ -13830,12 +14075,14 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
@@ -13859,6 +14106,9 @@
   <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/pentateuch> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
   <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-concord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-concord> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/book-of-daniel> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -14043,6 +14293,7 @@
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
@@ -14329,6 +14580,7 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+  <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/paul> .
@@ -14528,6 +14780,7 @@
   <https://github.com/john1hsu/bible-graph/id/judaism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
   <https://github.com/john1hsu/bible-graph/id/justification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/justification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/justification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/justification> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/grace> .
   <https://github.com/john1hsu/bible-graph/id/justification> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/kaddish> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/lords-prayer> .
@@ -14656,12 +14909,15 @@
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/luke-the-evangelist> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
-  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
-  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
-  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
-  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/protestantism> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
@@ -14673,6 +14929,9 @@
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/marcion> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/martin-luther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/martin-luther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Scholar> .
+  <https://github.com/john1hsu/bible-graph/id/martin-luther> <https://github.com/john1hsu/bible-graph/ontology#introduced> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/mary-mother-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/mary-mother-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -14922,6 +15181,7 @@
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/paul> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/new-testament> .
@@ -15007,6 +15267,8 @@
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+  <https://github.com/john1hsu/bible-graph/id/protestantism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/protestantism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/psalm-136> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/psalm-22/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/psalm-22/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -15073,7 +15335,9 @@
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/repentance> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
   <https://github.com/john1hsu/bible-graph/id/repentance> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -15139,6 +15403,7 @@
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/scripture-memorization/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .

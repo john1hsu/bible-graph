@@ -475,6 +475,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 22:37-40** — [Deuteronomy](../articles/old-testament-books/deuteronomy.md) (Book)
 - **Matthew 23:1-28** — [Pharisees](../articles/background-and-culture/pharisees.md) (Group)
 - **Matthew 23:2** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
+- **Matthew 26:26-28** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **Matthew 26:42** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Matthew 27:35** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Matthew 27:39** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
@@ -649,6 +650,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 3:22-30** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **John 4:9** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **John 5:1** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
+- **John 5:39** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **John 6:4** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 7:41-52** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **John 7:42** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
@@ -748,13 +750,16 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Romans
 
+- **Romans 1:16-17** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
+- **Romans 3:21-28** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **Romans 3:24** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 4:1-22** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Romans 4:3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Romans 4:9-17** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 5:20-21** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 6:1-2** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **Romans 6:3-4** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **Romans 6:14-15** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
 - **Romans 8:15** — [The Lord's Prayer](../articles/life-and-teachings-of-jesus/lords-prayer.md) (Passage)
 - **Romans 8:18-28** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
@@ -854,7 +859,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Timothy
 
+- **2 Timothy 2:15** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **2 Timothy 3:14-17** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
+- **2 Timothy 3:14-17** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **2 Timothy 3:15** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **2 Timothy 3:16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 
