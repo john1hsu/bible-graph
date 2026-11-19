@@ -38,6 +38,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 28:13-15** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Genesis 32:28** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Genesis 35:9-12** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
+- **Genesis 35:19** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **Genesis 35:23-26** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Genesis 37:2-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
@@ -151,15 +152,22 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Joshua 20:7** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Joshua 24:14-27** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 
+## Ruth
+
+- **Ruth 1:1-22** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
+- **Ruth 4:11-22** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
+
 ## 1 Samuel
 
 - **1 Samuel 10:27** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **1 Samuel 16:1-13** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## 2 Samuel
 
 - **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Samuel 7:1-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **2 Samuel 12:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
+- **2 Samuel 23:13-17** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## 1 Kings
 
@@ -210,6 +218,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **2 Chronicles 3:1** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **2 Chronicles 3:1** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **2 Chronicles 3:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **2 Chronicles 11:6** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **2 Chronicles 28:15** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **2 Chronicles 36:20-23** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **2 Chronicles 36:22-23** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -219,6 +228,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Ezra 1:1-4** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Ezra 1:1-11** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
+- **Ezra 2:21** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **Ezra 3:1-6** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 3:1-13** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Ezra 3:10-13** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
@@ -369,6 +379,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Micah
 
 - **Micah 3:12** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Micah 5:2-5** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## Habakkuk
 
@@ -403,6 +414,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:21-25** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
+- **Matthew 2:1-23** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **Matthew 2:17-18** — [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) (Book)
 - **Matthew 3:1-17** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Matthew 3:7** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
@@ -541,6 +553,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:57-80** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Luke 1:72-73** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Luke 2:1-7** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
+- **Luke 2:1-20** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **Luke 2:10-11** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 2:19** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
 - **Luke 2:39-52** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
@@ -628,6 +641,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 5:1** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 6:4** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 7:41-52** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
+- **John 7:42** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **John 7:53–8:11** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)

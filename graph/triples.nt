@@ -561,6 +561,86 @@
 <https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/apostles> .
 <https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#memberOf> <https://github.com/john1hsu/bible-graph/id/levites> .
 <https://github.com/john1hsu/bible-graph/id/barnabas> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Genesis 35:19, what happened on the road to Ephrath, and how does Matthew 2:16-18 draw on the memory of Rachel?" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Ruth 1 and Ruth 4, how does Bethlehem move from famine and emptiness to a harvest and a newborn son, and how is that son linked to David (Ruth 4:17)?" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Whom does God send Samuel to anoint in 1 Samuel 16:1-13, and what was that son doing when he was called?" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What does Micah 5:2-4 promise about the ruler who will come from small Bethlehem, and how do the chief priests and scribes use this text in Matthew 2:4-6?" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "God chose a town \"small among the clans of Judah\" (Micah 5:2) for both David and Jesus. What does that suggest about the way God works, and where might you be overlooking \"small\" places or people?" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2000/01/rdf-schema#label> "Bethlehem" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Bayt Lahm" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Beit Lahm" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Bet Lehem" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Beth-lehem" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Bethlehem Ephrathah" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Bethlehem Judah" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Bethlehem of Judea" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Ephrath" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#altLabel> "Ephrathah" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#definition> "A small hill town in Judah about six miles south of Jerusalem, remembered in Scripture as the place near which Rachel was buried, the home of Naomi, Ruth and Boaz, the hometown of David where Samuel anointed him, the town Micah named as the origin of a coming ruler of Israel, and, in Matthew and Luke, the birthplace of Jesus." .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bethlehem" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/birth-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-micah> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/messiah> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/amarna-letters> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#corroboratedBy> <https://github.com/john1hsu/bible-graph/id/bethlehem-bulla> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#domain> "places-and-geography" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/places-and-geography/bethlehem.md" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/davidic-covenant> .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Samuel 16:1-13" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Chronicles 11:6" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Samuel 23:13-17" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ezra 2:21" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 35:19" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 7:42" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 2:1-20" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 2:1-23" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Micah 5:2-5" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 1:1-22" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ruth 4:11-22" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/bethlehem> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 24:44, which three groups of writings does the risen Jesus say speak about him?" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
@@ -5628,6 +5708,126 @@
 <https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/barnabas/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/1-corinthians/9-6.html> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <http://purl.org/dc/terms/publisher> "Encyclopedia of the Bible, Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <http://purl.org/dc/terms/title> "Bethlehem, Bethlehemite" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Bethlehem-Bethlehemite> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1901-1906), StudyLight" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <http://purl.org/dc/terms/title> "Beth-lehem Judah" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11> <https://schema.org/url> <https://studylight.org/encyclopedias/eng/tje/b/beth-lehem-judah.html> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <http://purl.org/dc/terms/publisher> "Catholic Encyclopedia (1907), New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <http://purl.org/dc/terms/title> "Bethlehem (Edward Arbez)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12> <https://schema.org/url> <https://www.newadvent.org/cathen/02533a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <http://purl.org/dc/terms/publisher> "New Advent (Ante-Nicene Fathers, vol. 1)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <http://purl.org/dc/terms/title> "Dialogue with Trypho, chapter 78 (Justin Martyr, trans. Marcus Dods and George Reith)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13> <https://schema.org/url> <https://www.newadvent.org/fathers/01286.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <http://purl.org/dc/terms/publisher> "New Advent (Nicene and Post-Nicene Fathers, series 2, vol. 6)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <http://purl.org/dc/terms/title> "Letter 58, to Paulinus (Jerome, trans. W. H. Fremantle, G. Lewis and W. G. Martley)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14> <https://schema.org/url> <https://www.newadvent.org/fathers/3001058.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <http://purl.org/dc/terms/publisher> "Bible Odyssey, Society of Biblical Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <http://purl.org/dc/terms/title> "Bethlehem" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15> <https://schema.org/url> <https://www.bibleodyssey.org/articles/bethlehem/> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <http://purl.org/dc/terms/publisher> "Jewish Virtual Library" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <http://purl.org/dc/terms/title> "Archaeological Discoveries: Earliest Evidence of Bethlehem (May 2012)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16> <https://schema.org/url> <https://www.jewishvirtuallibrary.org/jsource/Archaeology/arch0512-2.html> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <http://purl.org/dc/terms/publisher> "BiblePlaces Blog" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <http://purl.org/dc/terms/title> "Seal Impression from Bethlehem Discovered in Jerusalem (Todd Bolen)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17> <https://schema.org/url> <https://www.bibleplaces.com/?p=12494> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <http://purl.org/dc/terms/publisher> "NPR" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <http://purl.org/dc/terms/title> "Dig Finds Evidence of Another Bethlehem" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18> <https://schema.org/url> <https://www.npr.org/2012/12/25/168010065> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <http://purl.org/dc/terms/publisher> "StudyLight" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <http://purl.org/dc/terms/title> "Ezra 2:21 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19> <https://schema.org/url> <https://www.studylight.org/bible/eng/web/ezra/2-21.html> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <http://purl.org/dc/terms/title> "Genesis 35:19 (parallel translations, including the World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1> <https://schema.org/url> <https://biblehub.com/parallel/genesis/35-19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <http://purl.org/dc/terms/title> "2 Chronicles 11:6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20> <https://schema.org/url> <https://www.biblestudytools.com/web/2-chronicles/11-6.html> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <http://purl.org/dc/terms/title> "Ruth 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2> <https://schema.org/url> <https://biblehub.com/web/ruth/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <http://purl.org/dc/terms/title> "Ruth 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3> <https://schema.org/url> <https://biblehub.com/web/ruth/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <http://purl.org/dc/terms/title> "1 Samuel 16 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4> <https://schema.org/url> <https://biblehub.com/web/1_samuel/16.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <http://purl.org/dc/terms/title> "2 Samuel 23 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5> <https://schema.org/url> <https://bibliaparalela.com/web/2_samuel/23.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <http://purl.org/dc/terms/title> "Micah 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6> <https://schema.org/url> <https://biblehub.com/web/micah/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <http://purl.org/dc/terms/title> "Matthew 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7> <https://schema.org/url> <https://biblehub.com/web/matthew/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <http://purl.org/dc/terms/title> "Luke 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8> <https://schema.org/url> <https://biblehub.com/web/luke/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <http://purl.org/dc/terms/publisher> "Miami SDA Church Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <http://purl.org/dc/terms/title> "John 7:42 (World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9> <https://schema.org/url> <https://miamisdb.org/bible/kjv+web/john/7/42> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/publisher> "creeds.net" .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s10> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, Chapter 1 (Of the Holy Scripture)" .

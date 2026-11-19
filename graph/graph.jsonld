@@ -1086,6 +1086,159 @@
    ]
   },
   {
+   "@id": "bg:bethlehem",
+   "@type": "bgo:Place",
+   "bgo:basis": "debated",
+   "bgo:corroboratedBy": [
+    {
+     "@id": "bg:amarna-letters"
+    },
+    {
+     "@id": "bg:bethlehem-bulla"
+    }
+   ],
+   "bgo:domain": "places-and-geography",
+   "bgo:file": "articles/places-and-geography/bethlehem.md",
+   "bgo:illustrates": {
+    "@id": "bg:davidic-covenant"
+   },
+   "bgo:keyReference": [
+    "1 Samuel 16:1-13",
+    "2 Chronicles 11:6",
+    "2 Samuel 23:13-17",
+    "Ezra 2:21",
+    "Genesis 35:19",
+    "John 7:42",
+    "Luke 2:1-20",
+    "Matthew 2:1-23",
+    "Micah 5:2-5",
+    "Ruth 1:1-22",
+    "Ruth 4:11-22"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9"
+    }
+   ],
+   "rdfs:label": "Bethlehem",
+   "skos:altLabel": [
+    "Bayt Lahm",
+    "Beit Lahm",
+    "Bet Lehem",
+    "Beth-lehem",
+    "Bethlehem Ephrathah",
+    "Bethlehem Judah",
+    "Bethlehem of Judea",
+    "Ephrath",
+    "Ephrathah"
+   ],
+   "skos:broader": {
+    "@id": "bg:land-of-israel"
+   },
+   "skos:definition": "A small hill town in Judah about six miles south of Jerusalem, remembered in Scripture as the place near which Rachel was buried, the home of Naomi, Ruth and Boaz, the hometown of David where Samuel anointed him, the town Micah named as the origin of a coming ruler of Israel, and, in Matthew and Luke, the birthplace of Jesus.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography"
+   },
+   "skos:prefLabel": "Bethlehem",
+   "skos:related": [
+    {
+     "@id": "bg:birth-of-jesus"
+    },
+    {
+     "@id": "bg:book-of-micah"
+    },
+    {
+     "@id": "bg:book-of-ruth"
+    },
+    {
+     "@id": "bg:david"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:jerusalem"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:messiah"
+    }
+   ]
+  },
+  {
    "@id": "bg:biblical-canon",
    "@type": "bgo:Concept",
    "bgo:basis": "varies-by-tradition",
@@ -9820,6 +9973,46 @@
    "rdfs:label": "Barnabas gave Mark a second chance after Mark had left the work (Acts 15:36-39). Who in your church or life might need someone to vouch for them, and what would it cost you to do it?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/bethlehem/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:bethlehem"
+   },
+   "rdfs:label": "According to Genesis 35:19, what happened on the road to Ephrath, and how does Matthew 2:16-18 draw on the memory of Rachel?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/bethlehem/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:bethlehem"
+   },
+   "rdfs:label": "In Ruth 1 and Ruth 4, how does Bethlehem move from famine and emptiness to a harvest and a newborn son, and how is that son linked to David (Ruth 4:17)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/bethlehem/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:bethlehem"
+   },
+   "rdfs:label": "Whom does God send Samuel to anoint in 1 Samuel 16:1-13, and what was that son doing when he was called?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/bethlehem/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:bethlehem"
+   },
+   "rdfs:label": "What does Micah 5:2-4 promise about the ruler who will come from small Bethlehem, and how do the chief priests and scribes use this text in Matthew 2:4-6?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/bethlehem/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:bethlehem"
+   },
+   "rdfs:label": "God chose a town \"small among the clans of Judah\" (Micah 5:2) for both David and Jesus. What does that suggest about the way God works, and where might you be overlooking \"small\" places or people?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/biblical-canon/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -14435,6 +14628,286 @@
    "dcterms:title": "1 Corinthians 9:6 (World English Bible)",
    "schema:url": {
     "@id": "https://www.biblestudytools.com/web/1-corinthians/9-6.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 35:19 (parallel translations, including the World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/parallel/genesis/35-19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopedia of the Bible, Bible Gateway",
+   "dcterms:title": "Bethlehem, Bethlehemite",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Bethlehem-Bethlehemite"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1901-1906), StudyLight",
+   "dcterms:title": "Beth-lehem Judah",
+   "schema:url": {
+    "@id": "https://studylight.org/encyclopedias/eng/tje/b/beth-lehem-judah.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Catholic Encyclopedia (1907), New Advent",
+   "dcterms:title": "Bethlehem (Edward Arbez)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/02533a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent (Ante-Nicene Fathers, vol. 1)",
+   "dcterms:title": "Dialogue with Trypho, chapter 78 (Justin Martyr, trans. Marcus Dods and George Reith)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/01286.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "New Advent (Nicene and Post-Nicene Fathers, series 2, vol. 6)",
+   "dcterms:title": "Letter 58, to Paulinus (Jerome, trans. W. H. Fremantle, G. Lewis and W. G. Martley)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/3001058.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Odyssey, Society of Biblical Literature",
+   "dcterms:title": "Bethlehem",
+   "schema:url": {
+    "@id": "https://www.bibleodyssey.org/articles/bethlehem/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "news",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Jewish Virtual Library",
+   "dcterms:title": "Archaeological Discoveries: Earliest Evidence of Bethlehem (May 2012)",
+   "schema:url": {
+    "@id": "https://www.jewishvirtuallibrary.org/jsource/Archaeology/arch0512-2.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "BiblePlaces Blog",
+   "dcterms:title": "Seal Impression from Bethlehem Discovered in Jerusalem (Todd Bolen)",
+   "schema:url": {
+    "@id": "https://www.bibleplaces.com/?p=12494"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "news",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "NPR",
+   "dcterms:title": "Dig Finds Evidence of Another Bethlehem",
+   "schema:url": {
+    "@id": "https://www.npr.org/2012/12/25/168010065"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "StudyLight",
+   "dcterms:title": "Ezra 2:21 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.studylight.org/bible/eng/web/ezra/2-21.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ruth 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ruth/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s20",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "2 Chronicles 11:6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/2-chronicles/11-6.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Ruth 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/ruth/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "1 Samuel 16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/1_samuel/16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "2 Samuel 23 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/2_samuel/23.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Micah 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/micah/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/bethlehem/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Miami SDA Church Bible",
+   "dcterms:title": "John 7:42 (World English Bible and King James Version)",
+   "schema:url": {
+    "@id": "https://miamisdb.org/bible/kjv+web/john/7/42"
    }
   },
   {

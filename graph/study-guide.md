@@ -750,6 +750,17 @@ Study questions:
 
 ## places-and-geography
 
+### [Bethlehem](../articles/places-and-geography/bethlehem.md) — Place
+
+Read: Genesis 35:19; Ruth 1:1-22; Ruth 4:11-22; 1 Samuel 16:1-13; 2 Samuel 23:13-17; 2 Chronicles 11:6; Ezra 2:21; Micah 5:2-5; Matthew 2:1-23; Luke 2:1-20; John 7:42
+
+Study questions:
+- According to Genesis 35:19, what happened on the road to Ephrath, and how does Matthew 2:16-18 draw on the memory of Rachel?
+- In Ruth 1 and Ruth 4, how does Bethlehem move from famine and emptiness to a harvest and a newborn son, and how is that son linked to David (Ruth 4:17)?
+- Whom does God send Samuel to anoint in 1 Samuel 16:1-13, and what was that son doing when he was called?
+- What does Micah 5:2-4 promise about the ruler who will come from small Bethlehem, and how do the chief priests and scribes use this text in Matthew 2:4-6?
+- God chose a town "small among the clans of Judah" (Micah 5:2) for both David and Jesus. What does that suggest about the way God works, and where might you be overlooking "small" places or people?
+
 ### [Galilee](../articles/places-and-geography/galilee.md) — Place
 
 Read: Joshua 20:7; 1 Kings 9:11; 2 Kings 15:29; Isaiah 9:1-2; Matthew 4:12-25; Matthew 28:7-20; Mark 1:9-39; Mark 14:70; Luke 3:1; John 1:46; John 7:41-52; Acts 9:31

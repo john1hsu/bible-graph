@@ -1035,6 +1035,142 @@
   ]
  },
  {
+  "id": "bg:bethlehem",
+  "title": "Bethlehem",
+  "aliases": [
+   "Bethlehem of Judea",
+   "Bethlehem Judah",
+   "Bethlehem Ephrathah",
+   "Ephrath",
+   "Ephrathah",
+   "Beth-lehem",
+   "Bet Lehem",
+   "Bayt Lahm",
+   "Beit Lahm"
+  ],
+  "type": "Place",
+  "domain": "places-and-geography",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/places-and-geography/bethlehem.md",
+  "created": "2026-11-19",
+  "summary": "A small hill town in Judah about six miles south of Jerusalem, remembered in Scripture as the place near which Rachel was buried, the home of Naomi, Ruth and Boaz, the hometown of David where Samuel anointed him, the town Micah named as the origin of a coming ruler of Israel, and, in Matthew and Luke, the birthplace of Jesus.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:land-of-israel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:david"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:birth-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jerusalem"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-micah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-ruth"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:messiah"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:davidic-covenant",
+    "source": "s15",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:amarna-letters",
+    "source": "s10",
+    "confidence": "low"
+   },
+   {
+    "predicate": "bgo:corroboratedBy",
+    "object": "bg:bethlehem-bulla",
+    "source": "s16",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s15",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Genesis 35:19",
+   "Ruth 1:1-22",
+   "Ruth 4:11-22",
+   "1 Samuel 16:1-13",
+   "2 Samuel 23:13-17",
+   "2 Chronicles 11:6",
+   "Ezra 2:21",
+   "Micah 5:2-5",
+   "Matthew 2:1-23",
+   "Luke 2:1-20",
+   "John 7:42"
+  ],
+  "studyQuestions": [
+   "According to Genesis 35:19, what happened on the road to Ephrath, and how does Matthew 2:16-18 draw on the memory of Rachel?",
+   "In Ruth 1 and Ruth 4, how does Bethlehem move from famine and emptiness to a harvest and a newborn son, and how is that son linked to David (Ruth 4:17)?",
+   "Whom does God send Samuel to anoint in 1 Samuel 16:1-13, and what was that son doing when he was called?",
+   "What does Micah 5:2-4 promise about the ruler who will come from small Bethlehem, and how do the chief priests and scribes use this text in Matthew 2:4-6?",
+   "God chose a town \"small among the clans of Judah\" (Micah 5:2) for both David and Jesus. What does that suggest about the way God works, and where might you be overlooking \"small\" places or people?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/parallel/genesis/35-19.htm",
+   "https://biblehub.com/web/ruth/1.htm",
+   "https://biblehub.com/web/ruth/4.htm",
+   "https://biblehub.com/web/1_samuel/16.htm",
+   "https://bibliaparalela.com/web/2_samuel/23.htm",
+   "https://biblehub.com/web/micah/5.htm",
+   "https://biblehub.com/web/matthew/2.htm",
+   "https://biblehub.com/web/luke/2.htm",
+   "https://miamisdb.org/bible/kjv+web/john/7/42",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Bethlehem-Bethlehemite",
+   "https://studylight.org/encyclopedias/eng/tje/b/beth-lehem-judah.html",
+   "https://www.newadvent.org/cathen/02533a.htm",
+   "https://www.newadvent.org/fathers/01286.htm",
+   "https://www.newadvent.org/fathers/3001058.htm",
+   "https://www.bibleodyssey.org/articles/bethlehem/",
+   "https://www.jewishvirtuallibrary.org/jsource/Archaeology/arch0512-2.html",
+   "https://www.bibleplaces.com/?p=12494",
+   "https://www.npr.org/2012/12/25/168010065",
+   "https://www.studylight.org/bible/eng/web/ezra/2-21.html",
+   "https://www.biblestudytools.com/web/2-chronicles/11-6.html"
+  ]
+ },
+ {
   "id": "bg:biblical-canon",
   "title": "Biblical Canon",
   "aliases": [
