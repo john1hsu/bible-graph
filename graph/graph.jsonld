@@ -2348,6 +2348,148 @@
    ]
   },
   {
+   "@id": "bg:eastern-orthodoxy",
+   "@type": "bgo:Tradition",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:contrastsWith": {
+    "@id": "bg:lutheranism"
+   },
+   "bgo:domain": "interpretation",
+   "bgo:explainedBy": {
+    "@id": "bg:festal-letter-39-of-athanasius"
+   },
+   "bgo:file": "articles/interpretation/eastern-orthodoxy.md",
+   "bgo:introducedIn": {
+    "@id": "bg:confession-of-dositheus"
+   },
+   "bgo:keyReference": [
+    "1 Timothy 3:15",
+    "2 Peter 1:20-21",
+    "2 Peter 1:3-4",
+    "2 Thessalonians 2:15",
+    "Acts 8:30-35",
+    "Luke 24:25-27",
+    "Luke 24:44-45"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9"
+    }
+   ],
+   "rdfs:label": "Eastern Orthodoxy",
+   "skos:altLabel": [
+    "Eastern Orthodox Church",
+    "Eastern Orthodox tradition",
+    "Orthodox Christianity",
+    "Orthodox Church",
+    "Orthodox tradition"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:biblical-interpretation"
+    },
+    {
+     "@id": "bg:christianity"
+    }
+   ],
+   "skos:definition": "The communion of self-governing Orthodox churches, in continuity with the ancient churches of the East, which receives Scripture as the supreme record of God's revelation within the Church's living Tradition, uses the Greek Septuagint and its wider Old Testament as its Bible, and reads Scripture with Christ as its key, in the light of the Fathers and the liturgy.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Eastern Orthodoxy",
+   "skos:related": [
+    {
+     "@id": "bg:biblical-canon"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:deuterocanonical-books"
+    },
+    {
+     "@id": "bg:festal-letter-39-of-athanasius"
+    },
+    {
+     "@id": "bg:grace"
+    },
+    {
+     "@id": "bg:lutheranism"
+    },
+    {
+     "@id": "bg:pentecost"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    },
+    {
+     "@id": "bg:septuagint"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    },
+    {
+     "@id": "bg:typology"
+    }
+   ]
+  },
+  {
    "@id": "bg:elijah",
    "@type": "bgo:Person",
    "bgo:basis": "debated",
@@ -10054,6 +10196,46 @@
    "rdfs:label": "Moses sees the land but does not enter it (Deuteronomy 34:4-5). What does his story teach about faithfulness when we do not see the end of what God is doing?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "rdfs:label": "In Luke 24:27 and 24:45, what does the risen Jesus do with \"the Scriptures\", and why do Orthodox Christians treat these verses as the pattern for all Bible reading?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "rdfs:label": "The Ethiopian official in Acts 8:31 asks how he can understand \"unless someone explains it\". Who explains it, and where does Philip begin (Acts 8:35)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "rdfs:label": "What does 2 Peter 1:4 say believers may become, and how does the Orthodox teaching of theosis read that verse?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "rdfs:label": "The Synod of Jerusalem (1672) limited private reading of Scripture, while modern Orthodox teachers urge parish Bible study. What concern lies behind each, and how might they fit together?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:eastern-orthodoxy"
+   },
+   "rdfs:label": "Which of the Orthodox emphases (Christ as the key, the Fathers, the liturgy, the saints) could deepen your own reading, whatever your tradition?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/elijah/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -16157,6 +16339,244 @@
    "dcterms:title": "Matthew 4 (World English Bible)",
    "schema:url": {
     "@id": "https://biblehub.com/web/matthew/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 24 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/luke/24.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "CRI/Voice Institute",
+   "dcterms:title": "The Confession of Dositheus (Synod of Jerusalem, 1672), adapted from J. Robertson's 1899 translation",
+   "schema:url": {
+    "@id": "https://www.crivoice.org/creeddositheus.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Scripture and Tradition (pamphlet, 2021)",
+   "schema:url": {
+    "@id": "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Orthodox Faith, Volume I, Doctrine and Scripture, \"Bible\" (Sources of Christian Doctrine)",
+   "schema:url": {
+    "@id": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/bible1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "The Orthodox Faith, Volume I, Doctrine and Scripture, \"Interpretation\"",
+   "schema:url": {
+    "@id": "https://oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-bible/interpretation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America",
+   "dcterms:title": "Metropolitan Kallistos of Diokleia, \"How to Read the Bible\"",
+   "schema:url": {
+    "@id": "https://oca.org/scripture/how-to-read-the-bible"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Society of Biblical Literature",
+   "dcterms:title": "The Status of Anaginoskomena in Eastern Orthodoxy and Some Criteria of Biblical Canonicity (Annual Meeting paper abstract)",
+   "schema:url": {
+    "@id": "https://www.sbl-site.org/Meetings/abstract.aspx?id=51562"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "BookofConcord.org",
+   "dcterms:title": "Formula of Concord, Epitome, \"Comprehensive Summary, Rule and Norm\"",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/epitome/rule-and-norm/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "EWTN (Libreria Editrice Vaticana)",
+   "dcterms:title": "Pope Leo XIV, General Audience catechesis on Dei Verbum, \"A Single Deposit\" (28 January 2026)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/dogmatic-constitution-dei-verbum-a-single-deposit-28453"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Acts 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/acts/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Peter 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_peter/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "1 Timothy 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/1-timothy/3.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "2 Thessalonians 2:15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/2-thessalonians/2-15.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Azbyka.ru",
+   "dcterms:title": "Theodore G. Stylianopoulos, \"Bible\", in The Encyclopedia of Eastern Orthodox Christianity, ed. John Anthony McGuckin (Wiley-Blackwell)",
+   "schema:url": {
+    "@id": "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Eastern Orthodoxy",
+   "schema:url": {
+    "@id": "https://britannica.com:443/topic/Eastern-Orthodoxy"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Eastern Orthodoxy: Doctrine",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Eastern-Orthodoxy/Doctrine"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Synod of Jerusalem",
+   "schema:url": {
+    "@id": "https://britannica.com/event/Synod-of-Jerusalem"
    }
   },
   {

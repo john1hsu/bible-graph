@@ -159,6 +159,17 @@ Study questions:
 - Acts 2:42 lists four things the first believers devoted themselves to. Which of them shape how your own church hears the Bible?
 - What would help you describe the Catholic way of reading Scripture accurately to a friend from another tradition, or describe another tradition's way accurately to a Catholic friend?
 
+### [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) — Tradition
+
+Read: Luke 24:25-27; Luke 24:44-45; Acts 8:30-35; 1 Timothy 3:15; 2 Thessalonians 2:15; 2 Peter 1:3-4; 2 Peter 1:20-21
+
+Study questions:
+- In Luke 24:27 and 24:45, what does the risen Jesus do with "the Scriptures", and why do Orthodox Christians treat these verses as the pattern for all Bible reading?
+- The Ethiopian official in Acts 8:31 asks how he can understand "unless someone explains it". Who explains it, and where does Philip begin (Acts 8:35)?
+- What does 2 Peter 1:4 say believers may become, and how does the Orthodox teaching of theosis read that verse?
+- The Synod of Jerusalem (1672) limited private reading of Scripture, while modern Orthodox teachers urge parish Bible study. What concern lies behind each, and how might they fit together?
+- Which of the Orthodox emphases (Christ as the key, the Fathers, the liturgy, the saints) could deepen your own reading, whatever your tradition?
+
 ### [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) — Method
 
 Read: Exodus 14:21-31; Exodus 15:1-21; Psalm 98:7-9; Proverbs 26:4-5; Luke 1:1-4; Revelation 1:1-4

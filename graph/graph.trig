@@ -259,6 +259,26 @@
 <https://github.com/john1hsu/bible-graph/id/catholic-church#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s11> .
 <https://github.com/john1hsu/bible-graph/id/catholic-church#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s12> .
 <https://github.com/john1hsu/bible-graph/id/catholic-church#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s13> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/interpretation/eastern-orthodoxy.md" .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> .
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/interpretation/genre-in-the-bible.md" .
@@ -3556,6 +3576,182 @@
   <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
   <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
   <https://github.com/john1hsu/bible-graph/id/source/catholic-church/s9> <https://schema.org/url> <https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/divino-afflante-spiritu> .
+}
+
+<https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy#graph> {
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 24:27 and 24:45, what does the risen Jesus do with \"the Scriptures\", and why do Orthodox Christians treat these verses as the pattern for all Bible reading?" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "The Ethiopian official in Acts 8:31 asks how he can understand \"unless someone explains it\". Who explains it, and where does Philip begin (Acts 8:35)?" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does 2 Peter 1:4 say believers may become, and how does the Orthodox teaching of theosis read that verse?" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "The Synod of Jerusalem (1672) limited private reading of Scripture, while modern Orthodox teachers urge parish Bible study. What concern lies behind each, and how might they fit together?" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Which of the Orthodox emphases (Christ as the key, the Fathers, the liturgy, the saints) could deepen your own reading, whatever your tradition?" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2000/01/rdf-schema#label> "Eastern Orthodoxy" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#altLabel> "Eastern Orthodox Church" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#altLabel> "Eastern Orthodox tradition" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#altLabel> "Orthodox Christianity" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#altLabel> "Orthodox Church" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#altLabel> "Orthodox tradition" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/christianity> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#definition> "The communion of self-governing Orthodox churches, in continuity with the ancient churches of the East, which receives Scripture as the supreme record of God's revelation within the Church's living Tradition, uses the Greek Septuagint and its wider Old Testament as its Bible, and reads Scripture with Christ as its key, in the light of the Fathers and the liturgy." .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Orthodoxy" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grace> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/typology> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/lutheranism> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#domain> "interpretation" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/interpretation/eastern-orthodoxy.md" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#introducedIn> <https://github.com/john1hsu/bible-graph/id/confession-of-dositheus> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Timothy 3:15" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Peter 1:20-21" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Peter 1:3-4" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Thessalonians 2:15" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:30-35" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:25-27" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:44-45" .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <http://purl.org/dc/terms/publisher> "CRI/Voice Institute" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <http://purl.org/dc/terms/title> "The Confession of Dositheus (Synod of Jerusalem, 1672), adapted from J. Robertson's 1899 translation" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s10> <https://schema.org/url> <https://www.crivoice.org/creeddositheus.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <http://purl.org/dc/terms/title> "Scripture and Tradition (pamphlet, 2021)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s11> <https://schema.org/url> <https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <http://purl.org/dc/terms/title> "The Orthodox Faith, Volume I, Doctrine and Scripture, \"Bible\" (Sources of Christian Doctrine)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s12> <https://schema.org/url> <https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/bible1> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <http://purl.org/dc/terms/title> "The Orthodox Faith, Volume I, Doctrine and Scripture, \"Interpretation\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s13> <https://schema.org/url> <https://oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-bible/interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <http://purl.org/dc/terms/title> "Metropolitan Kallistos of Diokleia, \"How to Read the Bible\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s14> <https://schema.org/url> <https://oca.org/scripture/how-to-read-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <http://purl.org/dc/terms/publisher> "Society of Biblical Literature" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <http://purl.org/dc/terms/title> "The Status of Anaginoskomena in Eastern Orthodoxy and Some Criteria of Biblical Canonicity (Annual Meeting paper abstract)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s15> <https://schema.org/url> <https://www.sbl-site.org/Meetings/abstract.aspx?id=51562> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <http://purl.org/dc/terms/publisher> "BookofConcord.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome, \"Comprehensive Summary, Rule and Norm\"" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s16> <https://schema.org/url> <https://bookofconcord.org/epitome/rule-and-norm/> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <http://purl.org/dc/terms/publisher> "EWTN (Libreria Editrice Vaticana)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <http://purl.org/dc/terms/title> "Pope Leo XIV, General Audience catechesis on Dei Verbum, \"A Single Deposit\" (28 January 2026)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s17> <https://schema.org/url> <https://www.ewtn.com/catholicism/library/dogmatic-constitution-dei-verbum-a-single-deposit-28453> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <http://purl.org/dc/terms/title> "Luke 24 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s1> <https://schema.org/url> <https://biblehub.com/web/luke/24.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <http://purl.org/dc/terms/title> "Acts 8 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s2> <https://schema.org/url> <https://bibliaparalela.com/web/acts/8.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <http://purl.org/dc/terms/title> "2 Peter 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s3> <https://schema.org/url> <https://biblehub.com/web/2_peter/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <http://purl.org/dc/terms/title> "1 Timothy 3 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s4> <https://schema.org/url> <https://www.biblestudytools.com/web/1-timothy/3.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <http://purl.org/dc/terms/title> "2 Thessalonians 2:15 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s5> <https://schema.org/url> <https://www.biblestudytools.com/web/2-thessalonians/2-15.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <http://purl.org/dc/terms/publisher> "Azbyka.ru" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <http://purl.org/dc/terms/title> "Theodore G. Stylianopoulos, \"Bible\", in The Encyclopedia of Eastern Orthodox Christianity, ed. John Anthony McGuckin (Wiley-Blackwell)" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s6> <https://schema.org/url> <https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <http://purl.org/dc/terms/title> "Eastern Orthodoxy" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s7> <https://schema.org/url> <https://britannica.com:443/topic/Eastern-Orthodoxy> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <http://purl.org/dc/terms/title> "Eastern Orthodoxy: Doctrine" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s8> <https://schema.org/url> <https://www.britannica.com/topic/Eastern-Orthodoxy/Doctrine> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <http://purl.org/dc/terms/title> "Synod of Jerusalem" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+  <https://github.com/john1hsu/bible-graph/id/source/eastern-orthodoxy/s9> <https://schema.org/url> <https://britannica.com/event/Synod-of-Jerusalem> .
 }
 
 <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible#graph> {
@@ -13202,17 +13398,20 @@
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-criticism> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/biblical-criticism> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/genre-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
   <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
@@ -13342,7 +13541,9 @@
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/catholic-church> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/christianity> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/church-history-of-eusebius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/cleansing-of-the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -13350,6 +13551,9 @@
   <https://github.com/john1hsu/bible-graph/id/codex-sinaiticus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/codex-sinaiticus> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/codex-sinaiticus> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/new-testament> .
+  <https://github.com/john1hsu/bible-graph/id/confession-of-dositheus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/confession-of-dositheus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
+  <https://github.com/john1hsu/bible-graph/id/confession-of-dositheus> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
   <https://github.com/john1hsu/bible-graph/id/council-of-jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
@@ -13408,6 +13612,7 @@
   <https://github.com/john1hsu/bible-graph/id/dei-verbum> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sadducees-question-about-the-resurrection> .
   <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
@@ -13439,14 +13644,17 @@
   <https://github.com/john1hsu/bible-graph/id/divino-afflante-spiritu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/divino-afflante-spiritu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Work> .
   <https://github.com/john1hsu/bible-graph/id/divino-afflante-spiritu> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
-  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/christianity> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
-  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
-  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
-  <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/egypt-in-the-bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -13493,7 +13701,9 @@
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/faith> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/new-testament> .
+  <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> <https://github.com/john1hsu/bible-graph/ontology#supports> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/paul> .
   <https://github.com/john1hsu/bible-graph/id/first-clement> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/peter> .
@@ -13680,6 +13890,7 @@
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/forgiveness-in-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
+  <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
   <https://github.com/john1hsu/bible-graph/id/grace> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
@@ -14007,10 +14218,12 @@
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
@@ -14413,6 +14626,7 @@
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Tradition> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/reformed-tradition> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
   <https://github.com/john1hsu/bible-graph/id/repentance> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
@@ -14548,6 +14762,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
@@ -14748,6 +14963,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+  <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/genesis> .
   <https://github.com/john1hsu/bible-graph/id/the-temple/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/the-temple/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -14773,6 +14989,7 @@
   <https://github.com/john1hsu/bible-graph/id/transfiguration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/moses> .
   <https://github.com/john1hsu/bible-graph/id/twelve-tribes-of-israel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/israelites> .
   <https://github.com/john1hsu/bible-graph/id/typology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+  <https://github.com/john1hsu/bible-graph/id/typology> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/vulgate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .

@@ -596,12 +596,14 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 23:34** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:13-35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 24:25-27** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Luke 24:25-27** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 24:25-27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Luke 24:27** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Luke 24:27** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 - **Luke 24:44** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
+- **Luke 24:44-45** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Luke 24:44-45** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44-47** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 24:44-47** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
@@ -666,6 +668,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:14-17** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **Acts 8:30-35** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 9:26-27** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -817,9 +820,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 2 Thessalonians
 
 - **2 Thessalonians 2:15** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
+- **2 Thessalonians 2:15** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 
 ## 1 Timothy
 
+- **1 Timothy 3:15** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **1 Timothy 6:6-10** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **1 Timothy 6:17-19** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 
@@ -867,7 +872,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Peter
 
+- **2 Peter 1:3-4** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **2 Peter 1:4** — [Grace](../articles/themes-and-theology/grace.md) (Theme)
+- **2 Peter 1:20-21** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 - **2 Peter 3:15-16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
 

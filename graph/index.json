@@ -2294,6 +2294,137 @@
   ]
  },
  {
+  "id": "bg:eastern-orthodoxy",
+  "title": "Eastern Orthodoxy",
+  "aliases": [
+   "Eastern Orthodox Church",
+   "Orthodox Church",
+   "Orthodox Christianity",
+   "Eastern Orthodox tradition",
+   "Orthodox tradition"
+  ],
+  "type": "Tradition",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/eastern-orthodoxy.md",
+  "created": "2026-11-19",
+  "summary": "The communion of self-governing Orthodox churches, in continuity with the ancient churches of the East, which receives Scripture as the supreme record of God's revelation within the Church's living Tradition, uses the Greek Septuagint and its wider Old Testament as its Bible, and reads Scripture with Christ as its key, in the light of the Fathers and the liturgy.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:christianity"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-interpretation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lutheranism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reformed-tradition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:festal-letter-39-of-athanasius"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:typology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:grace"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pentecost"
+   },
+   {
+    "predicate": "bgo:introducedIn",
+    "object": "bg:confession-of-dositheus",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:contrastsWith",
+    "object": "bg:lutheranism",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:festal-letter-39-of-athanasius",
+    "source": "s15",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 24:25-27",
+   "Luke 24:44-45",
+   "Acts 8:30-35",
+   "1 Timothy 3:15",
+   "2 Thessalonians 2:15",
+   "2 Peter 1:3-4",
+   "2 Peter 1:20-21"
+  ],
+  "studyQuestions": [
+   "In Luke 24:27 and 24:45, what does the risen Jesus do with \"the Scriptures\", and why do Orthodox Christians treat these verses as the pattern for all Bible reading?",
+   "The Ethiopian official in Acts 8:31 asks how he can understand \"unless someone explains it\". Who explains it, and where does Philip begin (Acts 8:35)?",
+   "What does 2 Peter 1:4 say believers may become, and how does the Orthodox teaching of theosis read that verse?",
+   "The Synod of Jerusalem (1672) limited private reading of Scripture, while modern Orthodox teachers urge parish Bible study. What concern lies behind each, and how might they fit together?",
+   "Which of the Orthodox emphases (Christ as the key, the Fathers, the liturgy, the saints) could deepen your own reading, whatever your tradition?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/luke/24.htm",
+   "https://bibliaparalela.com/web/acts/8.htm",
+   "https://biblehub.com/web/2_peter/1.htm",
+   "https://www.biblestudytools.com/web/1-timothy/3.html",
+   "https://www.biblestudytools.com/web/2-thessalonians/2-15.html",
+   "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43",
+   "https://britannica.com:443/topic/Eastern-Orthodoxy",
+   "https://www.britannica.com/topic/Eastern-Orthodoxy/Doctrine",
+   "https://britannica.com/event/Synod-of-Jerusalem",
+   "https://www.crivoice.org/creeddositheus.html",
+   "https://www.oca.org/cdn/PDFs/evangelization/pamphlets/scriptrad-c.pdf",
+   "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/sources-of-christian-doctrine/bible1",
+   "https://oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-bible/interpretation",
+   "https://oca.org/scripture/how-to-read-the-bible",
+   "https://www.sbl-site.org/Meetings/abstract.aspx?id=51562",
+   "https://bookofconcord.org/epitome/rule-and-norm/",
+   "https://www.ewtn.com/catholicism/library/dogmatic-constitution-dei-verbum-a-single-deposit-28453"
+  ]
+ },
+ {
   "id": "bg:elijah",
   "title": "Elijah",
   "aliases": [
