@@ -871,6 +871,33 @@ Study questions:
 - In Luke 10:38-42, what is Mary doing, what is Martha doing, and why does Jesus defend Mary?
 - Which movement (reading, meditation, prayer, contemplation or action) comes hardest for you, and how could a small group help you grow in it?
 
+### [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) — Practice
+
+Read: Psalm 13; Psalm 88; Psalm 31:5; Luke 23:46; Psalm 119:164; Mark 14:26; Acts 4:25; Colossians 3:16; James 5:13
+
+1. Choose a psalm, either one that fits your day or the next one in a regular cycle (your church's daily office, the whole Psalter in a month, or the Byzantine weekly order), and read it aloud slowly.
+2. Notice what kind of psalm it is (praise, lament, thanksgiving, trust or wisdom) and look for the place where it turns, such as the move from complaint to trust in Psalm 13.
+3. Pray it in the first person, letting its words become your own speech to God; where its mood is not yours today, pray it with and for those who do feel it.
+4. Pause after the psalm to name your own situation before God in a sentence or two, using a word or image the psalm gave you.
+5. Treat the hard lines honestly, handing anger and the cry for justice over to God rather than turning them into curses on anyone.
+6. End with praise, using the traditional "Glory be to the Father" or a sentence of your own, and come back to the same psalm on other days or pray it with others.
+
+*After a hard week, a member of a small group reads Psalm 13 and feels uneasy praying its opening words, "How long, Yahweh? Will you forget me forever?"*
+
+| Before | After |
+|---|---|
+| Christians shouldn't complain to God, so I'll skip the first verses and just claim verse 5 about trusting his loving kindness. | David says 'How long?' to God, not about God behind his back; I can pray the complaint honestly, ask God to answer, and keep praying until I can say with verse 5 that I trust his loving kindness, even if that takes longer than six verses. |
+
+**Why:** The lament is itself addressed to God and is part of the prayer the psalm teaches; skipping to the happy line removes the very path from distress to trust that the psalm walks.
+
+Study questions:
+- What does the psalmist keep asking "How long?" about in Psalm 13:1-2, and to whom are the questions addressed?
+- Where does Psalm 13 turn from complaint to trust, and what does the psalmist decide to do in verses 5-6?
+- Compare Psalm 31:5 with Luke 23:46. What does it suggest that Jesus' last words on the cross in Luke are the words of a psalm?
+- Psalm 88 ends in darkness without a turn to praise. Why might it still be good that such a prayer is in the Bible?
+- Colossians 3:16 and James 5:13 link psalms and songs with teaching, suffering and joy. How could your small group pray a psalm together this week?
+- Which psalm would you find hardest to pray as your own right now, and what might it teach you if you did?
+
 ### [Scripture Memorization](../articles/study-practices/scripture-memorization.md) — Practice
 
 Read: Psalm 119:11; Deuteronomy 6:6-9; Deuteronomy 11:18; Proverbs 7:3; Colossians 3:16; Matthew 4:1-11; John 14:26

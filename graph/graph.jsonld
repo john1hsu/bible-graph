@@ -7557,6 +7557,154 @@
    ]
   },
   {
+   "@id": "bg:praying-the-psalms",
+   "@type": "bgo:Practice",
+   "bgo:basis": "devotional",
+   "bgo:domain": "study-practices",
+   "bgo:example": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/example"
+   },
+   "bgo:file": "articles/study-practices/praying-the-psalms.md",
+   "bgo:heldBy": [
+    {
+     "@id": "bg:anglicanism"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    }
+   ],
+   "bgo:howTo": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto"
+   },
+   "bgo:keyReference": [
+    "Acts 4:25",
+    "Colossians 3:16",
+    "James 5:13",
+    "Luke 23:46",
+    "Mark 14:26",
+    "Psalm 119:164",
+    "Psalm 13",
+    "Psalm 31:5",
+    "Psalm 88"
+   ],
+   "bgo:level": "introductory",
+   "bgo:speaksTo": {
+    "@id": "bg:suffering-and-lament"
+   },
+   "bgo:usedFor": [
+    {
+     "@id": "bg:book-of-psalms"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s18"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s19"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s9"
+    }
+   ],
+   "rdfs:label": "Praying the Psalms",
+   "skos:altLabel": [
+    "praying Scripture with the Psalms",
+    "praying the Psalter",
+    "psalm prayer",
+    "the Psalter as a prayer book"
+   ],
+   "skos:broader": {
+    "@id": "bg:prayer"
+   },
+   "skos:definition": "The ancient Jewish and Christian practice of using the Psalms not only as texts to study but as words to pray: reading or singing a psalm aloud, taking its praise, lament, thanks and trust as one's own speech to God, often in a regular daily, weekly or monthly cycle.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/study-practices"
+   },
+   "skos:prefLabel": "Praying the Psalms",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-psalms"
+    },
+    {
+     "@id": "bg:hebrew-poetry"
+    },
+    {
+     "@id": "bg:lectio-divina"
+    },
+    {
+     "@id": "bg:psalm-22"
+    },
+    {
+     "@id": "bg:scripture-memorization"
+    },
+    {
+     "@id": "bg:suffering-and-lament"
+    }
+   ]
+  },
+  {
    "@id": "bg:psalm-22",
    "@type": "bgo:Passage",
    "bgo:attributedTo": {
@@ -12473,6 +12621,123 @@
     "@id": "bg:pharisees"
    },
    "rdfs:label": "Jesus's sharpest warnings were aimed at devout, Bible-loving people. Where might Matthew 23:23-28 speak to our own church life today?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "What does the psalmist keep asking \"How long?\" about in Psalm 13:1-2, and to whom are the questions addressed?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "Where does Psalm 13 turn from complaint to trust, and what does the psalmist decide to do in verses 5-6?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "Compare Psalm 31:5 with Luke 23:46. What does it suggest that Jesus' last words on the cross in Luke are the words of a psalm?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "Psalm 88 ends in darkness without a turn to praise. Why might it still be good that such a prayer is in the Bible?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "Colossians 3:16 and James 5:13 link psalms and songs with teaching, suffering and joy. How could your small group pray a psalm together this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:praying-the-psalms"
+   },
+   "rdfs:label": "Which psalm would you find hardest to pray as your own right now, and what might it teach you if you did?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/example",
+   "@type": "bgo:Rewrite",
+   "bgo:after": "David says 'How long?' to God, not about God behind his back; I can pray the complaint honestly, ask God to answer, and keep praying until I can say with verse 5 that I trust his loving kindness, even if that takes longer than six verses.",
+   "bgo:before": "Christians shouldn't complain to God, so I'll skip the first verses and just claim verse 5 about trusting his loving kindness.",
+   "bgo:situation": "After a hard week, a member of a small group reads Psalm 13 and feels uneasy praying its opening words, \"How long, Yahweh? Will you forget me forever?\"",
+   "bgo:why": "The lament is itself addressed to God and is part of the prayer the psalm teaches; skipping to the happy line removes the very path from distress to trust that the psalm walks."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto",
+   "@type": "schema:HowTo",
+   "schema:name": "Praying the Psalms",
+   "schema:step": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/6"
+    }
+   ]
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/1",
+   "@type": "schema:HowToStep",
+   "schema:position": 1,
+   "schema:text": "Choose a psalm, either one that fits your day or the next one in a regular cycle (your church's daily office, the whole Psalter in a month, or the Byzantine weekly order), and read it aloud slowly."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/2",
+   "@type": "schema:HowToStep",
+   "schema:position": 2,
+   "schema:text": "Notice what kind of psalm it is (praise, lament, thanksgiving, trust or wisdom) and look for the place where it turns, such as the move from complaint to trust in Psalm 13."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/3",
+   "@type": "schema:HowToStep",
+   "schema:position": 3,
+   "schema:text": "Pray it in the first person, letting its words become your own speech to God; where its mood is not yours today, pray it with and for those who do feel it."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/4",
+   "@type": "schema:HowToStep",
+   "schema:position": 4,
+   "schema:text": "Pause after the psalm to name your own situation before God in a sentence or two, using a word or image the psalm gave you."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/5",
+   "@type": "schema:HowToStep",
+   "schema:position": 5,
+   "schema:text": "Treat the hard lines honestly, handing anger and the cry for justice over to God rather than turning them into curses on anyone."
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/praying-the-psalms/howto/6",
+   "@type": "schema:HowToStep",
+   "schema:position": 6,
+   "schema:text": "End with praise, using the traditional \"Glory be to the Father\" or a sentence of your own, and come back to the same psalm on other days or pray it with others."
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/psalm-22/check/1",
@@ -25392,6 +25657,272 @@
    "dcterms:title": "Notes on the Correct Way to Present the Jews and Judaism in Preaching and Catechesis (Commission for Religious Relations with the Jews, 1985)",
    "schema:url": {
     "@id": "https://www.jcrelations.net/article/notes-on-the-correct-way-to-present-the-jews-and-judaism-in-preaching-and-catechesis.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Trinity Orthodox Church (PDF)",
+   "dcterms:title": "Athanasius of Alexandria, Letter to Marcellinus on the Interpretation of the Psalms (English translation)",
+   "schema:url": {
+    "@id": "https://www.trinityorthodox.ca/documents/Athanasius-ToMarcellinus.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Liturgy Office, Catholic Bishops' Conference of England and Wales",
+   "dcterms:title": "General Instruction of the Liturgy of the Hours (1971), nos. 100-109, 123-131",
+   "schema:url": {
+    "@id": "https://liturgyoffice.org/Resources/Rites/GILH.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "IntraText (text of the Holy See document)",
+   "dcterms:title": "Second Vatican Council, Sacrosanctum Concilium (1963), chapter IV: The Divine Office, arts. 83-101",
+   "schema:url": {
+    "@id": "https://www.intratext.com/ixt/ENG0037/_PS.HTM"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "John Calvin, Commentary on the Book of Psalms, vol. 1: The Author's Preface (1557)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/calvin/calcom08.vi.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Andrews University (course source text)",
+   "dcterms:title": "Book of Common Prayer (1662): The Order how the Psalter is appointed to be read",
+   "schema:url": {
+    "@id": "https://www.andrews.edu/~toews/classes/sources/modern/Thirty%20Nine%20Articles/info/reading_psalt.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Metropolitan Cantor Institute, Byzantine Catholic Archeparchy of Pittsburgh",
+   "dcterms:title": "The Kathismata of the Psalter",
+   "schema:url": {
+    "@id": "https://mci.archpitt.org/liturgy/Kathismata.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Orthodox Church in America, Liturgical Music and Texts",
+   "dcterms:title": "Kathisma Readings at Vespers",
+   "schema:url": {
+    "@id": "https://oca.org/liturgics/outlines/kathisma-readings-at-vespers"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Fortress Press",
+   "dcterms:title": "Walter Brueggemann, The Psalms and the Life of Faith: A Suggested Typology of Function (chapter 1, sample)",
+   "schema:url": {
+    "@id": "https://ms.fortresspress.com/downloads/0800697391Chapter1.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s18",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Journal of Hebrew Scriptures (reviews)",
+   "dcterms:title": "H. Wayne Ballard Jr., review of Walter Brueggemann, Spirituality of the Psalms (Fortress, 2001)",
+   "schema:url": {
+    "@id": "https://jhsonline.org/index.php/jhs/article/download/5935/4988?inline=1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s19",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "My Jewish Learning",
+   "dcterms:title": "Hallel",
+   "schema:url": {
+    "@id": "https://www.myjewishlearning.com/article/hallel/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 88 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/psalms/88.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 31:5 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/psalms/31-5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Luke 23:46 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/luke/23-46.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Psalm 119:164 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/psalms/119-164.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 14:26 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/mark/14-26.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Acts 4:25 (World English Bible, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/acts/4-25.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Colossians 3:16 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/multi/colossians/3-16.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/praying-the-psalms/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "James 5:13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/web/james/5-13.html"
    }
   },
   {

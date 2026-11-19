@@ -114,15 +114,19 @@ _Which doctrines, methods and practices does each Christian (or Jewish) traditio
 
 | tradition | teaching |
 |---|---|
+| `bg:anglicanism` | `bg:praying-the-psalms` |
 | `bg:catholic-church` | `bg:lectio-divina` |
+| `bg:catholic-church` | `bg:praying-the-psalms` |
 | `bg:catholic-church` | `bg:scripture-interprets-scripture` |
 | `bg:catholic-church` | `bg:scripture-memorization` |
 | `bg:catholic-church` | `bg:textual-criticism` |
 | `bg:catholic-church` | `bg:the-story-of-the-bible` |
+| `bg:eastern-orthodoxy` | `bg:praying-the-psalms` |
 | `bg:eastern-orthodoxy` | `bg:septuagint` |
 | `bg:eastern-orthodoxy` | `bg:the-story-of-the-bible` |
 | `bg:lutheranism` | `bg:scripture-interprets-scripture` |
 | `bg:rabbinic-judaism` | `bg:masoretic-text` |
+| `bg:reformed-tradition` | `bg:praying-the-psalms` |
 | `bg:reformed-tradition` | `bg:scripture-interprets-scripture` |
 
 ## Promise and fulfilment

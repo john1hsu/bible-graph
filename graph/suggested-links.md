@@ -9,10 +9,10 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.37 | `bg:calling-of-the-first-disciples` | `bg:gospels` | `bg:gospel-of-john`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
 | 3.27 | `bg:gospel-of-mark` | `bg:jesus` | `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:crucifixion-of-jesus`, `bg:galilee`, `bg:gospels` |
 | 3.26 | `bg:gospel-of-luke` | `bg:jesus` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospels`, `bg:jerusalem` |
-| 3.14 | `bg:gospel-of-matthew` | `bg:jesus` | `bg:bethlehem`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospels`, `bg:kingdom-of-god` |
-| 2.88 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
+| 3.13 | `bg:gospel-of-matthew` | `bg:jesus` | `bg:bethlehem`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospels`, `bg:kingdom-of-god` |
 | 2.82 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:jesus`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |
-| 2.80 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
+| 2.82 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
+| 2.78 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
 | 2.77 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
 | 2.55 | `bg:bethlehem` | `bg:kingdom-of-god` | `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-matthew`, `bg:jerusalem`, `bg:jesus` |
 | 2.54 | `bg:galilee` | `bg:gospel-of-luke` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
@@ -28,4 +28,4 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.24 | `bg:abrahamic-covenant` | `bg:giving-of-the-law-at-sinai` | `bg:ancient-near-eastern-treaties`, `bg:israelites`, `bg:mosaic-covenant`, `bg:new-covenant`, `bg:the-exodus` |
 | 2.23 | `bg:calling-of-the-first-disciples` | `bg:jerusalem` | `bg:book-of-jeremiah`, `bg:galilee`, `bg:gospel-of-luke`, `bg:jesus`, `bg:kingdom-of-god` |
 | 2.18 | `bg:1-kings` | `bg:jeremiahs-temple-sermon` | `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:jeremiah`, `bg:jerusalem`, `bg:the-temple` |
-| 2.14 | `bg:kingdom-of-god` | `bg:parable-of-the-good-samaritan` | `bg:gospel-of-luke`, `bg:loving-your-neighbor`, `bg:parables-of-jesus`, `bg:second-temple-judaism`, `bg:sermon-on-the-mount` |
+| 2.14 | `bg:abrahamic-covenant` | `bg:deuteronomy` | `bg:ancient-near-eastern-treaties`, `bg:genesis`, `bg:israelites`, `bg:mosaic-covenant`, `bg:the-exodus` |

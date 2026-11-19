@@ -7265,6 +7265,149 @@
   ]
  },
  {
+  "id": "bg:praying-the-psalms",
+  "title": "Praying the Psalms",
+  "aliases": [
+   "praying the Psalter",
+   "psalm prayer",
+   "praying Scripture with the Psalms",
+   "the Psalter as a prayer book"
+  ],
+  "type": "Practice",
+  "domain": "study-practices",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/study-practices/praying-the-psalms.md",
+  "created": "2026-11-19",
+  "summary": "The ancient Jewish and Christian practice of using the Psalms not only as texts to study but as words to pray: reading or singing a psalm aloud, taking its praise, lament, thanks and trust as one's own speech to God, often in a regular daily, weekly or monthly cycle.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:prayer"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-psalms"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lectio-divina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:suffering-and-lament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:psalm-22"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:hebrew-poetry"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:scripture-memorization"
+   },
+   {
+    "predicate": "bgo:usedFor",
+    "object": "bg:book-of-psalms",
+    "source": "s10",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:usedFor",
+    "object": "bg:hebrew-poetry",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:speaksTo",
+    "object": "bg:suffering-and-lament",
+    "source": "s17",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s11",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:eastern-orthodoxy",
+    "source": "s16",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:anglicanism",
+    "source": "s14",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:reformed-tradition",
+    "source": "s13",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Psalm 13",
+   "Psalm 88",
+   "Psalm 31:5",
+   "Luke 23:46",
+   "Psalm 119:164",
+   "Mark 14:26",
+   "Acts 4:25",
+   "Colossians 3:16",
+   "James 5:13"
+  ],
+  "studyQuestions": [
+   "What does the psalmist keep asking \"How long?\" about in Psalm 13:1-2, and to whom are the questions addressed?",
+   "Where does Psalm 13 turn from complaint to trust, and what does the psalmist decide to do in verses 5-6?",
+   "Compare Psalm 31:5 with Luke 23:46. What does it suggest that Jesus' last words on the cross in Luke are the words of a psalm?",
+   "Psalm 88 ends in darkness without a turn to praise. Why might it still be good that such a prayer is in the Bible?",
+   "Colossians 3:16 and James 5:13 link psalms and songs with teaching, suffering and joy. How could your small group pray a psalm together this week?",
+   "Which psalm would you find hardest to pray as your own right now, and what might it teach you if you did?"
+  ],
+  "steps": [
+   "Choose a psalm, either one that fits your day or the next one in a regular cycle (your church's daily office, the whole Psalter in a month, or the Byzantine weekly order), and read it aloud slowly.",
+   "Notice what kind of psalm it is (praise, lament, thanksgiving, trust or wisdom) and look for the place where it turns, such as the move from complaint to trust in Psalm 13.",
+   "Pray it in the first person, letting its words become your own speech to God; where its mood is not yours today, pray it with and for those who do feel it.",
+   "Pause after the psalm to name your own situation before God in a sentence or two, using a word or image the psalm gave you.",
+   "Treat the hard lines honestly, handing anger and the cry for justice over to God rather than turning them into curses on anyone.",
+   "End with praise, using the traditional \"Glory be to the Father\" or a sentence of your own, and come back to the same psalm on other days or pray it with others."
+  ],
+  "example": {
+   "situation": "After a hard week, a member of a small group reads Psalm 13 and feels uneasy praying its opening words, \"How long, Yahweh? Will you forget me forever?\"",
+   "before": "Christians shouldn't complain to God, so I'll skip the first verses and just claim verse 5 about trusting his loving kindness.",
+   "after": "David says 'How long?' to God, not about God behind his back; I can pray the complaint honestly, ask God to answer, and keep praying until I can say with verse 5 that I trust his loving kindness, even if that takes longer than six verses.",
+   "why": "The lament is itself addressed to God and is part of the prayer the psalm teaches; skipping to the happy line removes the very path from distress to trust that the psalm walks."
+  },
+  "source_urls": [
+   "https://biblehub.com/web/psalms/13.htm",
+   "https://biblehub.com/web/psalms/88.htm",
+   "https://biblehub.com/multi/psalms/31-5.htm",
+   "https://www.biblestudytools.com/web/luke/23-46.html",
+   "https://biblehub.com/multi/psalms/119-164.htm",
+   "https://biblehub.com/multi/mark/14-26.htm",
+   "https://biblehub.com/multi/acts/4-25.htm",
+   "https://biblehub.com/multi/colossians/3-16.htm",
+   "https://www.biblestudytools.com/web/james/5-13.html",
+   "https://www.trinityorthodox.ca/documents/Athanasius-ToMarcellinus.pdf",
+   "https://liturgyoffice.org/Resources/Rites/GILH.pdf",
+   "https://www.intratext.com/ixt/ENG0037/_PS.HTM",
+   "https://ccel.org/ccel/calvin/calcom08.vi.html",
+   "https://www.andrews.edu/~toews/classes/sources/modern/Thirty%20Nine%20Articles/info/reading_psalt.html",
+   "https://mci.archpitt.org/liturgy/Kathismata.html",
+   "https://oca.org/liturgics/outlines/kathisma-readings-at-vespers",
+   "https://ms.fortresspress.com/downloads/0800697391Chapter1.pdf",
+   "https://jhsonline.org/index.php/jhs/article/download/5935/4988?inline=1",
+   "https://www.myjewishlearning.com/article/hallel/"
+  ]
+ },
+ {
   "id": "bg:psalm-22",
   "title": "Psalm 22",
   "aliases": [

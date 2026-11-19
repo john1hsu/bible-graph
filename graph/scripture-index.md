@@ -267,6 +267,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Psalm 1** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 1:1-3** — [Lectio Divina](../articles/study-practices/lectio-divina.md) (Practice)
+- **Psalm 13** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Psalm 13** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 19:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 22** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
@@ -279,9 +280,11 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 22:22-24** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 22:22-31** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 23:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
+- **Psalm 31:5** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Psalm 88** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Psalm 88** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
 - **Psalm 91:11-12** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Psalm 98:7-9** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
@@ -292,6 +295,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 119** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 119:11** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Psalm 119:18** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
+- **Psalm 119:164** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Psalm 122** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 136:1** — [Laying the Foundation of the Second Temple](../articles/key-passages/laying-the-foundation-of-the-second-temple.md) (Passage)
 - **Psalm 137:1-4** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
@@ -537,6 +541,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 13:1-2** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Mark 13:9-13** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 14:24** — [The Giving of the Law at Sinai](../articles/events-and-timeline/giving-of-the-law-at-sinai.md) (Event)
+- **Mark 14:26** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Mark 14:51-52** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 14:70** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **Mark 15:1-47** — [Crucifixion of Jesus](../articles/life-and-teachings-of-jesus/crucifixion-of-jesus.md) (Event)
@@ -619,6 +624,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 23:34** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Luke 23:34** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 23:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Luke 23:46** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Luke 24:13-35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 24:25-27** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Luke 24:25-27** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
@@ -683,6 +689,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 2:41-42** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 2:42** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **Acts 4:1-3** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
+- **Acts 4:25** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Acts 4:32-37** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
 - **Acts 4:36-37** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 5:17-18** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
@@ -839,6 +846,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## Colossians
 
 - **Colossians 3:12-13** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
+- **Colossians 3:16** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Colossians 3:16** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **Colossians 4:10** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Colossians 4:10** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
@@ -893,6 +901,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **James 2:19** — [The Shema](../articles/key-passages/shema.md) (Passage)
 - **James 2:21-23** — [The Binding of Isaac](../articles/key-passages/binding-of-isaac.md) (Passage)
 - **James 2:21-24** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
+- **James 5:13** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **James 5:16-18** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 
 ## 1 Peter
