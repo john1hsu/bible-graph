@@ -148,6 +148,17 @@ Study questions:
 
 ## interpretation
 
+### [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) — Field
+
+Read: Nehemiah 8:1-12; Acts 8:26-40; Luke 24:27; 2 Peter 3:16; 2 Timothy 2:15
+
+Study questions:
+- According to Nehemiah 8:7-8, what did the Levites do while Ezra read the law, and how did the people respond once they understood it?
+- What did the Ethiopian official say he needed in Acts 8:31, and where did Philip begin when he answered him in Acts 8:35?
+- What did Jesus explain "in all the Scriptures" on the road to Emmaus in Luke 24:27, and how might that shape the way you read the Old Testament?
+- What warning does 2 Peter 3:16 give about hard passages, and what habits help a reader avoid twisting them?
+- Augustine said a reading that does not build up love of God and neighbour has not yet understood Scripture. How could your study group use that as a test?
+
 ### [Catholic Church](../articles/interpretation/catholic-church.md) — Tradition
 
 Read: 2 Thessalonians 2:15; 2 Timothy 3:14-17; Acts 2:42; 1 Corinthians 10:1-11

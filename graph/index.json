@@ -1255,6 +1255,124 @@
   ]
  },
  {
+  "id": "bg:biblical-interpretation",
+  "title": "Biblical Interpretation",
+  "aliases": [
+   "biblical hermeneutics",
+   "hermeneutics",
+   "interpreting the Bible",
+   "interpretation of Scripture",
+   "biblical exegesis"
+  ],
+  "type": "Field",
+  "domain": "interpretation",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/interpretation/biblical-interpretation.md",
+  "created": "2026-11-19",
+  "summary": "The work and study of understanding what the Bible means: what its human authors said to their first hearers and what God says through their words, guided by principles (hermeneutics) and practised in the careful reading of particular passages (exegesis).",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:the-bible"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:lectio-divina"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eisegesis"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:proof-texting"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:allegory"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:typology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reformed-tradition"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-theology"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-story-of-the-bible"
+   },
+   {
+    "predicate": "bgo:influencedBy",
+    "object": "bg:origen",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:influencedBy",
+    "object": "bg:philo-of-alexandria",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:influencedBy",
+    "object": "bg:on-christian-doctrine",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:textual-criticism",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Nehemiah 8:1-12",
+   "Acts 8:26-40",
+   "Luke 24:27",
+   "2 Peter 3:16",
+   "2 Timothy 2:15"
+  ],
+  "studyQuestions": [
+   "According to Nehemiah 8:7-8, what did the Levites do while Ezra read the law, and how did the people respond once they understood it?",
+   "What did the Ethiopian official say he needed in Acts 8:31, and where did Philip begin when he answered him in Acts 8:35?",
+   "What did Jesus explain \"in all the Scriptures\" on the road to Emmaus in Luke 24:27, and how might that shape the way you read the Old Testament?",
+   "What warning does 2 Peter 3:16 give about hard passages, and what habits help a reader avoid twisting them?",
+   "Augustine said a reading that does not build up love of God and neighbour has not yet understood Scripture. How could your study group use that as a test?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://bibliaparalela.com/web/nehemiah/8.htm",
+   "https://www.worthy.bible/bible/web/acts/8/26/40",
+   "https://bibliaparalela.com/multi/luke/24-27.htm",
+   "https://www.worthy.bible/bible/web/2-peter/3/16",
+   "https://bible.cc/multi/2_timothy/2-15.htm",
+   "https://www.britannica.com/topic/hermeneutics-principles-of-biblical-interpretation",
+   "https://www.britannica.com/topic/biblical-literature/The-patristic-period",
+   "https://bkv.unifr.ch/works/cpg-1482-1/versions/origen-de-principiis/divisions/246",
+   "https://bkv.unifr.ch/works/cpl-263-1/versions/contents-of-christian-doctrine/divisions/40",
+   "https://www.jewishencyclopedia.com/articles/12060",
+   "https://1981.catholic-resources.org/ChurchDocs/DeiVerbum.htm",
+   "https://www.catholicculture.org/culture/library/catechism/cat_view.cfm?recnum=468",
+   "https://1981.catholic-resources.org/ChurchDocs/PBC_Interp1.htm",
+   "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html",
+   "https://bookofconcord.org/epitome/rule-and-norm/",
+   "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43"
+  ]
+ },
+ {
   "id": "bg:binding-of-isaac",
   "title": "The Binding of Isaac",
   "aliases": [

@@ -1334,6 +1334,134 @@
    ]
   },
   {
+   "@id": "bg:biblical-interpretation",
+   "@type": "bgo:Field",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:complements": {
+    "@id": "bg:textual-criticism"
+   },
+   "bgo:domain": "interpretation",
+   "bgo:file": "articles/interpretation/biblical-interpretation.md",
+   "bgo:influencedBy": [
+    {
+     "@id": "bg:on-christian-doctrine"
+    },
+    {
+     "@id": "bg:origen"
+    },
+    {
+     "@id": "bg:philo-of-alexandria"
+    }
+   ],
+   "bgo:keyReference": [
+    "2 Peter 3:16",
+    "2 Timothy 2:15",
+    "Acts 8:26-40",
+    "Luke 24:27",
+    "Nehemiah 8:1-12"
+   ],
+   "bgo:level": "introductory",
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9"
+    }
+   ],
+   "rdfs:label": "Biblical Interpretation",
+   "skos:altLabel": [
+    "biblical exegesis",
+    "biblical hermeneutics",
+    "hermeneutics",
+    "interpretation of Scripture",
+    "interpreting the Bible"
+   ],
+   "skos:broader": {
+    "@id": "bg:the-bible"
+   },
+   "skos:definition": "The work and study of understanding what the Bible means: what its human authors said to their first hearers and what God says through their words, guided by principles (hermeneutics) and practised in the careful reading of particular passages (exegesis).",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/interpretation"
+   },
+   "skos:prefLabel": "Biblical Interpretation",
+   "skos:related": [
+    {
+     "@id": "bg:allegory"
+    },
+    {
+     "@id": "bg:biblical-theology"
+    },
+    {
+     "@id": "bg:eisegesis"
+    },
+    {
+     "@id": "bg:lectio-divina"
+    },
+    {
+     "@id": "bg:proof-texting"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:reformed-tradition"
+    },
+    {
+     "@id": "bg:the-story-of-the-bible"
+    },
+    {
+     "@id": "bg:typology"
+    }
+   ]
+  },
+  {
    "@id": "bg:binding-of-isaac",
    "@type": "bgo:Passage",
    "bgo:basis": "debated",
@@ -10642,6 +10770,46 @@
    "rdfs:label": "If your Bible has fewer or more Old Testament books than a friend's from another tradition, how could you talk about the difference with charity and accuracy?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "rdfs:label": "According to Nehemiah 8:7-8, what did the Levites do while Ezra read the law, and how did the people respond once they understood it?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "rdfs:label": "What did the Ethiopian official say he needed in Acts 8:31, and where did Philip begin when he answered him in Acts 8:35?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "rdfs:label": "What did Jesus explain \"in all the Scriptures\" on the road to Emmaus in Luke 24:27, and how might that shape the way you read the Old Testament?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "rdfs:label": "What warning does 2 Peter 3:16 give about hard passages, and what habits help a reader avoid twisting them?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:biblical-interpretation"
+   },
+   "rdfs:label": "Augustine said a reading that does not build up love of God and neighbour has not yet understood Scripture. How could your study group use that as a test?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/binding-of-isaac/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -15918,6 +16086,230 @@
    "dcterms:title": "Catechism of the Catholic Church, §§120-123 (The Canon of Scripture)",
    "schema:url": {
     "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Nehemiah 8 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/nehemiah/8.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Wilhelm Bacher and Jacob Zallel Lauterbach, \"Peshat\", Jewish Encyclopedia (1906)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/12060"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "catholic-resources.org (Felix Just, S.J.)",
+   "dcterms:title": "Second Vatican Council, Dei Verbum (1965), chapter III, 11-13",
+   "schema:url": {
+    "@id": "https://1981.catholic-resources.org/ChurchDocs/DeiVerbum.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Catholic Culture",
+   "dcterms:title": "Catechism of the Catholic Church, 115: the senses of Scripture",
+   "schema:url": {
+    "@id": "https://www.catholicculture.org/culture/library/catechism/cat_view.cfm?recnum=468"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "catholic-resources.org (Felix Just, S.J.)",
+   "dcterms:title": "Pontifical Biblical Commission, The Interpretation of the Bible in the Church (1993), part I: Methods and Approaches",
+   "schema:url": {
+    "@id": "https://1981.catholic-resources.org/ChurchDocs/PBC_Interp1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Westminster Confession of Faith (1647), chapter 1, in Philip Schaff, The Creeds of Christendom, vol. III",
+   "schema:url": {
+    "@id": "https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "BookOfConcord.org",
+   "dcterms:title": "Formula of Concord, Epitome: Comprehensive Summary, Rule and Norm",
+   "schema:url": {
+    "@id": "https://bookofconcord.org/epitome/rule-and-norm/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Wiley-Blackwell (via Azbyka.ru)",
+   "dcterms:title": "Theodore G. Stylianopoulos, \"Bible\", in The Encyclopedia of Eastern Orthodox Christianity, ed. John Anthony McGuckin",
+   "schema:url": {
+    "@id": "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "Acts 8:26-40 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.worthy.bible/bible/web/acts/8/26/40"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "Luke 24:27 (parallel translations, incl. World English Bible and KJV)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/multi/luke/24-27.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Worthy.Bible",
+   "dcterms:title": "2 Peter 3:16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.worthy.bible/bible/web/2-peter/3/16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "bible.cc",
+   "dcterms:title": "2 Timothy 2:15 (parallel translations, incl. World English Bible and KJV)",
+   "schema:url": {
+    "@id": "https://bible.cc/multi/2_timothy/2-15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Hermeneutics: principles of biblical interpretation",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/hermeneutics-principles-of-biblical-interpretation"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Biblical literature: The patristic period",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/biblical-literature/The-patristic-period"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bibliothek der Kirchenväter, University of Fribourg (ANF translation)",
+   "dcterms:title": "Origen, De Principiis, Book IV, chapter 1, section 11",
+   "schema:url": {
+    "@id": "https://bkv.unifr.ch/works/cpg-1482-1/versions/origen-de-principiis/divisions/246"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-19"
+   },
+   "dcterms:publisher": "Bibliothek der Kirchenväter, University of Fribourg (NPNF translation)",
+   "dcterms:title": "Augustine of Hippo, On Christian Doctrine, Book I, chapter 36",
+   "schema:url": {
+    "@id": "https://bkv.unifr.ch/works/cpl-263-1/versions/contents-of-christian-doctrine/divisions/40"
    }
   },
   {

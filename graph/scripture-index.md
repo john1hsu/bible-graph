@@ -262,6 +262,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Nehemiah 8:1-8** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Nehemiah 8:1-8** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **Nehemiah 8:1-12** — [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) (Field)
 - **Nehemiah 8:1-12** — [Book of Ezra](../articles/old-testament-books/book-of-ezra.md) (Book)
 - **Nehemiah 8:8** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Nehemiah 8:8** — [Reading in Context](../articles/interpretation/reading-in-context.md) (Method)
@@ -638,6 +639,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 24:25-27** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Luke 24:25-27** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Luke 24:25-27** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
+- **Luke 24:27** — [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) (Field)
 - **Luke 24:27** — [Old Testament](../articles/bible-basics/old-testament.md) (Collection)
 - **Luke 24:27** — [Scripture Interprets Scripture](../articles/interpretation/scripture-interprets-scripture.md) (Method)
 - **Luke 24:44** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
@@ -710,6 +712,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 8:1-3** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 8:5** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Acts 8:14-17** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **Acts 8:26-40** — [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) (Field)
 - **Acts 8:30-35** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **Acts 9:1-30** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 9:3-4** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
@@ -876,6 +879,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Timothy
 
+- **2 Timothy 2:15** — [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) (Field)
 - **2 Timothy 2:15** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **2 Timothy 3:14-17** — [Catholic Church](../articles/interpretation/catholic-church.md) (Tradition)
 - **2 Timothy 3:14-17** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
@@ -927,6 +931,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **2 Peter 1:20-21** — [Eastern Orthodoxy](../articles/interpretation/eastern-orthodoxy.md) (Tradition)
 - **2 Peter 3:15-16** — [Biblical Canon](../articles/bible-basics/biblical-canon.md) (Concept)
 - **2 Peter 3:15-16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+- **2 Peter 3:16** — [Biblical Interpretation](../articles/interpretation/biblical-interpretation.md) (Field)
 
 ## 1 John
 

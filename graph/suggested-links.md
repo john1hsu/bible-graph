@@ -10,9 +10,9 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 3.27 | `bg:gospel-of-mark` | `bg:jesus` | `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:crucifixion-of-jesus`, `bg:galilee`, `bg:gospels` |
 | 3.26 | `bg:gospel-of-luke` | `bg:jesus` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospels`, `bg:jerusalem` |
 | 3.13 | `bg:gospel-of-matthew` | `bg:jesus` | `bg:bethlehem`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospels`, `bg:kingdom-of-god` |
-| 2.82 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
 | 2.81 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:jesus`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |
-| 2.78 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
+| 2.79 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
+| 2.77 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
 | 2.76 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
 | 2.54 | `bg:bethlehem` | `bg:kingdom-of-god` | `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-matthew`, `bg:jerusalem`, `bg:jesus` |
 | 2.53 | `bg:galilee` | `bg:gospel-of-luke` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
@@ -25,7 +25,7 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.36 | `bg:gospels` | `bg:psalm-22` | `bg:crucifixion-of-jesus`, `bg:gospel-of-john`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
 | 2.31 | `bg:binding-of-isaac` | `bg:grace` | `bg:abraham`, `bg:abrahamic-covenant`, `bg:faith`, `bg:genesis`, `bg:justification` |
 | 2.26 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
+| 2.25 | `bg:biblical-interpretation` | `bg:parables-of-jesus` | `bg:allegory`, `bg:genre-in-the-bible`, `bg:rabbinic-judaism` |
 | 2.24 | `bg:abrahamic-covenant` | `bg:giving-of-the-law-at-sinai` | `bg:ancient-near-eastern-treaties`, `bg:israelites`, `bg:mosaic-covenant`, `bg:new-covenant`, `bg:the-exodus` |
 | 2.23 | `bg:calling-of-the-first-disciples` | `bg:jerusalem` | `bg:book-of-jeremiah`, `bg:galilee`, `bg:gospel-of-luke`, `bg:jesus`, `bg:kingdom-of-god` |
-| 2.18 | `bg:1-kings` | `bg:jeremiahs-temple-sermon` | `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:jeremiah`, `bg:jerusalem`, `bg:the-temple` |
-| 2.17 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:book-of-ruth`, `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees` |
+| 2.20 | `bg:biblical-interpretation` | `bg:scripture-memorization` | `bg:catholic-church`, `bg:inductive-bible-study`, `bg:lectio-divina`, `bg:proof-texting`, `bg:reading-in-context` |

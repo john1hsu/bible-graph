@@ -690,6 +690,71 @@
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:44" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/biblical-canon> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/festal-letter-39-of-athanasius> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Nehemiah 8:7-8, what did the Levites do while Ezra read the law, and how did the people respond once they understood it?" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "What did the Ethiopian official say he needed in Acts 8:31, and where did Philip begin when he answered him in Acts 8:35?" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What did Jesus explain \"in all the Scriptures\" on the road to Emmaus in Luke 24:27, and how might that shape the way you read the Old Testament?" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What warning does 2 Peter 3:16 give about hard passages, and what habits help a reader avoid twisting them?" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Augustine said a reading that does not build up love of God and neighbour has not yet understood Scripture. How could your study group use that as a test?" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://purl.org/dc/terms/created> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Field> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2000/01/rdf-schema#label> "Biblical Interpretation" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical exegesis" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#altLabel> "biblical hermeneutics" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#altLabel> "hermeneutics" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#altLabel> "interpretation of Scripture" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#altLabel> "interpreting the Bible" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/the-bible> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#definition> "The work and study of understanding what the Bible means: what its human authors said to their first hearers and what God says through their words, guided by principles (hermeneutics) and practised in the careful reading of particular passages (exegesis)." .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/interpretation> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biblical Interpretation" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/allegory> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eisegesis> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/lectio-divina> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/proof-texting> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/typology> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#domain> "interpretation" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/interpretation/biblical-interpretation.md" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#influencedBy> <https://github.com/john1hsu/bible-graph/id/on-christian-doctrine> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#influencedBy> <https://github.com/john1hsu/bible-graph/id/origen> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#influencedBy> <https://github.com/john1hsu/bible-graph/id/philo-of-alexandria> .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Peter 3:16" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Timothy 2:15" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:26-40" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 24:27" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:1-12" .
+<https://github.com/john1hsu/bible-graph/id/biblical-interpretation> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/binding-of-isaac/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/binding-of-isaac/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Genesis 22:1 tells the reader something Abraham is not told. What is it, and how does knowing it change the way you read the rest of the chapter?" .
 <https://github.com/john1hsu/bible-graph/id/binding-of-isaac/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
@@ -6232,6 +6297,102 @@
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
 <https://github.com/john1hsu/bible-graph/id/source/biblical-canon/s9> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <http://purl.org/dc/terms/title> "Wilhelm Bacher and Jacob Zallel Lauterbach, \"Peshat\", Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s10> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/12060> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <http://purl.org/dc/terms/publisher> "catholic-resources.org (Felix Just, S.J.)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <http://purl.org/dc/terms/title> "Second Vatican Council, Dei Verbum (1965), chapter III, 11-13" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s11> <https://schema.org/url> <https://1981.catholic-resources.org/ChurchDocs/DeiVerbum.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <http://purl.org/dc/terms/publisher> "Catholic Culture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, 115: the senses of Scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s12> <https://schema.org/url> <https://www.catholicculture.org/culture/library/catechism/cat_view.cfm?recnum=468> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <http://purl.org/dc/terms/publisher> "catholic-resources.org (Felix Just, S.J.)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <http://purl.org/dc/terms/title> "Pontifical Biblical Commission, The Interpretation of the Bible in the Church (1993), part I: Methods and Approaches" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s13> <https://schema.org/url> <https://1981.catholic-resources.org/ChurchDocs/PBC_Interp1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <http://purl.org/dc/terms/title> "Westminster Confession of Faith (1647), chapter 1, in Philip Schaff, The Creeds of Christendom, vol. III" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s14> <https://schema.org/url> <https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.ii.html> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <http://purl.org/dc/terms/publisher> "BookOfConcord.org" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <http://purl.org/dc/terms/title> "Formula of Concord, Epitome: Comprehensive Summary, Rule and Norm" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s15> <https://schema.org/url> <https://bookofconcord.org/epitome/rule-and-norm/> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <http://purl.org/dc/terms/publisher> "Wiley-Blackwell (via Azbyka.ru)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <http://purl.org/dc/terms/title> "Theodore G. Stylianopoulos, \"Bible\", in The Encyclopedia of Eastern Orthodox Christianity, ed. John Anthony McGuckin" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s16> <https://schema.org/url> <https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/43> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <http://purl.org/dc/terms/title> "Nehemiah 8 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s1> <https://schema.org/url> <https://bibliaparalela.com/web/nehemiah/8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <http://purl.org/dc/terms/title> "Acts 8:26-40 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s2> <https://schema.org/url> <https://www.worthy.bible/bible/web/acts/8/26/40> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <http://purl.org/dc/terms/title> "Luke 24:27 (parallel translations, incl. World English Bible and KJV)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s3> <https://schema.org/url> <https://bibliaparalela.com/multi/luke/24-27.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <http://purl.org/dc/terms/publisher> "Worthy.Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <http://purl.org/dc/terms/title> "2 Peter 3:16 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s4> <https://schema.org/url> <https://www.worthy.bible/bible/web/2-peter/3/16> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <http://purl.org/dc/terms/publisher> "bible.cc" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <http://purl.org/dc/terms/title> "2 Timothy 2:15 (parallel translations, incl. World English Bible and KJV)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s5> <https://schema.org/url> <https://bible.cc/multi/2_timothy/2-15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <http://purl.org/dc/terms/title> "Hermeneutics: principles of biblical interpretation" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s6> <https://schema.org/url> <https://www.britannica.com/topic/hermeneutics-principles-of-biblical-interpretation> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <http://purl.org/dc/terms/title> "Biblical literature: The patristic period" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s7> <https://schema.org/url> <https://www.britannica.com/topic/biblical-literature/The-patristic-period> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <http://purl.org/dc/terms/publisher> "Bibliothek der Kirchenväter, University of Fribourg (ANF translation)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <http://purl.org/dc/terms/title> "Origen, De Principiis, Book IV, chapter 1, section 11" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s8> <https://schema.org/url> <https://bkv.unifr.ch/works/cpg-1482-1/versions/origen-de-principiis/divisions/246> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <http://purl.org/dc/terms/publisher> "Bibliothek der Kirchenväter, University of Fribourg (NPNF translation)" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <http://purl.org/dc/terms/title> "Augustine of Hippo, On Christian Doctrine, Book I, chapter 36" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/biblical-interpretation/s9> <https://schema.org/url> <https://bkv.unifr.ch/works/cpl-263-1/versions/contents-of-christian-doctrine/divisions/40> .
 <https://github.com/john1hsu/bible-graph/id/source/binding-of-isaac/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/binding-of-isaac/s10> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
 <https://github.com/john1hsu/bible-graph/id/source/binding-of-isaac/s10> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, paragraph 2572" .
