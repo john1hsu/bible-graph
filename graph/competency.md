@@ -28,7 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:atonement` | Crucifixion of Jesus |
-| `bg:davidic-covenant` | 1 Kings, Bethlehem, Solomon's Dream at Gibeon, The Temple |
+| `bg:davidic-covenant` | 1 Kings, Bethlehem, David, Solomon's Dream at Gibeon, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
 | `bg:faith` | Abraham, Moses, Ruth's Vow to Naomi, The Binding of Isaac |
@@ -145,6 +145,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-joel` | fulfils | `bg:pentecost` |
 | `bg:book-of-malachi` | fulfils | `bg:john-the-baptist` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |
+| `bg:david` | prefigures | `bg:jesus` |
 | `bg:elijah` | prefigures | `bg:john-the-baptist` |
 | `bg:exodus` | quotes | `bg:sadducees-question-about-the-resurrection` |
 | `bg:giving-of-the-law-at-sinai` | prefigures | `bg:pentecost` |
@@ -173,6 +174,9 @@ _Who are the parents, children, spouses and siblings of each written biblical fi
 | `bg:abraham` | bgo:parentOf | `bg:isaac` |
 | `bg:abraham` | bgo:parentOf | `bg:ishmael` |
 | `bg:abraham` | bgo:spouseOf | `bg:sarah` |
+| `bg:david` | bgo:parentOf | `bg:solomon` |
+| `bg:david` | bgo:spouseOf | `bg:bathsheba` |
+| `bg:david` | bgo:spouseOf | `bg:michal` |
 | `bg:moses` | bgo:siblingOf | `bg:aaron` |
 | `bg:moses` | bgo:spouseOf | `bg:zipporah` |
 | `bg:peter` | bgo:siblingOf | `bg:andrew` |

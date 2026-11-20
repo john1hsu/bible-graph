@@ -801,6 +801,18 @@ Study questions:
 - Paul (Romans 4) and James (James 2:21-24) both use Abraham. Which episodes does each one point to, and how can both be true at once?
 - Hebrews 11:8 says Abraham "went out, not knowing where he went." Where is God asking you to take a next step before you can see the whole road?
 
+### [David](../articles/old-testament-people/david.md) — Person
+
+Read: 1 Samuel 13:14; 1 Samuel 16:1-13; 1 Samuel 16:14-23; 1 Samuel 17:4-50; 1 Samuel 18:1-7; 1 Samuel 18:27; 1 Samuel 24:4-6; 2 Samuel 1:26; 2 Samuel 5:3-7; 2 Samuel 6:14-16; 2 Samuel 7:1-16; 2 Samuel 11:1-15; 2 Samuel 12:7-14; 2 Samuel 12:24; 1 Kings 2:10-11; Psalm 51; Matthew 1:1; Matthew 1:6; Luke 1:32; Acts 13:22-23; Acts 13:36; Romans 1:3
+
+Study questions:
+- In 1 Samuel 16:6-13, why does Samuel expect one of Jesse's older sons to be chosen, and what does verse 7 say God looks at instead?
+- What reason does David give in 1 Samuel 17:45-47 for facing Goliath, and whom does he say the battle belongs to?
+- Why does David refuse to harm Saul in the cave (1 Samuel 24:4-6), even though his men see it as his chance?
+- In 2 Samuel 7:11-16, David wants to build God a house. What "house" does God promise to build for David instead, and for how long?
+- How does Nathan bring David to see his sin in 2 Samuel 12:1-13, and how does Psalm 51 echo David's response?
+- Scripture calls David a man after God's own heart (1 Samuel 13:14; Acts 13:22), yet it records his adultery and Uriah's death. What does that combination teach you about God's grace, and about honest repentance in your own life?
+
 ### [Elijah](../articles/old-testament-people/elijah.md) — Person
 
 Read: 1 Kings 17:1-24; 1 Kings 18:17-46; 1 Kings 19:1-21; 1 Kings 21:17-29; 2 Kings 1:1-17; 2 Kings 2:1-15; Malachi 4:5-6; Matthew 11:13-14; Matthew 17:1-13; Luke 1:17; Luke 4:25-26; Luke 9:54-55; Romans 11:2-5; James 5:16-18

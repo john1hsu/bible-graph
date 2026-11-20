@@ -173,18 +173,33 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 ## 1 Samuel
 
 - **1 Samuel 10:27** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
+- **1 Samuel 13:14** — [David](../articles/old-testament-people/david.md) (Person)
 - **1 Samuel 16:1-13** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
+- **1 Samuel 16:1-13** — [David](../articles/old-testament-people/david.md) (Person)
+- **1 Samuel 16:14-23** — [David](../articles/old-testament-people/david.md) (Person)
+- **1 Samuel 17:4-50** — [David](../articles/old-testament-people/david.md) (Person)
+- **1 Samuel 18:1-7** — [David](../articles/old-testament-people/david.md) (Person)
+- **1 Samuel 18:27** — [David](../articles/old-testament-people/david.md) (Person)
+- **1 Samuel 24:4-6** — [David](../articles/old-testament-people/david.md) (Person)
 
 ## 2 Samuel
 
+- **2 Samuel 1:26** — [David](../articles/old-testament-people/david.md) (Person)
+- **2 Samuel 5:3-7** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
+- **2 Samuel 6:14-16** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 7:1-13** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
+- **2 Samuel 7:1-16** — [David](../articles/old-testament-people/david.md) (Person)
+- **2 Samuel 11:1-15** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 12:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
+- **2 Samuel 12:7-14** — [David](../articles/old-testament-people/david.md) (Person)
+- **2 Samuel 12:24** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 23:13-17** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## 1 Kings
 
 - **1 Kings 1:38-40** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
+- **1 Kings 2:10-11** — [David](../articles/old-testament-people/david.md) (Person)
 - **1 Kings 2:35** — [Sadducees](../articles/background-and-culture/sadducees.md) (Group)
 - **1 Kings 3:1-15** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 - **1 Kings 3:5-14** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
@@ -297,6 +312,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 23:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 31:5** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
+- **Psalm 51** — [David](../articles/old-testament-people/david.md) (Person)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Psalm 78:60** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
 - **Psalm 88** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
@@ -440,10 +456,12 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Matthew
 
+- **Matthew 1:1** — [David](../articles/old-testament-people/david.md) (Person)
 - **Matthew 1:1** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 1:1-2** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **Matthew 1:5** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Matthew 1:5** — [Ruth's Vow to Naomi](../articles/key-passages/ruths-vow-to-naomi.md) (Passage)
+- **Matthew 1:6** — [David](../articles/old-testament-people/david.md) (Person)
 - **Matthew 1:11-17** — [Babylonian Exile](../articles/events-and-timeline/babylonian-exile.md) (Event)
 - **Matthew 1:21-25** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Matthew 1:22-23** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
@@ -586,6 +604,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 1:1-4** — [The Four Gospels](../articles/new-testament-books/gospels.md) (Collection)
 - **Luke 1:5-25** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Luke 1:17** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **Luke 1:32** — [David](../articles/old-testament-people/david.md) (Person)
 - **Luke 1:35** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 1:39-45** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
 - **Luke 1:46-55** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
@@ -752,6 +771,8 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Acts 13:7** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:9** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 13:14-16** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
+- **Acts 13:22-23** — [David](../articles/old-testament-people/david.md) (Person)
+- **Acts 13:36** — [David](../articles/old-testament-people/david.md) (Person)
 - **Acts 13:46** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
 - **Acts 13:47** — [Paul](../articles/new-testament-people/paul.md) (Person)
 - **Acts 14:12-14** — [Barnabas](../articles/new-testament-people/barnabas.md) (Person)
@@ -791,6 +812,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## Romans
 
+- **Romans 1:3** — [David](../articles/old-testament-people/david.md) (Person)
 - **Romans 1:16-17** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)
 - **Romans 1:19-20** — [Paul at the Areopagus](../articles/key-passages/paul-at-the-areopagus.md) (Passage)
 - **Romans 3:21-28** — [Lutheranism](../articles/interpretation/lutheranism.md) (Tradition)

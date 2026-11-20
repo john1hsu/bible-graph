@@ -13,19 +13,19 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 | 2.86 | `bg:galilee` | `bg:gospel-of-luke` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
 | 2.81 | `bg:jerusalem` | `bg:synagogue` | `bg:acts-of-the-apostles`, `bg:babylonian-exile`, `bg:biblical-archaeology`, `bg:galilee`, `bg:gospel-of-luke` |
 | 2.78 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:jesus`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |
-| 2.76 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
+| 2.75 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
 | 2.73 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
 | 2.62 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
 | 2.59 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:paul-at-the-areopagus` |
-| 2.53 | `bg:bethlehem` | `bg:kingdom-of-god` | `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-matthew`, `bg:jerusalem`, `bg:jesus` |
 | 2.52 | `bg:mosaic-covenant` | `bg:synagogue` | `bg:paul`, `bg:rabbinic-judaism`, `bg:sabbath`, `bg:shema` |
-| 2.48 | `bg:galilee` | `bg:gospels` | `bg:book-of-isaiah`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus`, `bg:kingdom-of-god` |
 | 2.48 | `bg:gospel-of-matthew` | `bg:loving-your-neighbor` | `bg:book-of-ruth`, `bg:forgiveness-in-the-bible`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:pharisees` |
 | 2.48 | `bg:parable-of-the-good-samaritan` | `bg:shema` | `bg:great-commandment`, `bg:love`, `bg:loving-your-neighbor`, `bg:second-temple-judaism` |
+| 2.47 | `bg:galilee` | `bg:gospels` | `bg:book-of-isaiah`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus`, `bg:kingdom-of-god` |
 | 2.42 | `bg:calling-of-the-first-disciples` | `bg:money-and-generosity` | `bg:discipleship`, `bg:gospel-of-luke`, `bg:kingdom-of-god`, `bg:sermon-on-the-mount` |
 | 2.40 | `bg:book-of-jeremiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:calling-of-the-first-disciples`, `bg:dead-sea-scrolls`, `bg:jerusalem` |
 | 2.39 | `bg:gospel-of-luke` | `bg:second-temple-judaism` | `bg:calling-of-the-first-disciples`, `bg:jerusalem`, `bg:john-the-baptist`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |
 | 2.38 | `bg:catholic-church` | `bg:grace` | `bg:abrahamic-covenant`, `bg:eastern-orthodoxy`, `bg:lutheranism`, `bg:mosaic-covenant`, `bg:peter` |
-| 2.36 | `bg:bethlehem` | `bg:the-temple` | `bg:biblical-archaeology`, `bg:david`, `bg:davidic-covenant`, `bg:jerusalem`, `bg:jesus` |
 | 2.36 | `bg:book-of-ezra` | `bg:synagogue` | `bg:babylonian-exile`, `bg:book-of-nehemiah`, `bg:second-temple-judaism`, `bg:the-temple` |
+| 2.35 | `bg:abrahamic-covenant` | `bg:ruths-vow-to-naomi` | `bg:abraham`, `bg:covenant`, `bg:faith`, `bg:genesis`, `bg:rabbinic-judaism` |
 | 2.35 | `bg:gospels` | `bg:psalm-22` | `bg:crucifixion-of-jesus`, `bg:gospel-of-john`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
+| 2.34 | `bg:acts-of-the-apostles` | `bg:jesus` | `bg:gospels`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:paul`, `bg:pentecost` |
