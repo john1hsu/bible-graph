@@ -528,6 +528,17 @@ Study questions:
 - What did Joseph's forgiveness of his brothers in Genesis 50:15-21 include, and what did it not pretend?
 - Is there someone I find hard to forgive? What would it look like to begin by praying for them, even before my feelings change?
 
+### [Grief](../articles/living-the-word/grief.md) — LifeSituation
+
+Read: Genesis 37:34-35; Genesis 50:1-3; Genesis 50:10; 2 Samuel 1:11-27; 2 Samuel 18:33; Psalm 34:18; Ecclesiastes 3:1-4; Matthew 5:4; John 11:17-44; Romans 12:15; 1 Thessalonians 4:13-18; Revelation 21:4
+
+Study questions:
+- In Genesis 37:34-35, what does Jacob do when he believes Joseph is dead, and how do his sons and daughters respond?
+- In John 11, Jesus tells Martha "I am the resurrection and the life" (11:25) and then weeps at the tomb (11:35). Why might he weep when he knows what he is about to do?
+- What exactly does Paul ask of the Thessalonians in 1 Thessalonians 4:13, and what does he give them to comfort one another with in verses 14-18?
+- David's lament in 2 Samuel 1:17-27 honours both his friend Jonathan and King Saul, whose dealings with David had been very different. What does that suggest about honest grief for complicated relationships?
+- Who in my church or neighbourhood is mourning right now, and what would it look like to "weep with those who weep" (Romans 12:15) beside them this month?
+
 ### [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) — LifeSituation
 
 Read: Leviticus 19:9-18; Leviticus 19:33-34; Deuteronomy 6:4-5; Deuteronomy 10:17-19; Mark 12:28-34; Matthew 22:34-40; Luke 10:25-37; Matthew 5:43-48; Romans 13:8-10; Galatians 5:13-15; James 2:1-9; 1 John 4:19-21

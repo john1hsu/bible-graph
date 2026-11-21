@@ -43,6 +43,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Genesis 35:19** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 - **Genesis 35:23-26** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **Genesis 37:2-3** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
+- **Genesis 37:34-35** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
+- **Genesis 50:1-3** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
+- **Genesis 50:10** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **Genesis 50:15-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Genesis 50:20** — [Genesis](../articles/old-testament-books/genesis.md) (Book)
 
@@ -184,6 +187,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 ## 2 Samuel
 
+- **2 Samuel 1:11-27** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **2 Samuel 1:26** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 5:3-7** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 5:4-9** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
@@ -194,6 +198,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **2 Samuel 12:1-7** — [Parables of Jesus](../articles/life-and-teachings-of-jesus/parables-of-jesus.md) (Genre)
 - **2 Samuel 12:7-14** — [David](../articles/old-testament-people/david.md) (Person)
 - **2 Samuel 12:24** — [David](../articles/old-testament-people/david.md) (Person)
+- **2 Samuel 18:33** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **2 Samuel 23:13-17** — [Bethlehem](../articles/places-and-geography/bethlehem.md) (Place)
 
 ## 1 Kings
@@ -311,6 +316,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Psalm 22:22-31** — [Psalm 22](../articles/key-passages/psalm-22.md) (Passage)
 - **Psalm 23:1-4** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Psalm 31:5** — [Praying the Psalms](../articles/study-practices/praying-the-psalms.md) (Practice)
+- **Psalm 34:18** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **Psalm 40:6** — [Septuagint](../articles/manuscripts-translations-and-archaeology/septuagint.md) (Translation)
 - **Psalm 51** — [David](../articles/old-testament-people/david.md) (Person)
 - **Psalm 76:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
@@ -338,6 +344,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Proverbs 11:1-3** — [Hebrew Poetry](../articles/interpretation/hebrew-poetry.md) (Genre)
 - **Proverbs 26:4-5** — [Genre in the Bible](../articles/interpretation/genre-in-the-bible.md) (Method)
 - **Proverbs 30:7-9** — [Money and Generosity](../articles/living-the-word/money-and-generosity.md) (LifeSituation)
+
+## Ecclesiastes
+
+- **Ecclesiastes 3:1-4** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 
 ## Isaiah
 
@@ -479,6 +489,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Matthew 4:23** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **Matthew 4:23-25** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
 - **Matthew 5:1-20** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
+- **Matthew 5:4** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **Matthew 5:17-18** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Matthew 5:17-20** — [Gospel of Matthew](../articles/new-testament-books/gospel-of-matthew.md) (Book)
 - **Matthew 5:21-48** — [Sermon on the Mount](../articles/life-and-teachings-of-jesus/sermon-on-the-mount.md) (Passage)
@@ -711,6 +722,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **John 7:53–8:11** — [Textual Criticism](../articles/manuscripts-translations-and-archaeology/textual-criticism.md) (Field)
 - **John 8:39-58** — [Abraham](../articles/old-testament-people/abraham.md) (Person)
 - **John 10:22-23** — [Second Temple Judaism](../articles/background-and-culture/second-temple-judaism.md) (Group)
+- **John 11:17-44** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **John 11:55** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **John 14:26** — [Scripture Memorization](../articles/study-practices/scripture-memorization.md) (Practice)
 - **John 18:36** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -837,6 +849,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Romans 11:28-29** — [Abrahamic Covenant](../articles/themes-and-theology/abrahamic-covenant.md) (Covenant)
 - **Romans 11:28-29** — [Rabbinic Judaism](../articles/background-and-culture/rabbinic-judaism.md) (Tradition)
 - **Romans 11:36** — [Reformed Tradition](../articles/interpretation/reformed-tradition.md) (Tradition)
+- **Romans 12:15** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **Romans 12:17-21** — [Forgiveness in the Bible](../articles/living-the-word/forgiveness-in-the-bible.md) (LifeSituation)
 - **Romans 13:8-10** — [Loving Your Neighbor](../articles/living-the-word/loving-your-neighbor.md) (LifeSituation)
 - **Romans 14:17** — [Kingdom of God](../articles/themes-and-theology/kingdom-of-god.md) (Theme)
@@ -914,6 +927,10 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Colossians 4:14** — [Acts of the Apostles](../articles/new-testament-books/acts-of-the-apostles.md) (Book)
 - **Colossians 4:14** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Colossians 4:16** — [New Testament](../articles/bible-basics/new-testament.md) (Collection)
+
+## 1 Thessalonians
+
+- **1 Thessalonians 4:13-18** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 
 ## 2 Thessalonians
 
@@ -999,6 +1016,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Revelation 21:1-5** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)
 - **Revelation 21:2** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Revelation 21:3-5** — [Suffering and Lament](../articles/living-the-word/suffering-and-lament.md) (LifeSituation)
+- **Revelation 21:4** — [Grief](../articles/living-the-word/grief.md) (LifeSituation)
 - **Revelation 21:22** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
 - **Revelation 21:22** — [The Temple](../articles/places-and-geography/the-temple.md) (Place)
 - **Revelation 22:1-3** — [The Story of the Bible](../articles/bible-basics/the-story-of-the-bible.md) (Concept)

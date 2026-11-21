@@ -2454,6 +2454,78 @@
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Titus 2:11-14" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/grace> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-theology> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Genesis 37:34-35, what does Jacob do when he believes Joseph is dead, and how do his sons and daughters respond?" .
+<https://github.com/john1hsu/bible-graph/id/grief/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In John 11, Jesus tells Martha \"I am the resurrection and the life\" (11:25) and then weeps at the tomb (11:35). Why might he weep when he knows what he is about to do?" .
+<https://github.com/john1hsu/bible-graph/id/grief/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What exactly does Paul ask of the Thessalonians in 1 Thessalonians 4:13, and what does he give them to comfort one another with in verses 14-18?" .
+<https://github.com/john1hsu/bible-graph/id/grief/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "David's lament in 2 Samuel 1:17-27 honours both his friend Jonathan and King Saul, whose dealings with David had been very different. What does that suggest about honest grief for complicated relationships?" .
+<https://github.com/john1hsu/bible-graph/id/grief/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/grief/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Who in my church or neighbourhood is mourning right now, and what would it look like to \"weep with those who weep\" (Romans 12:15) beside them this month?" .
+<https://github.com/john1hsu/bible-graph/id/grief/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/grief> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://purl.org/dc/terms/created> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#LifeSituation> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2000/01/rdf-schema#label> "Grief" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "bereavement" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "death of a loved one" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "grief in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "grieving with hope" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "grieving" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "mourning in the Bible" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#altLabel> "mourning" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#definition> "What Scripture says to Christians mourning the death of someone they love: the Bible treats grief as a right and honest response to death, shows God's people and Jesus himself weeping, calls the church to weep with those who weep, and sets mourning within the hope of the resurrection, so that believers grieve, but not as those who have no hope." .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/living-the-word> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grief" .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/loving-your-neighbor> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s10> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s11> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s12> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s13> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s14> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s15> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s16> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s1> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s2> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s3> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s4> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s5> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s6> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s8> .
+<https://github.com/john1hsu/bible-graph/id/grief> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/grief/s9> .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#domain> "living-the-word" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/living-the-word/grief.md" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Thessalonians 4:13-18" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Samuel 18:33" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Samuel 1:11-27" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ecclesiastes 3:1-4" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 37:34-35" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 50:1-3" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 50:10" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 11:17-44" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 5:4" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 34:18" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:4" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 12:15" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/1-thessalonians> .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/davids-lament-for-saul-and-jonathan> .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/raising-of-lazarus> .
+<https://github.com/john1hsu/bible-graph/id/grief> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> .
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Psalm 1:1 slowly. What three verbs describe the person's movement, and what does the sequence suggest about how we drift into the company of scoffers?" .
 <https://github.com/john1hsu/bible-graph/id/hebrew-poetry/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/hebrew-poetry> .
@@ -8782,6 +8854,96 @@
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/grace/s9> <https://schema.org/url> <https://www.christianity.com/bible/web/2-corinthians/12-9-10> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <http://purl.org/dc/terms/title> "Romans 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s10> <https://schema.org/url> <https://biblehub.com/web/romans/12.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <http://purl.org/dc/terms/title> "1 Thessalonians 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s11> <https://schema.org/url> <https://biblehub.com/web/1_thessalonians/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <http://purl.org/dc/terms/title> "Revelation 21 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s12> <https://schema.org/url> <https://biblehub.com/web/revelation/21.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <http://purl.org/dc/terms/title> "Mourning, Smith's Bible Dictionary (1901); with the International Standard Bible Encyclopedia (1915) cross-reference" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s13> <https://schema.org/url> <https://www.biblestudytools.com/dictionary/mourning/> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <http://purl.org/dc/terms/title> "Mourning (Cyrus Adler and Judah David Eisenstein), The Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s14> <https://schema.org/url> <https://jewishencyclopedia.com/articles/11191-mourning> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <http://purl.org/dc/terms/publisher> "Calvin Theological Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <http://purl.org/dc/terms/title> "Are Christians Allowed to Grieve the Death of a Loved One? (Jeffrey Weima)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s15> <https://schema.org/url> <https://calvinseminary.edu/?p=8557> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <http://purl.org/dc/terms/title> "Augustine, Confessions, Book IX, Chapter 12" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s16> <https://schema.org/url> <https://ccel.org/ccel/augustine/confess.x.xii.html> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <http://purl.org/dc/terms/title> "Genesis 37 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s1> <https://schema.org/url> <https://ebible.org/engwebpb/GEN37.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <http://purl.org/dc/terms/title> "Genesis 50 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s2> <https://schema.org/url> <https://biblehub.com/web/genesis/50.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <http://purl.org/dc/terms/title> "2 Samuel 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s3> <https://schema.org/url> <https://ebible.org/engwebp/2SA01.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <http://purl.org/dc/terms/title> "2 Samuel 18 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s4> <https://schema.org/url> <https://biblehub.com/web/2_samuel/18.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <http://purl.org/dc/terms/title> "Psalm 34 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s5> <https://schema.org/url> <https://biblehub.com/web/psalms/34.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <http://purl.org/dc/terms/title> "Ecclesiastes 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s6> <https://schema.org/url> <https://biblehub.com/web/ecclesiastes/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <http://purl.org/dc/terms/title> "Matthew 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s8> <https://schema.org/url> <https://biblehub.com/web/matthew/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <http://purl.org/dc/terms/date> "2026-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <http://purl.org/dc/terms/title> "John 11 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/grief/s9> <https://schema.org/url> <https://biblehub.com/web/john/11.htm> .
 <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/publisher> "International Standard Bible Encyclopedia" .
 <https://github.com/john1hsu/bible-graph/id/source/hebrew-poetry/s10> <http://purl.org/dc/terms/title> "Poetry, Hebrew" .
