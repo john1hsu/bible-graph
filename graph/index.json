@@ -6871,6 +6871,178 @@
   ]
  },
  {
+  "id": "bg:nazareth-sermon",
+  "title": "The Nazareth Sermon",
+  "aliases": [
+   "Jesus's sermon at Nazareth",
+   "Jesus' sermon at Nazareth",
+   "Jesus in the synagogue at Nazareth",
+   "Jesus reads Isaiah in Nazareth",
+   "rejection at Nazareth",
+   "Nazareth manifesto",
+   "Luke 4:16-30"
+  ],
+  "type": "Passage",
+  "domain": "life-and-teachings-of-jesus",
+  "level": "introductory",
+  "basis": "scriptural",
+  "file": "articles/life-and-teachings-of-jesus/nazareth-sermon.md",
+  "created": "2026-11-22",
+  "summary": "Luke's account (Luke 4:16-30) of Jesus reading Isaiah 61 in the synagogue of his hometown on the Sabbath, announcing \"Today, this Scripture has been fulfilled in your hearing\", and then being driven out when he recalls how Elijah and Elisha were sent to outsiders; Luke places it at the start of Jesus's ministry as a preview of all that follows.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:broader",
+    "object": "bg:public-ministry-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:synagogue"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:capernaum"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elisha"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sabbath"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:sermon-on-the-mount"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:gospel-of-luke",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:jesus",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:synagogue",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:features",
+    "object": "bg:nazareth",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:quotes",
+    "object": "bg:book-of-isaiah",
+    "source": "s9",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:alludesTo",
+    "object": "bg:leviticus",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:alludesTo",
+    "object": "bg:1-kings",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:alludesTo",
+    "object": "bg:2-kings",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:kingdom-of-god",
+    "source": "s10",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:holy-spirit",
+    "source": "s1",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Luke 4:14-30",
+   "Luke 4:31-32",
+   "Isaiah 61:1-3",
+   "Isaiah 58:6",
+   "Leviticus 25:8-13",
+   "1 Kings 17:8-16",
+   "2 Kings 5:1-14",
+   "Mark 6:1-6"
+  ],
+  "studyQuestions": [
+   "Trace Luke 4:16-20 step by step. What does Jesus do with the scroll before he says a word about it, and why might Luke slow the scene down this way?",
+   "Compare Luke 4:18-19 with Isaiah 61:1-2. Where does Jesus stop reading, and what words of Isaiah 61:2 are left unread?",
+   "What does the jubilee law of Leviticus 25:8-13 command, and how does it help explain \"the acceptable year of the Lord\" (Luke 4:19)?",
+   "In Luke 4:25-27, who are the two people Jesus names, where were they from, and why would their stories upset his hearers?",
+   "The crowd moves from wonder (4:22) to fury (4:28-29) within a few verses. What in Jesus's words causes the change?",
+   "Jesus says the Scripture is fulfilled \"today\". Who are the poor, the captives and the crushed in your own community, and what would it mean for your church to hear this good news as meant for them too?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://ebible.org/eng-web/LUK04.htm",
+   "https://biblehub.com/web/isaiah/61.htm",
+   "https://biblehub.com/web/isaiah/58.htm",
+   "https://biblehub.com/web/mark/6.htm",
+   "https://ebible.org/eng-web/1KI17.htm",
+   "https://bibliaparalela.com/web/2_kings/5.htm",
+   "https://www.churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=eng",
+   "https://www.biblegateway.com/resources/ivp-nt/Jesus-Preaches-Nazareth-Time-Fulfillment",
+   "https://enterthebible.org/passage/luke-414-30-jesus-sermon-at-nazareth/",
+   "https://revistas.upb.edu.co/index.php/cuestiones/en/article/view/jesus-sinagoga-nazaret-lucas-4",
+   "https://www.workingpreacher.org/commentaries/narrative-lectionary/sermon-at-nazareth/commentary-on-luke-414-30",
+   "https://prod.sefaria.org.il/Mishnah_Megillah.4.1"
+  ]
+ },
+ {
   "id": "bg:new-testament",
   "title": "New Testament",
   "aliases": [

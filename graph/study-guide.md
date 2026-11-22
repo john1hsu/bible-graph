@@ -504,6 +504,18 @@ Study questions:
 - In Matthew 6:14-15 Jesus adds a comment on just one petition. Which one, and why might he single it out?
 - Jesus prays "your desire be done" in Gethsemane (Matthew 26:42). How does that scene deepen what it means to pray "your will be done"?
 
+### [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) — Passage
+
+Read: Luke 4:14-30; Luke 4:31-32; Isaiah 61:1-3; Isaiah 58:6; Leviticus 25:8-13; 1 Kings 17:8-16; 2 Kings 5:1-14; Mark 6:1-6
+
+Study questions:
+- Trace Luke 4:16-20 step by step. What does Jesus do with the scroll before he says a word about it, and why might Luke slow the scene down this way?
+- Compare Luke 4:18-19 with Isaiah 61:1-2. Where does Jesus stop reading, and what words of Isaiah 61:2 are left unread?
+- What does the jubilee law of Leviticus 25:8-13 command, and how does it help explain "the acceptable year of the Lord" (Luke 4:19)?
+- In Luke 4:25-27, who are the two people Jesus names, where were they from, and why would their stories upset his hearers?
+- The crowd moves from wonder (4:22) to fury (4:28-29) within a few verses. What in Jesus's words causes the change?
+- Jesus says the Scripture is fulfilled "today". Who are the poor, the captives and the crushed in your own community, and what would it mean for your church to hear this good news as meant for them too?
+
 ### [The Sadducees' Question about the Resurrection](../articles/life-and-teachings-of-jesus/sadducees-question-about-the-resurrection.md) — Passage
 
 Read: Mark 12:18-27; Matthew 22:23-33; Luke 20:27-40; Mark 11:27-33; Exodus 3:6; Deuteronomy 25:5-10; Tobit 3:8; Acts 23:8; Daniel 12:2; 1 Corinthians 15:35-44

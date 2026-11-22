@@ -6,11 +6,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 |---|---|---|---|
 | `bg:deuterocanonical-books` | 9.94 | - | `bg:biblical-canon`, `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:lutheranism`, `bg:old-testament`, `bg:reformed-tradition`, `bg:sadducees-question-about-the-resurrection`, `bg:septuagint`, `bg:solomons-dream-at-gibeon` |
 | `bg:new-covenant` | 9.90 | - | `bg:abrahamic-covenant`, `bg:book-of-jeremiah`, `bg:giving-of-the-law-at-sinai`, `bg:jesus`, `bg:mosaic-covenant`, `bg:new-testament`, `bg:old-testament`, `bg:pentecost` |
+| `bg:book-of-isaiah` | 8.38 | - | `bg:dead-sea-scrolls`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospels`, `bg:jesus`, `bg:john-the-baptist`, `bg:nazareth-sermon` |
 | `bg:prayer` | 8.25 | - | `bg:elijah`, `bg:lectio-divina`, `bg:praying-the-psalms`, `bg:psalm-22`, `bg:shema`, `bg:solomons-dream-at-gibeon`, `bg:suffering-and-lament`, `bg:synagogue` |
-| `bg:ten-commandments` | 7.83 | - | `bg:deuteronomy`, `bg:giving-of-the-law-at-sinai`, `bg:mosaic-covenant`, `bg:moses`, `bg:sermon-on-the-mount`, `bg:shema`, `bg:the-exodus` |
+| `bg:ten-commandments` | 7.82 | - | `bg:deuteronomy`, `bg:giving-of-the-law-at-sinai`, `bg:mosaic-covenant`, `bg:moses`, `bg:sermon-on-the-mount`, `bg:shema`, `bg:the-exodus` |
 | `bg:proof-texting` | 7.80 | - | `bg:biblical-interpretation`, `bg:inductive-bible-study`, `bg:reading-in-context`, `bg:scripture-interprets-scripture`, `bg:scripture-memorization` |
 | `bg:faith` | 7.76 | - | `bg:abraham`, `bg:abrahamic-covenant`, `bg:binding-of-isaac`, `bg:grace`, `bg:moses`, `bg:ruths-vow-to-naomi` |
-| `bg:book-of-isaiah` | 7.35 | - | `bg:dead-sea-scrolls`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospels`, `bg:jesus`, `bg:john-the-baptist` |
 | `bg:apostles` | 7.33 | Group | `bg:barnabas`, `bg:calling-of-the-first-disciples`, `bg:paul`, `bg:pentecost`, `bg:peter` |
 | `bg:biblical-archaeology` | 7.30 | Field | `bg:bethlehem`, `bg:dead-sea-scrolls`, `bg:galilee`, `bg:jerusalem`, `bg:synagogue`, `bg:the-temple` |
 | `bg:the-bible` | 6.83 | - | `bg:biblical-canon`, `bg:biblical-interpretation`, `bg:chapters-and-verses`, `bg:new-testament`, `bg:old-testament`, `bg:the-story-of-the-bible` |
@@ -26,7 +26,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:resurrection-of-jesus` | 5.70 | - | `bg:crucifixion-of-jesus`, `bg:jesus`, `bg:pentecost`, `bg:public-ministry-of-jesus` |
 | `bg:davidic-covenant` | 5.67 | - | `bg:1-kings`, `bg:bethlehem`, `bg:david`, `bg:solomons-dream-at-gibeon`, `bg:the-temple` |
 | `bg:solomon` | 5.66 | Person | `bg:1-kings`, `bg:david`, `bg:solomons-dream-at-gibeon`, `bg:the-temple` |
-| `bg:passover` | 5.19 | - | `bg:crucifixion-of-jesus`, `bg:moses`, `bg:public-ministry-of-jesus`, `bg:song-of-the-sea`, `bg:the-exodus` |
+| `bg:passover` | 5.18 | - | `bg:crucifixion-of-jesus`, `bg:moses`, `bg:public-ministry-of-jesus`, `bg:song-of-the-sea`, `bg:the-exodus` |
 | `bg:resurrection-of-the-dead` | 5.15 | - | `bg:grief`, `bg:paul-at-the-areopagus`, `bg:sadducees`, `bg:sadducees-question-about-the-resurrection` |
 | `bg:second-temple-period` | 4.74 | Period | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:public-ministry-of-jesus`, `bg:second-temple-judaism` |
 | `bg:messiah` | 4.73 | - | `bg:bethlehem`, `bg:david`, `bg:jesus`, `bg:kingdom-of-god` |
@@ -34,6 +34,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:atonement` | 4.68 | - | `bg:crucifixion-of-jesus`, `bg:forgiveness-in-the-bible`, `bg:grace` |
 | `bg:gospel-of-john` | 4.65 | - | `bg:calling-of-the-first-disciples`, `bg:gospels`, `bg:psalm-22`, `bg:public-ministry-of-jesus` |
 | `bg:redemption` | 4.62 | - | `bg:book-of-ruth`, `bg:ruths-vow-to-naomi`, `bg:song-of-the-sea`, `bg:the-exodus` |
+| `bg:capernaum` | 4.62 | - | `bg:calling-of-the-first-disciples`, `bg:nazareth-sermon`, `bg:public-ministry-of-jesus`, `bg:synagogue` |
 | `bg:jeremiah` | 4.61 | Person | `bg:1-kings`, `bg:book-of-jeremiah`, `bg:jeremiahs-temple-sermon` |
 | `bg:biblical-theology` | 4.27 | Field | `bg:biblical-interpretation`, `bg:grace`, `bg:kingdom-of-god`, `bg:scripture-interprets-scripture` |
 | `bg:john-mark` | 4.21 | Person | `bg:barnabas`, `bg:gospel-of-mark`, `bg:peter` |
@@ -44,15 +45,16 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:prophets` | 4.13 | - | `bg:1-kings`, `bg:elijah`, `bg:john-the-baptist`, `bg:moses` |
 | `bg:deuteronomistic-history` | 4.11 | - | `bg:1-kings`, `bg:deuteronomy`, `bg:elijah`, `bg:solomons-dream-at-gibeon` |
 | `bg:2-chronicles` | 4.11 | - | `bg:1-kings`, `bg:book-of-ezra`, `bg:solomons-dream-at-gibeon` |
+| `bg:2-kings` | 4.11 | - | `bg:1-kings`, `bg:book-of-jeremiah`, `bg:elijah`, `bg:nazareth-sermon` |
 | `bg:samaritans` | 3.69 | - | `bg:loving-your-neighbor`, `bg:parable-of-the-good-samaritan`, `bg:second-temple-judaism` |
-| `bg:typology` | 3.66 | - | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:eastern-orthodoxy` |
 | `bg:parable-of-the-prodigal-son` | 3.66 | - | `bg:gospel-of-luke`, `bg:parable-of-the-good-samaritan`, `bg:parables-of-jesus` |
+| `bg:typology` | 3.66 | - | `bg:biblical-interpretation`, `bg:catholic-church`, `bg:eastern-orthodoxy` |
 | `bg:codex-sinaiticus` | 3.65 | - | `bg:gospel-of-mark`, `bg:new-testament`, `bg:textual-criticism` |
 | `bg:great-commission` | 3.64 | - | `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-matthew` |
 | `bg:joshua-son-of-nun` | 3.63 | - | `bg:deuteronomy`, `bg:mosaic-covenant`, `bg:moses` |
 | `bg:sarah` | 3.63 | Person | `bg:abraham`, `bg:abrahamic-covenant` |
-| `bg:baptism-of-jesus` | 3.61 | - | `bg:jesus`, `bg:john-the-baptist`, `bg:public-ministry-of-jesus` |
-| `bg:capernaum` | 3.59 | - | `bg:calling-of-the-first-disciples`, `bg:public-ministry-of-jesus`, `bg:synagogue` |
+| `bg:baptism-of-jesus` | 3.62 | - | `bg:jesus`, `bg:john-the-baptist`, `bg:public-ministry-of-jesus` |
+| `bg:sabbath` | 3.61 | - | `bg:mosaic-covenant`, `bg:nazareth-sermon`, `bg:synagogue` |
 | `bg:annals-of-tacitus` | 3.15 | - | `bg:antiquities-of-the-jews`, `bg:crucifixion-of-jesus`, `bg:jesus` |
 | `bg:aaron` | 3.13 | Person | `bg:giving-of-the-law-at-sinai`, `bg:moses` |
 | `bg:cyrus-the-great` | 3.12 | - | `bg:babylonian-exile`, `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple` |
@@ -63,13 +65,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:wisdom-literature` | 3.10 | - | `bg:genre-in-the-bible`, `bg:hebrew-poetry`, `bg:solomons-dream-at-gibeon` |
 | `bg:monotheism` | 3.09 | - | `bg:1-kings`, `bg:elijah`, `bg:shema` |
 | `bg:historical-books` | 3.09 | - | `bg:1-kings`, `bg:book-of-ezra`, `bg:book-of-ruth` |
-| `bg:2-kings` | 3.08 | - | `bg:1-kings`, `bg:book-of-jeremiah`, `bg:elijah` |
 | `bg:shavuot` | 3.08 | - | `bg:book-of-ruth`, `bg:pentecost`, `bg:ruths-vow-to-naomi` |
 | `bg:levirate-marriage` | 3.08 | - | `bg:book-of-ruth`, `bg:sadducees-question-about-the-resurrection` |
 | `bg:inspiration-of-scripture` | 2.62 | - | `bg:biblical-canon`, `bg:catholic-church` |
 | `bg:josephus` | 2.60 | Scholar | `bg:antiquities-of-the-jews` |
 | `bg:mary-mother-of-jesus` | 2.59 | - | `bg:jesus`, `bg:john-the-baptist` |
-| `bg:sabbath` | 2.59 | - | `bg:mosaic-covenant`, `bg:synagogue` |
 | `bg:birth-of-jesus` | 2.58 | - | `bg:bethlehem`, `bg:jesus` |
 | `bg:transfiguration` | 2.57 | - | `bg:elijah`, `bg:moses` |
 | `bg:mount-sinai` | 2.56 | Place | `bg:elijah`, `bg:giving-of-the-law-at-sinai` |
@@ -90,9 +90,9 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:day-of-atonement` | 2.09 | - | `bg:forgiveness-in-the-bible`, `bg:the-temple` |
 | `bg:origen` | 2.09 | Scholar | `bg:biblical-interpretation`, `bg:lectio-divina` |
 | `bg:nebuchadnezzar-ii` | 2.09 | - | `bg:babylonian-exile`, `bg:book-of-jeremiah` |
-| `bg:josiah` | 2.09 | - | `bg:deuteronomy`, `bg:mosaic-covenant` |
-| `bg:parable-of-the-unforgiving-servant` | 2.08 | - | `bg:forgiveness-in-the-bible`, `bg:lords-prayer` |
 | `bg:andrew` | 2.08 | Person | `bg:calling-of-the-first-disciples`, `bg:peter` |
+| `bg:josiah` | 2.08 | - | `bg:deuteronomy`, `bg:mosaic-covenant` |
+| `bg:parable-of-the-unforgiving-servant` | 2.08 | - | `bg:forgiveness-in-the-bible`, `bg:lords-prayer` |
 | `bg:protestantism` | 2.08 | - | `bg:lutheranism`, `bg:reformed-tradition` |
 | `bg:reading-proverbs-as-promises` | 2.08 | - | `bg:genre-in-the-bible`, `bg:hebrew-poetry` |
 | `bg:cleansing-of-the-temple` | 2.08 | - | `bg:jeremiahs-temple-sermon`, `bg:the-temple` |
@@ -105,13 +105,15 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:book-of-lamentations` | 2.07 | - | `bg:hebrew-poetry`, `bg:suffering-and-lament` |
 | `bg:zerubbabel` | 2.07 | - | `bg:book-of-ezra`, `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:book-of-haggai` | 2.06 | - | `bg:laying-the-foundation-of-the-second-temple` |
-| `bg:major-prophets` | 2.06 | - | `bg:book-of-jeremiah` |
 | `bg:discipleship` | 2.06 | - | `bg:calling-of-the-first-disciples`, `bg:money-and-generosity` |
+| `bg:major-prophets` | 2.06 | - | `bg:book-of-jeremiah` |
 | `bg:book-of-malachi` | 2.06 | - | `bg:elijah`, `bg:john-the-baptist` |
+| `bg:holy-spirit` | 2.06 | - | `bg:nazareth-sermon`, `bg:pentecost` |
 | `bg:repentance` | 2.06 | - | `bg:jeremiahs-temple-sermon`, `bg:john-the-baptist` |
 | `bg:ahab` | 2.05 | - | `bg:1-kings`, `bg:elijah` |
 | `bg:baal` | 2.05 | - | `bg:1-kings`, `bg:elijah` |
 | `bg:jezebel` | 2.05 | - | `bg:1-kings`, `bg:elijah` |
+| `bg:elisha` | 2.05 | - | `bg:elijah`, `bg:nazareth-sermon` |
 | `bg:book-of-micah` | 2.05 | - | `bg:bethlehem`, `bg:jeremiahs-temple-sermon` |
 | `bg:boaz` | 2.05 | - | `bg:book-of-ruth`, `bg:ruths-vow-to-naomi` |
 | `bg:naomi` | 2.05 | - | `bg:book-of-ruth`, `bg:ruths-vow-to-naomi` |
@@ -133,9 +135,10 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:samuel` | 1.53 | Person | `bg:book-of-ruth` |
 | `bg:ancient-near-east` | 1.52 | - | `bg:solomons-dream-at-gibeon` |
 | `bg:greco-roman-world` | 1.52 | - | `bg:paul-at-the-areopagus` |
+| `bg:nazareth` | 1.52 | - | `bg:nazareth-sermon` |
 | `bg:book-of-daniel` | 1.11 | - | `bg:kingdom-of-god` |
-| `bg:letter-of-aristeas` | 1.07 | - | `bg:septuagint` |
 | `bg:sermon-on-the-plain` | 1.07 | - | `bg:sermon-on-the-mount` |
+| `bg:letter-of-aristeas` | 1.07 | - | `bg:septuagint` |
 | `bg:nicodemus` | 1.07 | - | `bg:pharisees` |
 | `bg:matthew-the-apostle` | 1.07 | Person | `bg:gospel-of-matthew` |
 | `bg:mishnah` | 1.06 | Work | `bg:rabbinic-judaism` |
@@ -152,7 +155,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:jehoiachin` | 1.06 | - | `bg:babylonian-exile` |
 | `bg:nicene-creed` | 1.06 | - | `bg:jesus` |
 | `bg:against-heresies` | 1.06 | - | `bg:gospels` |
-| `bg:philo-of-alexandria` | 1.06 | - | `bg:biblical-interpretation` |
+| `bg:philo-of-alexandria` | 1.05 | - | `bg:biblical-interpretation` |
 | `bg:presence-of-god` | 1.05 | - | `bg:the-temple` |
 | `bg:tabernacle` | 1.05 | - | `bg:the-temple` |
 | `bg:aaron-ben-asher` | 1.05 | Scholar | `bg:masoretic-text` |
@@ -175,6 +178,8 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:epistle-of-barnabas` | 1.04 | - | `bg:barnabas` |
 | `bg:book-of-concord` | 1.04 | Work | `bg:lutheranism` |
 | `bg:martin-luther` | 1.04 | Scholar | `bg:lutheranism` |
+| `bg:against-apion` | 1.04 | - | `bg:synagogue` |
+| `bg:theodotus-inscription` | 1.04 | - | `bg:synagogue` |
 | `bg:2-samuel` | 1.04 | - | `bg:david` |
 | `bg:bathsheba` | 1.04 | Person | `bg:david` |
 | `bg:goliath` | 1.04 | - | `bg:david` |
@@ -182,13 +187,11 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:michal` | 1.04 | Person | `bg:david` |
 | `bg:nathan` | 1.04 | - | `bg:david` |
 | `bg:saul` | 1.04 | Person | `bg:david` |
-| `bg:against-apion` | 1.04 | - | `bg:synagogue` |
-| `bg:theodotus-inscription` | 1.04 | - | `bg:synagogue` |
 | `bg:reconciliation` | 1.04 | - | `bg:forgiveness-in-the-bible` |
 | `bg:book-of-joel` | 1.04 | - | `bg:pentecost` |
-| `bg:holy-spirit` | 1.04 | - | `bg:pentecost` |
 | `bg:tower-of-babel` | 1.04 | - | `bg:pentecost` |
 | `bg:jericho` | 1.04 | - | `bg:parable-of-the-good-samaritan` |
+| `bg:the-jewish-war` | 1.04 | - | `bg:galilee` |
 | `bg:golden-calf` | 1.04 | - | `bg:giving-of-the-law-at-sinai` |
 | `bg:guigo-ii` | 1.04 | Scholar | `bg:lectio-divina` |
 | `bg:ladder-of-monks` | 1.04 | Work | `bg:lectio-divina` |
@@ -196,27 +199,25 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:wilbert-webster-white` | 1.04 | Scholar | `bg:inductive-bible-study` |
 | `bg:lectures-on-the-sacred-poetry-of-the-hebrews` | 1.04 | Work | `bg:hebrew-poetry` |
 | `bg:robert-lowth` | 1.04 | Scholar | `bg:hebrew-poetry` |
-| `bg:the-jewish-war` | 1.04 | - | `bg:galilee` |
 | `bg:jeshua-son-of-jozadak` | 1.03 | - | `bg:laying-the-foundation-of-the-second-temple` |
 | `bg:psalm-136` | 1.03 | - | `bg:laying-the-foundation-of-the-second-temple` |
-| `bg:joseph-son-of-jacob` | 1.03 | - | `bg:genesis` |
 | `bg:james-son-of-zebedee` | 1.03 | - | `bg:calling-of-the-first-disciples` |
 | `bg:john-son-of-zebedee` | 1.03 | - | `bg:calling-of-the-first-disciples` |
+| `bg:joseph-son-of-jacob` | 1.03 | - | `bg:genesis` |
 | `bg:herod-antipas` | 1.03 | - | `bg:john-the-baptist` |
 | `bg:baruch` | 1.03 | - | `bg:book-of-jeremiah` |
 | `bg:prophecy` | 1.03 | Genre | `bg:book-of-jeremiah` |
 | `bg:parable-of-the-rich-fool` | 1.03 | - | `bg:money-and-generosity` |
 | `bg:widows-offering` | 1.03 | - | `bg:money-and-generosity` |
-| `bg:moriah` | 1.03 | - | `bg:binding-of-isaac` |
-| `bg:elisha` | 1.03 | - | `bg:elijah` |
 | `bg:mount-carmel` | 1.03 | - | `bg:elijah` |
+| `bg:moriah` | 1.03 | - | `bg:binding-of-isaac` |
+| `bg:apostolic-age` | 1.03 | - | `bg:public-ministry-of-jesus` |
 | `bg:1-thessalonians` | 1.03 | - | `bg:grief` |
 | `bg:davids-lament-for-saul-and-jonathan` | 1.03 | - | `bg:grief` |
 | `bg:raising-of-lazarus` | 1.03 | - | `bg:grief` |
-| `bg:apostolic-age` | 1.03 | - | `bg:public-ministry-of-jesus` |
+| `bg:kurkh-stele` | 1.03 | - | `bg:1-kings` |
 | `bg:spiritual-disciplines` | 1.03 | - | `bg:scripture-memorization` |
 | `bg:temptation` | 1.03 | LifeSituation | `bg:scripture-memorization` |
-| `bg:kurkh-stele` | 1.03 | - | `bg:1-kings` |
 | `bg:book-of-judges` | 1.03 | - | `bg:book-of-ruth` |
 | `bg:bethlehem-bulla` | 1.03 | - | `bg:bethlehem` |
 | `bg:jehoiakim` | 1.02 | - | `bg:jeremiahs-temple-sermon` |
@@ -231,6 +232,7 @@ Nodes that existing articles point to but nobody has written yet. Score = referr
 | `bg:anglicanism` | 1.02 | Tradition | `bg:praying-the-psalms` |
 | `bg:geneva-bible` | 1.02 | - | `bg:chapters-and-verses` |
 | `bg:hesed` | 1.02 | - | `bg:ruths-vow-to-naomi` |
+| `bg:leviticus` | 1.02 | - | `bg:nazareth-sermon` |
 | `bg:orpah` | 1.02 | - | `bg:ruths-vow-to-naomi` |
 | `bg:robert-estienne` | 1.02 | Scholar | `bg:chapters-and-verses` |
 | `bg:stephen-langton` | 1.02 | Scholar | `bg:chapters-and-verses` |

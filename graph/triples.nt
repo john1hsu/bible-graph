@@ -3846,6 +3846,85 @@
 <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/jesus> .
 <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#siblingOf> <https://github.com/john1hsu/bible-graph/id/aaron> .
 <https://github.com/john1hsu/bible-graph/id/moses> <https://github.com/john1hsu/bible-graph/ontology#spouseOf> <https://github.com/john1hsu/bible-graph/id/zipporah> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Trace Luke 4:16-20 step by step. What does Jesus do with the scroll before he says a word about it, and why might Luke slow the scene down this way?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Compare Luke 4:18-19 with Isaiah 61:1-2. Where does Jesus stop reading, and what words of Isaiah 61:2 are left unread?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does the jubilee law of Leviticus 25:8-13 command, and how does it help explain \"the acceptable year of the Lord\" (Luke 4:19)?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 4:25-27, who are the two people Jesus names, where were they from, and why would their stories upset his hearers?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "The crowd moves from wonder (4:22) to fury (4:28-29) within a few verses. What in Jesus's words causes the change?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus says the Scripture is fulfilled \"today\". Who are the poor, the captives and the crushed in your own community, and what would it mean for your church to hear this good news as meant for them too?" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://purl.org/dc/terms/created> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2000/01/rdf-schema#label> "The Nazareth Sermon" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus in the synagogue at Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus reads Isaiah in Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus' sermon at Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Jesus's sermon at Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Luke 4:16-30" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "Nazareth manifesto" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#altLabel> "rejection at Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#definition> "Luke's account (Luke 4:16-30) of Jesus reading Isaiah 61 in the synagogue of his hometown on the Sabbath, announcing \"Today, this Scripture has been fulfilled in your hearing\", and then being driven out when he recalls how Elijah and Elisha were sent to outsiders; Luke places it at the start of Jesus's ministry as a preview of all that follows." .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Nazareth Sermon" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/capernaum> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elisha> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sabbath> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/synagogue> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#alludesTo> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#alludesTo> <https://github.com/john1hsu/bible-graph/id/2-kings> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#alludesTo> <https://github.com/john1hsu/bible-graph/id/leviticus> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#basis> "scriptural" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#domain> "life-and-teachings-of-jesus" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/nazareth> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/synagogue> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/life-and-teachings-of-jesus/nazareth-sermon.md" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Kings 17:8-16" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 5:1-14" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 58:6" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 61:1-3" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Leviticus 25:8-13" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:14-30" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:31-32" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 6:1-6" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#quotes> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/holy-spirit> .
+<https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
 <https://github.com/john1hsu/bible-graph/id/new-testament/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/new-testament/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "What does Jesus call the cup in Luke 22:20, and how does that explain the name \"New Testament\"?" .
 <https://github.com/john1hsu/bible-graph/id/new-testament/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/new-testament> .
@@ -10636,6 +10715,78 @@
 <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/moses/s9> <https://schema.org/url> <https://miamisdb.org/bible/web+bbe/deut/18> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <http://purl.org/dc/terms/publisher> "Universidad Pontificia Bolivariana" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <http://purl.org/dc/terms/title> "Jesus in the Synagogue of Nazareth (Lk 4:16-30): Good News, Jubilee and Hope (Isaac Moreno Sanz), Cuestiones Teológicas 53, no. 120 (2026)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10> <https://schema.org/url> <https://revistas.upb.edu.co/index.php/cuestiones/en/article/view/jesus-sinagoga-nazaret-lucas-4> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <http://purl.org/dc/terms/publisher> "Working Preacher, Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <http://purl.org/dc/terms/title> "Commentary on Luke 4:14-30 (Judith Jones)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11> <https://schema.org/url> <https://www.workingpreacher.org/commentaries/narrative-lectionary/sermon-at-nazareth/commentary-on-luke-414-30> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <http://purl.org/dc/terms/publisher> "Sefaria" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <http://purl.org/dc/terms/title> "Mishnah Megillah 4" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12> <https://schema.org/url> <https://prod.sefaria.org.il/Mishnah_Megillah.4.1> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <http://purl.org/dc/terms/title> "Luke 4 (World English Bible Classic)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1> <https://schema.org/url> <https://ebible.org/eng-web/LUK04.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <http://purl.org/dc/terms/title> "Isaiah 61 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2> <https://schema.org/url> <https://biblehub.com/web/isaiah/61.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <http://purl.org/dc/terms/title> "Isaiah 58 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3> <https://schema.org/url> <https://biblehub.com/web/isaiah/58.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <http://purl.org/dc/terms/title> "Mark 6 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4> <https://schema.org/url> <https://biblehub.com/web/mark/6.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <http://purl.org/dc/terms/title> "1 Kings 17 (World English Bible Classic)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5> <https://schema.org/url> <https://ebible.org/eng-web/1KI17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <http://purl.org/dc/terms/title> "2 Kings 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6> <https://schema.org/url> <https://bibliaparalela.com/web/2_kings/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <http://purl.org/dc/terms/publisher> "The Church of Jesus Christ of Latter-day Saints" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <http://purl.org/dc/terms/title> "Leviticus 25 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7> <https://schema.org/url> <https://www.churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=eng> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <http://purl.org/dc/terms/publisher> "IVP New Testament Commentary Series (InterVarsity Press), via Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <http://purl.org/dc/terms/title> "Jesus Preaches in Nazareth: The Time of Fulfillment Has Come (4:16-30)" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8> <https://schema.org/url> <https://www.biblegateway.com/resources/ivp-nt/Jesus-Preaches-Nazareth-Time-Fulfillment> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <http://purl.org/dc/terms/date> "2026-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <http://purl.org/dc/terms/publisher> "Enter the Bible, Luther Seminary" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <http://purl.org/dc/terms/title> "Luke 4:14-30 – Jesus' Sermon at Nazareth" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9> <https://schema.org/url> <https://enterthebible.org/passage/luke-414-30-jesus-sermon-at-nazareth/> .
 <https://github.com/john1hsu/bible-graph/id/source/new-testament/s10> <http://purl.org/dc/terms/date> "2026-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/new-testament/s10> <http://purl.org/dc/terms/publisher> "Open Yale Courses, Yale University" .
 <https://github.com/john1hsu/bible-graph/id/source/new-testament/s10> <http://purl.org/dc/terms/title> "Introduction to New Testament History and Literature (RLST 152), Lecture 2: From Stories to Canon (Dale B. Martin)" .

@@ -35,9 +35,9 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul, Peter |
 | `bg:hesed` | Ruth's Vow to Naomi |
-| `bg:holy-spirit` | Pentecost |
+| `bg:holy-spirit` | Pentecost, The Nazareth Sermon |
 | `bg:justification` | Abraham |
-| `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Shema, The Song of the Sea |
+| `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Nazareth Sermon, The Shema, The Song of the Sea |
 | `bg:love` | Parable of the Good Samaritan, The Shema |
 | `bg:monotheism` | 1 Kings, Elijah, The Shema |
 | `bg:mosaic-covenant` | Deuteronomy, Israelites, Moses, The Giving of the Law at Sinai, The Shema |
@@ -87,7 +87,7 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-ruth` | `bg:naomi` |
 | `bg:book-of-ruth` | `bg:ruth-the-moabite` |
 
-…and 55 more.
+…and 58 more.
 
 ## Popular misconceptions and what corrects them
 
@@ -99,9 +99,7 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-| node | type |
-|---|---|
-| `bg:synagogue` | bgo:Place |
+_No results._
 
 ## Orphan articles (gap)
 
@@ -142,6 +140,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-luke` |
 | `bg:book-of-isaiah` | quotes | `bg:gospel-of-mark` |
 | `bg:book-of-isaiah` | quotes | `bg:gospels` |
+| `bg:book-of-isaiah` | quotes | `bg:nazareth-sermon` |
 | `bg:book-of-joel` | fulfils | `bg:pentecost` |
 | `bg:book-of-malachi` | fulfils | `bg:john-the-baptist` |
 | `bg:book-of-micah` | quotes | `bg:jeremiahs-temple-sermon` |

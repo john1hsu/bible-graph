@@ -7146,6 +7146,163 @@
    ]
   },
   {
+   "@id": "bg:nazareth-sermon",
+   "@type": "bgo:Passage",
+   "bgo:alludesTo": [
+    {
+     "@id": "bg:1-kings"
+    },
+    {
+     "@id": "bg:2-kings"
+    },
+    {
+     "@id": "bg:leviticus"
+    }
+   ],
+   "bgo:basis": "scriptural",
+   "bgo:domain": "life-and-teachings-of-jesus",
+   "bgo:features": [
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:nazareth"
+    },
+    {
+     "@id": "bg:synagogue"
+    }
+   ],
+   "bgo:file": "articles/life-and-teachings-of-jesus/nazareth-sermon.md",
+   "bgo:keyReference": [
+    "1 Kings 17:8-16",
+    "2 Kings 5:1-14",
+    "Isaiah 58:6",
+    "Isaiah 61:1-3",
+    "Leviticus 25:8-13",
+    "Luke 4:14-30",
+    "Luke 4:31-32",
+    "Mark 6:1-6"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:gospel-of-luke"
+   },
+   "bgo:quotes": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:teaches": [
+    {
+     "@id": "bg:holy-spirit"
+    },
+    {
+     "@id": "bg:kingdom-of-god"
+    }
+   ],
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9"
+    }
+   ],
+   "rdfs:label": "The Nazareth Sermon",
+   "skos:altLabel": [
+    "Jesus in the synagogue at Nazareth",
+    "Jesus reads Isaiah in Nazareth",
+    "Jesus' sermon at Nazareth",
+    "Jesus's sermon at Nazareth",
+    "Luke 4:16-30",
+    "Nazareth manifesto",
+    "rejection at Nazareth"
+   ],
+   "skos:broader": [
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:public-ministry-of-jesus"
+    }
+   ],
+   "skos:definition": "Luke's account (Luke 4:16-30) of Jesus reading Isaiah 61 in the synagogue of his hometown on the Sabbath, announcing \"Today, this Scripture has been fulfilled in your hearing\", and then being driven out when he recalls how Elijah and Elisha were sent to outsiders; Luke places it at the start of Jesus's ministry as a preview of all that follows.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/life-and-teachings-of-jesus"
+   },
+   "skos:prefLabel": "The Nazareth Sermon",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
+    {
+     "@id": "bg:capernaum"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:elisha"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:sabbath"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:sermon-on-the-mount"
+    },
+    {
+     "@id": "bg:synagogue"
+    }
+   ]
+  },
+  {
    "@id": "bg:new-testament",
    "@type": "bgo:Collection",
    "bgo:basis": "ecumenical",
@@ -13634,6 +13791,54 @@
     "@id": "bg:moses"
    },
    "rdfs:label": "Moses argued with God, failed, interceded and kept going for forty years. Where in your own calling do you most identify with his reluctance — or with his perseverance?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "Trace Luke 4:16-20 step by step. What does Jesus do with the scroll before he says a word about it, and why might Luke slow the scene down this way?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "Compare Luke 4:18-19 with Isaiah 61:1-2. Where does Jesus stop reading, and what words of Isaiah 61:2 are left unread?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "What does the jubilee law of Leviticus 25:8-13 command, and how does it help explain \"the acceptable year of the Lord\" (Luke 4:19)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "In Luke 4:25-27, who are the two people Jesus names, where were they from, and why would their stories upset his hearers?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "The crowd moves from wonder (4:22) to fury (4:28-29) within a few verses. What in Jesus's words causes the change?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/nazareth-sermon/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:nazareth-sermon"
+   },
+   "rdfs:label": "Jesus says the Scripture is fulfilled \"today\". Who are the poor, the captives and the crushed in your own community, and what would it mean for your church to hear this good news as meant for them too?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/new-testament/check/1",
@@ -26432,6 +26637,174 @@
    "dcterms:title": "Deuteronomy 18 (World English Bible)",
    "schema:url": {
     "@id": "https://miamisdb.org/bible/web+bbe/deut/18"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Luke 4 (World English Bible Classic)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/LUK04.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Universidad Pontificia Bolivariana",
+   "dcterms:title": "Jesus in the Synagogue of Nazareth (Lk 4:16-30): Good News, Jubilee and Hope (Isaac Moreno Sanz), Cuestiones Teológicas 53, no. 120 (2026)",
+   "schema:url": {
+    "@id": "https://revistas.upb.edu.co/index.php/cuestiones/en/article/view/jesus-sinagoga-nazaret-lucas-4"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Working Preacher, Luther Seminary",
+   "dcterms:title": "Commentary on Luke 4:14-30 (Judith Jones)",
+   "schema:url": {
+    "@id": "https://www.workingpreacher.org/commentaries/narrative-lectionary/sermon-at-nazareth/commentary-on-luke-414-30"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Sefaria",
+   "dcterms:title": "Mishnah Megillah 4",
+   "schema:url": {
+    "@id": "https://prod.sefaria.org.il/Mishnah_Megillah.4.1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 61 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/isaiah/61.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 58 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/isaiah/58.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Mark 6 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/mark/6.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "1 Kings 17 (World English Bible Classic)",
+   "schema:url": {
+    "@id": "https://ebible.org/eng-web/1KI17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "2 Kings 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://bibliaparalela.com/web/2_kings/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "The Church of Jesus Christ of Latter-day Saints",
+   "dcterms:title": "Leviticus 25 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.churchofjesuschrist.org/study/scriptures/ot/lev/25?lang=eng"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "textbook",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "IVP New Testament Commentary Series (InterVarsity Press), via Bible Gateway",
+   "dcterms:title": "Jesus Preaches in Nazareth: The Time of Fulfillment Has Come (4:16-30)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/ivp-nt/Jesus-Preaches-Nazareth-Time-Fulfillment"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/nazareth-sermon/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-22"
+   },
+   "dcterms:publisher": "Enter the Bible, Luther Seminary",
+   "dcterms:title": "Luke 4:14-30 – Jesus' Sermon at Nazareth",
+   "schema:url": {
+    "@id": "https://enterthebible.org/passage/luke-414-30-jesus-sermon-at-nazareth/"
    }
   },
   {

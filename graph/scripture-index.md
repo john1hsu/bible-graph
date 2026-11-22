@@ -101,6 +101,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Leviticus 19:33-34** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 21:1-3** — [Parable of the Good Samaritan](../articles/key-passages/parable-of-the-good-samaritan.md) (Parable)
 - **Leviticus 23:15-21** — [Pentecost](../articles/events-and-timeline/pentecost.md) (Event)
+- **Leviticus 25:8-13** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **Leviticus 25:25** — [Book of Ruth](../articles/old-testament-books/book-of-ruth.md) (Book)
 - **Leviticus 26:3-15** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
 - **Leviticus 26:40-45** — [Mosaic Covenant](../articles/themes-and-theology/mosaic-covenant.md) (Covenant)
@@ -228,6 +229,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **1 Kings 12:25-30** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 16:29-33** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 17:1-24** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **1 Kings 17:8-16** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **1 Kings 18:17-46** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **1 Kings 18:20-39** — [1 Kings](../articles/old-testament-books/1-kings.md) (Book)
 - **1 Kings 19:1-21** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
@@ -239,6 +241,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **2 Kings 1:1-17** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
 - **2 Kings 2:1-15** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **2 Kings 5:1-14** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **2 Kings 15:29** — [Galilee](../articles/places-and-geography/galilee.md) (Place)
 - **2 Kings 17:5-18** — [Israelites](../articles/old-testament-people/israelites.md) (Group)
 - **2 Kings 20:20** — [Jerusalem](../articles/places-and-geography/jerusalem.md) (Place)
@@ -368,7 +371,9 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Isaiah 52:13** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Isaiah 53:11** — [Dead Sea Scrolls](../articles/manuscripts-translations-and-archaeology/dead-sea-scrolls.md) (Manuscript)
 - **Isaiah 56:7** — [Jeremiah's Temple Sermon](../articles/key-passages/jeremiahs-temple-sermon.md) (Passage)
+- **Isaiah 58:6** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **Isaiah 61:1-2** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
+- **Isaiah 61:1-3** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 
 ## Jeremiah
 
@@ -566,6 +571,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Mark 4:35-41** — [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) (Practice)
 - **Mark 4:39** — [Gospel of Mark](../articles/new-testament-books/gospel-of-mark.md) (Book)
 - **Mark 5:22** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
+- **Mark 6:1-6** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **Mark 6:3** — [Antiquities of the Jews](../articles/manuscripts-translations-and-archaeology/antiquities-of-the-jews.md) (Work)
 - **Mark 6:3** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
 - **Mark 6:14-29** — [John the Baptist](../articles/new-testament-people/john-the-baptist.md) (Person)
@@ -633,6 +639,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 3:21-23** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
 - **Luke 3:38** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:14-21** — [The Public Ministry of Jesus](../articles/events-and-timeline/public-ministry-of-jesus.md) (Period)
+- **Luke 4:14-30** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **Luke 4:16-19** — [Masoretic Text](../articles/manuscripts-translations-and-archaeology/masoretic-text.md) (Manuscript)
 - **Luke 4:16-21** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 4:16-21** — [Jesus](../articles/life-and-teachings-of-jesus/jesus.md) (Person)
@@ -640,6 +647,7 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 - **Luke 4:16-21** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
 - **Luke 4:17** — [Chapters and Verses](../articles/bible-basics/chapters-and-verses.md) (Concept)
 - **Luke 4:25-26** — [Elijah](../articles/old-testament-people/elijah.md) (Person)
+- **Luke 4:31-32** — [The Nazareth Sermon](../articles/life-and-teachings-of-jesus/nazareth-sermon.md) (Passage)
 - **Luke 4:31-33** — [Synagogue](../articles/background-and-culture/synagogue.md) (Place)
 - **Luke 4:43** — [Gospel of Luke](../articles/new-testament-books/gospel-of-luke.md) (Book)
 - **Luke 5:1-11** — [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) (Event)
