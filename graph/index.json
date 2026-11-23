@@ -2823,6 +2823,123 @@
   ]
  },
  {
+  "id": "bg:deuterocanonical-books",
+  "title": "Deuterocanonical Books",
+  "aliases": [
+   "the Deuterocanon",
+   "the Apocrypha (Protestant usage)",
+   "anagignoskomena",
+   "readable books",
+   "second-canon books"
+  ],
+  "type": "Collection",
+  "domain": "bible-basics",
+  "level": "introductory",
+  "basis": "varies-by-tradition",
+  "file": "articles/bible-basics/deuterocanonical-books.md",
+  "created": "2026-11-23",
+  "summary": "The Jewish writings of the last centuries before Christ that came to Christians in the Greek Old Testament but are not in the Hebrew Bible: Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees and additions to Esther and Daniel. Catholic and Orthodox Christians receive them as Scripture; most Protestants call them the Apocrypha and read them, if at all, as edifying but not canonical.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:old-testament"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:second-temple-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-wisdom"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:septuagint",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s13",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:eastern-orthodoxy",
+    "source": "s8",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:resurrection-of-the-dead",
+    "source": "s1",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s7",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:challengedBy",
+    "object": "bg:westminster-confession-of-faith",
+    "source": "s14",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "2 Maccabees 12:38-45",
+   "Sirach 50:27",
+   "1 Maccabees 9:27"
+  ],
+  "studyQuestions": [
+   "According to 2 Maccabees 12:38-45, what did Judas Maccabeus find on the fallen soldiers, what did he send to Jerusalem, and what belief does the writer say lay behind his action?",
+   "In Sirach 50:27, how does the author identify himself, and what does his grandson's prologue tell us about when and why the book was translated into Greek?",
+   "What does 1 Maccabees 9:27 say about prophets in Israel at that time, and why might that matter for how the book understands itself?",
+   "Why do you think the Anglican Articles say these books may be read \"for example of life\" but not to establish doctrine? How does that differ from the Catholic and Orthodox positions?",
+   "If a friend from another tradition reads from Tobit or Sirach in worship, how could you talk about the difference in your Bibles with accuracy and charity?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.bible.com/bible/206/2ma.12.web",
+   "https://bible.usccb.org/bible/2maccabees/12",
+   "https://www.bible.com/bible/206/sir.50.web",
+   "https://www.biblegateway.com/verse/en/1%20Maccabees%209:27",
+   "https://rabbit.eng.miami.edu/text/religious/biblebooks/prologuetowisdomofjesussonofsirach.html",
+   "https://www.newadvent.org/cathen/03267a.htm",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Ecclesiasticus",
+   "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/222",
+   "https://www.sbl-site.org/Meetings/abstract.aspx?id=51562",
+   "https://www.ames.ox.ac.uk/node/4563131",
+   "https://bibleproject.com/articles/why-deuterocanon-apocrypha-some-bibles-and-not-others/",
+   "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494",
+   "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html",
+   "https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm",
+   "https://www.anglican.ca/resources/articles-of-religion/",
+   "https://www.ccel.org/ccel/schaff/creeds1.v.vii.html",
+   "https://www.1517.org/articles//what-about-the-apocrypha"
+  ]
+ },
+ {
   "id": "bg:deuteronomy",
   "title": "Deuteronomy",
   "aliases": [

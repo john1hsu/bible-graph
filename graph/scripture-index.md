@@ -469,6 +469,18 @@ Every key Scripture reference in the graph, in canonical book order (Old Testame
 
 - **Wisdom 9** — [Solomon's Dream at Gibeon](../articles/key-passages/solomons-dream-at-gibeon.md) (Passage)
 
+## Sirach
+
+- **Sirach 50:27** — [Deuterocanonical Books](../articles/bible-basics/deuterocanonical-books.md) (Collection)
+
+## 1 Maccabees
+
+- **1 Maccabees 9:27** — [Deuterocanonical Books](../articles/bible-basics/deuterocanonical-books.md) (Collection)
+
+## 2 Maccabees
+
+- **2 Maccabees 12:38-45** — [Deuterocanonical Books](../articles/bible-basics/deuterocanonical-books.md) (Collection)
+
 ## Matthew
 
 - **Matthew 1:1** — [David](../articles/old-testament-people/david.md) (Person)

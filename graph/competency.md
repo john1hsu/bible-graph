@@ -46,7 +46,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:presence-of-god` | The Temple |
 | `bg:redemption` | Book of Ruth, The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
-| `bg:resurrection-of-the-dead` | Paul at the Areopagus, The Sadducees' Question about the Resurrection |
+| `bg:resurrection-of-the-dead` | Deuterocanonical Books, Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:wisdom` | Solomon's Dream at Gibeon |
 | `bg:worship` | Jeremiah's Temple Sermon, Laying the Foundation of the Second Temple, Synagogue |
 
@@ -114,12 +114,14 @@ _Which doctrines, methods and practices does each Christian (or Jewish) traditio
 | tradition | teaching |
 |---|---|
 | `bg:anglicanism` | `bg:praying-the-psalms` |
+| `bg:catholic-church` | `bg:deuterocanonical-books` |
 | `bg:catholic-church` | `bg:lectio-divina` |
 | `bg:catholic-church` | `bg:praying-the-psalms` |
 | `bg:catholic-church` | `bg:scripture-interprets-scripture` |
 | `bg:catholic-church` | `bg:scripture-memorization` |
 | `bg:catholic-church` | `bg:textual-criticism` |
 | `bg:catholic-church` | `bg:the-story-of-the-bible` |
+| `bg:eastern-orthodoxy` | `bg:deuterocanonical-books` |
 | `bg:eastern-orthodoxy` | `bg:praying-the-psalms` |
 | `bg:eastern-orthodoxy` | `bg:septuagint` |
 | `bg:eastern-orthodoxy` | `bg:the-story-of-the-bible` |

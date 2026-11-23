@@ -1486,6 +1486,69 @@
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
 <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Maccabees 12:38-45, what did Judas Maccabeus find on the fallen soldiers, what did he send to Jerusalem, and what belief does the writer say lay behind his action?" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Sirach 50:27, how does the author identify himself, and what does his grandson's prologue tell us about when and why the book was translated into Greek?" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What does 1 Maccabees 9:27 say about prophets in Israel at that time, and why might that matter for how the book understands itself?" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Why do you think the Anglican Articles say these books may be read \"for example of life\" but not to establish doctrine? How does that differ from the Catholic and Orthodox positions?" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "If a friend from another tradition reads from Tobit or Sirach in worship, how could you talk about the difference in your Bibles with accuracy and charity?" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://purl.org/dc/terms/created> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Collection> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2000/01/rdf-schema#label> "Deuterocanonical Books" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#altLabel> "anagignoskomena" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#altLabel> "readable books" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#altLabel> "second-canon books" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#altLabel> "the Apocrypha (Protestant usage)" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#altLabel> "the Deuterocanon" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#definition> "The Jewish writings of the last centuries before Christ that came to Christians in the Greek Old Testament but are not in the Hebrew Bible: Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees and additions to Esther and Daniel. Catholic and Orthodox Christians receive them as Scripture; most Protestants call them the Apocrypha and read them, if at all, as edifying but not canonical." .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/bible-basics> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deuterocanonical Books" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-wisdom> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#basis> "varies-by-tradition" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#challengedBy> <https://github.com/john1hsu/bible-graph/id/westminster-confession-of-faith> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#domain> "bible-basics" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/bible-basics/deuterocanonical-books.md" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Maccabees 9:27" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Maccabees 12:38-45" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Sirach 50:27" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+<https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/resurrection-of-the-dead> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Where and when does Moses speak, according to Deuteronomy 1:1-5? Why might it matter that the people are standing on the edge of the land rather than at Sinai?" .
 <https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
@@ -7787,6 +7850,108 @@
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/dead-sea-scrolls/s9> <https://schema.org/url> <https://www.biblestudytools.com/deuteronomy/32-8-compare.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <http://purl.org/dc/terms/publisher> "Faculty of Asian and Middle Eastern Studies, University of Oxford" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <http://purl.org/dc/terms/title> "Deuterocanonical and apocryphal books (A. G. Salvesen and T. M. Law, eds.)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10> <https://schema.org/url> <https://www.ames.ox.ac.uk/node/4563131> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <http://purl.org/dc/terms/publisher> "BibleProject" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <http://purl.org/dc/terms/title> "Why the Deuterocanon / Apocrypha Is in Some Bibles and Not Others" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11> <https://schema.org/url> <https://bibleproject.com/articles/why-deuterocanon-apocrypha-some-bibles-and-not-others/> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <http://purl.org/dc/terms/publisher> "EWTN" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <http://purl.org/dc/terms/title> "Council of Trent, Session IV, Decree Concerning the Canonical Scriptures (1546)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12> <https://schema.org/url> <https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <http://purl.org/dc/terms/publisher> "The Holy See" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <http://purl.org/dc/terms/title> "Catechism of the Catholic Church, IV. The Canon of Scripture (§§120-123)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13> <https://schema.org/url> <https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <http://purl.org/dc/terms/publisher> "Blue Letter Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <http://purl.org/dc/terms/title> "Westminster Confession of Faith, ch. 1 \"Of the Holy Scripture\"" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14> <https://schema.org/url> <https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <http://purl.org/dc/terms/publisher> "Anglican Church of Canada" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <http://purl.org/dc/terms/title> "Articles of Religion, Article VI" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15> <https://schema.org/url> <https://www.anglican.ca/resources/articles-of-religion/> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <http://purl.org/dc/terms/title> "Philip Schaff, The Creeds of Christendom, vol. 1, §17 The Synod of Jerusalem and the Confession of Dositheus" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16> <https://schema.org/url> <https://www.ccel.org/ccel/schaff/creeds1.v.vii.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <http://purl.org/dc/terms/publisher> "1517"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <http://purl.org/dc/terms/title> "What about the Apocrypha? (Philip Bartelt)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17> <https://schema.org/url> <https://www.1517.org/articles//what-about-the-apocrypha> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <http://purl.org/dc/terms/title> "2 Maccabees 12 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1> <https://schema.org/url> <https://www.bible.com/bible/206/2ma.12.web> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <http://purl.org/dc/terms/title> "2 Maccabees, chapter 12 (New American Bible, Revised Edition, with notes)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2> <https://schema.org/url> <https://bible.usccb.org/bible/2maccabees/12> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <http://purl.org/dc/terms/title> "Sirach 50 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3> <https://schema.org/url> <https://www.bible.com/bible/206/sir.50.web> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <http://purl.org/dc/terms/title> "1 Maccabees 9:27 (RSV, NABRE and other versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4> <https://schema.org/url> <https://www.biblegateway.com/verse/en/1%20Maccabees%209:27> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <http://purl.org/dc/terms/publisher> "University of Miami" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <http://purl.org/dc/terms/title> "The Prologue of the Wisdom of Jesus the Son of Sirach (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5> <https://schema.org/url> <https://rabbit.eng.miami.edu/text/religious/biblebooks/prologuetowisdomofjesussonofsirach.html> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <http://purl.org/dc/terms/title> "Canon of the Old Testament (Catholic Encyclopedia, 1908)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6> <https://schema.org/url> <https://www.newadvent.org/cathen/03267a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <http://purl.org/dc/terms/title> "Ecclesiasticus (Zondervan Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Ecclesiasticus> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <http://purl.org/dc/terms/publisher> "Azbyka.ru" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <http://purl.org/dc/terms/title> "Old Testament (Eugen J. Pentiuc, in The Encyclopedia of Eastern Orthodox Christianity, ed. J. A. McGuckin, Wiley-Blackwell)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8> <https://schema.org/url> <https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/222> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <http://purl.org/dc/terms/date> "2026-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <http://purl.org/dc/terms/publisher> "Society of Biblical Literature" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <http://purl.org/dc/terms/title> "The Status of Anaginoskomena in Eastern Orthodoxy and Some Criteria of Biblical Canonicity (paper abstract)" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9> <https://schema.org/url> <https://www.sbl-site.org/Meetings/abstract.aspx?id=51562> .
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/publisher> "Miami SDB Bible" .
 <https://github.com/john1hsu/bible-graph/id/source/deuteronomy/s10> <http://purl.org/dc/terms/title> "Matthew 22:37-40 (World English Bible)" .

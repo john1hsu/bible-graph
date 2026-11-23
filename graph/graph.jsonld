@@ -2913,6 +2913,132 @@
    ]
   },
   {
+   "@id": "bg:deuterocanonical-books",
+   "@type": "bgo:Collection",
+   "bgo:basis": "varies-by-tradition",
+   "bgo:challengedBy": {
+    "@id": "bg:westminster-confession-of-faith"
+   },
+   "bgo:domain": "bible-basics",
+   "bgo:explainedBy": {
+    "@id": "bg:second-temple-judaism"
+   },
+   "bgo:file": "articles/bible-basics/deuterocanonical-books.md",
+   "bgo:heldBy": [
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:eastern-orthodoxy"
+    }
+   ],
+   "bgo:keyReference": [
+    "1 Maccabees 9:27",
+    "2 Maccabees 12:38-45",
+    "Sirach 50:27"
+   ],
+   "bgo:level": "introductory",
+   "bgo:preservedIn": {
+    "@id": "bg:septuagint"
+   },
+   "bgo:requires": {
+    "@id": "bg:biblical-canon"
+   },
+   "bgo:teaches": {
+    "@id": "bg:resurrection-of-the-dead"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9"
+    }
+   ],
+   "rdfs:label": "Deuterocanonical Books",
+   "skos:altLabel": [
+    "anagignoskomena",
+    "readable books",
+    "second-canon books",
+    "the Apocrypha (Protestant usage)",
+    "the Deuterocanon"
+   ],
+   "skos:broader": {
+    "@id": "bg:biblical-canon"
+   },
+   "skos:definition": "The Jewish writings of the last centuries before Christ that came to Christians in the Greek Old Testament but are not in the Hebrew Bible: Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees and additions to Esther and Daniel. Catholic and Orthodox Christians receive them as Scripture; most Protestants call them the Apocrypha and read them, if at all, as edifying but not canonical.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/bible-basics"
+   },
+   "skos:prefLabel": "Deuterocanonical Books",
+   "skos:related": [
+    {
+     "@id": "bg:book-of-wisdom"
+    },
+    {
+     "@id": "bg:masoretic-text"
+    },
+    {
+     "@id": "bg:old-testament"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:septuagint"
+    }
+   ]
+  },
+  {
    "@id": "bg:deuteronomy",
    "@type": "bgo:Book",
    "bgo:attributedTo": {
@@ -12281,6 +12407,46 @@
    "rdfs:label": "How does it affect your confidence in Scripture to learn that a scroll copied before Jesus's birth reads almost exactly like the Isaiah in your Bible, while also showing small differences?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:deuterocanonical-books"
+   },
+   "rdfs:label": "According to 2 Maccabees 12:38-45, what did Judas Maccabeus find on the fallen soldiers, what did he send to Jerusalem, and what belief does the writer say lay behind his action?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:deuterocanonical-books"
+   },
+   "rdfs:label": "In Sirach 50:27, how does the author identify himself, and what does his grandson's prologue tell us about when and why the book was translated into Greek?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:deuterocanonical-books"
+   },
+   "rdfs:label": "What does 1 Maccabees 9:27 say about prophets in Israel at that time, and why might that matter for how the book understands itself?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:deuterocanonical-books"
+   },
+   "rdfs:label": "Why do you think the Anglican Articles say these books may be read \"for example of life\" but not to establish doctrine? How does that differ from the Catholic and Orthodox positions?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/deuterocanonical-books/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:deuterocanonical-books"
+   },
+   "rdfs:label": "If a friend from another tradition reads from Tobit or Sirach in worship, how could you talk about the difference in your Bibles with accuracy and charity?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/deuteronomy/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -19805,6 +19971,244 @@
    "dcterms:title": "Deuteronomy 32:8 (WEB, KJV, ESV, NRSV, NIV and other translations compared)",
    "schema:url": {
     "@id": "https://www.biblestudytools.com/deuteronomy/32-8-compare.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "2 Maccabees 12 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/2ma.12.web"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Faculty of Asian and Middle Eastern Studies, University of Oxford",
+   "dcterms:title": "Deuterocanonical and apocryphal books (A. G. Salvesen and T. M. Law, eds.)",
+   "schema:url": {
+    "@id": "https://www.ames.ox.ac.uk/node/4563131"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "BibleProject",
+   "dcterms:title": "Why the Deuterocanon / Apocrypha Is in Some Bibles and Not Others",
+   "schema:url": {
+    "@id": "https://bibleproject.com/articles/why-deuterocanon-apocrypha-some-bibles-and-not-others/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "EWTN",
+   "dcterms:title": "Council of Trent, Session IV, Decree Concerning the Canonical Scriptures (1546)",
+   "schema:url": {
+    "@id": "https://www.ewtn.com/catholicism/library/decree-concerning-the-canonical-scriptures-1494"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "The Holy See",
+   "dcterms:title": "Catechism of the Catholic Church, IV. The Canon of Scripture (§§120-123)",
+   "schema:url": {
+    "@id": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Blue Letter Bible",
+   "dcterms:title": "Westminster Confession of Faith, ch. 1 \"Of the Holy Scripture\"",
+   "schema:url": {
+    "@id": "https://www.blueletterbible.org/study/ccc/westminster/Of_The_Holy_Scripture.cfm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "confessional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Anglican Church of Canada",
+   "dcterms:title": "Articles of Religion, Article VI",
+   "schema:url": {
+    "@id": "https://www.anglican.ca/resources/articles-of-religion/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s16",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Philip Schaff, The Creeds of Christendom, vol. 1, §17 The Synod of Jerusalem and the Confession of Dositheus",
+   "schema:url": {
+    "@id": "https://www.ccel.org/ccel/schaff/creeds1.v.vii.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s17",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "community",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": 1517,
+   "dcterms:title": "What about the Apocrypha? (Philip Bartelt)",
+   "schema:url": {
+    "@id": "https://www.1517.org/articles//what-about-the-apocrypha"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "United States Conference of Catholic Bishops",
+   "dcterms:title": "2 Maccabees, chapter 12 (New American Bible, Revised Edition, with notes)",
+   "schema:url": {
+    "@id": "https://bible.usccb.org/bible/2maccabees/12"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Sirach 50 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/sir.50.web"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "1 Maccabees 9:27 (RSV, NABRE and other versions)",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/verse/en/1%20Maccabees%209:27"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "University of Miami",
+   "dcterms:title": "The Prologue of the Wisdom of Jesus the Son of Sirach (King James Version)",
+   "schema:url": {
+    "@id": "https://rabbit.eng.miami.edu/text/religious/biblebooks/prologuetowisdomofjesussonofsirach.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Canon of the Old Testament (Catholic Encyclopedia, 1908)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/03267a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Ecclesiasticus (Zondervan Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Ecclesiasticus"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Azbyka.ru",
+   "dcterms:title": "Old Testament (Eugen J. Pentiuc, in The Encyclopedia of Eastern Orthodox Christianity, ed. J. A. McGuckin, Wiley-Blackwell)",
+   "schema:url": {
+    "@id": "https://azbyka.ru/otechnik/world/the-encyclopedia-of-eastern-orthodox-christianity/222"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/deuterocanonical-books/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "academic",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-23"
+   },
+   "dcterms:publisher": "Society of Biblical Literature",
+   "dcterms:title": "The Status of Anaginoskomena in Eastern Orthodoxy and Some Criteria of Biblical Canonicity (paper abstract)",
+   "schema:url": {
+    "@id": "https://www.sbl-site.org/Meetings/abstract.aspx?id=51562"
    }
   },
   {

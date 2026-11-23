@@ -76,6 +76,17 @@ Study questions:
 - Why does a Catholic Bible such as the NABRE number the promise of Elijah as Malachi 3:23, while the King James Version numbers it Malachi 4:5?
 - Think of a verse you know by heart. What do the paragraph before it and the paragraph after it add to its meaning?
 
+### [Deuterocanonical Books](../articles/bible-basics/deuterocanonical-books.md) — Collection
+
+Read: 2 Maccabees 12:38-45; Sirach 50:27; 1 Maccabees 9:27
+
+Study questions:
+- According to 2 Maccabees 12:38-45, what did Judas Maccabeus find on the fallen soldiers, what did he send to Jerusalem, and what belief does the writer say lay behind his action?
+- In Sirach 50:27, how does the author identify himself, and what does his grandson's prologue tell us about when and why the book was translated into Greek?
+- What does 1 Maccabees 9:27 say about prophets in Israel at that time, and why might that matter for how the book understands itself?
+- Why do you think the Anglican Articles say these books may be read "for example of life" but not to establish doctrine? How does that differ from the Catholic and Orthodox positions?
+- If a friend from another tradition reads from Tobit or Sirach in worship, how could you talk about the difference in your Bibles with accuracy and charity?
+
 ### [New Testament](../articles/bible-basics/new-testament.md) — Collection
 
 Read: Luke 22:20; Hebrews 8:6-13; Luke 1:1-4; Colossians 4:16; 2 Peter 3:15-16; John 20:31
