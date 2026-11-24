@@ -761,6 +761,139 @@
   ]
  },
  {
+  "id": "bg:apostles",
+  "title": "The Apostles of Jesus",
+  "aliases": [
+   "Twelve Apostles",
+   "the Twelve disciples",
+   "apostolos"
+  ],
+  "type": "Group",
+  "domain": "new-testament-people",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/new-testament-people/apostles.md",
+  "created": "2026-11-24",
+  "summary": "The \"sent ones\" of the New Testament: above all the Twelve whom Jesus chose from his disciples to be with him and to be sent out to preach, and in a wider sense other commissioned witnesses and missionaries such as Paul and Barnabas, on whose foundation the early church understood itself to be built.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:peter"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:paul"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:barnabas"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:pentecost"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:calling-of-the-first-disciples"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-mark"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:resurrection-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:discipleship"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:catholic-church"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:israelites",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:shaliach",
+    "source": "s15",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:second-temple-judaism",
+    "source": "s15",
+    "confidence": "low"
+   }
+  ],
+  "references": [
+   "Mark 3:13-19",
+   "Matthew 10:1-4",
+   "Luke 6:13-16",
+   "Acts 1:8",
+   "Acts 1:13",
+   "Acts 1:21-26",
+   "Matthew 19:28",
+   "1 Corinthians 15:3-9",
+   "Acts 14:14",
+   "Romans 16:7",
+   "Ephesians 2:20",
+   "Revelation 21:14",
+   "Hebrews 3:1"
+  ],
+  "studyQuestions": [
+   "According to Mark 3:14-15, what two purposes did Jesus have in appointing the Twelve, and which comes first?",
+   "Compare the lists in Matthew 10:2-4, Mark 3:16-19, Luke 6:14-16 and Acts 1:13. Whose name is always first, and which names differ?",
+   "What qualifications does Peter set out in Acts 1:21-22 for the one who will replace Judas, and what is that person to be a witness of?",
+   "In 1 Corinthians 15:3-9, how does Paul describe himself among the apostles, and why?",
+   "Jesus first called the Twelve simply to \"be with him\" before sending them out. What might that order say about our own service in the church?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://www.christianity.com/bible/web/mark/3-13-19",
+   "https://biblehub.com/web/matthew/10.htm",
+   "https://studybible.info/WEB/Luke%206:13-16",
+   "https://www.jw.org/en/library/bible/american-standard-version/books/acts/1/",
+   "https://biblehub.com/web/matthew/19.htm",
+   "https://www.bibliaparalela.com/web/1_corinthians/15.htm",
+   "https://www.bible.com/bible/206/ROM.16.7.WEB",
+   "https://www.bible.com/bible/1204/REV.21.14.webbe",
+   "https://www.bible.com/bible/206/EPH.2.20.WEB",
+   "https://ebible.org/engwebpb/ACT14.htm",
+   "https://www.bible.com/en-GB/bible/1204/HEB.3.1",
+   "https://www.biblestudytools.com/encyclopedias/isbe/apostle.html",
+   "https://www.newadvent.org/cathen/01626c.htm",
+   "https://www.britannica.com/topic/Apostle",
+   "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Apostle"
+  ]
+ },
+ {
   "id": "bg:babylonian-exile",
   "title": "Babylonian Exile",
   "aliases": [

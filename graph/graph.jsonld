@@ -794,6 +794,146 @@
    ]
   },
   {
+   "@id": "bg:apostles",
+   "@type": "bgo:Group",
+   "bgo:basis": "debated",
+   "bgo:domain": "new-testament-people",
+   "bgo:explainedBy": [
+    {
+     "@id": "bg:israelites"
+    },
+    {
+     "@id": "bg:second-temple-judaism"
+    },
+    {
+     "@id": "bg:shaliach"
+    }
+   ],
+   "bgo:file": "articles/new-testament-people/apostles.md",
+   "bgo:keyReference": [
+    "1 Corinthians 15:3-9",
+    "Acts 14:14",
+    "Acts 1:13",
+    "Acts 1:21-26",
+    "Acts 1:8",
+    "Ephesians 2:20",
+    "Hebrews 3:1",
+    "Luke 6:13-16",
+    "Mark 3:13-19",
+    "Matthew 10:1-4",
+    "Matthew 19:28",
+    "Revelation 21:14",
+    "Romans 16:7"
+   ],
+   "bgo:level": "introductory",
+   "bgo:requires": {
+    "@id": "bg:jesus"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s9"
+    }
+   ],
+   "rdfs:label": "The Apostles of Jesus",
+   "skos:altLabel": [
+    "Twelve Apostles",
+    "apostolos",
+    "the Twelve disciples"
+   ],
+   "skos:broader": {
+    "@id": "bg:jesus"
+   },
+   "skos:definition": "The \"sent ones\" of the New Testament: above all the Twelve whom Jesus chose from his disciples to be with him and to be sent out to preach, and in a wider sense other commissioned witnesses and missionaries such as Paul and Barnabas, on whose foundation the early church understood itself to be built.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people"
+   },
+   "skos:prefLabel": "The Apostles of Jesus",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:barnabas"
+    },
+    {
+     "@id": "bg:calling-of-the-first-disciples"
+    },
+    {
+     "@id": "bg:catholic-church"
+    },
+    {
+     "@id": "bg:discipleship"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-mark"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:paul"
+    },
+    {
+     "@id": "bg:pentecost"
+    },
+    {
+     "@id": "bg:peter"
+    },
+    {
+     "@id": "bg:resurrection-of-jesus"
+    }
+   ]
+  },
+  {
    "@id": "bg:babylonian-exile",
    "@type": "bgo:Event",
    "bgo:basis": "debated",
@@ -11799,6 +11939,46 @@
    "rdfs:label": "Why might it matter to Christians that a Jewish historian who did not follow Jesus nonetheless mentions John, James and Jesus? What are the limits of that kind of evidence?"
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/apostles/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:apostles"
+   },
+   "rdfs:label": "According to Mark 3:14-15, what two purposes did Jesus have in appointing the Twelve, and which comes first?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/apostles/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:apostles"
+   },
+   "rdfs:label": "Compare the lists in Matthew 10:2-4, Mark 3:16-19, Luke 6:14-16 and Acts 1:13. Whose name is always first, and which names differ?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/apostles/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:apostles"
+   },
+   "rdfs:label": "What qualifications does Peter set out in Acts 1:21-22 for the one who will replace Judas, and what is that person to be a witness of?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/apostles/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:apostles"
+   },
+   "rdfs:label": "In 1 Corinthians 15:3-9, how does Paul describe himself among the apostles, and why?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/apostles/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:apostles"
+   },
+   "rdfs:label": "Jesus first called the Twelve simply to \"be with him\" before sending them out. What might that order say about our own service in the church?"
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/babylonian-exile/check/1",
    "@type": "bgo:StudyQuestion",
    "bgo:questionFor": {
@@ -16625,6 +16805,216 @@
    "dcterms:title": "Flavius Josephus (Catholic Encyclopedia, Karl Hoeber, 1910)",
    "schema:url": {
     "@id": "https://www.newadvent.org/cathen/08522a.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Christianity.com",
+   "dcterms:title": "Mark 3:13-19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.christianity.com/bible/web/mark/3-13-19"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "eBible.org",
+   "dcterms:title": "Acts 14 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://ebible.org/engwebpb/ACT14.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Hebrews 3:1 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/en-GB/bible/1204/HEB.3.1"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Apostle (J. C. Lambert), International Standard Bible Encyclopedia (1915)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/encyclopedias/isbe/apostle.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Apostles (H. Coppieters), Catholic Encyclopedia (1907)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/cathen/01626c.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "encyclopedia",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Encyclopaedia Britannica",
+   "dcterms:title": "Apostle",
+   "schema:url": {
+    "@id": "https://www.britannica.com/topic/Apostle"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Apostle, Encyclopedia of the Bible",
+   "schema:url": {
+    "@id": "https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Apostle"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 10 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/10.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "StudyBible.info",
+   "dcterms:title": "Luke 6:13-16 (World English Bible)",
+   "schema:url": {
+    "@id": "https://studybible.info/WEB/Luke%206:13-16"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "jw.org (online Bible library)",
+   "dcterms:title": "Acts 1 (American Standard Version)",
+   "schema:url": {
+    "@id": "https://www.jw.org/en/library/bible/american-standard-version/books/acts/1/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 19 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "Biblia Paralela",
+   "dcterms:title": "1 Corinthians 15 (World English Bible)",
+   "schema:url": {
+    "@id": "https://www.bibliaparalela.com/web/1_corinthians/15.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Romans 16:7 (World English Bible, American English edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/ROM.16.7.WEB"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Revelation 21:14 (World English Bible, British Edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1204/REV.21.14.webbe"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/apostles/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-24"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Ephesians 2:20 (World English Bible, American English edition)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/206/EPH.2.20.WEB"
    }
   },
   {

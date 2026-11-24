@@ -403,6 +403,79 @@
 <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 6:3" .
 <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 3:14-15, what two purposes did Jesus have in appointing the Twelve, and which comes first?" .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Compare the lists in Matthew 10:2-4, Mark 3:16-19, Luke 6:14-16 and Acts 1:13. Whose name is always first, and which names differ?" .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "What qualifications does Peter set out in Acts 1:21-22 for the one who will replace Judas, and what is that person to be a witness of?" .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In 1 Corinthians 15:3-9, how does Paul describe himself among the apostles, and why?" .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus first called the Twelve simply to \"be with him\" before sending them out. What might that order say about our own service in the church?" .
+<https://github.com/john1hsu/bible-graph/id/apostles/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://purl.org/dc/terms/created> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Group> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2000/01/rdf-schema#label> "The Apostles of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "Twelve Apostles" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "apostolos" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#altLabel> "the Twelve disciples" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#definition> "The \"sent ones\" of the New Testament: above all the Twelve whom Jesus chose from his disciples to be with him and to be sent out to preach, and in a wider sense other commissioned witnesses and missionaries such as Paul and Barnabas, on whose foundation the early church understood itself to be built." .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/new-testament-people> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Apostles of Jesus" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/barnabas> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/discipleship> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/paul> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/peter> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/resurrection-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s10> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s11> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s12> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s13> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s14> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s15> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s1> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s2> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s3> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s4> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s5> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s6> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s7> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s8> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/apostles/s9> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#domain> "new-testament-people" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/israelites> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/shaliach> .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/new-testament-people/apostles.md" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 15:3-9" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 14:14" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:13" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:21-26" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 1:8" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Ephesians 2:20" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Hebrews 3:1" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 6:13-16" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 3:13-19" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 10:1-4" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 19:28" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Revelation 21:14" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Romans 16:7" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/apostles> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/jesus> .
 <https://github.com/john1hsu/bible-graph/id/babylonian-exile/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/babylonian-exile/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to 2 Kings 24:10-16 and 25:8-12, who was taken to Babylon in each deportation, and who was left behind in the land?" .
 <https://github.com/john1hsu/bible-graph/id/babylonian-exile/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
@@ -6416,6 +6489,96 @@
 <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
 <https://github.com/john1hsu/bible-graph/id/source/antiquities-of-the-jews/s9> <https://schema.org/url> <https://www.newadvent.org/cathen/08522a.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <http://purl.org/dc/terms/publisher> "eBible.org" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <http://purl.org/dc/terms/title> "Acts 14 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s10> <https://schema.org/url> <https://ebible.org/engwebpb/ACT14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <http://purl.org/dc/terms/title> "Hebrews 3:1 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s11> <https://schema.org/url> <https://www.bible.com/en-GB/bible/1204/HEB.3.1> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <http://purl.org/dc/terms/title> "Apostle (J. C. Lambert), International Standard Bible Encyclopedia (1915)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s12> <https://schema.org/url> <https://www.biblestudytools.com/encyclopedias/isbe/apostle.html> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <http://purl.org/dc/terms/title> "Apostles (H. Coppieters), Catholic Encyclopedia (1907)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s13> <https://schema.org/url> <https://www.newadvent.org/cathen/01626c.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <http://purl.org/dc/terms/title> "Apostle" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s14> <https://schema.org/url> <https://www.britannica.com/topic/Apostle> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <http://purl.org/dc/terms/title> "Apostle, Encyclopedia of the Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s15> <https://schema.org/url> <https://classic.biblegateway.com/resources/encyclopedia-of-the-bible/Apostle> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <http://purl.org/dc/terms/publisher> "Christianity.com" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <http://purl.org/dc/terms/title> "Mark 3:13-19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s1> <https://schema.org/url> <https://www.christianity.com/bible/web/mark/3-13-19> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <http://purl.org/dc/terms/title> "Matthew 10 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s2> <https://schema.org/url> <https://biblehub.com/web/matthew/10.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <http://purl.org/dc/terms/publisher> "StudyBible.info" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <http://purl.org/dc/terms/title> "Luke 6:13-16 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s3> <https://schema.org/url> <https://studybible.info/WEB/Luke%206:13-16> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <http://purl.org/dc/terms/publisher> "jw.org (online Bible library)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <http://purl.org/dc/terms/title> "Acts 1 (American Standard Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s4> <https://schema.org/url> <https://www.jw.org/en/library/bible/american-standard-version/books/acts/1/> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <http://purl.org/dc/terms/title> "Matthew 19 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s5> <https://schema.org/url> <https://biblehub.com/web/matthew/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <http://purl.org/dc/terms/publisher> "Biblia Paralela" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <http://purl.org/dc/terms/title> "1 Corinthians 15 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s6> <https://schema.org/url> <https://www.bibliaparalela.com/web/1_corinthians/15.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <http://purl.org/dc/terms/title> "Romans 16:7 (World English Bible, American English edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s7> <https://schema.org/url> <https://www.bible.com/bible/206/ROM.16.7.WEB> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <http://purl.org/dc/terms/title> "Revelation 21:14 (World English Bible, British Edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s8> <https://schema.org/url> <https://www.bible.com/bible/1204/REV.21.14.webbe> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <http://purl.org/dc/terms/date> "2026-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <http://purl.org/dc/terms/title> "Ephesians 2:20 (World English Bible, American English edition)" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/apostles/s9> <https://schema.org/url> <https://www.bible.com/bible/206/EPH.2.20.WEB> .
 <https://github.com/john1hsu/bible-graph/id/source/babylonian-exile/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/babylonian-exile/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/babylonian-exile/s10> <http://purl.org/dc/terms/title> "Ezra 1 (World English Bible)" .

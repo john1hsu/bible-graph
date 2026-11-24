@@ -749,6 +749,17 @@ Study questions:
 - What did Peter learn at Joppa and in Cornelius's house (Acts 10:28, 10:34-35), and how did he use that lesson at Jerusalem (Acts 15:7-11)?
 - Peter failed publicly and was restored and given work to do. Where do you, or your church, need to hear that a failure is not the end of someone's discipleship?
 
+### [The Apostles of Jesus](../articles/new-testament-people/apostles.md) — Group
+
+Read: Mark 3:13-19; Matthew 10:1-4; Luke 6:13-16; Acts 1:8; Acts 1:13; Acts 1:21-26; Matthew 19:28; 1 Corinthians 15:3-9; Acts 14:14; Romans 16:7; Ephesians 2:20; Revelation 21:14; Hebrews 3:1
+
+Study questions:
+- According to Mark 3:14-15, what two purposes did Jesus have in appointing the Twelve, and which comes first?
+- Compare the lists in Matthew 10:2-4, Mark 3:16-19, Luke 6:14-16 and Acts 1:13. Whose name is always first, and which names differ?
+- What qualifications does Peter set out in Acts 1:21-22 for the one who will replace Judas, and what is that person to be a witness of?
+- In 1 Corinthians 15:3-9, how does Paul describe himself among the apostles, and why?
+- Jesus first called the Twelve simply to "be with him" before sending them out. What might that order say about our own service in the church?
+
 ## old-testament-books
 
 ### [1 Kings](../articles/old-testament-books/1-kings.md) — Book
