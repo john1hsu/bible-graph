@@ -6031,6 +6031,127 @@
    ]
   },
   {
+   "@id": "bg:jordan-river",
+   "@type": "bgo:Place",
+   "bgo:basis": "debated",
+   "bgo:domain": "places-and-geography",
+   "bgo:file": "articles/places-and-geography/jordan-river.md",
+   "bgo:illustrates": [
+    {
+     "@id": "bg:baptism"
+    },
+    {
+     "@id": "bg:redemption"
+    }
+   ],
+   "bgo:keyReference": [
+    "2 Kings 2:6-15",
+    "2 Kings 5:1-15",
+    "Genesis 13:10-11",
+    "John 1:28-34",
+    "Joshua 3:1-17",
+    "Joshua 4:1-24",
+    "Matthew 3:1-17",
+    "Psalm 114"
+   ],
+   "bgo:level": "introductory",
+   "bgo:studiedIn": {
+    "@id": "bg:biblical-archaeology"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9"
+    }
+   ],
+   "rdfs:label": "Jordan River",
+   "skos:altLabel": [
+    "Nahr esh-Sheriah",
+    "Yarden",
+    "river Jordan",
+    "the Jordan"
+   ],
+   "skos:broader": {
+    "@id": "bg:land-of-israel"
+   },
+   "skos:definition": "The river that runs south from the foot of Mount Hermon through the Sea of Galilee to the Dead Sea, the eastern boundary Israel crossed into the promised land under Joshua, and the place where John baptized and Jesus was baptized.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography"
+   },
+   "skos:prefLabel": "Jordan River",
+   "skos:related": [
+    {
+     "@id": "bg:baptism-of-jesus"
+    },
+    {
+     "@id": "bg:book-of-joshua"
+    },
+    {
+     "@id": "bg:elijah"
+    },
+    {
+     "@id": "bg:elisha"
+    },
+    {
+     "@id": "bg:galilee"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:john-the-baptist"
+    },
+    {
+     "@id": "bg:joshua-son-of-nun"
+    },
+    {
+     "@id": "bg:the-exodus"
+    }
+   ]
+  },
+  {
    "@id": "bg:kingdom-of-god",
    "@type": "bgo:Theme",
    "bgo:basis": "scriptural",
@@ -13652,6 +13773,46 @@
     "@id": "bg:john-the-baptist"
    },
    "rdfs:label": "\"He must increase, but I must decrease\" (John 3:30). Where in your church life or service is it hardest to point away from yourself to Christ?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jordan-river/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jordan-river"
+   },
+   "rdfs:label": "According to Joshua 3:13-17, what happened when the priests carrying the ark stepped into the Jordan, and at what time of year did it happen (Joshua 3:15)?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jordan-river/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jordan-river"
+   },
+   "rdfs:label": "In Joshua 4:6-7 and 4:21-24, what were the twelve stones for, and which earlier event does Joshua compare the crossing to?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jordan-river/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jordan-river"
+   },
+   "rdfs:label": "Why was Naaman angry at Elisha's instruction in 2 Kings 5:10-12, and what changed when he obeyed?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jordan-river/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jordan-river"
+   },
+   "rdfs:label": "In Matthew 3:13-17, what three things happen as Jesus comes up out of the Jordan?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/jordan-river/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:jordan-river"
+   },
+   "rdfs:label": "Israel set up stones so their children would ask what God had done. What \"memorial stones\" help you and your church remember God's faithfulness?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1",
@@ -24967,6 +25128,202 @@
    "dcterms:title": "Acts 19 (World English Bible)",
    "schema:url": {
     "@id": "https://bibliaparalela.com/web/acts/19.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Joshua 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/joshua/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Encyclopedia of the Bible, Bible Gateway",
+   "dcterms:title": "Jordan",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Jordan"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "International Standard Bible Encyclopedia, StudyLight",
+   "dcterms:title": "Jordan (ed. James Orr, 1915)",
+   "schema:url": {
+    "@id": "https://www.studylight.org/encyclopedias/isb/j/jordan.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Easton's Bible Dictionary, Bible Gateway",
+   "dcterms:title": "Jordan",
+   "schema:url": {
+    "@id": "https://www.biblegateway.com/resources/eastons-bible-dictionary/Jordan"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "institutional",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "UNESCO World Heritage Centre",
+   "dcterms:title": "Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)",
+   "schema:url": {
+    "@id": "https://whc.unesco.org/en/list/1446/"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Commentary on the Gospel of John, Book VI (Origen)",
+   "schema:url": {
+    "@id": "https://newadvent.org/fathers/101506.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Joshua 4 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/joshua/4.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "2 Kings 2 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/2_kings/2.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Sainte Bible (Bible Hub text)",
+   "dcterms:title": "2 Kings 5 (World English Bible)",
+   "schema:url": {
+    "@id": "https://saintebible.com/web/2_kings/5.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 3 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/matthew/3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "John 1 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/john/1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Genesis 13 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/genesis/13.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Christian Classics Ethereal Library",
+   "dcterms:title": "Psalm 114 (World English Bible)",
+   "schema:url": {
+    "@id": "https://ccel.org/ccel/bible/web.Ps.114.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-25"
+   },
+   "dcterms:publisher": "Jewish Encyclopedia (1906)",
+   "dcterms:title": "Jordan, The (Emil G. Hirsch, M. Seligsohn, Solomon Schechter and Isaac Broydé)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/8782-jordan-the"
    }
   },
   {

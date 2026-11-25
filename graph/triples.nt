@@ -3220,6 +3220,70 @@
 <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 3:1-17" .
 <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/gospels> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Joshua 3:13-17, what happened when the priests carrying the ark stepped into the Jordan, and at what time of year did it happen (Joshua 3:15)?" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "In Joshua 4:6-7 and 4:21-24, what were the twelve stones for, and which earlier event does Joshua compare the crossing to?" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Why was Naaman angry at Elisha's instruction in 2 Kings 5:10-12, and what changed when he obeyed?" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Matthew 3:13-17, what three things happen as Jesus comes up out of the Jordan?" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Israel set up stones so their children would ask what God had done. What \"memorial stones\" help you and your church remember God's faithfulness?" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://purl.org/dc/terms/created> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Place> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2000/01/rdf-schema#label> "Jordan River" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#altLabel> "Nahr esh-Sheriah" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#altLabel> "Yarden" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#altLabel> "river Jordan" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#altLabel> "the Jordan" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/land-of-israel> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#definition> "The river that runs south from the foot of Mount Hermon through the Sea of Galilee to the Dead Sea, the eastern boundary Israel crossed into the promised land under Joshua, and the place where John baptized and Jesus was baptized." .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/places-and-geography> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jordan River" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/baptism-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-joshua> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elisha> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/joshua-son-of-nun> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-exodus> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#domain> "places-and-geography" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/places-and-geography/jordan-river.md" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/baptism> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#illustrates> <https://github.com/john1hsu/bible-graph/id/redemption> .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 2:6-15" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "2 Kings 5:1-15" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Genesis 13:10-11" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "John 1:28-34" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 3:1-17" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Joshua 4:1-24" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 3:1-17" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Psalm 114" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/jordan-river> <https://github.com/john1hsu/bible-graph/ontology#studiedIn> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "According to Mark 1:14-15, what does Jesus announce when he begins preaching in Galilee, and what two responses does he ask for?" .
 <https://github.com/john1hsu/bible-graph/id/kingdom-of-god/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -9987,6 +10051,90 @@
 <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/john-the-baptist/s9> <https://schema.org/url> <https://bibliaparalela.com/web/acts/19.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <http://purl.org/dc/terms/publisher> "Encyclopedia of the Bible, Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <http://purl.org/dc/terms/title> "Jordan" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s10> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Jordan> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <http://purl.org/dc/terms/publisher> "International Standard Bible Encyclopedia, StudyLight" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <http://purl.org/dc/terms/title> "Jordan (ed. James Orr, 1915)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s11> <https://schema.org/url> <https://www.studylight.org/encyclopedias/isb/j/jordan.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <http://purl.org/dc/terms/publisher> "Easton's Bible Dictionary, Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <http://purl.org/dc/terms/title> "Jordan" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s12> <https://schema.org/url> <https://www.biblegateway.com/resources/eastons-bible-dictionary/Jordan> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <http://purl.org/dc/terms/publisher> "UNESCO World Heritage Centre" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <http://purl.org/dc/terms/title> "Baptism Site \"Bethany Beyond the Jordan\" (Al-Maghtas)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s13> <https://schema.org/url> <https://whc.unesco.org/en/list/1446/> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <http://purl.org/dc/terms/title> "Commentary on the Gospel of John, Book VI (Origen)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s14> <https://schema.org/url> <https://newadvent.org/fathers/101506.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <http://purl.org/dc/terms/title> "Joshua 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s1> <https://schema.org/url> <https://biblehub.com/web/joshua/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <http://purl.org/dc/terms/title> "Joshua 4 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s2> <https://schema.org/url> <https://biblehub.com/web/joshua/4.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <http://purl.org/dc/terms/title> "2 Kings 2 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s3> <https://schema.org/url> <https://biblehub.com/web/2_kings/2.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <http://purl.org/dc/terms/publisher> "Sainte Bible (Bible Hub text)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <http://purl.org/dc/terms/title> "2 Kings 5 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s4> <https://schema.org/url> <https://saintebible.com/web/2_kings/5.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <http://purl.org/dc/terms/title> "Matthew 3 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s5> <https://schema.org/url> <https://biblehub.com/web/matthew/3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <http://purl.org/dc/terms/title> "John 1 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s6> <https://schema.org/url> <https://biblehub.com/web/john/1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <http://purl.org/dc/terms/title> "Genesis 13 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s7> <https://schema.org/url> <https://biblehub.com/web/genesis/13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <http://purl.org/dc/terms/title> "Psalm 114 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s8> <https://schema.org/url> <https://ccel.org/ccel/bible/web.Ps.114.html> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <http://purl.org/dc/terms/date> "2026-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <http://purl.org/dc/terms/title> "Jordan, The (Emil G. Hirsch, M. Seligsohn, Solomon Schechter and Isaac Broydé)" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/jordan-river/s9> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/8782-jordan-the> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/date> "2026-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/publisher> "Christianity.com" .
 <https://github.com/john1hsu/bible-graph/id/source/kingdom-of-god/s10> <http://purl.org/dc/terms/title> "John 18:36 (World English Bible)" .

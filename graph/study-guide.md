@@ -928,6 +928,17 @@ Study questions:
 - Luke 9:51 says Jesus "intently set his face" to go to Jerusalem, and Luke 19:41-44 shows him weeping over it. What do these two moments tell you about how Jesus regarded the city?
 - Revelation 21 describes a New Jerusalem with no temple in it. What does that suggest about where God means to live, and how might that hope shape the way you worship now?
 
+### [Jordan River](../articles/places-and-geography/jordan-river.md) — Place
+
+Read: Genesis 13:10-11; Joshua 3:1-17; Joshua 4:1-24; 2 Kings 2:6-15; 2 Kings 5:1-15; Psalm 114; Matthew 3:1-17; John 1:28-34
+
+Study questions:
+- According to Joshua 3:13-17, what happened when the priests carrying the ark stepped into the Jordan, and at what time of year did it happen (Joshua 3:15)?
+- In Joshua 4:6-7 and 4:21-24, what were the twelve stones for, and which earlier event does Joshua compare the crossing to?
+- Why was Naaman angry at Elisha's instruction in 2 Kings 5:10-12, and what changed when he obeyed?
+- In Matthew 3:13-17, what three things happen as Jesus comes up out of the Jordan?
+- Israel set up stones so their children would ask what God had done. What "memorial stones" help you and your church remember God's faithfulness?
+
 ### [The Temple](../articles/places-and-geography/the-temple.md) — Place
 
 Read: Exodus 25:8-9; 2 Samuel 7:1-13; 1 Kings 6; 1 Kings 8:10-13; 1 Kings 8:27-30; 2 Chronicles 3:1-2; 2 Kings 25:8-13; Ezra 6:15; Haggai 2:3-9; Mark 11:15-17; Mark 13:1-2; Mark 15:38; John 2:18-22; 1 Corinthians 3:16-17; Revelation 21:22

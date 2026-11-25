@@ -28,6 +28,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
 | `bg:atonement` | Crucifixion of Jesus |
+| `bg:baptism` | Jordan River |
 | `bg:davidic-covenant` | 1 Kings, Bethlehem, David, Solomon's Dream at Gibeon, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
 | `bg:exile-and-return` | Babylonian Exile, Jerusalem |
@@ -44,7 +45,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:new-covenant` | Book of Jeremiah, New Testament, Old Testament, Pentecost |
 | `bg:prayer` | Elijah |
 | `bg:presence-of-god` | The Temple |
-| `bg:redemption` | Book of Ruth, The Exodus, The Song of the Sea |
+| `bg:redemption` | Book of Ruth, Jordan River, The Exodus, The Song of the Sea |
 | `bg:repentance` | Jeremiah's Temple Sermon, John the Baptist |
 | `bg:resurrection-of-the-dead` | Deuterocanonical Books, Paul at the Areopagus, The Sadducees' Question about the Resurrection |
 | `bg:wisdom` | Solomon's Dream at Gibeon |
@@ -99,7 +100,9 @@ _No results._
 
 _Which written people, groups, places and events are not yet linked to any book, passage or event they appear in?_ — `queries/07-unanchored.rq`
 
-_No results._
+| node | type |
+|---|---|
+| `bg:jordan-river` | bgo:Place |
 
 ## Orphan articles (gap)
 

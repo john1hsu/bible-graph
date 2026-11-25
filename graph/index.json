@@ -5859,6 +5859,118 @@
   ]
  },
  {
+  "id": "bg:jordan-river",
+  "title": "Jordan River",
+  "aliases": [
+   "the Jordan",
+   "Yarden",
+   "Nahr esh-Sheriah",
+   "river Jordan"
+  ],
+  "type": "Place",
+  "domain": "places-and-geography",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/places-and-geography/jordan-river.md",
+  "created": "2026-11-25",
+  "summary": "The river that runs south from the foot of Mount Hermon through the Sea of Galilee to the Dead Sea, the eastern boundary Israel crossed into the promised land under Joshua, and the place where John baptized and Jesus was baptized.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:land-of-israel"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:john-the-baptist"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:baptism-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elijah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:elisha"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:joshua-son-of-nun"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:book-of-joshua"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:the-exodus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:galilee"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:baptism",
+    "source": "s5",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:illustrates",
+    "object": "bg:redemption",
+    "source": "s2",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:studiedIn",
+    "object": "bg:biblical-archaeology",
+    "source": "s13",
+    "confidence": "medium"
+   }
+  ],
+  "references": [
+   "Genesis 13:10-11",
+   "Joshua 3:1-17",
+   "Joshua 4:1-24",
+   "2 Kings 2:6-15",
+   "2 Kings 5:1-15",
+   "Psalm 114",
+   "Matthew 3:1-17",
+   "John 1:28-34"
+  ],
+  "studyQuestions": [
+   "According to Joshua 3:13-17, what happened when the priests carrying the ark stepped into the Jordan, and at what time of year did it happen (Joshua 3:15)?",
+   "In Joshua 4:6-7 and 4:21-24, what were the twelve stones for, and which earlier event does Joshua compare the crossing to?",
+   "Why was Naaman angry at Elisha's instruction in 2 Kings 5:10-12, and what changed when he obeyed?",
+   "In Matthew 3:13-17, what three things happen as Jesus comes up out of the Jordan?",
+   "Israel set up stones so their children would ask what God had done. What \"memorial stones\" help you and your church remember God's faithfulness?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/joshua/3.htm",
+   "https://biblehub.com/web/joshua/4.htm",
+   "https://biblehub.com/web/2_kings/2.htm",
+   "https://saintebible.com/web/2_kings/5.htm",
+   "https://biblehub.com/web/matthew/3.htm",
+   "https://biblehub.com/web/john/1.htm",
+   "https://biblehub.com/web/genesis/13.htm",
+   "https://ccel.org/ccel/bible/web.Ps.114.html",
+   "https://www.jewishencyclopedia.com/articles/8782-jordan-the",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Jordan",
+   "https://www.studylight.org/encyclopedias/isb/j/jordan.html",
+   "https://www.biblegateway.com/resources/eastons-bible-dictionary/Jordan",
+   "https://whc.unesco.org/en/list/1446/",
+   "https://newadvent.org/fathers/101506.htm"
+  ]
+ },
+ {
   "id": "bg:kingdom-of-god",
   "title": "Kingdom of God",
   "aliases": [
