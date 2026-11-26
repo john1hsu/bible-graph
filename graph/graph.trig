@@ -1144,6 +1144,31 @@
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s13> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s14> .
 <https://github.com/john1hsu/bible-graph/id/book-of-ezra#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s15> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-books/book-of-isaiah.md" .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> .
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> .
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> .
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://purl.org/dc/terms/subject> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> <http://purl.org/dc/terms/source> "https://github.com/john1hsu/bible-graph/blob/main/articles/old-testament-books/book-of-jeremiah.md" .
@@ -12086,6 +12111,237 @@
   <https://github.com/john1hsu/bible-graph/id/source/book-of-ezra/s9> <https://schema.org/url> <https://bibliaparalela.com/web/nehemiah/8.htm> .
 }
 
+<https://github.com/john1hsu/bible-graph/id/book-of-isaiah#graph> {
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Isaiah 6:1-8, what does Isaiah see and hear in the Temple, how does he react to God's holiness, and what happens before he says he is ready to be sent?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Read Isaiah 7:1-14. Who is threatening Jerusalem, which king is Isaiah sent to, and what sign is that king offered? How does Matthew 1:22-23 hear the same sign in the birth of Jesus?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "Isaiah 40:1 begins with \"Comfort, comfort my people.\" Who needs comfort at this point in the book, and what does verse 8 say will outlast everything that withers?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "Read Isaiah 52:13–53:12 slowly, then Acts 8:28-35. What question does the Ethiopian official ask Philip, and how would you answer it from the passage itself?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 4:16-21 Jesus reads Isaiah 61:1-2 and says it is fulfilled \"today\". Which parts of that mission (good news, release, healing, favour) does your church most need to hear or live out?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "Isaiah 65:17-25 pictures new heavens and a new earth where the wolf and lamb feed together. How does that hope change the way you think about the world's brokenness now?" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://purl.org/dc/terms/created> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Book> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2000/01/rdf-schema#label> "Book of Isaiah" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Esaias" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Isaiah (book)" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Isaias" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophecy of Isaiah" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#altLabel> "Yeshayahu (book)" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#definition> "The Old Testament prophetic book that opens with \"the vision of Isaiah the son of Amoz\" in eighth-century Judah, moves from judgment on Jerusalem to comfort for exiles and the promise of new heavens and a new earth, and gave the New Testament its Immanuel sign, its voice in the wilderness and its suffering Servant." .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/old-testament-books> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#prefLabel> "Book of Isaiah" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/messiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#attributedTo> <https://github.com/john1hsu/bible-graph/id/isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#domain> "old-testament-books" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/ahaz> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/hezekiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#features> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/old-testament-books/book-of-isaiah.md" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#hasGenre> <https://github.com/john1hsu/bible-graph/id/prophecy> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:28-35" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 1:1" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 36:1" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 40:1-8" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 45:1" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 52:13–53:12" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 61:1-2" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 65:17-25" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 6:1-8" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 7:1-14" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 9:6-7" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 4:16-21" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 1:2-3" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 1:22-23" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/2-kings> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/holiness> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <http://purl.org/dc/terms/title> "Isaiah 61 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s10> <https://schema.org/url> <https://biblehub.com/web/isaiah/61.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <http://purl.org/dc/terms/title> "Isaiah 65 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s11> <https://schema.org/url> <https://biblehub.com/web/isaiah/65.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <http://purl.org/dc/terms/title> "Luke 4 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s12> <https://schema.org/url> <https://biblehub.com/web/luke/4.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <http://purl.org/dc/terms/title> "Matthew 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s13> <https://schema.org/url> <https://biblehub.com/web/matthew/1.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <http://purl.org/dc/terms/title> "Mark 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s14> <https://schema.org/url> <https://ccel.org/ccel/bible/web/web.Mark.1.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <http://purl.org/dc/terms/title> "Acts 8 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s15> <https://schema.org/url> <https://www.ccel.org/ccel/bible/web.Acts.8.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <http://purl.org/dc/terms/title> "The Book of Isaiah — Introduction (New American Bible, Revised Edition)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s16> <https://schema.org/url> <https://bible.usccb.org/bible/isaiah/0> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <http://purl.org/dc/terms/publisher> "Crossway (ESV.org)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <http://purl.org/dc/terms/title> "Introduction to Isaiah (ESV Global Study Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s17> <https://schema.org/url> <https://www.esv.org/resources/esv-global-study-bible/introduction-to-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <http://purl.org/dc/terms/publisher> "Gale / Encyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <http://purl.org/dc/terms/title> "Isaiah, Book of (New Catholic Encyclopedia, W. Hill)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s18> <https://schema.org/url> <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/isaiah-book> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <http://purl.org/dc/terms/title> "Isaiah, Book of (Jewish Encyclopedia, E. G. Hirsch and T. K. Cheyne)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s19> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/8236-isaiah-book-of.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <http://purl.org/dc/terms/title> "Isaiah 1 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s1> <https://schema.org/url> <https://ebible.org/eng-web/ISA01.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <http://purl.org/dc/terms/title> "Servant of the Lord (Yahweh, Jehovah) (Encyclopedia of the Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s20> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Servant-Lord-Yahweh-Jehovah> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <http://purl.org/dc/terms/publisher> "The Bible and Interpretation (University of Arizona)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <http://purl.org/dc/terms/title> "'Almah in Isaiah 7:14 (Hallvard Hagelia, The Bible and Interpretation, April 2012)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s21> <https://schema.org/url> <https://bibleinterp.arizona.edu/node/3932> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of Asian Art" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <http://purl.org/dc/terms/title> "The Dead Sea Scrolls: Isaiah Scroll, Manuscript B (Adolfo Roitman, Israel Museum)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "museum" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s22> <https://schema.org/url> <https://asia.si.edu/research/essays/the-dead-sea-scrolls-isaiah-scroll-manuscript-b> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <http://purl.org/dc/terms/title> "Isaiah 6 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s2> <https://schema.org/url> <https://biblehub.com/web/isaiah/6.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <http://purl.org/dc/terms/title> "Isaiah 7 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s3> <https://schema.org/url> <https://ebible.org/eng-web/ISA07.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <http://purl.org/dc/terms/title> "Isaiah 9 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s4> <https://schema.org/url> <https://biblehub.com/web/isaiah/9.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <http://purl.org/dc/terms/title> "Isaiah 36 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s5> <https://schema.org/url> <https://biblehub.com/web/isaiah/36.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <http://purl.org/dc/terms/publisher> "Christian Classics Ethereal Library" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <http://purl.org/dc/terms/title> "Isaiah 40 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s6> <https://schema.org/url> <https://www.ccel.org/ccel/bible/web.Isa.40.html> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <http://purl.org/dc/terms/title> "Isaiah 45 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s7> <https://schema.org/url> <https://ebible.org/eng-web/ISA45.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <http://purl.org/dc/terms/title> "Isaiah 52 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s8> <https://schema.org/url> <https://biblehub.com/web/isaiah/52.htm> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <http://purl.org/dc/terms/date> "2026-11-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <http://purl.org/dc/terms/publisher> "eBible.org" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <http://purl.org/dc/terms/title> "Isaiah 53 (World English Bible)" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+  <https://github.com/john1hsu/bible-graph/id/source/book-of-isaiah/s9> <https://schema.org/url> <https://ebible.org/eng-web/ISA53.htm> .
+}
+
 <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah#graph> {
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Jeremiah 1:4-10, what objection does Jeremiah raise to God's call, and what two kinds of work (tearing down and building up) is he given?" .
@@ -16422,6 +16678,7 @@
   <https://github.com/john1hsu/bible-graph/id/2-kings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/2-kings> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
   <https://github.com/john1hsu/bible-graph/id/2-kings> <https://github.com/john1hsu/bible-graph/ontology#alludedToIn> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
+  <https://github.com/john1hsu/bible-graph/id/2-kings> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/2-kings> <https://github.com/john1hsu/bible-graph/ontology#parallels> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/2-samuel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
   <https://github.com/john1hsu/bible-graph/id/aaron-ben-asher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16471,6 +16728,7 @@
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/paul-at-the-areopagus> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .
   <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/money-and-generosity> .
@@ -16487,6 +16745,7 @@
   <https://github.com/john1hsu/bible-graph/id/against-heresies> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/ahab> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/elijah> .
   <https://github.com/john1hsu/bible-graph/id/ahab> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+  <https://github.com/john1hsu/bible-graph/id/ahaz> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/al-yahudu-tablets> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/aleppo-codex> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
   <https://github.com/john1hsu/bible-graph/id/allegory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
@@ -16575,6 +16834,7 @@
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/the-temple> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
   <https://github.com/john1hsu/bible-graph/id/babylonian-exile> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
@@ -16715,8 +16975,17 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-ezra> <https://github.com/john1hsu/bible-graph/ontology#prerequisiteOf> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/book-of-haggai> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Text> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/major-prophets> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/old-testament> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/galilee> .
   <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> <https://github.com/john1hsu/bible-graph/ontology#fulfilledIn> <https://github.com/john1hsu/bible-graph/id/jesus> .
@@ -16739,6 +17008,7 @@
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
+  <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
   <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
@@ -16872,6 +17142,7 @@
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
@@ -16884,6 +17155,7 @@
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/cyrus-the-great> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/daniel> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/babylonian-exile> .
   <https://github.com/john1hsu/bible-graph/id/david/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/david/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -16916,6 +17188,7 @@
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-archaeology> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/second-temple-judaism> .
+  <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/dei-verbum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -17134,6 +17407,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/apostles> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
@@ -17158,6 +17432,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/apostles> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-mark> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
@@ -17179,6 +17454,7 @@
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/sermon-on-the-mount> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/apostles> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
@@ -17300,6 +17576,7 @@
   <https://github.com/john1hsu/bible-graph/id/heidelberg-catechism> <https://github.com/john1hsu/bible-graph/ontology#introduces> <https://github.com/john1hsu/bible-graph/id/reformed-tradition> .
   <https://github.com/john1hsu/bible-graph/id/herod-antipas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
   <https://github.com/john1hsu/bible-graph/id/hesed> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
+  <https://github.com/john1hsu/bible-graph/id/hezekiah> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/higher-criticism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
@@ -17310,6 +17587,7 @@
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/laying-the-foundation-of-the-second-temple> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
   <https://github.com/john1hsu/bible-graph/id/historical-books> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/solomons-dream-at-gibeon> .
+  <https://github.com/john1hsu/bible-graph/id/holiness> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/holy-spirit> <https://github.com/john1hsu/bible-graph/ontology#illustratedBy> <https://github.com/john1hsu/bible-graph/id/pentecost> .
   <https://github.com/john1hsu/bible-graph/id/holy-spirit> <https://github.com/john1hsu/bible-graph/ontology#taughtIn> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
   <https://github.com/john1hsu/bible-graph/id/huldrych-zwingli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -17337,6 +17615,10 @@
   <https://github.com/john1hsu/bible-graph/id/isaac> <https://github.com/john1hsu/bible-graph/ontology#childOf> <https://github.com/john1hsu/bible-graph/id/abraham> .
   <https://github.com/john1hsu/bible-graph/id/isaac> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/isaac> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/genesis> .
+  <https://github.com/john1hsu/bible-graph/id/isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
+  <https://github.com/john1hsu/bible-graph/id/isaiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
+  <https://github.com/john1hsu/bible-graph/id/isaiah> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+  <https://github.com/john1hsu/bible-graph/id/isaiah> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/ishmael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/ishmael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Person> .
   <https://github.com/john1hsu/bible-graph/id/ishmael> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abraham> .
@@ -17406,6 +17688,7 @@
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
+  <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
   <https://github.com/john1hsu/bible-graph/id/jerusalem> <https://github.com/john1hsu/bible-graph/ontology#siteOf> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
@@ -17433,6 +17716,7 @@
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grief> .
   <https://github.com/john1hsu/bible-graph/id/jesus> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
@@ -17471,6 +17755,7 @@
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/prophets> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jordan-river> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
   <https://github.com/john1hsu/bible-graph/id/john-the-baptist> <https://github.com/john1hsu/bible-graph/ontology#prefiguredBy> <https://github.com/john1hsu/bible-graph/id/elijah> .
@@ -17659,7 +17944,9 @@
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
   <https://github.com/john1hsu/bible-graph/id/lutheranism> <https://github.com/john1hsu/bible-graph/ontology#holds> <https://github.com/john1hsu/bible-graph/id/scripture-interprets-scripture> .
+  <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
+  <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/jeremiahs-temple-sermon> .
   <https://github.com/john1hsu/bible-graph/id/major-prophets> <https://github.com/john1hsu/bible-graph/ontology#hasPart> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
@@ -17684,6 +17971,7 @@
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#contrastsWith> <https://github.com/john1hsu/bible-graph/id/septuagint> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> .
+  <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/old-testament> .
   <https://github.com/john1hsu/bible-graph/id/masoretic-text> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
@@ -17691,6 +17979,7 @@
   <https://github.com/john1hsu/bible-graph/id/matthew-the-apostle> <https://github.com/john1hsu/bible-graph/ontology#attributedAuthorOf> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
   <https://github.com/john1hsu/bible-graph/id/merneptah-stele> <https://github.com/john1hsu/bible-graph/ontology#corroborates> <https://github.com/john1hsu/bible-graph/id/israelites> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/bethlehem> .
+  <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/david> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
   <https://github.com/john1hsu/bible-graph/id/messiah> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/kingdom-of-god> .
@@ -17781,6 +18070,7 @@
   <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/public-ministry-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-story-of-the-bible> .
+  <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/gospels> .
   <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/new-testament> .
   <https://github.com/john1hsu/bible-graph/id/nazareth> <https://github.com/john1hsu/bible-graph/ontology#featuredIn> <https://github.com/john1hsu/bible-graph/id/nazareth-sermon> .
@@ -17838,6 +18128,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/the-bible> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/deuteronomy> .
@@ -17849,6 +18140,7 @@
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/old-testament> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/david> .
@@ -18061,6 +18353,7 @@
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Concept> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Entity> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Genre> .
+  <https://github.com/john1hsu/bible-graph/id/prophecy> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/prophecy> <https://github.com/john1hsu/bible-graph/ontology#genreOf> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/elijah> .
   <https://github.com/john1hsu/bible-graph/id/prophets> <http://www.w3.org/2004/02/skos/core#narrower> <https://github.com/john1hsu/bible-graph/id/john-the-baptist> .
@@ -18113,6 +18406,7 @@
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#broaderTransitive> <https://github.com/john1hsu/bible-graph/id/judaism> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/abrahamic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
+  <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/grief> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/mosaic-covenant> .
   <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/ruths-vow-to-naomi> .
@@ -18339,6 +18633,7 @@
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#explains> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#influenced> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
+  <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
   <https://github.com/john1hsu/bible-graph/id/septuagint> <https://github.com/john1hsu/bible-graph/ontology#preserves> <https://github.com/john1hsu/bible-graph/id/old-testament> .
@@ -18500,6 +18795,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/biblical-interpretation> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ezra> .
+  <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/book-of-ruth> .
   <https://github.com/john1hsu/bible-graph/id/the-bible> <http://www.w3.org/2004/02/skos/core#narrowerTransitive> <https://github.com/john1hsu/bible-graph/id/calling-of-the-first-disciples> .
@@ -18617,6 +18913,7 @@
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/1-kings> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/antiquities-of-the-jews> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/binding-of-isaac> .
+  <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/book-of-jeremiah> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
   <https://github.com/john1hsu/bible-graph/id/the-temple> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jerusalem> .

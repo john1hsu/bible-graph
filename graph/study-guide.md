@@ -785,6 +785,18 @@ Study questions:
 - Ezra 7:10 says Ezra set his heart to seek the law, to do it and to teach it. Why do you think the order of those three verbs matters for anyone who studies Scripture?
 - Ezra's prayer in chapter 9 confesses the sins of the whole community, not just his own. What might it look like for a church to pray that way today?
 
+### [Book of Isaiah](../articles/old-testament-books/book-of-isaiah.md) — Book
+
+Read: Isaiah 1:1; Isaiah 6:1-8; Isaiah 7:1-14; Isaiah 9:6-7; Isaiah 36:1; Isaiah 40:1-8; Isaiah 45:1; Isaiah 52:13–53:12; Isaiah 61:1-2; Isaiah 65:17-25; Luke 4:16-21; Matthew 1:22-23; Mark 1:2-3; Acts 8:28-35
+
+Study questions:
+- In Isaiah 6:1-8, what does Isaiah see and hear in the Temple, how does he react to God's holiness, and what happens before he says he is ready to be sent?
+- Read Isaiah 7:1-14. Who is threatening Jerusalem, which king is Isaiah sent to, and what sign is that king offered? How does Matthew 1:22-23 hear the same sign in the birth of Jesus?
+- Isaiah 40:1 begins with "Comfort, comfort my people." Who needs comfort at this point in the book, and what does verse 8 say will outlast everything that withers?
+- Read Isaiah 52:13–53:12 slowly, then Acts 8:28-35. What question does the Ethiopian official ask Philip, and how would you answer it from the passage itself?
+- In Luke 4:16-21 Jesus reads Isaiah 61:1-2 and says it is fulfilled "today". Which parts of that mission (good news, release, healing, favour) does your church most need to hear or live out?
+- Isaiah 65:17-25 pictures new heavens and a new earth where the wolf and lamb feed together. How does that hope change the way you think about the world's brokenness now?
+
 ### [Book of Jeremiah](../articles/old-testament-books/book-of-jeremiah.md) — Book
 
 Read: Jeremiah 1:1-10; Jeremiah 7:1-15; Jeremiah 20:7-18; Jeremiah 25:1-13; Jeremiah 29:1-14; Jeremiah 31:15; Jeremiah 31:31-34; Jeremiah 32:6-15; Jeremiah 36; Jeremiah 43:1-7; Mark 11:17; Matthew 2:17-18; Luke 22:20; Hebrews 8:8-13

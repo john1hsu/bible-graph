@@ -12,7 +12,9 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-_No results._
+| book |
+|---|
+| `bg:book-of-isaiah` |
 
 ## Life situations with no Scripture (gap)
 
@@ -36,6 +38,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | `bg:general-revelation` | Paul at the Areopagus |
 | `bg:grace` | Barnabas, Paul, Peter |
 | `bg:hesed` | Ruth's Vow to Naomi |
+| `bg:holiness` | Book of Isaiah |
 | `bg:holy-spirit` | Pentecost, The Nazareth Sermon |
 | `bg:justification` | Abraham |
 | `bg:kingdom-of-god` | Acts of the Apostles, Calling of the First Disciples, Galilee, Gospel of Luke, Gospel of Mark, Gospel of Matthew, Jesus, Psalm 22, Sermon on the Mount, The Four Gospels, The Lord's Prayer, The Nazareth Sermon, The Shema, The Song of the Sea |
@@ -77,18 +80,18 @@ _Which people, groups, places and events appear in each book, passage or event?_
 | `bg:book-of-ezra` | `bg:ezra` |
 | `bg:book-of-ezra` | `bg:second-temple-judaism` |
 | `bg:book-of-ezra` | `bg:zerubbabel` |
+| `bg:book-of-isaiah` | `bg:ahaz` |
+| `bg:book-of-isaiah` | `bg:babylonian-exile` |
+| `bg:book-of-isaiah` | `bg:cyrus-the-great` |
+| `bg:book-of-isaiah` | `bg:hezekiah` |
+| `bg:book-of-isaiah` | `bg:isaiah` |
+| `bg:book-of-isaiah` | `bg:jerusalem` |
 | `bg:book-of-jeremiah` | `bg:babylonian-exile` |
 | `bg:book-of-jeremiah` | `bg:baruch` |
 | `bg:book-of-jeremiah` | `bg:jeremiah` |
 | `bg:book-of-jeremiah` | `bg:jerusalem` |
-| `bg:book-of-jeremiah` | `bg:nebuchadnezzar-ii` |
-| `bg:book-of-ruth` | `bg:bethlehem` |
-| `bg:book-of-ruth` | `bg:boaz` |
-| `bg:book-of-ruth` | `bg:david` |
-| `bg:book-of-ruth` | `bg:naomi` |
-| `bg:book-of-ruth` | `bg:ruth-the-moabite` |
 
-…and 58 more.
+…and 64 more.
 
 ## Popular misconceptions and what corrects them
 
