@@ -120,6 +120,7 @@ _Which doctrines, methods and practices does each Christian (or Jewish) traditio
 | tradition | teaching |
 |---|---|
 | `bg:anglicanism` | `bg:praying-the-psalms` |
+| `bg:catholic-church` | `bg:choosing-a-bible-translation` |
 | `bg:catholic-church` | `bg:deuterocanonical-books` |
 | `bg:catholic-church` | `bg:lectio-divina` |
 | `bg:catholic-church` | `bg:praying-the-psalms` |

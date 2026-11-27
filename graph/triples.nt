@@ -1420,6 +1420,97 @@
 <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Malachi 4:5" .
 <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 12:26" .
 <https://github.com/john1hsu/bible-graph/id/chapters-and-verses> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Nehemiah 8:8, what did the Levites do besides reading the law aloud, and what was the result for the people listening?" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "According to Acts 2:6-8, what amazed the crowd at Pentecost about the way they heard the apostles?" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "In 1 Corinthians 14:9-11 and 14:19, why does Paul insist on words the hearers can understand in the assembly?" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "What is the difference between a word-for-word translation, a meaning-based translation and a paraphrase, and when might each be useful?" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Which translation do you read most, and what do you know about how and by whom it was made? What would you gain by reading a passage this week in a second version?" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Rewrite> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> <https://github.com/john1hsu/bible-graph/ontology#after> "Let's check the footnotes and the prefaces: one version is more word-for-word and the other more meaning-based, and we can see from a commentary what the original says and why they render it differently." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> <https://github.com/john1hsu/bible-graph/ontology#before> "Your version changed the Bible. Mine says it the way I like, so I'll go with mine." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> <https://github.com/john1hsu/bible-graph/ontology#situation> "In a small group, two members read the same verse aloud from different translations and the wording does not match. One of them says one Bible must be wrong." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> <https://github.com/john1hsu/bible-graph/ontology#why> "Every translation is also an interpretation, so differences usually show the range of the original's meaning rather than a corruption, and comparing versions with their notes keeps the group close to what the text actually says." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/1> <https://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/1> <https://schema.org/text> "Decide what the Bible is mainly for right now (daily reading, close study, reading aloud in church, reading with children or new readers), because different translations serve different purposes." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/2> <https://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/2> <https://schema.org/text> "Read the translation's preface to learn its approach (more word-for-word or more meaning-based), which Hebrew and Greek texts it translates, and how it uses footnotes." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/3> <https://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/3> <https://schema.org/text> "Check which books it contains and, if you belong to a church that approves translations, whether this one (or this edition of it) is approved." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/4> <https://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/4> <https://schema.org/text> "Choose one main translation you can stay with for years, so you come to know its wording well." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/5> <https://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/5> <https://schema.org/text> "When a passage matters for study, teaching or a disagreement, compare at least one translation from the other end of the spectrum and read the footnotes before drawing conclusions." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowToStep> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/6> <https://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/6> <https://schema.org/text> "Where versions differ sharply, look the verse up in a good commentary to see why scholars render it differently, rather than picking the wording you like best." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/HowTo> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/name> "Choosing a Bible Translation" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/1> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/2> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/3> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/4> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/5> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> <https://schema.org/step> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto/6> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://purl.org/dc/terms/created> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Practice> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2000/01/rdf-schema#label> "Choosing a Bible Translation" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "Bible versions guide" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "choosing a Bible version" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "comparing Bible translations" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "picking a Bible translation" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#altLabel> "which Bible translation should I read" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/bible-translation> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#definition> "The practice of choosing, and learning to use well, an English version of the Bible: knowing how translations differ (word-for-word, meaning-based and paraphrase), which Hebrew and Greek texts and which books they include, what one's own church approves, and comparing more than one version when a passage matters." .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/study-practices> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Choosing a Bible Translation" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/biblical-canon> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/deuterocanonical-books> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/eastern-orthodoxy> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/reading-in-context> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/septuagint> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/vulgate> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/william-tyndale> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#addresses> <https://github.com/john1hsu/bible-graph/id/word-study-fallacies> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#basis> "devotional" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#complements> <https://github.com/john1hsu/bible-graph/id/inductive-bible-study> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#domain> "study-practices" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#example> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/example> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/masoretic-text> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#explainedBy> <https://github.com/john1hsu/bible-graph/id/textual-criticism> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/study-practices/choosing-a-bible-translation.md" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#heldBy> <https://github.com/john1hsu/bible-graph/id/catholic-church> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#howTo> <https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation/howto> .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 14:19" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Corinthians 14:9-11" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 2:6-8" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Nehemiah 8:8" .
+<https://github.com/john1hsu/bible-graph/id/choosing-a-bible-translation> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Mark 15:16-32. Who mocks Jesus, and what title keeps coming back in their mockery and in the charge fixed to the cross?" .
 <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
@@ -7987,6 +8078,54 @@
 <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/chapters-and-verses/s9> <https://schema.org/url> <https://mail.biblehub.com/multi/isaiah/52-13.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <http://purl.org/dc/terms/title> "Nehemiah 8:8 (American Standard Version, with World English Bible and King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s1> <https://schema.org/url> <https://biblehub.com/asv/nehemiah/8-8.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <http://purl.org/dc/terms/title> "Acts 2:8 (World English Bible, with verses 6-10)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s2> <https://schema.org/url> <https://www.biblestudytools.com/web/acts/2-8.html> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <http://purl.org/dc/terms/title> "1 Corinthians 14 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s3> <https://schema.org/url> <https://biblehub.com/web/1_corinthians/14.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <http://purl.org/dc/terms/title> "How do we choose which Bible translation to read? (Tony Watkins, 4 April 2023)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s4> <https://schema.org/url> <https://tyndale.cam.ac.uk/explore/articles/bible-translations/> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <http://purl.org/dc/terms/publisher> "Encyclopedia of The Bible, Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <http://purl.org/dc/terms/title> "Bible (English Versions)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s5> <https://schema.org/url> <https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Bible-English-Versions> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <http://purl.org/dc/terms/publisher> "Crossway (ESV.org)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <http://purl.org/dc/terms/title> "Preface to the English Standard Version" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "institutional" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s6> <https://schema.org/url> <https://www.esv.org/preface/> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <http://purl.org/dc/terms/publisher> "United States Conference of Catholic Bishops" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <http://purl.org/dc/terms/title> "Approved Translations of the Bible (USCCB Approved Translations of the Sacred Scriptures for Private Use and Study by Catholics)" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s7> <https://schema.org/url> <https://www.usccb.org/offices/new-american-bible/approved-translations-bible> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <http://purl.org/dc/terms/date> "2026-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <http://purl.org/dc/terms/publisher> "Orthodox Church in America" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <http://purl.org/dc/terms/title> "The Orthodox Faith, Volume I, Doctrine and Scripture, Sources of Christian Doctrine, \"Bible\"" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "confessional" .
+<https://github.com/john1hsu/bible-graph/id/source/choosing-a-bible-translation/s8> <https://schema.org/url> <https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine/sources-of-christian-doctrine/bible1> .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/date> "2026-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/publisher> "Livius.org" .
 <https://github.com/john1hsu/bible-graph/id/source/crucifixion-of-jesus/s10> <http://purl.org/dc/terms/title> "Tacitus, Annals 15.44 (Tacitus on the Christians)" .

@@ -963,6 +963,32 @@ Study questions:
 
 ## study-practices
 
+### [Choosing a Bible Translation](../articles/study-practices/choosing-a-bible-translation.md) — Practice
+
+Read: Nehemiah 8:8; Acts 2:6-8; 1 Corinthians 14:9-11; 1 Corinthians 14:19
+
+1. Decide what the Bible is mainly for right now (daily reading, close study, reading aloud in church, reading with children or new readers), because different translations serve different purposes.
+2. Read the translation's preface to learn its approach (more word-for-word or more meaning-based), which Hebrew and Greek texts it translates, and how it uses footnotes.
+3. Check which books it contains and, if you belong to a church that approves translations, whether this one (or this edition of it) is approved.
+4. Choose one main translation you can stay with for years, so you come to know its wording well.
+5. When a passage matters for study, teaching or a disagreement, compare at least one translation from the other end of the spectrum and read the footnotes before drawing conclusions.
+6. Where versions differ sharply, look the verse up in a good commentary to see why scholars render it differently, rather than picking the wording you like best.
+
+*In a small group, two members read the same verse aloud from different translations and the wording does not match. One of them says one Bible must be wrong.*
+
+| Before | After |
+|---|---|
+| Your version changed the Bible. Mine says it the way I like, so I'll go with mine. | Let's check the footnotes and the prefaces: one version is more word-for-word and the other more meaning-based, and we can see from a commentary what the original says and why they render it differently. |
+
+**Why:** Every translation is also an interpretation, so differences usually show the range of the original's meaning rather than a corruption, and comparing versions with their notes keeps the group close to what the text actually says.
+
+Study questions:
+- In Nehemiah 8:8, what did the Levites do besides reading the law aloud, and what was the result for the people listening?
+- According to Acts 2:6-8, what amazed the crowd at Pentecost about the way they heard the apostles?
+- In 1 Corinthians 14:9-11 and 14:19, why does Paul insist on words the hearers can understand in the assembly?
+- What is the difference between a word-for-word translation, a meaning-based translation and a paraphrase, and when might each be useful?
+- Which translation do you read most, and what do you know about how and by whom it was made? What would you gain by reading a passage this week in a second version?
+
 ### [Inductive Bible Study](../articles/study-practices/inductive-bible-study.md) — Practice
 
 Read: Acts 17:10-12; Ezra 7:10; Psalm 119:18; James 1:22-25; Mark 4:35-41; Psalm 107:23-30

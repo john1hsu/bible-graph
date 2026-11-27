@@ -2703,6 +2703,137 @@
   ]
  },
  {
+  "id": "bg:choosing-a-bible-translation",
+  "title": "Choosing a Bible Translation",
+  "aliases": [
+   "choosing a Bible version",
+   "which Bible translation should I read",
+   "picking a Bible translation",
+   "comparing Bible translations",
+   "Bible versions guide"
+  ],
+  "type": "Practice",
+  "domain": "study-practices",
+  "level": "introductory",
+  "basis": "devotional",
+  "file": "articles/study-practices/choosing-a-bible-translation.md",
+  "created": "2026-11-27",
+  "summary": "The practice of choosing, and learning to use well, an English version of the Bible: knowing how translations differ (word-for-word, meaning-based and paraphrase), which Hebrew and Greek texts and which books they include, what one's own church approves, and comparing more than one version when a passage matters.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:bible-translation"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:septuagint"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:masoretic-text"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:textual-criticism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:deuterocanonical-books"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:biblical-canon"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:inductive-bible-study"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:reading-in-context"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:eastern-orthodoxy"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:william-tyndale"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:vulgate"
+   },
+   {
+    "predicate": "bgo:heldBy",
+    "object": "bg:catholic-church",
+    "source": "s7",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:textual-criticism",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:explainedBy",
+    "object": "bg:masoretic-text",
+    "source": "s6",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:complements",
+    "object": "bg:inductive-bible-study",
+    "source": "s4",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:addresses",
+    "object": "bg:word-study-fallacies",
+    "source": "s4",
+    "confidence": "low"
+   }
+  ],
+  "references": [
+   "Nehemiah 8:8",
+   "Acts 2:6-8",
+   "1 Corinthians 14:9-11",
+   "1 Corinthians 14:19"
+  ],
+  "studyQuestions": [
+   "In Nehemiah 8:8, what did the Levites do besides reading the law aloud, and what was the result for the people listening?",
+   "According to Acts 2:6-8, what amazed the crowd at Pentecost about the way they heard the apostles?",
+   "In 1 Corinthians 14:9-11 and 14:19, why does Paul insist on words the hearers can understand in the assembly?",
+   "What is the difference between a word-for-word translation, a meaning-based translation and a paraphrase, and when might each be useful?",
+   "Which translation do you read most, and what do you know about how and by whom it was made? What would you gain by reading a passage this week in a second version?"
+  ],
+  "steps": [
+   "Decide what the Bible is mainly for right now (daily reading, close study, reading aloud in church, reading with children or new readers), because different translations serve different purposes.",
+   "Read the translation's preface to learn its approach (more word-for-word or more meaning-based), which Hebrew and Greek texts it translates, and how it uses footnotes.",
+   "Check which books it contains and, if you belong to a church that approves translations, whether this one (or this edition of it) is approved.",
+   "Choose one main translation you can stay with for years, so you come to know its wording well.",
+   "When a passage matters for study, teaching or a disagreement, compare at least one translation from the other end of the spectrum and read the footnotes before drawing conclusions.",
+   "Where versions differ sharply, look the verse up in a good commentary to see why scholars render it differently, rather than picking the wording you like best."
+  ],
+  "example": {
+   "situation": "In a small group, two members read the same verse aloud from different translations and the wording does not match. One of them says one Bible must be wrong.",
+   "before": "Your version changed the Bible. Mine says it the way I like, so I'll go with mine.",
+   "after": "Let's check the footnotes and the prefaces: one version is more word-for-word and the other more meaning-based, and we can see from a commentary what the original says and why they render it differently.",
+   "why": "Every translation is also an interpretation, so differences usually show the range of the original's meaning rather than a corruption, and comparing versions with their notes keeps the group close to what the text actually says."
+  },
+  "source_urls": [
+   "https://biblehub.com/asv/nehemiah/8-8.htm",
+   "https://www.biblestudytools.com/web/acts/2-8.html",
+   "https://biblehub.com/web/1_corinthians/14.htm",
+   "https://tyndale.cam.ac.uk/explore/articles/bible-translations/",
+   "https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Bible-English-Versions",
+   "https://www.esv.org/preface/",
+   "https://www.usccb.org/offices/new-american-bible/approved-translations-bible",
+   "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine/sources-of-christian-doctrine/bible1"
+  ]
+ },
+ {
   "id": "bg:crucifixion-of-jesus",
   "title": "Crucifixion of Jesus",
   "aliases": [
