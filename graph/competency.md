@@ -12,9 +12,7 @@ _No results._
 
 _Which written books of the Bible have no written key passage or parable that is part of them?_ — `queries/02-books-without-key-passage.rq`
 
-| book |
-|---|
-| `bg:book-of-isaiah` |
+_No results._
 
 ## Life situations with no Scripture (gap)
 
@@ -29,7 +27,7 @@ _For each theme, covenant and doctrine, which books and passages teach it and wh
 | theme | texts |
 |---|---|
 | `bg:abrahamic-covenant` | Abraham, Genesis, Israelites, The Binding of Isaac |
-| `bg:atonement` | Crucifixion of Jesus |
+| `bg:atonement` | Crucifixion of Jesus, The Suffering Servant |
 | `bg:baptism` | Jordan River |
 | `bg:davidic-covenant` | 1 Kings, Bethlehem, David, Solomon's Dream at Gibeon, The Temple |
 | `bg:discipleship` | Calling of the First Disciples |
@@ -162,6 +160,7 @@ _Which people, events and passages does the New Testament present as fulfilling 
 | `bg:psalm-22` | fulfils | `bg:crucifixion-of-jesus` |
 | `bg:psalm-22` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:psalm-22` | quotes | `bg:gospel-of-mark` |
+| `bg:suffering-servant` | prefigures | `bg:crucifixion-of-jesus` |
 | `bg:ten-commandments` | quotes | `bg:sermon-on-the-mount` |
 | `bg:the-exodus` | prefigures | `bg:baptism` |
 | `bg:the-exodus` | prefigures | `bg:crucifixion-of-jesus` |

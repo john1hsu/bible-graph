@@ -446,6 +446,18 @@ Study questions:
 - Who is Miriam (Exodus 15:20), and what does it mean that the women answer the song with drums and dancing?
 - In Revelation 15:3 the redeemed sing "the song of Moses ... and the song of the Lamb". What rescue in your own life or your church's story would you put into words of praise?
 
+### [The Suffering Servant](../articles/key-passages/suffering-servant.md) — Passage
+
+Read: Isaiah 52:13–53:12; Isaiah 52:13-15; Isaiah 53:1-3; Isaiah 53:4-6; Isaiah 53:7-9; Isaiah 53:10-12; Isaiah 42:1; Isaiah 49:3; Acts 8:26-35; Luke 22:37; Matthew 8:17; 1 Peter 2:24; Mark 10:45
+
+Study questions:
+- Read Isaiah 52:13-15 and 53:10-12. How does the poem begin and end, and why might it frame the Servant's suffering with his exaltation?
+- Who is speaking in Isaiah 53:1-6 ("we", "our", "us")? What did they think about the Servant at first, and what did they come to see?
+- List what happens to the Servant in Isaiah 53:7-9. What does the poem say about how he responded, and about what he had or hadn't done?
+- In Acts 8:34 the Ethiopian official asks whether the prophet is speaking of himself or someone else. How do the different answers in this article help you understand his question?
+- Jesus applies Isaiah 53:12 to himself in Luke 22:37, and 1 Peter 2:24 echoes Isaiah 53:5. What does each writer want you to understand about the cross?
+- The early Christian letter 1 Clement used this poem to call a church to humility. Where in your own life or church does the Servant's way of suffering for others speak most directly?
+
 ## life-and-teachings-of-jesus
 
 ### [Calling of the First Disciples](../articles/life-and-teachings-of-jesus/calling-of-the-first-disciples.md) — Event

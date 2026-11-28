@@ -11129,6 +11129,136 @@
   ]
  },
  {
+  "id": "bg:suffering-servant",
+  "title": "The Suffering Servant",
+  "aliases": [
+   "Isaiah 53",
+   "Isaiah 52:13–53:12",
+   "Fourth Servant Song",
+   "Song of the Suffering Servant",
+   "the servant poem of Isaiah 53"
+  ],
+  "type": "Passage",
+  "domain": "key-passages",
+  "level": "introductory",
+  "basis": "debated",
+  "file": "articles/key-passages/suffering-servant.md",
+  "created": "2026-11-28",
+  "summary": "The poem in Isaiah 52:13–53:12, the last of the four \"Servant Songs\", about the Lord's servant who is despised, wounded and cut off from the land of the living for the sins of others, yet is finally exalted and justifies many. Jewish interpreters have often read the Servant as Israel; the New Testament reads him as Jesus.",
+  "edges": [
+   {
+    "predicate": "skos:broader",
+    "object": "bg:book-of-isaiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:crucifixion-of-jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:jesus"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:acts-of-the-apostles"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-luke"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:gospel-of-matthew"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:psalm-22"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:messiah"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:rabbinic-judaism"
+   },
+   {
+    "predicate": "skos:related",
+    "object": "bg:suffering-and-lament"
+   },
+   {
+    "predicate": "bgo:requires",
+    "object": "bg:book-of-isaiah"
+   },
+   {
+    "predicate": "bgo:partOf",
+    "object": "bg:book-of-isaiah",
+    "source": "s2",
+    "confidence": "high"
+   },
+   {
+    "predicate": "bgo:teaches",
+    "object": "bg:atonement",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:prefigures",
+    "object": "bg:crucifixion-of-jesus",
+    "source": "s9",
+    "confidence": "medium"
+   },
+   {
+    "predicate": "bgo:preservedIn",
+    "object": "bg:dead-sea-scrolls",
+    "source": "s13",
+    "confidence": "high"
+   }
+  ],
+  "references": [
+   "Isaiah 52:13–53:12",
+   "Isaiah 52:13-15",
+   "Isaiah 53:1-3",
+   "Isaiah 53:4-6",
+   "Isaiah 53:7-9",
+   "Isaiah 53:10-12",
+   "Isaiah 42:1",
+   "Isaiah 49:3",
+   "Acts 8:26-35",
+   "Luke 22:37",
+   "Matthew 8:17",
+   "1 Peter 2:24",
+   "Mark 10:45"
+  ],
+  "studyQuestions": [
+   "Read Isaiah 52:13-15 and 53:10-12. How does the poem begin and end, and why might it frame the Servant's suffering with his exaltation?",
+   "Who is speaking in Isaiah 53:1-6 (\"we\", \"our\", \"us\")? What did they think about the Servant at first, and what did they come to see?",
+   "List what happens to the Servant in Isaiah 53:7-9. What does the poem say about how he responded, and about what he had or hadn't done?",
+   "In Acts 8:34 the Ethiopian official asks whether the prophet is speaking of himself or someone else. How do the different answers in this article help you understand his question?",
+   "Jesus applies Isaiah 53:12 to himself in Luke 22:37, and 1 Peter 2:24 echoes Isaiah 53:5. What does each writer want you to understand about the cross?",
+   "The early Christian letter 1 Clement used this poem to call a church to humility. Where in your own life or church does the Servant's way of suffering for others speak most directly?"
+  ],
+  "steps": [],
+  "example": null,
+  "source_urls": [
+   "https://biblehub.com/web/isaiah/52.htm",
+   "https://biblehub.com/web/isaiah/53.htm",
+   "https://www.bible.com/bible/1/ACT.8.KJV",
+   "https://biblehub.com/kjv/luke/22-37.htm",
+   "https://biblehub.com/kjv/matthew/8-17.htm",
+   "https://www.blueletterbible.org/verse/kjv/1pe/2/24",
+   "https://biblehub.com/isaiah/42-1.htm",
+   "https://biblehub.com/kjv/isaiah/49-3.htm",
+   "https://biblegateway.com/resources/encyclopedia-of-the-bible/Servant-Lord-Yahweh-Jehovah",
+   "https://www.jewishencyclopedia.com/articles/13444-servant-of-god.html",
+   "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/servant-lord",
+   "https://www.tyndalebulletin.org/article/30670-the-servant-of-the-lord-in-the-teaching-of-jesus.pdf",
+   "https://artsandculture.google.com/asset/the-great-isaiah-scroll-ms-a-1qisa-1st-century-bce-unknown/egE3f_wDueWd4A",
+   "https://www.newadvent.org/fathers/1010.htm",
+   "https://www.biblestudytools.com/kjv/mark/10-45.html"
+  ]
+ },
+ {
   "id": "bg:synagogue",
   "title": "Synagogue",
   "aliases": [

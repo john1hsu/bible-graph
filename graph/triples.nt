@@ -13964,6 +13964,96 @@
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
 <https://github.com/john1hsu/bible-graph/id/source/suffering-and-lament/s9> <https://schema.org/url> <https://www.biblestudytools.com/web/romans/8.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <http://purl.org/dc/terms/title> "Servant of God (Jewish Encyclopedia, Emil G. Hirsch)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> <https://schema.org/url> <https://www.jewishencyclopedia.com/articles/13444-servant-of-god.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <http://purl.org/dc/terms/publisher> "Gale / Encyclopedia.com" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <http://purl.org/dc/terms/title> "Servant of the Lord (Encyclopaedia Judaica, Shalom M. Paul)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> <https://schema.org/url> <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/servant-lord> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <http://purl.org/dc/terms/publisher> "Tyndale House, Cambridge" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <http://purl.org/dc/terms/title> "R. T. France, \"The Servant of the Lord in the Teaching of Jesus\" (Tyndale Biblical Theology Lecture 1967), Tyndale Bulletin 19" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> <https://schema.org/url> <https://www.tyndalebulletin.org/article/30670-the-servant-of-the-lord-in-the-teaching-of-jesus.pdf> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <http://purl.org/dc/terms/publisher> "The Israel Museum, Jerusalem, via Google Arts & Culture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <http://purl.org/dc/terms/title> "The Great Isaiah Scroll (MS A, 1QIsa-a) (curator Adolfo Roitman)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "museum" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> <https://schema.org/url> <https://artsandculture.google.com/asset/the-great-isaiah-scroll-ms-a-1qisa-1st-century-bce-unknown/egE3f_wDueWd4A> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <http://purl.org/dc/terms/publisher> "New Advent" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <http://purl.org/dc/terms/title> "Clement of Rome, Letter to the Corinthians (1 Clement), chapter 16 (Ante-Nicene Fathers translation)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> <https://schema.org/url> <https://www.newadvent.org/fathers/1010.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <http://purl.org/dc/terms/publisher> "Bible Study Tools" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <http://purl.org/dc/terms/title> "Mark 10:45 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> <https://schema.org/url> <https://www.biblestudytools.com/kjv/mark/10-45.html> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <http://purl.org/dc/terms/title> "Isaiah 52 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> <https://schema.org/url> <https://biblehub.com/web/isaiah/52.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <http://purl.org/dc/terms/title> "Isaiah 53 (World English Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> <https://schema.org/url> <https://biblehub.com/web/isaiah/53.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <http://purl.org/dc/terms/publisher> "YouVersion (Bible.com)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <http://purl.org/dc/terms/title> "Acts 8 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> <https://schema.org/url> <https://www.bible.com/bible/1/ACT.8.KJV> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <http://purl.org/dc/terms/title> "Luke 22:37 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> <https://schema.org/url> <https://biblehub.com/kjv/luke/22-37.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <http://purl.org/dc/terms/title> "Matthew 8:17 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> <https://schema.org/url> <https://biblehub.com/kjv/matthew/8-17.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <http://purl.org/dc/terms/publisher> "Blue Letter Bible" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <http://purl.org/dc/terms/title> "1 Peter 2:24 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> <https://schema.org/url> <https://www.blueletterbible.org/verse/kjv/1pe/2/24> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <http://purl.org/dc/terms/title> "Isaiah 42:1 (World English Bible and King James Version, parallel)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> <https://schema.org/url> <https://biblehub.com/isaiah/42-1.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <http://purl.org/dc/terms/publisher> "Bible Hub" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <http://purl.org/dc/terms/title> "Isaiah 49:3 (King James Version)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "scripture" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> <https://schema.org/url> <https://biblehub.com/kjv/isaiah/49-3.htm> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <http://purl.org/dc/terms/date> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <http://purl.org/dc/terms/publisher> "Bible Gateway" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <http://purl.org/dc/terms/title> "Servant of the Lord (Yahweh, Jehovah) (Encyclopedia of the Bible)" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Source> .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <https://github.com/john1hsu/bible-graph/ontology#sourceType> "reference-work" .
+<https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> <https://schema.org/url> <https://biblegateway.com/resources/encyclopedia-of-the-bible/Servant-Lord-Yahweh-Jehovah> .
 <https://github.com/john1hsu/bible-graph/id/source/synagogue/s10> <http://purl.org/dc/terms/date> "2026-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://github.com/john1hsu/bible-graph/id/source/synagogue/s10> <http://purl.org/dc/terms/publisher> "Bible Hub" .
 <https://github.com/john1hsu/bible-graph/id/source/synagogue/s10> <http://purl.org/dc/terms/title> "James 2:2 (parallel translations, WEB, KJV, ASV, with Greek note)" .
@@ -14561,6 +14651,82 @@
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-job> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/book-of-lamentations> .
 <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> <https://github.com/john1hsu/bible-graph/ontology#supportedBy> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "Read Isaiah 52:13-15 and 53:10-12. How does the poem begin and end, and why might it frame the Servant's suffering with his exaltation?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/2> <http://www.w3.org/2000/01/rdf-schema#label> "Who is speaking in Isaiah 53:1-6 (\"we\", \"our\", \"us\")? What did they think about the Servant at first, and what did they come to see?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/2> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/3> <http://www.w3.org/2000/01/rdf-schema#label> "List what happens to the Servant in Isaiah 53:7-9. What does the poem say about how he responded, and about what he had or hadn't done?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/3> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/4> <http://www.w3.org/2000/01/rdf-schema#label> "In Acts 8:34 the Ethiopian official asks whether the prophet is speaking of himself or someone else. How do the different answers in this article help you understand his question?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/4> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/5> <http://www.w3.org/2000/01/rdf-schema#label> "Jesus applies Isaiah 53:12 to himself in Luke 22:37, and 1 Peter 2:24 echoes Isaiah 53:5. What does each writer want you to understand about the cross?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/5> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/6> <http://www.w3.org/2000/01/rdf-schema#label> "The early Christian letter 1 Clement used this poem to call a church to humility. Where in your own life or church does the Servant's way of suffering for others speak most directly?" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant/check/6> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/suffering-servant> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://purl.org/dc/terms/created> "2026-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#Passage> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2000/01/rdf-schema#label> "The Suffering Servant" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#altLabel> "Fourth Servant Song" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#altLabel> "Isaiah 52:13–53:12" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#altLabel> "Isaiah 53" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#altLabel> "Song of the Suffering Servant" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#altLabel> "the servant poem of Isaiah 53" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#definition> "The poem in Isaiah 52:13–53:12, the last of the four \"Servant Songs\", about the Lord's servant who is despised, wounded and cut off from the land of the living for the sins of others, yet is finally exalted and justifies many. Jewish interpreters have often read the Servant as Israel; the New Testament reads him as Jesus." .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#inScheme> <https://github.com/john1hsu/bible-graph/id/scheme/key-passages> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Suffering Servant" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/acts-of-the-apostles> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-luke> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/gospel-of-matthew> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/jesus> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/messiah> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/psalm-22> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/rabbinic-judaism> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/bible-graph/id/suffering-and-lament> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#basis> "debated" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#domain> "key-passages" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#file> "articles/key-passages/suffering-servant.md" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "1 Peter 2:24" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Acts 8:26-35" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 42:1" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 49:3" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 52:13-15" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 52:13–53:12" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 53:1-3" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 53:10-12" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 53:4-6" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Isaiah 53:7-9" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Luke 22:37" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Mark 10:45" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#keyReference> "Matthew 8:17" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#level> "introductory" .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#partOf> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#prefigures> <https://github.com/john1hsu/bible-graph/id/crucifixion-of-jesus> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#preservedIn> <https://github.com/john1hsu/bible-graph/id/dead-sea-scrolls> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#requires> <https://github.com/john1hsu/bible-graph/id/book-of-isaiah> .
+<https://github.com/john1hsu/bible-graph/id/suffering-servant> <https://github.com/john1hsu/bible-graph/ontology#teaches> <https://github.com/john1hsu/bible-graph/id/atonement> .
 <https://github.com/john1hsu/bible-graph/id/synagogue/check/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/bible-graph/ontology#StudyQuestion> .
 <https://github.com/john1hsu/bible-graph/id/synagogue/check/1> <http://www.w3.org/2000/01/rdf-schema#label> "In Luke 4:16-21, what does Jesus do in the Nazareth synagogue, step by step, and what does he say has happened \"today\"?" .
 <https://github.com/john1hsu/bible-graph/id/synagogue/check/1> <https://github.com/john1hsu/bible-graph/ontology#questionFor> <https://github.com/john1hsu/bible-graph/id/synagogue> .

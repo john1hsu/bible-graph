@@ -4,28 +4,28 @@ Pairs of written nodes that share many neighbours but are not yet connected (Ada
 
 | Score | Node A | Node B | Shared neighbours |
 |---|---|---|---|
-| 4.04 | `bg:gospel-of-luke` | `bg:jesus` | `bg:apostles`, `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospels` |
-| 3.91 | `bg:book-of-isaiah` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
-| 3.75 | `bg:gospel-of-matthew` | `bg:jesus` | `bg:apostles`, `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:galilee` |
-| 3.71 | `bg:gospel-of-mark` | `bg:jesus` | `bg:apostles`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:crucifixion-of-jesus`, `bg:galilee` |
-| 3.71 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer` |
-| 3.69 | `bg:book-of-isaiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:dead-sea-scrolls`, `bg:galilee`, `bg:jerusalem`, `bg:jesus` |
+| 4.44 | `bg:gospel-of-luke` | `bg:jesus` | `bg:apostles`, `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospels` |
+| 4.14 | `bg:gospel-of-matthew` | `bg:jesus` | `bg:apostles`, `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:galilee` |
+| 3.83 | `bg:book-of-isaiah` | `bg:kingdom-of-god` | `bg:acts-of-the-apostles`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
+| 3.71 | `bg:acts-of-the-apostles` | `bg:jesus` | `bg:apostles`, `bg:book-of-isaiah`, `bg:gospels`, `bg:jerusalem`, `bg:kingdom-of-god` |
+| 3.70 | `bg:gospel-of-luke` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:forgiveness-in-the-bible`, `bg:gospel-of-matthew`, `bg:kingdom-of-god`, `bg:lords-prayer` |
+| 3.69 | `bg:gospel-of-mark` | `bg:jesus` | `bg:apostles`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:crucifixion-of-jesus`, `bg:galilee` |
+| 3.67 | `bg:book-of-isaiah` | `bg:second-temple-judaism` | `bg:babylonian-exile`, `bg:dead-sea-scrolls`, `bg:galilee`, `bg:jerusalem`, `bg:jesus` |
 | 3.40 | `bg:1-kings` | `bg:book-of-ezra` | `bg:2-chronicles`, `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:historical-books`, `bg:jerusalem` |
-| 3.31 | `bg:acts-of-the-apostles` | `bg:jesus` | `bg:apostles`, `bg:book-of-isaiah`, `bg:gospels`, `bg:jerusalem`, `bg:kingdom-of-god` |
-| 3.29 | `bg:calling-of-the-first-disciples` | `bg:gospels` | `bg:gospel-of-john`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
+| 3.28 | `bg:calling-of-the-first-disciples` | `bg:gospels` | `bg:gospel-of-john`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
 | 3.25 | `bg:acts-of-the-apostles` | `bg:second-temple-judaism` | `bg:apostles`, `bg:barnabas`, `bg:jerusalem`, `bg:kingdom-of-god`, `bg:nazareth-sermon` |
 | 3.06 | `bg:second-temple-judaism` | `bg:sermon-on-the-mount` | `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:jesus`, `bg:kingdom-of-god`, `bg:loving-your-neighbor` |
 | 3.05 | `bg:gospel-of-luke` | `bg:second-temple-judaism` | `bg:apostles`, `bg:calling-of-the-first-disciples`, `bg:jerusalem`, `bg:john-the-baptist`, `bg:kingdom-of-god` |
-| 2.93 | `bg:galilee` | `bg:gospel-of-luke` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
-| 2.80 | `bg:jerusalem` | `bg:nazareth-sermon` | `bg:1-kings`, `bg:acts-of-the-apostles`, `bg:book-of-isaiah`, `bg:galilee`, `bg:gospel-of-luke` |
+| 2.92 | `bg:galilee` | `bg:gospel-of-luke` | `bg:bethlehem`, `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
+| 2.80 | `bg:book-of-isaiah` | `bg:psalm-22` | `bg:crucifixion-of-jesus`, `bg:dead-sea-scrolls`, `bg:gospel-of-mark`, `bg:gospel-of-matthew`, `bg:jesus` |
+| 2.79 | `bg:jerusalem` | `bg:nazareth-sermon` | `bg:1-kings`, `bg:acts-of-the-apostles`, `bg:book-of-isaiah`, `bg:galilee`, `bg:gospel-of-luke` |
 | 2.73 | `bg:acts-of-the-apostles` | `bg:gospel-of-mark` | `bg:apostles`, `bg:book-of-isaiah`, `bg:gospel-of-luke`, `bg:gospels`, `bg:kingdom-of-god` |
-| 2.72 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
-| 2.69 | `bg:jerusalem` | `bg:synagogue` | `bg:acts-of-the-apostles`, `bg:babylonian-exile`, `bg:biblical-archaeology`, `bg:galilee`, `bg:gospel-of-luke` |
+| 2.70 | `bg:crucifixion-of-jesus` | `bg:kingdom-of-god` | `bg:gospel-of-mark`, `bg:gospels`, `bg:jerusalem`, `bg:jesus`, `bg:psalm-22` |
+| 2.68 | `bg:jerusalem` | `bg:synagogue` | `bg:acts-of-the-apostles`, `bg:babylonian-exile`, `bg:biblical-archaeology`, `bg:galilee`, `bg:gospel-of-luke` |
 | 2.66 | `bg:book-of-ezra` | `bg:book-of-isaiah` | `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:cyrus-the-great`, `bg:jerusalem`, `bg:old-testament` |
-| 2.65 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
+| 2.64 | `bg:kingdom-of-god` | `bg:peter` | `bg:acts-of-the-apostles`, `bg:calling-of-the-first-disciples`, `bg:galilee`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
 | 2.60 | `bg:abrahamic-covenant` | `bg:lutheranism` | `bg:catholic-church`, `bg:eastern-orthodoxy`, `bg:grace`, `bg:justification`, `bg:mosaic-covenant` |
-| 2.60 | `bg:book-of-isaiah` | `bg:calling-of-the-first-disciples` | `bg:book-of-jeremiah`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
-| 2.57 | `bg:book-of-isaiah` | `bg:synagogue` | `bg:acts-of-the-apostles`, `bg:babylonian-exile`, `bg:galilee`, `bg:gospel-of-luke`, `bg:jesus` |
+| 2.59 | `bg:book-of-isaiah` | `bg:calling-of-the-first-disciples` | `bg:book-of-jeremiah`, `bg:galilee`, `bg:gospel-of-luke`, `bg:gospel-of-mark`, `bg:gospel-of-matthew` |
+| 2.55 | `bg:book-of-isaiah` | `bg:synagogue` | `bg:acts-of-the-apostles`, `bg:babylonian-exile`, `bg:galilee`, `bg:gospel-of-luke`, `bg:jesus` |
+| 2.55 | `bg:kingdom-of-god` | `bg:suffering-servant` | `bg:acts-of-the-apostles`, `bg:gospel-of-luke`, `bg:gospel-of-matthew`, `bg:jesus`, `bg:messiah` |
 | 2.53 | `bg:1-kings` | `bg:book-of-isaiah` | `bg:2-kings`, `bg:babylonian-exile`, `bg:book-of-jeremiah`, `bg:jerusalem`, `bg:nazareth-sermon` |
-| 2.46 | `bg:parable-of-the-good-samaritan` | `bg:shema` | `bg:great-commandment`, `bg:love`, `bg:loving-your-neighbor`, `bg:second-temple-judaism` |
-| 2.46 | `bg:john-the-baptist` | `bg:nazareth-sermon` | `bg:book-of-isaiah`, `bg:calling-of-the-first-disciples`, `bg:elijah`, `bg:gospel-of-luke`, `bg:jesus` |

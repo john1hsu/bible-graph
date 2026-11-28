@@ -11473,6 +11473,140 @@
    ]
   },
   {
+   "@id": "bg:suffering-servant",
+   "@type": "bgo:Passage",
+   "bgo:basis": "debated",
+   "bgo:domain": "key-passages",
+   "bgo:file": "articles/key-passages/suffering-servant.md",
+   "bgo:keyReference": [
+    "1 Peter 2:24",
+    "Acts 8:26-35",
+    "Isaiah 42:1",
+    "Isaiah 49:3",
+    "Isaiah 52:13-15",
+    "Isaiah 52:13–53:12",
+    "Isaiah 53:1-3",
+    "Isaiah 53:10-12",
+    "Isaiah 53:4-6",
+    "Isaiah 53:7-9",
+    "Luke 22:37",
+    "Mark 10:45",
+    "Matthew 8:17"
+   ],
+   "bgo:level": "introductory",
+   "bgo:partOf": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:prefigures": {
+    "@id": "bg:crucifixion-of-jesus"
+   },
+   "bgo:preservedIn": {
+    "@id": "bg:dead-sea-scrolls"
+   },
+   "bgo:requires": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "bgo:teaches": {
+    "@id": "bg:atonement"
+   },
+   "dcterms:created": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "prov:wasDerivedFrom": [
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8"
+    },
+    {
+     "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9"
+    }
+   ],
+   "rdfs:label": "The Suffering Servant",
+   "skos:altLabel": [
+    "Fourth Servant Song",
+    "Isaiah 52:13–53:12",
+    "Isaiah 53",
+    "Song of the Suffering Servant",
+    "the servant poem of Isaiah 53"
+   ],
+   "skos:broader": {
+    "@id": "bg:book-of-isaiah"
+   },
+   "skos:definition": "The poem in Isaiah 52:13–53:12, the last of the four \"Servant Songs\", about the Lord's servant who is despised, wounded and cut off from the land of the living for the sins of others, yet is finally exalted and justifies many. Jewish interpreters have often read the Servant as Israel; the New Testament reads him as Jesus.",
+   "skos:inScheme": {
+    "@id": "https://github.com/john1hsu/bible-graph/id/scheme/key-passages"
+   },
+   "skos:prefLabel": "The Suffering Servant",
+   "skos:related": [
+    {
+     "@id": "bg:acts-of-the-apostles"
+    },
+    {
+     "@id": "bg:crucifixion-of-jesus"
+    },
+    {
+     "@id": "bg:gospel-of-luke"
+    },
+    {
+     "@id": "bg:gospel-of-matthew"
+    },
+    {
+     "@id": "bg:jesus"
+    },
+    {
+     "@id": "bg:messiah"
+    },
+    {
+     "@id": "bg:psalm-22"
+    },
+    {
+     "@id": "bg:rabbinic-judaism"
+    },
+    {
+     "@id": "bg:suffering-and-lament"
+    }
+   ]
+  },
+  {
    "@id": "bg:synagogue",
    "@type": "bgo:Place",
    "bgo:basis": "debated",
@@ -34295,6 +34429,216 @@
    }
   },
   {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s1",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 52 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/isaiah/52.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s10",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "JewishEncyclopedia.com",
+   "dcterms:title": "Servant of God (Jewish Encyclopedia, Emil G. Hirsch)",
+   "schema:url": {
+    "@id": "https://www.jewishencyclopedia.com/articles/13444-servant-of-god.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s11",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Gale / Encyclopedia.com",
+   "dcterms:title": "Servant of the Lord (Encyclopaedia Judaica, Shalom M. Paul)",
+   "schema:url": {
+    "@id": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/servant-lord"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s12",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "peer-reviewed",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Tyndale House, Cambridge",
+   "dcterms:title": "R. T. France, \"The Servant of the Lord in the Teaching of Jesus\" (Tyndale Biblical Theology Lecture 1967), Tyndale Bulletin 19",
+   "schema:url": {
+    "@id": "https://www.tyndalebulletin.org/article/30670-the-servant-of-the-lord-in-the-teaching-of-jesus.pdf"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s13",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "museum",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "The Israel Museum, Jerusalem, via Google Arts & Culture",
+   "dcterms:title": "The Great Isaiah Scroll (MS A, 1QIsa-a) (curator Adolfo Roitman)",
+   "schema:url": {
+    "@id": "https://artsandculture.google.com/asset/the-great-isaiah-scroll-ms-a-1qisa-1st-century-bce-unknown/egE3f_wDueWd4A"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s14",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "primary",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "New Advent",
+   "dcterms:title": "Clement of Rome, Letter to the Corinthians (1 Clement), chapter 16 (Ante-Nicene Fathers translation)",
+   "schema:url": {
+    "@id": "https://www.newadvent.org/fathers/1010.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s15",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Study Tools",
+   "dcterms:title": "Mark 10:45 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.biblestudytools.com/kjv/mark/10-45.html"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s2",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 53 (World English Bible)",
+   "schema:url": {
+    "@id": "https://biblehub.com/web/isaiah/53.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s3",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "YouVersion (Bible.com)",
+   "dcterms:title": "Acts 8 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.bible.com/bible/1/ACT.8.KJV"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s4",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Luke 22:37 (King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/kjv/luke/22-37.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s5",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Matthew 8:17 (King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/kjv/matthew/8-17.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s6",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Blue Letter Bible",
+   "dcterms:title": "1 Peter 2:24 (King James Version)",
+   "schema:url": {
+    "@id": "https://www.blueletterbible.org/verse/kjv/1pe/2/24"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s7",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 42:1 (World English Bible and King James Version, parallel)",
+   "schema:url": {
+    "@id": "https://biblehub.com/isaiah/42-1.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s8",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "scripture",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Hub",
+   "dcterms:title": "Isaiah 49:3 (King James Version)",
+   "schema:url": {
+    "@id": "https://biblehub.com/kjv/isaiah/49-3.htm"
+   }
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/source/suffering-servant/s9",
+   "@type": "bgo:Source",
+   "bgo:sourceType": "reference-work",
+   "dcterms:date": {
+    "@type": "xsd:date",
+    "@value": "2026-11-28"
+   },
+   "dcterms:publisher": "Bible Gateway",
+   "dcterms:title": "Servant of the Lord (Yahweh, Jehovah) (Encyclopedia of the Bible)",
+   "schema:url": {
+    "@id": "https://biblegateway.com/resources/encyclopedia-of-the-bible/Servant-Lord-Yahweh-Jehovah"
+   }
+  },
+  {
    "@id": "https://github.com/john1hsu/bible-graph/id/source/synagogue/s1",
    "@type": "bgo:Source",
    "bgo:sourceType": "scripture",
@@ -35551,6 +35895,54 @@
     "@id": "bg:suffering-and-lament"
    },
    "rdfs:label": "What do I find hardest to say honestly to God? What would it look like to pray a lament psalm in my own words this week?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/1",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "Read Isaiah 52:13-15 and 53:10-12. How does the poem begin and end, and why might it frame the Servant's suffering with his exaltation?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/2",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "Who is speaking in Isaiah 53:1-6 (\"we\", \"our\", \"us\")? What did they think about the Servant at first, and what did they come to see?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/3",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "List what happens to the Servant in Isaiah 53:7-9. What does the poem say about how he responded, and about what he had or hadn't done?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/4",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "In Acts 8:34 the Ethiopian official asks whether the prophet is speaking of himself or someone else. How do the different answers in this article help you understand his question?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/5",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "Jesus applies Isaiah 53:12 to himself in Luke 22:37, and 1 Peter 2:24 echoes Isaiah 53:5. What does each writer want you to understand about the cross?"
+  },
+  {
+   "@id": "https://github.com/john1hsu/bible-graph/id/suffering-servant/check/6",
+   "@type": "bgo:StudyQuestion",
+   "bgo:questionFor": {
+    "@id": "bg:suffering-servant"
+   },
+   "rdfs:label": "The early Christian letter 1 Clement used this poem to call a church to humility. Where in your own life or church does the Servant's way of suffering for others speak most directly?"
   },
   {
    "@id": "https://github.com/john1hsu/bible-graph/id/synagogue/check/1",
